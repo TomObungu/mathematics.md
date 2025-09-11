@@ -1,0 +1,1 @@
+The cross product gives the vector that is perpendicular to two vectors. In 3D space it will look like this. 
