@@ -84,6 +84,17 @@ It is possible to workout $\cos\theta$ using the dot product when given a set of
 Calculate the sides of the triangle by taking the magnitudes of the vectors from the point and then use the dot product.
 
 Using $\cos\theta$ and $\frac{1}{2}AB\sin\theta$. The area of the given triangle can be calculated using $\sin\theta=\sqrt{ 1 - \cos ^{2}\theta }$ . Thus it possible to calculate the area without working out $\theta$:
+## Example 1:
 $$
 A=\frac{1}{2}|A||B|\sqrt{ 1 - \cos ^{2}\theta }
 $$
+$$
+\begin{align*}
+A&=(1,1,3),\quad B=(2,-1,4),\quad C=(1,0,6)\\
+\vec{AB}&=B-A=(1,-2,1)\\
+\vec{AC}&=C-A=(0,-1,3)\\
+\cos\theta&=\dfrac{\overrightarrow{AB}\cdot\overrightarrow{AC}}{\|\overrightarrow{AB}\|\,\|\overrightarrow{AC}\|} = \frac{5}{\sqrt{ 6 } \sqrt{ 10 }} = \frac{\sqrt{ 15 }}{6} \\ \\
+A&=\frac{1}{2}\sqrt{ 6 } \sqrt{ 10 } \sqrt{ 1 - (\frac{\sqrt{ 15 }}{6} })^{2}
+\end{align*}
+$$
+# Dot product Properties
