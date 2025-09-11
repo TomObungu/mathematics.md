@@ -143,3 +143,5 @@ $$
 &= -\frac{8}{9}\hat{\mathbf{i}}+\frac{28}{9}\hat{\mathbf{j}}-\frac{4}{9}\hat{\mathbf{k}}
 \end{align*}
 $$
+--- 
+The dot product can be used to find the vector perpendicular to another vector. 
