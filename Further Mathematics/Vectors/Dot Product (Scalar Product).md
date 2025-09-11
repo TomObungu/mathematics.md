@@ -120,3 +120,5 @@ The dot product gives the component of $a$ in direction of b. This is especially
 
 ![[Pasted image 20250911204811.png]]
 
+Dotting with a vector with $i,j$ or $k$ will result in extracting the $i,j$ or k component.
+
