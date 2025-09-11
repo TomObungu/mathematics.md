@@ -147,3 +147,10 @@ $$
 $$
 --- 
 The dot product can be used to find the perpendicular distance from another point. 
+$$
+\begin{align*}
+A &= (2,3,2), & B &= (5,1,1)\\
+\vec{c} &= \hat{i}+2\hat{j}-3\hat{k}\\
+\overrightarrow{AB} &= B-A = (3,-2,-1)\\
+\end{align*}
+$$
