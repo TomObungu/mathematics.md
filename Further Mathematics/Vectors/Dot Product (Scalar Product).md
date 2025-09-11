@@ -122,3 +122,15 @@ The dot product gives the component of $a$ in direction of b. This is especially
 
 Dotting with a vector with $i,j$ or $k$ will result in extracting the $i,j$ or k component.
 
+Example 1:
+*$a=3i+4j-2k$ b=$2i-7j+k$  Find the scalar component of a and the vector component of b*
+$$
+\begin{align*}
+\mathbf{a} &= 3\hat{\mathbf{i}}+4\hat{\mathbf{j}}-2\hat{\mathbf{k}},\qquad 
+\mathbf{b}=2\hat{\mathbf{i}}-7\hat{\mathbf{j}}+\hat{\mathbf{k}}\\
+\mathbf{a}\cdot\mathbf{b} &= 3\cdot 2 + 4\cdot(-7) + (-2)\cdot 1 = -24\\
+\|\mathbf{b}\| &= \sqrt{2^2+(-7)^2+1^2}=\sqrt{54}=3\sqrt{6}\\
+\text{scalar component of }\mathbf{a}\text{ in direction }\mathbf{b}
+&= \frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{b}\|}=\frac{-24}{3\sqrt{6}}=-\frac{8}{\sqrt{6}}=-\frac{4\sqrt{6}}{3}\\
+\end{align*}
+$$
