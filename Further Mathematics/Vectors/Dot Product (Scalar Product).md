@@ -94,7 +94,7 @@ A&=(1,1,3),\quad B=(2,-1,4),\quad C=(1,0,6)\\
 \vec{AB}&=B-A=(1,-2,1)\\
 \vec{AC}&=C-A=(0,-1,3)\\
 \cos\theta&=\dfrac{\overrightarrow{AB}\cdot\overrightarrow{AC}}{\|\overrightarrow{AB}\|\,\|\overrightarrow{AC}\|} = \frac{5}{\sqrt{ 6 } \sqrt{ 10 }} = \frac{\sqrt{ 15 }}{6} \\ \\
-A&=\frac{1}{2}\sqrt{ 6 } \sqrt{ 10 } \sqrt{ 1 - (\frac{\sqrt{ 15 }}{6} })^{2}
+A&=\frac{1}{2}\sqrt{ 6 } \sqrt{ 10 } \sqrt{ 1 - (\frac{\sqrt{ 15 }}{6} })^{2} = \frac{\sqrt{ 35 }}{2}
 \end{align*}
 $$
 # Dot product Properties
