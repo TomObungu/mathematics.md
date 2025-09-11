@@ -118,6 +118,8 @@ Consider $a\cdot b=|a||\hat{b}|\cos\theta$
 
 The dot product gives the component of $a$ in direction of b. This is especially useful for future formulas such as the cross product on the general equation of a plane.
 
+A negative scalar means the component of direction vector b is in the opposite direction of vector b.
+
 ![[Pasted image 20250911204811.png]]
 
 Dotting with a vector with $i,j$ or $k$ will result in extracting the $i,j$ or k component.
@@ -144,4 +146,4 @@ $$
 \end{align*}
 $$
 --- 
-The dot product can be used to find the vector perpendicular to another vector. 
+The dot product can be used to find the perpendicular distance from another point. 
