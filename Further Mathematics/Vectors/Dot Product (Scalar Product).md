@@ -129,8 +129,17 @@ $$
 \mathbf{a} &= 3\hat{\mathbf{i}}+4\hat{\mathbf{j}}-2\hat{\mathbf{k}},\qquad 
 \mathbf{b}=2\hat{\mathbf{i}}-7\hat{\mathbf{j}}+\hat{\mathbf{k}}\\
 \mathbf{a}\cdot\mathbf{b} &= 3\cdot 2 + 4\cdot(-7) + (-2)\cdot 1 = -24\\
-\|\mathbf{b}\| &= \sqrt{2^2+(-7)^2+1^2}=\sqrt{54}=3\sqrt{6}\\
-\text{scalar component of }\mathbf{a}\text{ in direction }\mathbf{b}
+\|\mathbf{b}\| &= \sqrt{2^2+(-7)^2+1^2}=\sqrt{54}=3\sqrt{6}\\ \\
+&\text{scalar component of }\mathbf{a}\text{ in direction }\mathbf{b} \\ \\
 &= \frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{b}\|}=\frac{-24}{3\sqrt{6}}=-\frac{8}{\sqrt{6}}=-\frac{4\sqrt{6}}{3}\\
+\end{align*}
+$$
+To calculate a vector component $b$ in $a$ . Multiply $a\cdot\hat{b}$ with $b$
+$$
+\begin{align*}
+\text{vector component of }\mathbf{a}\text{ in direction }\mathbf{b}
+&= \frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{b}\|^2}\,\mathbf{b}
+= \frac{-24}{54}\,\mathbf{b}=-\frac{4}{9}\,(2\hat{\mathbf{i}}-7\hat{\mathbf{j}}+\hat{\mathbf{k}})\\
+&= -\frac{8}{9}\hat{\mathbf{i}}+\frac{28}{9}\hat{\mathbf{j}}-\frac{4}{9}\hat{\mathbf{k}}
 \end{align*}
 $$
