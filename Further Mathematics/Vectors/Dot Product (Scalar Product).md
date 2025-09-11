@@ -98,3 +98,25 @@ A&=\frac{1}{2}\sqrt{ 6 } \sqrt{ 10 } \sqrt{ 1 - (\frac{\sqrt{ 15 }}{6} })^{2} = 
 \end{align*}
 $$
 # Dot product Properties
+The dot product is commutative:
+$$
+a\cdot b=b\cdot a
+$$
+
+The dot product is distributive:
+$$
+a(b\cdot c) =  a\cdot b + a\cdot c
+$$
+The dot product of a vector by itself is the magnitude of the vector squared:
+$$
+a\cdot a=a_{x}a_{x}+b_{x}b_{x}+c_{x}c_{x}=a_{x}^{2}+b_{x}^{2}+c_{x}^{2} = |a|^{2} 
+$$
+
+# Dot Product usage in projection
+Consider $a\cdot b=|a||\hat{b}|\cos\theta$
+![[Pasted image 20250911204650.png]]
+
+The dot product gives the component of $a$ in direction of b. This is especially useful for future formulas such as the cross product on the general equation of a plane.
+
+![[Pasted image 20250911204811.png]]
+
