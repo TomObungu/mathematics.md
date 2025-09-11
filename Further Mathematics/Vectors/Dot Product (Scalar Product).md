@@ -1,0 +1,1 @@
+Consider two vectors $\hat{a}$ and $\hat{b}$ 

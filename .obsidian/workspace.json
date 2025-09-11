@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d511a9f4eb75a8b",
+        "id": "18d9c5e9a81877a4",
         "type": "tabs",
         "children": [
           {
-            "id": "cad14d208d28f4d5",
+            "id": "8539bee9aa2241ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                "file": "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+              "icon": "lucide-file",
+              "title": "Dot Product (Scalar Product)"
             }
           }
         ]
@@ -165,15 +167,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7504e1836e7feb25",
+  "active": "8539bee9aa2241ea",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors",
     "Further Mathematics/Linear Transformations/corrected questions/That one Question 7 from the first ever FM test.md",
+    "Further Mathematics/Linear Transformations/corrected questions/That one Question 8 from the fm test.md",
+    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Further Mathematics/Vectors",
     "Further Mathematics/Linear Transformations/corrected questions/Given distance A'B' is sqrt(58), determine values of a.md",
     "Further Mathematics/Linear Transformations/corrected questions/Find k when M represents an enlargement.md",
     "Further Mathematics/Linear Transformations/corrected questions/Determine Equations of Invariant lines of M.md",
-    "Further Mathematics/Linear Transformations/corrected questions/That one Question 8 from the fm test.md",
     "Further Mathematics/Linear Transformations/corrected questions/Show points form an invariant point.md",
     "Further Mathematics/Matrices/Inverting a 2 x 2 matrix.md",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250909134724.png",
@@ -209,9 +212,7 @@
     "Further Mathematics/Matrices - Copy/Determining if a linear system is Consistent Or Inconsistent.md",
     "Further Mathematics/Matrices - Copy/Inverting a 2 x 2 matrix.md",
     "Further Mathematics/Matrices - Copy/Determinants.md",
-    "Further Mathematics/Matrices - Backup/Determinants.md",
     "Further Mathematics/Matrices - Copy",
-    "Further Mathematics/Matrices - Backup",
-    "Further Mathematics/New folder"
+    "Further Mathematics/Matrices - Backup"
   ]
 }
