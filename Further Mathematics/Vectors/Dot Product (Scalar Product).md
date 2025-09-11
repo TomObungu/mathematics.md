@@ -80,3 +80,10 @@ $$
 
 # Using dot product for area
 It is possible to workout $\cos\theta$ using the dot product when given a set of three points that form a triangle. 
+
+Calculate the sides of the triangle by taking the magnitudes of the vectors from the point and then use the dot product.
+
+Using $\cos\theta$ and $\frac{1}{2}AB\sin\theta$. The area of the given triangle can be calculated using $\sin\theta=\sqrt{ 1 - \cos ^{2}\theta }$ . Thus it possible to calculate the area without working out $\theta$:
+$$
+A=\frac{1}{2}|A||B|\sqrt{ 1 - \cos ^{2}\theta }
+$$
