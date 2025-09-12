@@ -11,10 +11,14 @@
             "id": "8539bee9aa2241ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Further Mathematics/Vectors/Vector Equations Of Lines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vector Equations Of Lines"
             }
           }
         ]
@@ -165,11 +169,11 @@
   },
   "active": "8539bee9aa2241ea",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
+    "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Vectors/Line Distances & Planes.md",
     "Further Mathematics/Vectors/Cross Product.md",
-    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
-    "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Untitled.canvas",
     "0.md",
     "Further Mathematics/Matrices/Matrix Multiplication.md",

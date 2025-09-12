@@ -72,3 +72,5 @@ x &= a_x + \lambda b_x,\quad y = a_y + \lambda b_y,\quad z = a_z + \lambda b_z\\
 $$
 Always remember that the minus sign means the coordinate of vectors with $a_{x}$ are positive.
 
+## Shortest distance between parallel lines
+The short
