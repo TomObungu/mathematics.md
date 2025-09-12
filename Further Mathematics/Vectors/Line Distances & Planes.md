@@ -7,7 +7,7 @@ Then you must dot product $\vec{AB}$ with the direction vector of the line and d
 
 # Worked Example 1
 
-In this type of example always remember to work out $\vec{AB}$ in general form and dot product the direction vector of the line
+In this type of example always remember to work out $\vec{AB}$ in general form and dot product the direction vector of the line. It is better to set the line equation as $\vec{OB}$ to avoid needing to negate any $\lambda$ variables which could potentially lead to errors. 
 
 
 *$l_{1}:r=\begin{pmatrix}1 \\ 5 \\ -3\end{pmatrix} +\lambda \begin{pmatrix}1 \\ 1 \\ -1\end{pmatrix} \qquad A(4,5,6)$*
@@ -77,22 +77,24 @@ The method is identical however instead of  caculating the general point of $l_{
 Find the shortest distance between $l_{1}$ and $l_{2}$
 $$
 \begin{gather*}
-\vec{OA} = \begin{pmatrix}
-2+\lambda \\
--3-3\lambda \\
-2\lambda
-\end{pmatrix} \qquad \vec{OB}=\begin{pmatrix}
+\vec{OA}=\begin{pmatrix}
 4 \\
 2 \\
 1
-\end{pmatrix} \\ \\
-\vec{AB} = \begin{pmatrix}
--2+\lambda \\
-5-3\lambda
-\end{pmatrix}
-\end{gather*}
-$$\vec{OA} = \begin{pmatrix}
-2+1\lambda \\
+\end{pmatrix} \qquad  \vec{OB} = \begin{pmatrix}
+2+\lambda \\
 -3-3\lambda \\
 2\lambda
-\end{pmatrix}
+\end{pmatrix}  \\ \\
+\vec{AB} = \begin{pmatrix}
+-2+\lambda \\
+-5-3\lambda \\
+-2\lambda-1
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+-2+\lambda \\
+-5-3\lambda \\
+-2\lambda-1
+\end{pmatrix} \cdot \begin{pmatrix}1 \\ -3 \\ 2\end{pmatrix} = 0
+\end{gather*}
+$$
