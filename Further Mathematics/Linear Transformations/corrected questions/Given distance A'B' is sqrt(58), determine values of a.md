@@ -1,5 +1,6 @@
 [[Matrix Multiplication]]
 ![[Pasted image 20250906194342.png]]
+
 To work out the values of a you must transform the points A and B using Q to give you the points A' and B'. Then use then distance between two points formula to form an equation for a.
 $$
 \begin{gather*}
@@ -17,6 +18,4 @@ a & 4 \\
 (10-a)^{2}+(-12+3a)^{2}=58 \\ 
 a = 3, \frac{31}{5}
 \end{gather*}
-
-
 $$
