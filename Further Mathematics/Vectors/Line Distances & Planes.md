@@ -135,20 +135,54 @@ $$
 Where $\vec{AB}$ is the direction vector between two points on the line and $\hat{n}$ is the cross product of the lines' direction vectors.
 
 ## Worked example 1
+
+Always remember that when given two skew lines, the points $A$ and $B$ can be any two points. Thus when given the lines, use the starting positions as points $A$ and $B$
+
+1. Use the starting points of the equations of the line as starting points $A$ and $B$ to work out a direction vector $\vec{AB}$
 $l_{1}:r=\begin{pmatrix}1 \\ 0 \\ 0\end{pmatrix} +\lambda \begin{pmatrix}0 \\ 1 \\ 1\end{pmatrix} \qquad l_{2}:r=\begin{pmatrix}-1 \\ 3 \\ -1\end{pmatrix} +\mu \begin{pmatrix}2 \\ -1 \\ -1\end{pmatrix}$
 $$
-\begin{gather*}\vec{OA}\begin{pmatrix}
--1 \\
-3 \\
-1
+\begin{gather*}\vec{OA} = \begin{pmatrix}
+1 \\
+0 \\
+0
 \end{pmatrix} \qquad
 \vec{OB}=\begin{pmatrix}
-1 \\
-\lambda \\
-1
+-1 \\
+3 \\
+-1
 \end{pmatrix} \\ \\
 \vec{AB} = \begin{pmatrix}
-2
+-2 \\
+3 \\
+-1
 \end{pmatrix}
 \end{gather*}
+$$
+2. Calculate $\hat{n}$ by taking the cross product of the lines' direction vectors:
+$$
+\hat{n} = \begin{pmatrix}
+0 \\
+1 \\
+1
+\end{pmatrix} \times \begin{pmatrix}
+2 \\
+-1 \\
+-1
+\end{pmatrix} = \begin{pmatrix}
+0 \\
+2 \\
+-2
+\end{pmatrix}
+$$
+3. Calculate d using $d=|\vec{AB}\cdot\hat{n}|$
+$$
+d=\begin{pmatrix}
+-2 \\
+3 \\
+-1
+\end{pmatrix} \cdot \begin{pmatrix}
+0 \\
+\frac{\sqrt{ 2 }}{2}  \\
+-\frac{\sqrt{ 2 }}{2}  
+\end{pmatrix} = 2\sqrt{ 2 }
 $$

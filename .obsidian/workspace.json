@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Line Distances & Planes.md",
+                "file": "Further Mathematics/Linear Transformations/corrected questions/Show points form an invariant point.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Line Distances & Planes"
+              "title": "Show points form an invariant point"
             }
           }
         ]
@@ -169,13 +169,13 @@
   },
   "active": "8539bee9aa2241ea",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Line Distances & Planes.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250912201800.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250912201248.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250912201149.png",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
-    "Further Mathematics/Vectors/Line Distances & Planes.md",
     "Further Mathematics/Vectors/Cross Product.md",
     "Untitled.canvas",
     "0.md",
@@ -200,7 +200,6 @@
     "Further Mathematics/Matrices/Inverting a 2 x 2 matrix.md",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250909134724.png",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250906194342.png",
-    "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250908122954.png",
     "Further Mathematics/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Further Mathematics/Matrices/Proof of Inverse Matrix Identities.md",
     "Further Mathematics/Linear Transformations/Linear Transformations in Two Dimensions.md",
