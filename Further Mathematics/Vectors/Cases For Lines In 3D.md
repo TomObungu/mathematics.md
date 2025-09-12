@@ -1,0 +1,1 @@
+If lines are paralel this means that their direction vectors are multiples of each
