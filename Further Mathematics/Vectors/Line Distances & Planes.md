@@ -2,7 +2,7 @@
 ## Shortest distance from a point to a line
 https://youtu.be/64gLQw99XCU?si=uuwIAamF74xwPjBu
 The shortest test distance is the perpendicular distance to the line. 
-This is because any other line along the line to the point that is not perpendicular will be longer. This would mean that this distance from the any other line is a direction vector to another point
+This is because any other line along the line to the point that is not perpendicular will be longer. This would probably mean that this distance from any other line on line is a direction vector to another point or smt idk lol
 
 Therefore you must work $\vec{AB}$ then where $A$ is the point and $B$ is the general point on the line. 
 
