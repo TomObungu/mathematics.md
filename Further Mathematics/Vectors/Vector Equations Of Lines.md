@@ -64,3 +64,10 @@ y=a_{y}+\lambda b_{y} \\
 z=a_{z}+\lambda b_{z}
 \end{gather*}
 $$
+$$
+\begin{align*}
+x &= a_x + \lambda b_x,\quad y = a_y + \lambda b_y,\quad z = a_z + \lambda b_z\\ \\
+\therefore\quad \lambda &= \frac{x-a_x}{b_x} = \frac{y-a_y}{b_y} = \frac{z-a_z}{b_z}
+\end{align*}
+$$
+Always remember that the minus sign means the coordinate of vectors with $a_{x}$ are positive.
