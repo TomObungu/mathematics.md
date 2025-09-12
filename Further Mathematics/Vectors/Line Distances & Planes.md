@@ -95,6 +95,18 @@ $$
 -2+\lambda \\
 -5-3\lambda \\
 -2\lambda-1
-\end{pmatrix} \cdot \begin{pmatrix}1 \\ -3 \\ 2\end{pmatrix} = 0
+\end{pmatrix} \cdot \begin{pmatrix}1 \\ -3 \\ 2\end{pmatrix} = 0 \\ \\
+
+-2+t-3(-5-3t)+2(2t-1)=0\\
+-2+\lambda+(-5+9\lambda)+4\lambda-2=0\\
+14\lambda=-11\\
+\lambda=-\tfrac{11}{14}\\ \\
+\therefore\ \overrightarrow{AB}=\begin{pmatrix}-\tfrac{39}{14}\\[4pt]-\tfrac{53}{14}\end{pmatrix}\\ \\
+d=\dfrac{\sqrt{4186}}{14}
+
 \end{gather*}
 $$
+
+
+## Reflecting a point in a line
+To reflect a point in a line you must work out the perpendicular vector from the line to the point and then add the the vector twice from the start point. 
