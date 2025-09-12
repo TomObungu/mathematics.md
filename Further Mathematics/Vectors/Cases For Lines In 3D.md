@@ -1,3 +1,4 @@
+[[Vector Equations Of Lines]] [[Dot Product (Scalar Product)]]
 ## Parallel
 If lines are parallel this means that their direction vectors are multiples of each other. 
 # Perpendicular 
