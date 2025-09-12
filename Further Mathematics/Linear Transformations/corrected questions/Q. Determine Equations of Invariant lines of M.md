@@ -1,3 +1,4 @@
+[[Invariant points and lines]]
 $$
 \begin{align*}
 &\text{Let }M=\begin{pmatrix}2 & 1\\[4pt] 2 & a\end{pmatrix},\qquad a\in\mathbb{R}.\\[6pt]

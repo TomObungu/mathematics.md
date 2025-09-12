@@ -1,4 +1,4 @@
-[[Matrix Multiplication]]
+[[Linear Transformations in Two Dimensions]][[Matrix Multiplication]]
 ![[Pasted image 20250906194342.png]]
 
 To work out the values of a you must transform the points A and B using Q to give you the points A' and B'. Then use then distance between two points formula to form an equation for a.

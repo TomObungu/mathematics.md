@@ -1,4 +1,4 @@
-[[Linear Transformations in Two Dimensions
+[[Determinants]][[Linear Transformations in Two Dimensions
 ![[Pasted image 20250906200954.png]]
 ![[Pasted image 20250906200811.png]]
 When given a matrix M that represents a linear transformation, to figure out an enlargement you must square root the determinant of M
