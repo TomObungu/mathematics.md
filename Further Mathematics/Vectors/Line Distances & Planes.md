@@ -118,7 +118,13 @@ Skew lines may be drawn in 2D like this:
 However, rotating around the 3D axis you will be able to see the lines are on completely different planes with different distances apart such the lines will never intersect:
 ![[Pasted image 20250912201248.png]]
 
-The vector $\hat{n}$ is the unit vector of $n$ that perpendicular to both direction vectors of the line.
+The vector $\hat{n}$ is the unit vector of $n$ that is perpendicular to both direction vectors of the line.
+Recall from [[Cross Product]] that:
+$$
+\hat{n}=a\times b
+$$
+Where the $a$ is the direction vector of line $l_{1}$ and b is the direction vector of $l_{2}$
 ![[Pasted image 20250912201800.png]]
 
-Recall for [[Dot Product (Scalar Product)]] that the scalar product between vector $a$ and $b$ gives the component of a in direction $b$. This is where the scalar product becomes useful. This means that the direction that points towards the perpendicular vector between a point $A$ and a point $B$ on the line from point $A$
+Recall for [[Dot Product (Scalar Product)]] that the scalar product between vector $a$ and $b$ gives the component of a in direction $b$. This is where the scalar product becomes useful. This means that the direction that points towards the perpendicular vector between a point $A$ and a point $B$ on the line from point $A$ is the scalar product of $\vec{AB}$ multiplied by the $\hat{n}$. 
+
