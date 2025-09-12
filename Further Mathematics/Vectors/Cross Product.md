@@ -43,6 +43,7 @@ It is possible to calculate the cross product using the Cross(u,v) function on t
 
 Swapping the rows in a matrix changes the sign of the determinant. Therefore this means:
 $a\times b\neq b\times a$ (Non commutative)
-$a\times b=-b\times a$ This
+$a\times b=-b\times a$ 
+$-b\times a$ means the vector points in the opposite direction.
 
 
