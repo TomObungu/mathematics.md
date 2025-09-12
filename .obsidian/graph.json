@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Further Mathematics/Vectors\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6411023254852544,
+  "scale": 0.9470459366032672,
   "close": true
 }
