@@ -112,8 +112,13 @@ $$
 To reflect a point in a line you must work out the perpendicular vector $\vec{AB}$ from the line to the point and then add the the vector twice from the start point such the reflected point $\vec{OC}=\vec{OA}+2\vec{AB}$
 
 # Shortest distance between skew lines
-To workout the shortest distance between skew lines you must work out the perpendicular distance between the direction vectors between.
+To workout the shortest distance between skew lines you must work out the perpendicular distance between the direction vectors between. This vector can be named $n$
 Skew lines may be drawn in 2D like this:
 ![[Pasted image 20250912201149.png]]
 However, rotating around the 3D axis you will be able to see the lines are on completely different planes with different distances apart such the lines will never intersect:
 ![[Pasted image 20250912201248.png]]
+
+The vector $\hat{n}$ is the unit vector of $n$ that perpendicular to both direction vectors of the line.
+![[Pasted image 20250912201800.png]]
+
+Recall for [[Dot Product (Scalar Product)]] that the scalar product between vector $a$ and $b$ gives the component of a in direction $b$. This is where the scalar product becomes useful. This means that the direction that points towards the perpendicular vector between a point $A$ and a point $B$ on the line from point $A$
