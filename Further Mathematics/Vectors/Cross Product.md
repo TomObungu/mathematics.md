@@ -17,3 +17,24 @@ a & b & c\\
 d & e & f \end{vmatrix}
 \end{gather*}
 $$
+# Worked Example 1
+*Find a vector perpendicular to $a=2\hat{i}+7\hat{j}-3\hat{k}$ and $b=4\hat{i}=\hat{j}+2\hat{k}$*
+$$
+\begin{align*}
+\mathbf{a}\times\mathbf{b}
+&=\begin{vmatrix}
+\hat{\imath} & \hat{\jmath} & \hat{k}\\
+2 & 7 & -3\\
+4 & -1 & 2
+\end{vmatrix}\\
+&=\hat{\imath}\bigl(1\cdot2-(-3)(-1)\bigr)-\hat{\jmath}\bigl(2\cdot2-(-3)\cdot4\bigr)+\hat{k}\bigl(2\cdot(-1)-1\cdot4\bigr)\\
+&=-\hat{\imath}-16\hat{\jmath}-6\hat{k}. \\ \\
+&=\begin{pmatrix}
+-1 \\
+-16 \\
+-6
+\end{pmatrix}
+\end{align*}
+$$
+
+
