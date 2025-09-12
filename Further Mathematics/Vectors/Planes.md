@@ -1,0 +1,1 @@
+A plane a two dimensional flat surface that extends infinitley. A plane looks like this on the 3D vector plane. 
