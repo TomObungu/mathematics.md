@@ -128,3 +128,27 @@ Where the $a$ is the direction vector of line $l_{1}$ and b is the direction vec
 
 Recall for [[Dot Product (Scalar Product)]] that the scalar product between vector $a$ and $b$ gives the component of a in direction $b$. This is where the scalar product becomes useful. This means that the direction that points towards the perpendicular vector between a point $A$ and a point $B$ on the line from point $A$ is the scalar product of $\vec{AB}$ multiplied by the $\hat{n}$. 
 
+Thus, the short distance between the two skew lines $d$ can be calculated by:
+$$
+d=|\vec{AB}\cdot\hat{n}|
+$$
+Where $\vec{AB}$ is the direction vector between two points on the line and $\hat{n}$ is the cross product of the lines' direction vectors.
+
+## Worked example 1
+$l_{1}:r=\begin{pmatrix}1 \\ 0 \\ 0\end{pmatrix} +\lambda \begin{pmatrix}0 \\ 1 \\ 1\end{pmatrix} \qquad l_{2}:r=\begin{pmatrix}-1 \\ 3 \\ -1\end{pmatrix} +\mu \begin{pmatrix}2 \\ -1 \\ -1\end{pmatrix}$
+$$
+\begin{gather*}\vec{OA}\begin{pmatrix}
+-1 \\
+3 \\
+1
+\end{pmatrix} \qquad
+\vec{OB}=\begin{pmatrix}
+1 \\
+\lambda \\
+1
+\end{pmatrix} \\ \\
+\vec{AB} = \begin{pmatrix}
+2
+\end{pmatrix}
+\end{gather*}
+$$
