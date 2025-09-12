@@ -11,12 +11,14 @@
             "id": "8539bee9aa2241ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                "file": "Further Mathematics/Vectors/Cross Product.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+              "icon": "lucide-file",
+              "title": "Cross Product"
             }
           }
         ]
@@ -167,6 +169,7 @@
   },
   "active": "8539bee9aa2241ea",
   "lastOpenFiles": [
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250911233002.png",
@@ -179,7 +182,6 @@
     "Further Mathematics/Linear Transformations/Invariant points and lines.md",
     "Further Mathematics/Linear Transformations/corrected questions/That one Question 7 from the first ever FM test.md",
     "Further Mathematics/Linear Transformations/corrected questions/That one Question 8 from the fm test.md",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Vectors",
     "Further Mathematics/Linear Transformations/corrected questions/Given distance A'B' is sqrt(58), determine values of a.md",
     "Further Mathematics/Linear Transformations/corrected questions/Find k when M represents an enlargement.md",
