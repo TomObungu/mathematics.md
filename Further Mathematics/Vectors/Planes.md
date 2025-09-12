@@ -29,4 +29,24 @@ $$
 $$
 
 # Normal Vector
-The normal vector $n_{\Pi}$ is the vector normal perp
+The normal vector $n_{\Pi}$ is the vector that is perpendicular to the  surface of the plane. 
+Since we are given two direction vectors to form the plane. The normal vector must also be perpendicular to the two direction vectors on the plane. 
+
+Thus the normal vector n is calculated by the cross product of the direction vectors in the plane formula
+$$
+n_{\Pi}=\begin{pmatrix}
+5 \\
+1 \\
+-1
+\end{pmatrix} \times \begin{pmatrix}
+-2 \\
+-1 \\
+-6
+\end{pmatrix} = \begin{pmatrix}
+-7 \\
+32 \\
+-3
+\end{pmatrix}
+$$
+# Plane Equation In Scalar Product Form
+A plane is described entirely by $n_{\Pi}$ and $r_{0}$ 
