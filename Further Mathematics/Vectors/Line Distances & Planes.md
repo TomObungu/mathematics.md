@@ -117,6 +117,8 @@ Skew lines may be drawn in 2D like this:
 ![[Pasted image 20250912201149.png]]
 However, rotating around the 3D axis you will be able to see the lines are on completely different planes with different distances apart such the lines will never intersect:
 ![[Pasted image 20250912201248.png]]
+Another way to represent skew lines is this:
+![[Pasted image 20250912210848.png]]
 
 The vector $\hat{n}$ is the unit vector of $n$ that is perpendicular to both direction vectors of the line.
 Recall from [[Cross Product]] that:
