@@ -46,3 +46,27 @@ d=\|\vec{AB}\|=\sqrt{(-5)^2+(-2)^2+(-7)^2}=\sqrt{78}
 \end{gather*}
 $$
 
+## Shortest distance between parallel lines
+https://youtu.be/EyKPii_0BQY?si=iA8AcxQCc7oYrxbg
+The shortest distance between parallel lines is the shortest distance from any point on one line to the other line. Consider
+$$
+l_{1}:r=\begin{pmatrix}
+2 \\
+-4 \\
+0
+\end{pmatrix} + \begin{pmatrix}
+1 \\
+-3 \\
+2
+\end{pmatrix} \qquad l_{2}:\begin{pmatrix}
+4 \\
+2 \\
+1
+\end{pmatrix} + \mu \begin{pmatrix}
+-2 \\
+6 \\
+-4
+\end{pmatrix}
+$$
+
+The method is identical however instead of  caculating the general point of $l_{2}$ in the form $\begin{pmatrix}4-2\mu \\ 2+6\mu \\ 1-4\mu\end{pmatrix}$, you only need to calculate the general form of one line e.g. $l_{1}$ then repeat the process to find the short distance from point using the the ge
