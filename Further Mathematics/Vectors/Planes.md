@@ -10,3 +10,23 @@ Where $b$ and $c$ are any two non-parallel vectors that lie on the same plane.
 
 Note that if two lines intersect, then they lie on the same plane:
 ![[Pasted image 20250912210312.png]]
+
+# Worked Example 1
+*Find the vector equation of the plane that contains the point $A(0,3,2)$, $B(5,4,1)$ and $C(-2,2,-4)$ 
+
+1. When given three points. Start from point $A$ as $r_{0}$ then calculate non-parallel vectors $AC$ $AB$
+$$
+\begin{align*}
+\overrightarrow{AB} &= \begin{pmatrix}5\\1\\-1\end{pmatrix}, &
+\overrightarrow{AC} &= \begin{pmatrix}-2\\-1\\-6\end{pmatrix},\\
+\end{align*}
+$$
+2. Write out the equation of the plane using the formula for a plane
+$$
+\begin{align*}
+\Pi:\quad \mathbf{r} &= \begin{pmatrix}0\\3\\2\end{pmatrix} + \lambda\begin{pmatrix}5\\1\\-1\end{pmatrix} + \mu\begin{pmatrix}-2\\-1\\-6\end{pmatrix}
+\end{align*}
+$$
+
+# Normal Vector
+The normal vector $n_{\Pi}$ is the vector normal perp
