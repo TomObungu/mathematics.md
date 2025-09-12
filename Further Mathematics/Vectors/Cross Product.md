@@ -17,7 +17,7 @@ a & b & c\\
 d & e & f \end{vmatrix}
 \end{gather*}
 $$
-# Worked Example 1
+## Worked Example 1
 *Find a vector perpendicular to $a=2\hat{i}+7\hat{j}-3\hat{k}$ and $b=4\hat{i}=\hat{j}+2\hat{k}$*
 $$
 \begin{align*}
@@ -26,15 +26,23 @@ $$
 \hat{\imath} & \hat{\jmath} & \hat{k}\\
 2 & 7 & -3\\
 4 & -1 & 2
-\end{vmatrix}\\
-&=\hat{\imath}\bigl(1\cdot2-(-3)(-1)\bigr)-\hat{\jmath}\bigl(2\cdot2-(-3)\cdot4\bigr)+\hat{k}\bigl(2\cdot(-1)-1\cdot4\bigr)\\
-&=-\hat{\imath}-16\hat{\jmath}-6\hat{k}. \\ \\
+\end{vmatrix}\\ \\
+&= \mathbf{a}\times\mathbf{b} = \begin{vmatrix} 7 & -3\\ 1 & 2 \end{vmatrix}\hat{\mathbf{i}}
+- \begin{vmatrix} 2 & -3\\ 4 & 2 \end{vmatrix}\hat{\mathbf{j}}
++ \begin{vmatrix} 2 & 7\\ 4 & -1 \end{vmatrix}\hat{\mathbf{k}} \\ \\
+&=\hat{\imath}\bigl(7\cdot2-(-3)(-1)\bigr)-\hat{\jmath}\bigl(2\cdot2-(-3)\cdot4\bigr)+\hat{k}\bigl(2\cdot(-1)-7\cdot4\bigr)\\
+&=11\hat{\imath}-16\hat{\jmath}-30\hat{k}. \\ \\
 &=\begin{pmatrix}
--1 \\
+11 \\
 -16 \\
--6
+-30
 \end{pmatrix}
 \end{align*}
 $$
+It is possible to calculate the cross product using the Cross(u,v) function on the numworks calculator.
+
+Swapping the rows in a matrix changes the sign of the determinant. Therefore this means:
+$a\times b\neq b\times a$ (Non commutative)
+$a\times b=-b\times a$ This
 
 
