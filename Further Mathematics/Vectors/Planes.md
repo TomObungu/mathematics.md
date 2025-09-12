@@ -49,4 +49,5 @@ n_{\Pi}=\begin{pmatrix}
 \end{pmatrix}
 $$
 # Plane Equation In Scalar Product Form
-A plane is described entirely by $n_{\Pi}$ and $r_{0}$ 
+A plane can be described entirely by $n_{\Pi}$ and $r_{0}$ 
+![[Pasted image 20250912213002.png]]
