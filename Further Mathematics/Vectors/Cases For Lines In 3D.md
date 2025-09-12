@@ -12,7 +12,7 @@ If lines intersect then their angle between them is the dot product. However thi
 Skewed lines are not $\parallel$ and do not intersect.
 
 # Worked Example 1
-Determine whether $l_{1}$ and $l_{2}$ interesct
+Determine whether $l_{1}$ and $l_{2}$ intersect
 $$
 \begin{gather*}
 l_{1}:\begin{pmatrix}

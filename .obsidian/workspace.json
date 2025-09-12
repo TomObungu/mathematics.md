@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Cases For Lines In 3D.md",
+                "file": "Further Mathematics/Vectors/Cross Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cases For Lines In 3D"
+              "title": "Cross Product"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "8539bee9aa2241ea",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
+    "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Vectors/Cross Product.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
