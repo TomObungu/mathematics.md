@@ -1,3 +1,4 @@
+[[Vector Equations Of Lines]]
 A plane a two dimensional flat surface that extends infinitley. A plane looks like this on the 3D vector plane. ![[Pasted image 20250912205932.png]]
 - A plane is denoted $\Pi$. 
 - A plane can be defined by a known point $r_{0}$ and any two non-parallel vectors that are in the plane.

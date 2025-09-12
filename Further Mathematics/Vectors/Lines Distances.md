@@ -1,4 +1,4 @@
-[[Vector Equations Of Lines]] 
+[[Vector Equations Of Lines]] [[Planes]]
 ## Shortest distance from a point to a line
 https://youtu.be/64gLQw99XCU?si=uuwIAamF74xwPjBu
 The shortest test distance is the perpendicular distance to the line. 
