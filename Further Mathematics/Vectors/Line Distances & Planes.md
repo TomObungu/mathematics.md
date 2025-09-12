@@ -69,8 +69,30 @@ l_{1}:r=\begin{pmatrix}
 \end{pmatrix}
 $$
 
-The method is identical however instead of  caculating the general point of $l_{2}$ in the form $\begin{pmatrix}4-2\mu \\ 2+6\mu \\ 1-4\mu\end{pmatrix}$, you only need to calculate the general form of one line e.g. $l_{1}$ then repeat the process to find the short distance from point using the starting point from $l_{2}$ as the secondary point
+The method is identical however instead of  caculating the general point of $l_{2}$ in the form $\begin{pmatrix}4-2\mu \\ 2+6\mu \\ 1-4\mu\end{pmatrix}$, you only need to calculate the general form of one line e.g. $l_{1}$ then repeat the process to find the short distance from point using the starting point from $l_{2}$ as the secondary point $\vec{OB}$
 
 # Worked example 2
 
-*$l_{1}:r=\begin{pmatrix}1 \\ 5 \\ -3\end{pmatrix} +\lambda \begin{pmatrix}1 \\ 1 \\ -1\end{pmatrix} \qquad A(4,5,6)$
+*$l_{1}:r=\begin{pmatrix}2 \\ -3 \\ 0\end{pmatrix} +\lambda \begin{pmatrix}1 \\ -3 \\ 2\end{pmatrix} \qquad l_{2}:r=\begin{pmatrix}4 \\ 2 \\ 1\end{pmatrix} +\mu \begin{pmatrix}2 \\ 6 \\ -4\end{pmatrix}$ 
+Find the shortest distance between $l_{1}$ and $l_{2}$
+$$
+\begin{gather*}
+\vec{OA} = \begin{pmatrix}
+2+\lambda \\
+-3-3\lambda \\
+2\lambda
+\end{pmatrix} \qquad \vec{OB}=\begin{pmatrix}
+4 \\
+2 \\
+1
+\end{pmatrix} \\ \\
+\vec{AB} = \begin{pmatrix}
+-2+\lambda \\
+5-3\lambda
+\end{pmatrix}
+\end{gather*}
+$$\vec{OA} = \begin{pmatrix}
+2+1\lambda \\
+-3-3\lambda \\
+2\lambda
+\end{pmatrix}
