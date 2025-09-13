@@ -52,3 +52,6 @@ $$
 # Plane Equation In Scalar Product Form
 A plane can be described entirely by $n_{\Pi}$ and $r_{0}$ 
 ![[Pasted image 20250912213002.png]]
+
+If we are given a point on the plane $r$ and a 
+Vector $r-r_{0}$ lies in the plane but it is also perpendicular to $n_{\Pi}$. Thus the plane vector can be calculated using $r-r_{0}$ and n. 
