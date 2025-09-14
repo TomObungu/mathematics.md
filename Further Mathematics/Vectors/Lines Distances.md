@@ -181,10 +181,14 @@ n = \begin{pmatrix}
 2 \\
 -2
 \end{pmatrix} \\ \\ 
-\hat{n} = \frac{1}{\sqrt{ 2 }} \begin{pmatrix}
+\hat{n} = \frac{1}{2\sqrt{ 2 }} \begin{pmatrix}
 0 \\
 2 \\
 -2
+\end{pmatrix} = \begin{pmatrix}
+0 \\
+\frac{\sqrt{ 2 }}{2}  \\
+-\frac{\sqrt{ 2 }}{2}  
 \end{pmatrix}
 \end{gather*}
 
