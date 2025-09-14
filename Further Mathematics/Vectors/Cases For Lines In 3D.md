@@ -13,6 +13,20 @@ $$
 \text{For the lines to be perpendicular,}\quad \mathbf{m}_1\cdot\mathbf{m}_2 &= 0
 \end{align*}
 $$
+## Worked Example 1
+*Given $\vec{r}_1 = 2\vec{i} + \vec{j} + t(-\vec{i} + 2\vec{j} + 4\vec{k})$ and $\vec{r}_2 = -\vec{i} + 3\vec{j} + 2\vec{k} + s(2\vec{i} - 5\vec{j} + 3\vec{k})$. Show that $r_{1}$ and $r_{2}$ are perpendicular*
+$$
+\begin{align*}
+\vec{r}_1 &= 2\vec{i} + \vec{j} + t(-\vec{i} + 2\vec{j} + 4\vec{k})\\
+\vec{r}_2 &= -\vec{i} + 3\vec{j} + 2\vec{k} + s(2\vec{i} - 5\vec{j} + 3\vec{k})\\[6pt]
+\vec{m}_1 &= -\vec{i} + 2\vec{j} + 4\vec{k},\qquad
+\vec{m}_2 = 2\vec{i} - 5\vec{j} + 3\vec{k}\\[6pt]
+\vec{m}_1\cdot\vec{m}_2 &= (-1)(2) + (2)(-5) + (4)(3)\\
+&= -2 -10 +12 = 0\\[6pt]
+&\therefore\ \vec{m}_1\cdot\vec{m}_2 = 0,\ \text{so the lines are perpendicular.}
+\end{align*}
+$$
+
 ## Intersect
 If lines intersect then their angle between them is the dot product. However this alone is not enough to show if lines intersect as the lines may be perpendicular and still intersect. To show if lines intersect you must:
 1. have their general formula for each line with their direction vectors as $\lambda$ and $\mu$
