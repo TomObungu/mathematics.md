@@ -124,7 +124,7 @@ The dot product geometrically is the magnitude of projected $\vec{w}$ multiplied
 
 The unit vector $\hat{w}$ has a length of one. This means when the vector $\vec{v}$ is projected onto the span of $\hat{w}$, the magnitude is equal to the projection of $\vec{v}$  in the span multiplied by 1. This gives us the component of $\vec{v}$ in the direction of $\hat{w}$.
 ![[Pasted image 20250914182036.png]]
-
+![[Pasted image 20250914183336.png]]
 
 
 A negative scalar means the component of direction vector b is in the opposite direction of vector b.
