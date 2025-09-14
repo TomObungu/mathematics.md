@@ -122,9 +122,11 @@ The dot product gives the component of $a$ in direction of $\hat{b}$. This is es
 The dot product geometrically is the magnitude of projected $\vec{w}$ multiplied by the magnitude of $\hat{v}$. 
 ![[Pasted image 20250914183051.png]]
 
-The unit vector $\hat{w}$ has a length of one. This means when the vector $\vec{v}$ is projected onto the span of $\hat{w}$, the magnitude is equal to the projection of $\vec{v}$  in the span multiplied by 1. This gives us the component of $\vec{v}$ in the direction of $\hat{w}$.
+The unit vector $\hat{w}$ has a length of one. This means when the vector $\vec{v}$ is projected onto the span of $\hat{w}$, the magnitude is equal to the projection of   in the span multiplied by 1. This gives us the magnitude  component of $\vec{v}$ in the direction of $\hat{w}$.
 ![[Pasted image 20250914182036.png]]
 ![[Pasted image 20250914183336.png]]
+
+When vectors are perpendicular, the first vector ($v_{1}$) extends completely vertically from the starting point and the second  $v_{2}$ extends completely horizontally from the starting point. Taking the dot product of the them ($v_{1} \cdot v_{2}$)  is taking the component of $v_{1}$ in the direction of $v_{2}$. In others words the horizontal component of $v_{1}$, however since $v_{1}$ is completely vertical, $v_{1}$ has no horizontal component. Therefore the dot product of $v_{1}$ and $v_{2}$ will be equal to zero.  his explains why perpendicular vector's dot product is zero.
 
 
 A negative scalar means the component of direction vector b is in the opposite direction of vector b.
