@@ -2,7 +2,17 @@
 ## Parallel
 If lines are parallel this means that their direction vectors are multiples of each other. 
 # Perpendicular 
-Lines are perpendicular if their dot product is equal to 0.  This is shown through taking the their dot product
+Lines are perpendicular if their dot product is equal to 0.  This is shown through taking the their dot product:
+$$
+\begin{align*}
+\text{Condition for two lines to be perpendicular:}\\[6pt]
+\text{Given two lines with equations,}\\
+\mathbf{r} &= \mathbf{a}_1 + \lambda\,\mathbf{m}_1 \qquad\text{and}\qquad 
+\mathbf{r} = \mathbf{a}_2 + \mu\,\mathbf{m}_2\\[6pt]
+\text{(direction vectors of lines)}\\[6pt]
+\text{For the lines to be perpendicular,}\quad \mathbf{m}_1\cdot\mathbf{m}_2 &= 0
+\end{align*}
+$$
 ## Intersect
 If lines intersect then their angle between them is the dot product. However this alone is not enough to show if lines intersect as the lines may be perpendicular and still intersect. To show if lines intersect you must:
 1. have their general formula for each line with their direction vectors as $\lambda$ and $\mu$
