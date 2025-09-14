@@ -55,6 +55,14 @@ It is possible to calculate the area of a triangle using the cross product of tw
 ![[Pasted image 20250914185413.png]]
 
 ## Worked example 1
+![[Pasted image 20250914190606.png]]
+$$
+\begin{align*}
+\vec{AC}&=\langle1,4,1\rangle,\qquad \vec{BC}=\langle-3,3,2\rangle\\
+\vec{AC}\times\vec{BC}&=5\mathbf{i}-5\mathbf{j}+15\mathbf{k}= \langle5,-5,15\rangle\\
+\text{Area}(\triangle ABC)&=\tfrac{1}{2}\|\vec{AC}\times\vec{BC}\|=\tfrac{1}{2}\cdot5\sqrt{11}=\tfrac{5\sqrt{11}}{2}
+\end{align*}
+$$
 
 
 
