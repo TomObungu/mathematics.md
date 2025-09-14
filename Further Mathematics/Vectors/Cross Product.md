@@ -49,6 +49,6 @@ $-b\times a$ means the vector points in the opposite direction.
 
 
 # Area Of a triangle using cross product
-It is possible to calculate the area of a triangle using the cross product of two of sides as vectors. The area will be the the half magnitude of the cross product. This is because taking the cross product of vectors in two d
+It is possible to calculate the area of a triangle using the cross product of two of sides as vectors. The area will be the the half magnitude of the cross product. This is because taking the cross product of vectors in 2D will be equal 
 ![[Pasted image 20250914185208.png]]
 ![[Pasted image 20250914185044.png]]
