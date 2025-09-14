@@ -119,10 +119,10 @@ Consider $a\cdot b=|a||\hat{b}|\cos\theta$
 The dot product gives the component of $a$ in direction of $\hat{b}$. This is especially useful for future formulas such as the cross product on the general equation of a plane.
 
 ### Why
-The dot product geometrically is the distance of projected $\vec{w}$ multiplied by the length of $\hat{v}$
+The dot product geometrically is the distance of projected $\vec{w}$ multiplied by the length (magnitude) of $\hat{v}$. 
 ![[Pasted image 20250914144619.png]]
 
-The unit vector $\hat{w}$ has a length of one . This means when the vector $v$ is projected onto the span of $w$ it 
+The unit vector $\hat{w}$ has a length of one . This means when the vector $v$ is projected onto the span of $\hat{w}$. Since the unit vector has a magnitude of 1. The length is equal 
 ![[Pasted image 20250914182036.png]]
 
 
