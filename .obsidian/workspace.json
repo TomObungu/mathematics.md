@@ -11,12 +11,14 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                "file": "Further Mathematics/Vectors/Planes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+              "icon": "lucide-file",
+              "title": "Planes"
             }
           }
         ]
@@ -167,6 +169,7 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
@@ -195,7 +198,6 @@
     "0.md",
     "Further Mathematics/Matrices/Matrix Multiplication.md",
     "Further Mathematics/Matrices/Determinants.md",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Vectors/attachments",
     "Further Mathematics/Linear Transformations/Invariant points and lines.md",

@@ -55,3 +55,92 @@ A plane can be described entirely by $n_{\Pi}$ and $r_{0}$
 
 If we are given a point on the plane $r$ and a 
 Vector $r-r_{0}$ lies in the plane but it is also perpendicular to $n_{\Pi}$. Thus the plane vector can be calculated using $r-r_{0}$ and n. 
+
+$$
+\begin{gather*}
+\therefore (r-r_{0})\cdot n = 0 \qquad \therefore r \cdot n - r_{0} \cdot n = 0  \\ \\
+\therefore r \cdot n = r_{0} \cdot n \qquad or \qquad r \cdot n = d
+\end{gather*}
+$$
+
+
+## Work Example 1
+$$
+\begin{align*}
+\Pi:\quad \mathbf{r} &= \begin{pmatrix}0\\3\\2\end{pmatrix} + \lambda\begin{pmatrix}5\\1\\-1\end{pmatrix} + \mu\begin{pmatrix}-2\\-1\\-6\end{pmatrix}
+\end{align*}
+$$
+*Write $\Pi$ in scalar product form*
+
+1. Calculate $n_{\Pi}$
+$$
+n_{\Pi}=\begin{pmatrix}
+5 \\
+1 \\
+-1
+\end{pmatrix} \times \begin{pmatrix}
+-2 \\
+-1 \\
+-6
+\end{pmatrix} = \begin{pmatrix}
+-7 \\
+32 \\
+-3
+\end{pmatrix}
+$$
+2. $$
+r \cdot \begin{pmatrix}
+-7 \\
+32 \\
+-3
+\end{pmatrix} = \begin{pmatrix}
+0 \\
+3  \\
+2
+\end{pmatrix} \cdot \begin{pmatrix}
+-7 \\
+32 \\
+-3
+\end{pmatrix}
+$$
+3. Evaluate the right hand side:
+$$
+r \cdot \begin{pmatrix}
+-7 \\
+32 \\
+-3
+\end{pmatrix} = 90
+$$
+
+
+
+Always remember that the vector normal $n$ is the cross product between the two non-parallel vectors and the right hand side of the equation is the dot product of $n$ and the starting position in the plane of pi.
+
+# Cartesian Form
+The Cartesian equation of a plane is the expanded scalar product form.  
+For $$
+n=\begin{pmatrix}
+a \\
+b \\
+c
+\end{pmatrix} \qquad
+r = \begin{pmatrix}
+x \\
+y \\
+z
+\end{pmatrix}
+$$
+$$
+\begin{gather*}
+\begin{pmatrix}
+a \\
+b \\
+c
+\end{pmatrix} \cdot \begin{pmatrix}
+x  \\
+y \\
+z
+\end{pmatrix} = d \\ \\
+ax + by+cz = d
+\end{gather*}
+$$
