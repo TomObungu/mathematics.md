@@ -6,7 +6,7 @@ Lines are perpendicular if their dot product is equal to 0.
 ## Intersect
 If lines intersect then their angle between them is the dot product. However this alone is not enough to show if lines intersect as the lines may be perpendicular and still intersect. To show if lines intersect you must:
 1. have their general formula for each line with their direction vectors as $\lambda$ and $\mu$
-2. Set them equal to each other and solve for $\lambda$ and $\mu$
+2. Set them equal to each other and solve for $\lambda$ and $\mu$ by eliminating variables 
 3. Verify the values of $\lambda$ and $\mu$
 
 # Skewed lines
