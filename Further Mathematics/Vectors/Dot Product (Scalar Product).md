@@ -116,7 +116,13 @@ $$
 Consider $a\cdot b=|a||\hat{b}|\cos\theta$
 ![[Pasted image 20250911204650.png]]
 
-The dot product gives the component of $a$ in direction of b. This is especially useful for future formulas such as the cross product on the general equation of a plane.
+The dot product gives the component of $a$ in direction of $\hat{b}$. This is especially useful for future formulas such as the cross product on the general equation of a plane.
+
+### Why
+The dot product geometrically is the distance of projected $\vec{w}$ multiplied by the length of $\hat{v}$
+
+The unit vector $\hat{w}$ has a length of one thus the dot product of $\hat{w}$ 
+![[Pasted image 20250914144619.png]]
 
 A negative scalar means the component of direction vector b is in the opposite direction of vector b.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Cross Product.md",
+                "file": "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross Product"
+              "title": "Dot Product (Scalar Product)"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/attachments/Pasted image 20250914144619.png",
+    "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
@@ -194,7 +196,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250912201800.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250912201248.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250912201149.png",
-    "Further Mathematics/Vectors/Cross Product.md",
     "0.md",
     "Further Mathematics/Matrices/Matrix Multiplication.md",
     "Further Mathematics/Matrices/Determinants.md",
