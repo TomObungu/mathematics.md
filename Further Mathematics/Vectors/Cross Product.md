@@ -65,6 +65,7 @@ $$
 $$
 
 ## Volume of a tetrahedron using cross product
+![[Pasted image 20250914212025.png]]
 For this you need to know that:
 $$
 \text{Volume of a pyramid } = \frac{1}{3} \frac{b\times w}{2} h = \frac{b \times w \times h}{6}
@@ -89,7 +90,7 @@ $$
 However since we are trying to calculate the volume of the tetrahedron we must split the bases of the parallelpiped into into six tetrahedra of equal volume. The tetrahedron, OABC, is one of them. Therefore, the volume of our tetrahedron is one-sixth of the volume of the parallelepiped.
 
 
-![[Pasted image 20250914212025.png]]
+
 # Right hand rule
 It possible to deduce the direction the cross product ($\vec{p}$) will face by using your right hand. Point your index finger in the direction of $\vec{v}$  based on its coordinates in the 3D space and do the same for $\vec{w}$ with your middle finger and the direction of your thumb will the direction of the perpendicular vector $\vec{p}$
 ![[Pasted image 20250914185644.png]]
