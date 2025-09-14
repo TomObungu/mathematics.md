@@ -120,9 +120,12 @@ The dot product gives the component of $a$ in direction of $\hat{b}$. This is es
 
 ### Why
 The dot product geometrically is the distance of projected $\vec{w}$ multiplied by the length of $\hat{v}$
-
-The unit vector $\hat{w}$ has a length of one thus the dot product of $\hat{w}$ 
 ![[Pasted image 20250914144619.png]]
+
+The unit vector $\hat{w}$ has a length of one . This means when the vector $v$ is projected onto the span of $w$ it 
+![[Pasted image 20250914182036.png]]
+
+
 
 A negative scalar means the component of direction vector b is in the opposite direction of vector b.
 
