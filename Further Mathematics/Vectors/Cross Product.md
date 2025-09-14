@@ -86,13 +86,9 @@ $$
 
 ![[Pasted image 20250914213034.png]]
 
-However since we are trying to calculate the volume of the tetrahedron we must split the bases of the parallelpiped into triangles with area of the base of our tetrahedron. 
+However since we are trying to calculate the volume of the tetrahedron we must split the bases of the parallelpiped into into six tetrahedra of equal volume. The tetrahedron, OABC, is one of them. Therefore, the volume of our tetrahedron is one-sixth of the volume of the parallelepiped.
 
 
-
-This is because the parallelepiped built can be split into **six** tetrahedra of equal volume. Our tetrahedron, OABC, is one of them.
-    
-- Therefore, the volume of our tetrahedron is one-sixth of the volume of the parallelepiped.
 ![[Pasted image 20250914212025.png]]
 # Right hand rule
 It possible to deduce the direction the cross product ($\vec{p}$) will face by using your right hand. Point your index finger in the direction of $\vec{v}$  based on its coordinates in the 3D space and do the same for $\vec{w}$ with your middle finger and the direction of your thumb will the direction of the perpendicular vector $\vec{p}$
