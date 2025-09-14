@@ -12,6 +12,8 @@ Then you must dot product $\vec{AB}$ with the direction vector of the line and d
 
 In this type of example always remember to work out $\vec{AB}$ in general form and dot product the direction vector of the line. It is better to set the line equation as $\vec{OB}$ to avoid needing to negate any $\lambda$ variables which could potentially lead to errors. 
 
+Always remember to dot product $\vec{OB}$ with the direction vector of its own line.
+
 
 *$l_{1}:r=\begin{pmatrix}1 \\ 5 \\ -3\end{pmatrix} +\lambda \begin{pmatrix}1 \\ 1 \\ -1\end{pmatrix} \qquad A(4,5,6)$*
 *Find the shortest distance from A to $l_{1}$
