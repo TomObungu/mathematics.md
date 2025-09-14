@@ -86,7 +86,11 @@ $$
 
 ![[Pasted image 20250914213034.png]]
 
-However since we are trying to calculate the volume of the tetrahedron we must split the bases of the parallelpiped into triangles with area of the base of our tetrahedron. This is because the parallelepiped built can be split into **six** tetrahedra of equal volume. Our tetrahedron, OABC, is one of them.
+However since we are trying to calculate the volume of the tetrahedron we must split the bases of the parallelpiped into triangles with area of the base of our tetrahedron. 
+
+
+
+This is because the parallelepiped built can be split into **six** tetrahedra of equal volume. Our tetrahedron, OABC, is one of them.
     
 - Therefore, the volume of our tetrahedron is one-sixth of the volume of the parallelepiped.
 ![[Pasted image 20250914212025.png]]
