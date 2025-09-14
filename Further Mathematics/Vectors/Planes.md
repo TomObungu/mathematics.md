@@ -144,3 +144,11 @@ z
 ax + by+cz = d
 \end{gather*}
 $$
+
+## Cartesian equation from points on a plane.
+
+If you are given points $A$ ,$B$, $C$ 
+1. you must calculate non parallel vectors  from the same point i.e $\vec{AB}$ and $\vec{AC}$.
+2. Calculate $n$ by taking $\vec{AB} \times \vec{AC}$
+3. Use $r \cdot n = r_{0} \cdot n$ to calculate $r \cdot n = d$. Where $r_{0}$ is the known point $A$
+4. Write out as $ax+by+cz=d$
