@@ -167,7 +167,8 @@ $$
 $$
 2. Calculate $\hat{n}$ by taking the cross product of the lines' direction vectors:
 $$
-\hat{n} = \begin{pmatrix}
+\begin{gather*}
+n = \begin{pmatrix}
 0 \\
 1 \\
 1
@@ -179,7 +180,10 @@ $$
 0 \\
 2 \\
 -2
-\end{pmatrix}
+\end{pmatrix} \\ \\ 
+\hat{n} = 
+\end{gather*}
+
 $$
 3. Calculate d using $d=|\vec{AB}\cdot\hat{n}|$
 $$
