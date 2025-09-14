@@ -70,7 +70,7 @@ $$
 \text{Volume of a pyramid } = \frac{1}{3} \frac{b\times w}{2} h = \frac{b \times w \times h}{6}
 $$
 
-For example if you are given vectors $\vec{A}$,$\vec{B}$,$\vec{C}$  relative to $O$ and you are asked to work the out the area of tetrahedron $OABC$ You must first work out the base of the tetrahedron using cross product of $\vec{OB}$ and $\vec{OC}$. Take the product and half the magnitude to get the are of the base as discussed earlier. 
+For example if you are given vectors $\vec{A}$,$\vec{B}$,$\vec{C}$  relative to $O$ and you are asked to work the out the area of tetrahedron $OABC$, you must first work out the base of the tetrahedron using cross product of $\vec{OB}$ and $\vec{OC}$. Take the product and half the magnitude to get the area of the base as discussed earlier. 
 
 However to get the volume you must take the dot product between $\vec{A}$ and $\vec{B}\vec{\times}\vec{C}$ and multiply by $\frac{1}{6}th$
 
