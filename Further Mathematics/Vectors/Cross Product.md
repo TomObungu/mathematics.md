@@ -72,11 +72,21 @@ $$
 
 For example if you are given vectors $\vec{A}$,$\vec{B}$,$\vec{C}$  relative to $O$ and you are asked to work the out the area of tetrahedron $OABC$ You must first work out the base of the tetrahedron using cross product of $\vec{OB}$ and $\vec{OC}$. Take the product and half the magnitude to get the are of the base as discussed earlier. 
 
-However to get the volume you must take the dot product between $\vec{A}$ and $\vec{B}\vec{\times}\vec{C}$ and multiply 
+However to get the volume you must take the dot product between $\vec{A}$ and $\vec{B}\vec{\times}\vec{C}$ and multiply by $\frac{1}{6}th$
 
 ### Why
-This is because to work out the volume of the parallelised between the vectors $\vec{A}$, $\vec{B}$ and $\vec{C}$ you must calculate the component of the vecotor parallel to $\vec{B}$ and $\vec{C}$  to get the appropiate height of the parallelpiped:
+This is because to work out the volume of the **Parallelepiped** (3-D Parallelogram) between the vectors $\vec{A}$, $\vec{B}$ and $\vec{C}$ you must calculate the component of the vector perpendicular to $\vec{B}$ and $\vec{C}$  to get the appropriate height of the **Parallelepiped**. The vector perpendicular to $\vec{B}$ and $\vec{C}$ is $\vec{B} \times\vec{C}$ and to get the component of $\vec{A}$ in direction to this perpendicular vector is the dot product between them.
+
+### Volume Of **Parallelepiped** between vectors a,b,c
+In general the volume of a **Parallelepiped** between vectors $a$,$b$ and $c$ is:
+$$
+V = a \cdot (b \times c)
+$$
+
+
 ![[Pasted image 20250914213034.png]]
+
+However since we are trying to calculate the volume of the tetrahedron we must split the bases of the parallelpiped into triangles with area of the base of our tetrahedron. This is because the 
 ![[Pasted image 20250914212025.png]]
 # Right hand rule
 It possible to deduce the direction the cross product ($\vec{p}$) will face by using your right hand. Point your index finger in the direction of $\vec{v}$  based on its coordinates in the 3D space and do the same for $\vec{w}$ with your middle finger and the direction of your thumb will the direction of the perpendicular vector $\vec{p}$
