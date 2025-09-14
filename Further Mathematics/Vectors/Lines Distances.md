@@ -181,7 +181,11 @@ n = \begin{pmatrix}
 2 \\
 -2
 \end{pmatrix} \\ \\ 
-\hat{n} = 
+\hat{n} = \frac{1}{\sqrt{ 2 }} \begin{pmatrix}
+0 \\
+2 \\
+-2
+\end{pmatrix}
 \end{gather*}
 
 $$
