@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Cross Product.md",
+                "file": "Further Mathematics/Vectors/Cases For Lines In 3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross Product"
+              "title": "Cases For Lines In 3D"
             }
           }
         ]
@@ -169,6 +169,11 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
+    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
+    "Further Mathematics/Vectors/Cross Product.md",
+    "Further Mathematics/Vectors/Vector Equations Of Lines.md",
+    "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190606.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190344.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190159.png",
@@ -179,10 +184,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250914185413.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914185338.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914185208.png",
-    "Further Mathematics/Vectors/attachments/Pasted image 20250914185044.png",
-    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
-    "Further Mathematics/Vectors/Cross Product.md",
-    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
@@ -191,8 +192,6 @@
     "Further Mathematics/Linear Transformations/corrected questions/Q. Given distance A'B' is sqrt(58), determine values of a.md",
     "Further Mathematics/Vectors/Planes.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "Further Mathematics/Vectors/Lines Distances.md",
-    "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Untitled.canvas",
     "Further Mathematics/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
     "Further Mathematics/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
