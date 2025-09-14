@@ -54,6 +54,11 @@ The cross product will produce a vector perpendicular to the vectors $\vec{v}$ a
 It is possible to calculate the area of a triangle using the cross product of two of sides as vectors. The area will be the the half magnitude of the cross product. This is because taking the cross product of vectors in 3D will be equal equal to half the area of the parellelogram. 
 ![[Pasted image 20250914185413.png]]
 
-## Right hand rule
-It possible to deduce the direction the cross product ($\vec{p}$) will face by using your right hand. Point your index finger in the direction of $\vec{v}$  based on its coordinates in the 3D space and do the same for $\vec{w}$ and the direction of your thumb will the direction of the perpendicular vector $\vec{p}$
+# Right hand rule
+It possible to deduce the direction the cross product ($\vec{p}$) will face by using your right hand. Point your index finger in the direction of $\vec{v}$  based on its coordinates in the 3D space and do the same for $\vec{w}$ with your middle finger and the direction of your thumb will the direction of the perpendicular vector $\vec{p}$
 ![[Pasted image 20250914185644.png]]
+E.g.
+![[Pasted image 20250914190145.png]]
+![[Pasted image 20250914190159.png]]
+Pointing your index vertically upwards towards the positive $\hat{j}$ direction and your middle finger towards the positive $\hat{i}$ direction and your thumb will face in the negative $\vec{k}$ direction. The magnitude of the vector will be equal to the parallelogram between $\vec{v}$ and $\vec{w}$ (which is actually a square as they are perpendicular). 
+![[Pasted image 20250914190344.png]]
