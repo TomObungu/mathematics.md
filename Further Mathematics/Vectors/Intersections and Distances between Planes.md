@@ -80,7 +80,7 @@ a \\
 b \\
 c \\
 \end{pmatrix} - d \right|}{\sqrt{ a^{2}+b^{2}+c^{2} }} \\ \\
-= \frac{\left| a\alpha + b\beta + c\gamma -d \right|}{a^{2}+b^{2}+c^{2}}
+= \frac{\left| a\alpha + b\beta + c\gamma -d \right|}{\sqrt{a^{2}+b^{2}+c^{2}}}
 \end{gather*}
 $$
 
@@ -116,17 +116,19 @@ Using the formula and the other point being the origin - $O(0,0,0)$. Substitutin
 
 $$
 \frac{\left| \begin{pmatrix}
-\alpha \\
-\beta \\
-\gamma
+0 \\
+0 \\
+0
 \end{pmatrix} \cdot \begin{pmatrix}
-0 \\
-0 \\
-0 \\
+a \\
+b \\
+c \\
 \end{pmatrix} - d \right|}{\sqrt{ a^{2}+b^{2}+c^{2} }} \\ \\
-= \frac{\left|  -d \right|}{a^{2}+b^{2}+c^{2}}
+= \frac{\left|  -d \right|}{\sqrt{  a^{2}+b^{2}+c^{2}}}
 $$Therefore:
 $$
 \text{Shortest distance between plane and origin } = \frac{d}{|n|}
 $$
+
+
 
