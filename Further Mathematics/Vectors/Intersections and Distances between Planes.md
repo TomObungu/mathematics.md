@@ -150,5 +150,5 @@ To reflect a line through a plane you must:
 2. Calculate the point $\vec{B}$ on the line
 3. Take the dot product between $\vec{A}$ and $\vec{B}$ to calculate $\lambda$
 4. Find the equation of a line in direction to the normal using starting point of given line an normal vector direction
-5. Calculate $\gamma$ use dot product and scalar product matrix equation
-6. 
+5. Calculate $\gamma$ use dot product and scalar product matrix equation and normal
+6. Calculate $\vec{OM}$ 
