@@ -37,12 +37,17 @@ r=\begin{pmatrix}
 2 \\
 1 \\
 -2
-\end{pmatrix} \qquad \vec{n} = \begin{pmatrix}
+\end{pmatrix} \\ 
+\vec{d} = \begin{pmatrix}
+2 \\
+1 \\
+-2
+\end{pmatrix}\qquad \vec{n} = \begin{pmatrix}
 2 \\
 3 \\
 -5
 \end{pmatrix} \\ \\
 \sin\theta = \frac{\vec{d} \cdot  \vec{n}}{|\vec{d}|\vec{n}|} \\ \\
-=
+= 
 \end{gather*}
 $$
