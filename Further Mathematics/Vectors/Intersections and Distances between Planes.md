@@ -178,4 +178,5 @@ d = \frac{\left| -2(1) + 3 - 5 \right|}{\sqrt{ 2^{2}+1^{2}+1^{2} }} = \frac{2\sq
 $$
 b
 The shortest distance is the distance between the line and the point of intersection in the direction of the normal (through the normal)
-
+![[Pasted image 20250915215723.png]]
+Recall from 
