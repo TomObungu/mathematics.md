@@ -59,5 +59,25 @@ Else:
 $$
 |\vec{BA} \cdot  \hat{n}|
 $$
+## Finding a formula
 
-## Worked example 1
+Let $\Pi : ax+by+cz=d$ and point $A$ be $A(\alpha,\beta,\gamma)$
+
+The shortest distance will be:
+$$
+\begin{gather*}
+l = |(\vec{OA} - r_{0}) \cdot \hat{n}| \\ \\
+= \frac{|(\vec{OA}-r_{0})\cdot\vec{n}|}{|\vec{n}|} \\ \\
+=\frac{|\vec{OA}\cdot\vec{n}-r_{0}\cdot\vec{n}|}{|n|} \\ \\
+= \frac{\right| \begin{pmatrix}
+\alpha \\
+\beta \\
+\gamma
+\end{pmatrix} \cdot \begin{pmatrix}
+a \\
+b \\
+c \\
+\end{pmatrix} - d \left|}{\sqrt{ a^{2}+b^{2}+c^{2} }}
+\end{gather*}
+
+$$
