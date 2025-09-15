@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vector component in direction ",
+                "query": "vector component",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,14 +167,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c6d690d45be7079",
+  "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
     "Further Mathematics/Vectors/Lines Distances.md",
-    "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/Planes.md",
+    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
+    "Further Mathematics/Vectors/Cross Product.md",
+    "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/Angles between planes.md",
-    "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915215723.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915215635.png",
@@ -190,7 +190,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250915202354.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915202223.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915202152.png",
-    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
     "Further Mathematics/Vectors/corrected questions/attachments",
     "Further Mathematics/Vectors/corrected questions",
