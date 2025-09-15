@@ -191,5 +191,5 @@ $$
 $$
 This is just the shortest distance multiplied by $n$ thus to calculate the reflection on the point $\vec{OA}$, $\vec{OQ}$ simply do the starting point plus two times the vector component in direciton $n$:
 $$
-
+\vec{OQ} =  2((r_{0} \cdot  \vec{OA})\cdot \hat{n}) \cdot n
 $$
