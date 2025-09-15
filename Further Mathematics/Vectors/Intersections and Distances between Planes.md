@@ -169,4 +169,4 @@ For questions like this it is best to diagrammatically work through each part wi
 ![[Pasted image 20250915213108.png]]
 
 ## My hack for this
-
+![[Pasted image 20250915213426.png]]
