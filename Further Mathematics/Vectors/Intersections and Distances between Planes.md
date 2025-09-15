@@ -172,5 +172,8 @@ For questions like this it is best to diagrammatically work through each part wi
 ![[Pasted image 20250915213426.png]]#
 ###  My hack for this
 a
-The shortest distance 
+The shortest distance can be calculated using the formula
+$$
+d = \frac{\left| -2(1) + 3 \right|}{\sqrt{ 1^{2}+3^{2}+3^{2} }} = 
+$$
 
