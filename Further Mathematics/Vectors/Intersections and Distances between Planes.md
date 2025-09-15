@@ -130,5 +130,6 @@ $$
 \text{Shortest distance between plane and origin } = \frac{d}{|n|}
 $$
 
+Shortest distance between two parallel planes 
 
 
