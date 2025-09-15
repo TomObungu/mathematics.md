@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
+                "file": "Further Mathematics/Vectors/Intersections and Distances between Planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dot Product (Scalar Product)"
+              "title": "Intersections and Distances between Planes"
             }
           }
         ]
@@ -169,12 +169,15 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Planes.md",
+    "Further Mathematics/Vectors/Intersections and Distances between Planes.md",
+    "Further Mathematics/Vectors/attachments/Pasted image 20250915184412.png",
+    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Vectors/Angle between line and plane.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915095727.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915095225.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915093659.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915092843.png",
-    "Further Mathematics/Vectors/Planes.md",
     "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914213034.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914212025.png",
@@ -183,12 +186,10 @@
     "Further Mathematics/Vectors/corrected questions/attachments",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/corrected questions",
-    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190606.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190344.png",
-    "Further Mathematics/Vectors/attachments/Pasted image 20250914190159.png",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
@@ -210,7 +211,6 @@
     "Further Mathematics/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Further Mathematics/Matrices/Proof of Inverse Matrix Identities.md",
     "Further Mathematics/Linear Transformations/Linear Transformations in Two Dimensions.md",
-    "Further Mathematics/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/attachments",
     "Further Mathematics/Linear Transformations/corrected questions/attachments",
     "Further Mathematics/Linear Transformations/corrected questions",
