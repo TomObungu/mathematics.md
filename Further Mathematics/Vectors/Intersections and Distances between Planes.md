@@ -145,4 +145,6 @@ $$
 
 
 # Reflecting a line on a plane
-To reflect a line through a plane you must first 
+To reflect a line through a plane you must:
+1. Calculate an intersection point B by taking the dot product of the point on the line and the normal vector of the plane. 
+2. Calculate the line $\vec{AB}$ where $\vec{A}$ is the starting position of the line equation and $\vec{B}$ 
