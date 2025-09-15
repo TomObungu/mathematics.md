@@ -145,3 +145,4 @@ $$
 
 
 # Reflecting a line on a plane
+To reflect a line through a plane you must first 
