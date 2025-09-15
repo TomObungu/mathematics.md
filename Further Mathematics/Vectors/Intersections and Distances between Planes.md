@@ -44,6 +44,8 @@ $$
 # Shortest distance between a line and a plane
 Working out shortest distance between a line and plane assumes that the line and plane do not intersect. The shortest distance will be perpendicular distance between the line and the plane. 
 
+![[Pasted image 20250915191326.png]]
+
 To calculate the shortest distance between a line and a plane, when given plane and point $\vec{OA}$
 
 For such questions, always draw a diagram and try to follow each process step by step to ensure no mistakes are made. Always sanity check your answers.
@@ -69,7 +71,7 @@ $$
 l = |(\vec{OA} - r_{0}) \cdot \hat{n}| \\ \\
 = \frac{|(\vec{OA}-r_{0})\cdot\vec{n}|}{|\vec{n}|} \\ \\
 =\frac{|\vec{OA}\cdot\vec{n}-r_{0}\cdot\vec{n}|}{|n|} \\ \\
-= \frac{\right| \begin{pmatrix}
+= \frac{\left| \begin{pmatrix}
 \alpha \\
 \beta \\
 \gamma
@@ -77,7 +79,12 @@ l = |(\vec{OA} - r_{0}) \cdot \hat{n}| \\ \\
 a \\
 b \\
 c \\
-\end{pmatrix} - d \left|}{\sqrt{ a^{2}+b^{2}+c^{2} }}
+\end{pmatrix} - d \right|}{\sqrt{ a^{2}+b^{2}+c^{2} }} \\ \\
+= \frac{\left| a\alpha + b\beta + c\gamma \right|}{a^{2}+b^{2}+c^{2}}
 \end{gather*}
-
 $$
+
+This equation is in the formula book.
+
+## Using formula
+## Worked Example 2
