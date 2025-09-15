@@ -126,4 +126,7 @@ $$
 \end{pmatrix} - d \right|}{\sqrt{ a^{2}+b^{2}+c^{2} }} \\ \\
 = \frac{\left|  -d \right|}{a^{2}+b^{2}+c^{2}}
 $$Therefore:
+$$
+\text{Shortest distance between plane and origin } = \frac{d}{|n|}
+$$
 
