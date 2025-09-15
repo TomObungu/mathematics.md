@@ -13,11 +13,15 @@ This is because the intersections between the normal, line and plane all form a 
 ![[Pasted image 20250915095225.png]]
 The angle $<FED$ will be cos$\theta$.
 
-The angle between the line and the plane will be T angle $<EDF$. This angle $@\phi$ is the line makes with the plane will be $\phi = 90 - \theta$ to . 
+The angle between the line and the plane will be the angle $<EDF$. The angle $\phi$ he line makes with the plane will be $\phi = 90 - \theta$ . 
 
 However recall that:
 $$
-\sin@= \sin@
+\cos(\theta - 90)= \sin\theta
+$$
+Therefore the angle between the line and the plane can be calculated using:
+$$
+\sin\theta = \frac{\vec{d} \cdot  \vec{n}}{|\vec{d}||\vec{n}|}
 $$
 
 
