@@ -168,8 +168,8 @@ For questions like this it is best to diagrammatically work through each part wi
 ## Written Example 1
 ![[Pasted image 20250915213108.png]]
 
-## Shortest Distance between plane and a point
-The shortest distance between the 
-![[Pasted image 20250915213524.png]]
-## My hack for this
-![[Pasted image 20250915213426.png]]
+## Reflecting a point in a plane
+![[Pasted image 20250915214151.png]]
+![[Pasted image 20250915214130.png]]
+###  My hack for this
+
