@@ -145,7 +145,7 @@ $$
 
 
 # Reflecting a line on a plane
-To reflect a line through a plane you must:
+To reflect a line through a plane you must find the equation $l_{2}$ of the reflected in the plane:
 
 #### 1. Find point of intersection of line $l_{1}$ and plane $\vec{OB}$
 1. Calculate an intersection point B by taking the dot product of the point on the line and the normal vector of the plane. 
@@ -161,4 +161,6 @@ To reflect a line through a plane you must:
 1. Calculate the starting point of the line reflected by the plane  $\vec{OA'}$ 
 2. Calculate $\vec{A'B}$  as the direction vector of $l_{2}$
 
-Thd
+The equation of $l_{2}$ is $\vec{OA'}$ + $\mu$$\vec{AB}'$
+
+For questions like this it is best to diagrammatically work through each part with reasoning 
