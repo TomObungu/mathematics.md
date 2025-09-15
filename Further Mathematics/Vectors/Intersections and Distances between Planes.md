@@ -144,3 +144,4 @@ d= \left| \frac{15}{\sqrt{ 30 }} - -\frac{25}{\sqrt{ 30 }} \right| = \frac{40}{\
 $$
 
 
+# Reflecting a line on a plane
