@@ -97,3 +97,5 @@ d(A,\Pi)&=\frac{\big|\mathbf{n}\cdot\overrightarrow{OA}-19\big|}{\|\mathbf{n}\|}
 &=\frac{|1-19|}{\sqrt{14}}=\frac{18}{\sqrt{14}}=\frac{9\sqrt{14}}{7}
 \end{align*}
 $$
+
+## Worked 
