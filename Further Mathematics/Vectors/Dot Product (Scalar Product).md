@@ -126,6 +126,9 @@ The unit vector $\hat{w}$ has a length of one. This means when the vector $\vec{
 ![[Pasted image 20250914182036.png]]
 ![[Pasted image 20250914183336.png]]
 
+#### The vector component of $\vec{a}$ in direction $\vec{b}$
+To calculate the vector component of $\vec{a}$ in the direction of $\vec{b}$ then you must calculate the scalar component using the dot product  of $\vec{a}$  and $\hat{b}$ then multiply this result by the vector $\vec{b}$
+
 #### Why dot product of perpendicular vectors equal to 0
 When vectors are perpendicular, the first vector ($v_{1}$) extends completely vertically from the starting point and the second  $v_{2}$ extends completely horizontally from the starting point. Taking the dot product of the them ($v_{1} \cdot v_{2}$)  is taking the component of $v_{1}$ in the direction of $v_{2}$. In others words the horizontal component of $v_{1}$, however since $v_{1}$ is completely vertical, $v_{1}$ has no horizontal component. Therefore the dot product of $v_{1}$ and $v_{2}$ will be equal to zero.  This explains why perpendicular vector's dot product is zero.
 

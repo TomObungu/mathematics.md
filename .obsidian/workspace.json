@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Angle between line and plane.md",
+                "file": "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angle between line and plane"
+              "title": "Dot Product (Scalar Product)"
             }
           }
         ]
@@ -169,12 +169,12 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Angle between line and plane.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915095727.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915095225.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915093659.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915092843.png",
     "Further Mathematics/Vectors/Planes.md",
-    "Further Mathematics/Vectors/Angle between line and plane.md",
     "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914213034.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914212025.png",
@@ -189,7 +189,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190606.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190344.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250914190159.png",
-    "Further Mathematics/Vectors/attachments/Pasted image 20250914190145.png",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
     "Further Mathematics/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
