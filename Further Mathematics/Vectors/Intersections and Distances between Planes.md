@@ -110,3 +110,6 @@ $$
 &\implies \lambda=2\quad\text{or}\quad \lambda=\tfrac{4}{13}
 \end{align*}
 $$
+
+# Shortest distance from origin to a plane
+The shortest distance from and the origin in the plane 
