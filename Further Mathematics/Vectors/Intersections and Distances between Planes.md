@@ -98,4 +98,15 @@ d(A,\Pi)&=\frac{\big|\mathbf{n}\cdot\overrightarrow{OA}-19\big|}{\|\mathbf{n}\|}
 \end{align*}
 $$
 
-## Worked 
+## Worked Example 2
+![[Pasted image 20250915193649.png]]
+$$
+\begin{align*}
+\Pi:&\;4x-y+3z=15,\qquad A=(3\lambda,2\lambda,\lambda)\\
+\text{Distance }d(A,\Pi)&=\frac{|4(3\lambda)-1(2\lambda)+3(\lambda)-15|}{\sqrt{4^2+(-1)^2+3^2}}
+=\frac{|13\lambda-15|}{\sqrt{26}}=\frac{11}{\sqrt{26}}\\
+&\implies |13\lambda-15|=11\\
+&\implies 13\lambda-15=\pm11\\
+&\implies \lambda=2\quad\text{or}\quad \lambda=\tfrac{4}{13}
+\end{align*}
+$$
