@@ -25,3 +25,23 @@ $$
 $$
 
 
+## Worked Example 1
+![[Pasted image 20250915095727.png]]
+$$
+\begin{gather*}
+r=\begin{pmatrix}
+-1 \\
+2 \\
+3
+\end{pmatrix} + \lambda \begin{pmatrix}
+2 \\
+1 \\
+-2
+\end{pmatrix} \qquad \vec{n} = \begin{pmatrix}
+2 \\
+3 \\
+-5
+\end{pmatrix} \\ \\
+\sin\theta = \frac{\vec{d} \cdot  \vec{n}}{}
+\end{gather*}
+$$
