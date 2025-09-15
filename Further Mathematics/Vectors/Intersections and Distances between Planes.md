@@ -146,9 +146,19 @@ $$
 
 # Reflecting a line on a plane
 To reflect a line through a plane you must:
+
+#### 1. Find point of intersection of line $l_{1}$ and plane $\vec{OB}$
 1. Calculate an intersection point B by taking the dot product of the point on the line and the normal vector of the plane. 
 2. Calculate the point $\vec{B}$ on the line
 3. Take the dot product between $\vec{A}$ and $\vec{B}$ to calculate $\lambda$
-4. Find the equation of a line in direction to the normal using starting point of given line an normal vector direction
-5. Calculate $\gamma$ use dot product and scalar product matrix equation and normal
-6. Calculate $\vec{OM}$ 
+
+#### 2. Find line equation of normal $l_{3}$
+1. Find the equation of a line in direction ($l_{3}$) to the normal using starting point of given line and normal vector direction represented using $\gamma$ as the constant of the direction vector
+2. Calculate  $\gamma$ by using the dot product and  normal to calculate the point of intersection of $l_{3}$ and the plane
+3. Calculate the point of intersection $\vec{OM}$ using the value of $\gamma$ as the scalar 
+
+### 3. Find starting point of $l_{1}$ reflected in plane $OA'$ and direction vector $AB$
+1. Calculate the starting point of the line reflected by the plane  $\vec{OA'}$ 
+2. Calculate $\vec{A'B}$  as the direction vector of $l_{2}$
+
+Thd
