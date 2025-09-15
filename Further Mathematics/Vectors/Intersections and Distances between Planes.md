@@ -87,4 +87,13 @@ $$
 This equation is in the formula book.
 
 ## Using formula
-## Worked Example 2
+## Worked Example 1
+![[Pasted image 20250915193356.png]]
+$$
+\begin{align*}
+\Pi:&\quad \mathbf{r}\cdot(2,3,1)=19,\qquad A(-1,0,3)\\
+d(A,\Pi)&=\frac{\big|\mathbf{n}\cdot\overrightarrow{OA}-19\big|}{\|\mathbf{n}\|}
+=\frac{|(2,3,1)\cdot(-1,0,3)-19|}{\sqrt{2^2+3^2+1^2}}\\
+&=\frac{|1-19|}{\sqrt{14}}=\frac{18}{\sqrt{14}}=\frac{9\sqrt{14}}{7}
+\end{align*}
+$$
