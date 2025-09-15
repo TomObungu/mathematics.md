@@ -112,4 +112,4 @@ $$
 $$
 
 # Shortest distance from origin to a plane
-The shortest distance from and the origin in the plane 
+Using the formula and the other point being the origin - $O(0,0,0)$. Substituting the origin into the formula gives:
