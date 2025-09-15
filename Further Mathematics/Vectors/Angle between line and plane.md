@@ -48,7 +48,7 @@ r=\begin{pmatrix}
 -7
 \end{pmatrix} \\ \\
 \sin\theta = \frac{\vec{d} \cdot  \vec{n}}{|\vec{d}|\vec{n}|} \\ \\
-= 
-
+= \frac{7\sqrt{ 62 }}{62} \\ \\
+\theta = 62.8 ^\circ
 \end{gather*}
 $$
