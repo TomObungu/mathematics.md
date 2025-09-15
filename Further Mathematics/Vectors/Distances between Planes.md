@@ -187,5 +187,6 @@ Working out the shortest distance has the same effect as  calculating the compon
 ![[Pasted image 20250915222142.png]]
 Recall from [[Dot Product (Scalar Product)]] the vector component of ($r_{0} - \vec{OA}$ ) in direction $n$ is 
 $$
-\left|(r_{0} \cdot  \vec{OA})\cdot \hat{n}\right|
+((r_{0} \cdot  \vec{OA})\cdot \hat{n}) \cdot n
 $$
+We know that 
