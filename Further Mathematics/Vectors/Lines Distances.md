@@ -114,6 +114,7 @@ $$
 
 
 ## Reflecting a point in a line
+[[Distances between Planes]]
 To reflect a point in a line you must work out the perpendicular vector $\vec{AB}$ from the line to the point and then add the the vector twice from the start point such the reflected point $\vec{OC}=\vec{OA}+2\vec{AB}$
 
 # Shortest distance between skew lines
