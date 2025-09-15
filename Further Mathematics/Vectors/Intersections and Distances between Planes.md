@@ -174,6 +174,8 @@ For questions like this it is best to diagrammatically work through each part wi
 a
 The shortest distance can be calculated using the formula
 $$
-d = \frac{\left| -2(1) + 3 \right|}{\sqrt{ 2^{2}+1^{2}+1^{2} }} = 
+d = \frac{\left| -2(1) + 3 - 5 \right|}{\sqrt{ 2^{2}+1^{2}+1^{2} }} = \frac{2\sqrt{ 6 }}{3}
 $$
+b
+The shortest distance is the distance between
 
