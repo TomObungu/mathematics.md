@@ -45,9 +45,10 @@ r=\begin{pmatrix}
 \end{pmatrix}\qquad \vec{n} = \begin{pmatrix}
 2 \\
 3 \\
--5
+-7
 \end{pmatrix} \\ \\
 \sin\theta = \frac{\vec{d} \cdot  \vec{n}}{|\vec{d}|\vec{n}|} \\ \\
 = 
+
 \end{gather*}
 $$
