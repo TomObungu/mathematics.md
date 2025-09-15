@@ -187,9 +187,9 @@ Working out the shortest distance has the same effect as  calculating the compon
 ![[Pasted image 20250915222142.png]]
 Recall from [[Dot Product (Scalar Product)]] the vector component of ($r_{0} - \vec{OA}$ ) in direction $n$ is 
 $$
-((r_{0} \cdot  \vec{OA})\cdot \hat{n}) \cdot 
+((r_{0} -  \vec{OA})\cdot \hat{n}) \cdot 
 $$
-This is just the shortest distance multiplied by $n$ thus to calculate the reflection on the point $\vec{OA}$, $\vec{OQ}$ simply do the starting point plus two times the vector component in direction $n$ 
+This is just the shortest distance multiplied by $n$ thus to calculate the reflection on the point $\vec{OA}$, $\vec{OQ}$ simply do the starting point plus two times the vector component in direction $
 $$
 \vec{OQ} =  2((r_{0} \cdot  \vec{OA})\cdot \hat{n}) \cdot n
 $$
