@@ -44,5 +44,10 @@ $$
 # Shortest distance between a line and a plane
 Working out shortest distance between a line and plane assumes that the line and plane do not intersect. The shortest distance will be perpendicular distance between the line and the plane. 
 To calculate the shortest distance between a line and a plane:
-1. If given the plane in general form with two directions vectors, take the dot product of the to calculate the normal vector. Otherwise in scalar product form, recognise the coefficients are the normal vector. 
-2. 
+
+If given the plane in general form with two directions vectors, calculate scalar product form by:
+1. take the dot product of the to calculate the normal vector. 
+2. write in $r \cdot  \vec{n} = r_{0} \cdot  \vec{n}$ where $r_{0}$ is the starting point of the plane
+
+Else:
+1. Calculate the point $\vec{OB}$ on the plane by setting 
