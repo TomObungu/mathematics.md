@@ -131,5 +131,5 @@ $$
 $$
 
 Shortest distance between two parallel planes 
-
+![[Pasted image 20250915202110.png]]
 
