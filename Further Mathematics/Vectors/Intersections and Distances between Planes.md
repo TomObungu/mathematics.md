@@ -163,4 +163,10 @@ To reflect a line through a plane you must find the equation $l_{2}$ of the refl
 
 The equation of $l_{2}$ is $\vec{OA'}$ + $\mu$$\vec{AB}'$
 
-For questions like this it is best to diagrammatically work through each part with reasoning 
+For questions like this it is best to diagrammatically work through each part with reasoning
+
+## Written Example 1
+![[Pasted image 20250915213108.png]]
+
+## My hack for this
+
