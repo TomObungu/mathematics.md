@@ -8,5 +8,10 @@ $$
 $$
 
 
-However since $\vec{n}$ is perpendicular to $\vec{d}$ the angle $\phi$ is  the line makes with the plane will be $\phi = 90 - \theta$. This is because the intersections between the normal, line and plane all form a right angle triangle. Since angles in a triangle sum to 180$^\circ$ the sum of the two remaining angles will be 90 degrees. To calculate the smaller angle you subtract 
+
+
+However since $\vec{n}$ is perpendicular to $\vec{d}$ the angle $\phi$ is  the line makes with the plane will be $\phi = 90 - \theta$. This is because the intersections between the normal, line and plane all form a right angle triangle. Since angles in a triangle sum to 180$^\circ$ the sum of the two remaining angles will be 90 degrees. To calculate the smaller angle you subtract the angle $\theta$ from 90.
+
+
+
 ![[Pasted image 20250915093659.png]]
