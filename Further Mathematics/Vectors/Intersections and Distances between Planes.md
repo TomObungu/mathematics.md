@@ -169,7 +169,8 @@ For questions like this it is best to diagrammatically work through each part wi
 ![[Pasted image 20250915213108.png]]
 
 ## Reflecting a point in a plane
-![[Pasted image 20250915214151.png]]
-![[Pasted image 20250915214130.png]]
+![[Pasted image 20250915213426.png]]#
 ###  My hack for this
+a
+The shortest distance 
 
