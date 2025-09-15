@@ -130,6 +130,15 @@ $$
 \text{Shortest distance between plane and origin } = \frac{d}{|n|}
 $$
 
-Shortest distance between two parallel planes 
-![[Pasted image 20250915202110.png]]
+Shortest distance between two parallel planes is the the absolute value of difference in the distance from the origin of $d_{2}$ and $d_{1}$
+![[Pasted image 20250915202223.png]]
+## Worked Example 1
+Work out the shortest distance between:
+![[Pasted image 20250915202354.png]]
+$$
+\begin{gather*}
+d_{1} = \frac{15}{\sqrt{ 5^{2}+2^{2}+1^{2}}} = \frac{15}{\sqrt{ 30 }}\\ \\
+d_{2} = \frac{25}{\sqrt{ 5^{2} + 2^{2}+1^{2} }} = 
+\end{gather*}
 
+$$
