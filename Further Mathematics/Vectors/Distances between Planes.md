@@ -181,15 +181,25 @@ The shortest distance is the distance between the line and the point of intersec
 ![[Pasted image 20250915215723.png]]
 Recall from [[Lines Distances]] reflecting a point in a line is the vector from $\vec{A}$ to the intersection of the plane in direction of $n$ multiplied by 2.
 
-However since this is a plane we can use calculate the reflection in the point $\vec{A}$ by multiplying the distance by 2 and then multiplying that by the scalar product. This in essence has the same affect of finding the vector component in the direction of the normal. If you recall this from [[Dot Product (Scalar Product)]].
+However since this is a plane we can use calculate the reflection in the point $\vec{A}$ by multiplying the distance by 2 and then multiplying that by the scalar product. 
 
-Working out the shortest distance has the same effect as  calculating the component of ($r_{0} - \vec{OA}$) in direction $\hat{n}$
-![[Pasted image 20250915222142.png]]
-Recall from [[Dot Product (Scalar Product)]] the vector component of ($r_{0} - \vec{OA}$ ) in direction $n$ is 
 $$
-((r_{0} -  \vec{OA})\cdot \hat{n}) \cdot 
-$$
-This is just the shortest distance multiplied by $n$ thus to calculate the reflection on the point $\vec{OA}$, $\vec{OQ}$ simply do the starting point plus two times the vector component in direction $
-$$
-\vec{OQ} =  2((r_{0} \cdot  \vec{OA})\cdot \hat{n}) \cdot n
+\begin{gather*}
+\vec{OQ} = \vec{OA} + 2\left( \frac{2\sqrt{ 6 }}{3} \right)\hat{n} \\ \\
+= \begin{pmatrix}
+1 \\
+0 \\
+3
+\end{pmatrix}+\frac{4\sqrt{ 6 }}{3}\left( \frac{1}{\sqrt{  6}} \right)\begin{pmatrix}
+-2 \\
+1 \\
+1
+\end{pmatrix} \\ \\
+= \begin{pmatrix}
+-\frac{5}{3} \\
+\frac{4}{3} \\
+\frac{13}{3}
+\end{pmatrix} \\ \\ \\
+Q\left( -\frac{5}{3}, \frac{4}{3}, \frac{13}{3} \right)
+\end{gather*}
 $$
