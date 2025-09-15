@@ -42,6 +42,7 @@ r=\begin{pmatrix}
 3 \\
 -5
 \end{pmatrix} \\ \\
-\sin\theta = \frac{\vec{d} \cdot  \vec{n}}{|d|}
+\sin\theta = \frac{\vec{d} \cdot  \vec{n}}{|\vec{d}|\vec{n}|} \\ \\
+=
 \end{gather*}
 $$
