@@ -189,4 +189,7 @@ Recall from [[Dot Product (Scalar Product)]] the vector component of ($r_{0} - \
 $$
 ((r_{0} \cdot  \vec{OA})\cdot \hat{n}) \cdot n
 $$
-We know that 
+This is just the shortest distance multiplied by $n$ thus to calculate the reflection on the point $\vec{OA}$, $\vec{OQ}$ simply do the starting point plus two times the vector component in direciton $n$:
+$$
+
+$$
