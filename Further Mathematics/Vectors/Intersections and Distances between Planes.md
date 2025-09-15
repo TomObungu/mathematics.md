@@ -138,7 +138,9 @@ Work out the shortest distance between:
 $$
 \begin{gather*}
 d_{1} = \frac{15}{\sqrt{ 5^{2}+2^{2}+1^{2}}} = \frac{15}{\sqrt{ 30 }}\\ \\
-d_{2} = \frac{25}{\sqrt{ 5^{2} + 2^{2}+1^{2} }} = 
+d_{2} = \frac{25}{\sqrt{ 5^{2} + 2^{2}+1^{2} }} = -\frac{25}{\sqrt{ 30 }} \\ \\ \\
+d= \left| \frac{15}{\sqrt{ 30 }} - -\frac{25}{\sqrt{ 30 }} \right| = \frac{40}{\sqrt{ 30 }} = \frac{4}{3}\sqrt{ 30 }
 \end{gather*}
-
 $$
+
+
