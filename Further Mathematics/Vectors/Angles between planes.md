@@ -52,3 +52,10 @@ r=\begin{pmatrix}
 \theta = 62.8 ^\circ
 \end{gather*}
 $$
+# Angle between two planes
+The angle between two planes is the angle between their normals
+
+![[Pasted image 20250915230727.png]]
+$$
+\cos\theta=\frac{n_{1} \cdot n_{2}}{|n_{1}||n_{2}|}
+$$
