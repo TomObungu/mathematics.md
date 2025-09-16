@@ -118,7 +118,7 @@ $$
 To reflect a point in a line you must work out the perpendicular vector $\vec{AB}$ from the line to the point and then add the the vector twice from the start point such the reflected point $\vec{OC}=\vec{OA}+2\vec{AB}$
 
 # Shortest distance between skew lines
-To workout the shortest distance between skew lines you must work out the perpendicular distance between the direction vectors between. This vector can be named $n$
+To workout the shortest distance between skew lines you must work out the perpendicular distance between the direction vectors between. This vector can be named $n$.
 Skew lines may be drawn in 2D like this:
 ![[Pasted image 20250912201149.png]]
 However, rotating around the 3D axis you will be able to see the lines are on completely different planes with different distances apart such the lines will never intersect:
