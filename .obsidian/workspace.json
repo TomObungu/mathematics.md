@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Angles between planes.md",
+                "file": "Further Mathematics/Vectors/Lines Distances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angles between planes"
+              "title": "Lines Distances"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vector component",
+                "query": "parallelpip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,18 +185,18 @@
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
-    "Further Mathematics/Vectors/Worksheet",
-    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
-    "Further Mathematics/Vectors/Planes.md",
-    "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/Cross Product.md",
+    "Further Mathematics/Vectors/Planes.md",
+    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/Angles between planes.md",
+    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
+    "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/Distances between Planes.md",
+    "Further Mathematics/Vectors/Worksheet",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
     "Untitled.md",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915230727.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915222142.png",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
@@ -229,7 +229,6 @@
     "Further Mathematics/Vectors",
     "Further Mathematics/Matrices/Inverting a 2 x 2 matrix.md",
     "Further Mathematics/Matrices/Solving Systems Of Equations Using Matrices.md",
-    "Further Mathematics/Linear Transformations/corrected questions/attachments/attachments",
-    "Further Mathematics/Linear Transformations/corrected questions/attachments"
+    "Further Mathematics/Linear Transformations/corrected questions/attachments/attachments"
   ]
 }
