@@ -1,1 +1,3 @@
 The line of intersection between two planes will have a direction vector that is perpendicular to both planes. Thus this means the directions vector will be the cross product of the normal of plane $\Pi_{1}$ and plane $\Pi_{2}$. 
+
+Thus to form the line you need another point on the plane. To get another point on the plane, simply substitute x = 0 for the plane formula in Cartesian form then solve from the coordinates $y$ and $z$. If this doesn't work i.e the plane is parallel the x-axis. Then substitute y = 0, or z = 0. Usually you can tell if plane is parallel to the an axis if the 

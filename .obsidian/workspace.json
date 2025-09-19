@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheet/LLM Vector Questions.md",
+                "file": "Further Mathematics/Vectors/Line Of Intersection between planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM Vector Questions"
+              "title": "Line Of Intersection between planes"
             }
           }
         ],
@@ -182,11 +182,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7504e1836e7feb25",
+  "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
+    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
-    "Further Mathematics/Vectors/Worksheet/LLM Vector Questions.md",
     "Further Mathematics/Matrices/Proof of Inverse Matrix Identities.md",
     "Further Mathematics/Matrices/Matrix Multiplication.md",
     "Further Mathematics/Matrices/Inverting a 3 x 3 matrix.md",
@@ -206,7 +207,6 @@
     "Further Mathematics/Vectors/Line Of Intersection between planes.md",
     "Further Mathematics/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250918205305.png",
-    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/Worksheet",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
