@@ -1,5 +1,5 @@
 # Intersection between a line and a plane. 
-When a line and a plane intersect, the position vector of $r$ is the same for the line and the plane. Thus when given a line equation $l_{1}$, substitute the line into the plane. 
+When a line and a plane intersect, the position vector of $r$ is the same for the line and the plane. Thus when given a line equation $l_{1}$, substitute the line into the plane. I.e that is take the general point of the line and substitute it as $r$ into the plane equation.
 ![[Pasted image 20250915184412.png]]
 
 ## Worked Example 1
@@ -145,14 +145,14 @@ $$
 
 
 # Reflecting a line on a plane
-To reflect a line through a plane you must find the equation $l_{2}$ of the reflected in the plane:
+To reflect a line through a plane you must find the equation $l_{2}$ of the reflected line in the plane:
 
-#### 1. Find point of intersection of line $l_{1}$ and plane $\vec{OB}$
-1. Calculate an intersection point B by taking the dot product of the point on the line and the normal vector of the plane. 
-2. Calculate the point $\vec{B}$ on the line
-3. Take the dot product between $\vec{A}$ and $\vec{B}$ to calculate $\lambda$
+#### 1. Find point of intersection of line $l_{1}$ and plane  $\Pi_{1}$
+1. Write out the general point on the line $\vec{OB}$
+2. Take the dot product between the normal $\vec{n}$ of the plane and $\vec{OB}$ 
+3. Find $\lambda$ and substitute it to get point of intersection.
 
-#### 2. Find line equation of normal $l_{3}$
+#### 2. Find line equation of $l_{3}$ which has direction vector $\vec{n}$
 1. Find the equation of a line in direction ($l_{3}$) to the normal using starting point of given line and normal vector direction represented using $\gamma$ as the constant of the direction vector
 2. Calculate  $\gamma$ by using the dot product and  normal to calculate the point of intersection of $l_{3}$ and the plane
 3. Calculate the point of intersection $\vec{OM}$ using the value of $\gamma$ as the scalar 

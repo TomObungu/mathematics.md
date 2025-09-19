@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Line Of Intersection between planes.md",
+                "file": "Further Mathematics/Vectors/Distances between Planes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Line Of Intersection between planes"
+              "title": "Distances between Planes"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/Line Of Intersection between planes.md",
+    "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
     "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
