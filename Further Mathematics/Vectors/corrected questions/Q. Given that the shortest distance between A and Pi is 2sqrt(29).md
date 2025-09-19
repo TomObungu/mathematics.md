@@ -17,10 +17,11 @@ $$
 3 \\
 -4
 \end{pmatrix} \\ \\
-r = \begin{pmatrix}
+OA = r = \begin{pmatrix}
 4 + t \\
 -5 + 6t \\
 2 -3t
-\end{pmatrix}
+\end{pmatrix} \\ \\
+a = 2 \qqaud b = 3
 \end{gather*} 
 $$
