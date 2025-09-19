@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Line Of Intersection between planes.md",
+                "file": "Further Mathematics/Vectors/Shortest distance between skew lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Line Of Intersection between planes"
+              "title": "Shortest distance between skew lines"
             }
           }
         ],
@@ -184,6 +184,11 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Planes.md",
+    "Further Mathematics/Vectors/Shortest distance between skew lines.md",
+    "Further Mathematics/Vectors/Lines Distances.md",
+    "Further Mathematics/Vectors/Line Of Intersection between planes.md",
+    "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
@@ -197,14 +202,10 @@
     "Further Mathematics/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "Further Mathematics/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
-    "Further Mathematics/Vectors/Planes.md",
     "Further Mathematics/Vectors/Angles between planes.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
-    "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/Cross Product.md",
-    "Further Mathematics/Vectors/Distances between Planes.md",
-    "Further Mathematics/Vectors/Line Of Intersection between planes.md",
     "Further Mathematics/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250918205305.png",
     "Further Mathematics/Vectors/Worksheet",
