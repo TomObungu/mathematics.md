@@ -27,8 +27,9 @@ a = 2 \qquad b= 3 \qquad c= -4 \\
 \alpha = 4+t \qquad\beta=-5+6t \qquad \gamma=2-3t
 \\ \\
 \frac{\left| 2(4+t)+3(-5+6t)+(-4)(2-3t)\right|}{\sqrt{ 2^{2}+3^{2}+(-4)^{2} }} = 2\sqrt{ 29 } \\ \\
-\frac{-15+32t}{\sqrt{ 29 }} = \pm2\sqrt{ 29 }
+\frac{-15+32t}{\sqrt{ 29 }} = \pm2\sqrt{ 29 } \\ \\
+-15+32t
 
 \end{gather*} 
 $$
-Do not forget to set the constant of the other side of the equation $$
+Do not forget to set the constant of the other side of the equation i.e $2\sqrt{ 29 }$ to $\pm$ to ensure the two correct values of t are found as the equation uses the modulus signs.
