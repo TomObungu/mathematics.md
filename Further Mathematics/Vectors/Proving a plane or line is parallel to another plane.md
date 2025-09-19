@@ -1,1 +1,0 @@
-If a line or a plane are parallel, this means the dot product between the direction vector and normal of the other plane will be 0

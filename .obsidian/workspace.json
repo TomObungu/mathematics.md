@@ -25,14 +25,12 @@
             "id": "7ad3f9ecd592d859",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Vectors/Proving a plane or line is parallel to another plane.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Proving a plane or line is parallel to another plane"
+              "icon": "lucide-file-text",
+              "title": "Vector Problem Solving"
             }
           }
         ],
@@ -194,8 +192,8 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Proving a line is parallel to another plane.md",
     "Further Mathematics/Vectors/Distances between Planes.md",
-    "Further Mathematics/Vectors/Proving a plane or line is parallel to another plane.md",
     "Further Mathematics/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
     "Further Mathematics/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
     "Further Mathematics/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
