@@ -1,5 +1,5 @@
 ![[Pasted image 20250919180731.png]]
-You must take the dot product between the general point and the normal and check if the equation formed is consistent. 
+You must substitute it the general point in the scalar product form of the plane (take the dot product between the general point and the normal and set it equal to d), and check if the equation formed is consistent. 
 $$
 \begin{gather*}
 l : r=\begin{pmatrix}
@@ -10,10 +10,6 @@ l : r=\begin{pmatrix}
 1 \\
 -1 \\
 -3
-\end{pmatrix} \qquad \vec{n} = \begin{pmatrix}
-1 \\
--2 \\
-7
 \end{pmatrix} \\ \\
 r = \begin{pmatrix}
 -2+\lambda \\
@@ -25,7 +21,9 @@ r = \begin{pmatrix}
 5-\lambda \\
 4-3\lambda
 \end{pmatrix} \cdot \begin{pmatrix}
-
-\end{pmatrix}
+1 \\
+-2 \\
+1
+\end{pmatrix} = -7 \\ \\
 \end{gather*}
 $$

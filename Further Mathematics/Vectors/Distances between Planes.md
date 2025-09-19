@@ -1,5 +1,5 @@
 # Intersection between a line and a plane. 
-When a line and a plane intersect, the position vector of $r$ is the same for the line and the plane. Thus when given a line equation $l_{1}$, substitute the line into the plane. I.e that is take the general point of the line and substitute it as $r$ into the plane equation.
+When a line and a plane intersect, the position vector of $r$ is the same for the line and the plane. Thus when given a line equation $l_{1}$, substitute the line into the plane. I.e that is take the general point of the line and set it equal to the scalar d  and substitute it as $r$ into the plane equation.
 ![[Pasted image 20250915184412.png]]
 
 ## Worked Example 1
@@ -43,7 +43,7 @@ r = \begin{pmatrix}
 $$
 
 # Proving a line and plane intersect
-If a line and plane intersect. Taking the dot product between the normal and the general point will yield invalid statement. e.g 5 = 7, which will be false. 
+If a line and plane intersect. Substitute the general point into the scalar product equation (Taking the dot product between the normal and setting it equal to d ) will yield invalid statement. e.g 5 = 7, which will be false. 
 Meaning the equations are inconsistent and have no solution. This means that the line and he plane do not intersect.
 
 If a line lies **inside** a plane then you will get a a true statement e.g 8 = 8. However you will have no variables like $\lambda$ in the equation.
