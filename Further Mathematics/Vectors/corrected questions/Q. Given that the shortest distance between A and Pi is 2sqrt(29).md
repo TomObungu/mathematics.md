@@ -12,14 +12,15 @@ $$
 0 \\
 1
 \end{pmatrix}
-\end{gather*} = \begin{pmatrix}
+= \begin{pmatrix}
 2 \\
 3 \\
 -4
 \end{pmatrix} \\ \\
-r = 
-$$\vec{n} = \begin{pmatrix}
--1 \\
-2 \\
-1
+r = \begin{pmatrix}
+4 + t \\
+-5 + 6t \\
+2 -3t
 \end{pmatrix}
+\end{gather*} 
+$$
