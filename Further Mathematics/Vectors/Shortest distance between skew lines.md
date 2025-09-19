@@ -31,7 +31,13 @@ This is because the shortest possible distance between the two lines will always
 In other words, the direction vector between the two lines will always have the component value in the direction of the normal equal to the value of the shortest distance. This is because the direction vectors can never have a length short than the normal. Any shorter length would mean the line distances would become closer meaning the lines would intersect and not be skew.
 
 ![[Pasted image 20250919173854.png]]
+![[Pasted image 20250919174027.png]]
 
+Essentially you can guarantee you will get the shortest distance between the skew lines no matter which points you pick you between them to form the direction vector between.
+
+You do not have to worry about if the points formed will form a direction vector less than the shortest distance as the direction vector can only be greater than or equal to the shortest distance.
+
+If this was not true the lines would be intersecting as the shortest distance would  be able to be minimised to 0.
 
 ## Worked example 1
 
