@@ -25,12 +25,14 @@
             "id": "7ad3f9ecd592d859",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf"
+                "file": "Further Mathematics/Linear Transformations/corrected questions/Q. Find the angle at which the ball hits the ground.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vector Problem Solving"
+              "icon": "lucide-file",
+              "title": "Q. Find the angle at which the ball hits the ground"
             }
           }
         ],
@@ -153,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Further Mathematics/Linear Transformations/corrected questions/Q. Find the angle at which the ball hits the ground.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Q. Find the angle at which the ball hits the ground"
             }
           },
           {
@@ -172,11 +175,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +196,9 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
+    "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919201516.png",
+    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
+    "Further Mathematics/Linear Transformations/corrected questions/Q. Find the angle at which the ball hits the ground.md",
     "Further Mathematics/Vectors/Proving a line is parallel to another plane.md",
     "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
@@ -203,7 +210,6 @@
     "Further Mathematics/Vectors/Angles between planes.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250919180731.png",
-    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
@@ -233,8 +239,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250915215635.png",
     "Further Mathematics/Vectors/corrected questions/attachments",
     "Further Mathematics/Vectors/corrected questions",
-    "Further Mathematics/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
-    "Further Mathematics/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
     "Untitled.canvas",
     "Further Mathematics/Vectors/attachments",
     "Further Mathematics/Vectors",
