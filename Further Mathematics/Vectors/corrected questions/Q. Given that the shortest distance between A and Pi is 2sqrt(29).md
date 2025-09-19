@@ -22,9 +22,10 @@ OA = r = \begin{pmatrix}
 -5 + 6t \\
 2 -3t
 \end{pmatrix} \\ \\
-a = 2 \qquad b = 3 \qquad c= -4 \\ 
+a = 2 \qquad b= 3 \qquad c= -4 \\ 
 \alpha = 4+t \qquad\beta=-5+6t \qquad \gamma=2-3t
 \\ \\
-\left| 2(4+t)+3(-5+6t)+\frac{(-4)(2-3t)\right|}{\sqrt{ 2^{2}+3^{2}+(-4)^{2} }}
+\frac{\left| 2(4+t)+3(-5+6t)+(-4)(2-3t)\right|}{\sqrt{ 2^{2}+3^{2}+(-4)^{2} }} = 2\sqrt{ 29 } \\ \\
+
 \end{gather*} 
 $$
