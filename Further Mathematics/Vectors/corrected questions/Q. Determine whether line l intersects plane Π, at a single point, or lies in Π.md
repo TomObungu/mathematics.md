@@ -25,5 +25,29 @@ r = \begin{pmatrix}
 -2 \\
 1
 \end{pmatrix} = -7 \\ \\
+(-2+\lambda)+(-2)(5-\lambda)+(4-3\lambda) = -7 \\ \\
+-2 + \lambda -10 +2\lambda +4 -3\lambda=-7 \\ \\
+\lambda+2\lambda-3\lambda-2-10+4=-7\\ \\
+-8=-7 \\ \\
+-8 \neq -7  \\ 
+\implies \text{The line and the plane  do not intersect} \\ \\
+\therefore l \parallel  \Pi \text{ without intersecting}
 \end{gather*}
 $$
+If you were to get something like 
+$$
+\begin{gather*}
+\begin{pmatrix}
+-2+\lambda \\
+5-\lambda \\
+4-3\lambda
+\end{pmatrix} \cdot \begin{pmatrix}
+\dots \\
+\dots \\
+\dots
+\end{pmatrix} = -7 \\ \\
+\dots \\ \\
+-7=-7
+\end{gather*}
+$$
+The line $l$ would lie within the plane giving infinitely many solutions of points of intersection. 
