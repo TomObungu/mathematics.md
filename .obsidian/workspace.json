@@ -162,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0309f2f653dbe95f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,21 +194,24 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Equation of Line Of Intersection between planes.md",
+    "Further Mathematics/Vectors/Shortest distance between skew lines.md",
+    "Further Mathematics/Vectors/Planes.md",
+    "Further Mathematics/Vectors/Angles between planes.md",
+    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
+    "Further Mathematics/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
+    "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250919180731.png",
+    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
+    "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
-    "Further Mathematics/Vectors/Planes.md",
-    "Further Mathematics/Vectors/Equation of Line Of Intersection between planes.md",
-    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
     "Further Mathematics/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
-    "Further Mathematics/Vectors/corrected questions/Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
     "Further Mathematics/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
-    "Further Mathematics/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174024.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919173854.png",
     "Further Mathematics/Vectors/Lines Distances.md",
-    "Further Mathematics/Vectors/Distances between Planes.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Matrices/Proof of Inverse Matrix Identities.md",
@@ -209,8 +222,6 @@
     "Further Mathematics/Matrices/Determinants.md",
     "Further Mathematics/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "Further Mathematics/Linear Transformations/Linear Transformations in Three Dimensions.md",
-    "Further Mathematics/Vectors/Angles between planes.md",
-    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
     "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250918205305.png",
@@ -221,8 +232,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250915222142.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915215723.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250915215635.png",
-    "Further Mathematics/Vectors/attachments/Pasted image 20250915214151.png",
-    "Further Mathematics/Vectors/attachments/Pasted image 20250915214130.png",
     "Further Mathematics/Vectors/corrected questions/attachments",
     "Further Mathematics/Vectors/corrected questions",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
