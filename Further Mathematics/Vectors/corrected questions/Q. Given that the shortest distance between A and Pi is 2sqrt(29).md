@@ -28,7 +28,8 @@ a = 2 \qquad b= 3 \qquad c= -4 \\
 \\ \\
 \frac{\left| 2(4+t)+3(-5+6t)+(-4)(2-3t)\right|}{\sqrt{ 2^{2}+3^{2}+(-4)^{2} }} = 2\sqrt{ 29 } \\ \\
 \frac{-15+32t}{\sqrt{ 29 }} = \pm2\sqrt{ 29 } \\ \\
--15+32t
+-15+32t = 2\sqrt{ 29 } \quad-15+32t=-2\sqrt{ 29 } \\ \\
+t = \qquad t=
 
 \end{gather*} 
 $$
