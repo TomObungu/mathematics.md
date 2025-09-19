@@ -30,7 +30,7 @@ This is because the shortest possible distance between the two lines will always
 
 In other words, the direction vector between the two lines will always have the component value in the direction of the normal equal to the value of the shortest distance. This is because the direction vectors can never have a length short than the normal. Any shorter length would mean the line distances would become closer meaning the lines would intersect and not be skew.
 
-
+![[Pasted image 20250919173854.png]]
 
 
 ## Worked example 1
