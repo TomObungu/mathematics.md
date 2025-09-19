@@ -1,6 +1,7 @@
 ![[Pasted image 20250918205305.png]]
 (c) For part you must use the shortest distance to a plane formula and substitute the point equation as a general point on the line. One the point A is written as a general point on the line. It is possible to solve for t by substituting values of the normal and the general point into the formula and then setting it equal to $2\sqrt{ 29 }$
 
+
 $$
 \begin{gather*}
 \vec{n} = \begin{pmatrix}
@@ -26,6 +27,8 @@ a = 2 \qquad b= 3 \qquad c= -4 \\
 \alpha = 4+t \qquad\beta=-5+6t \qquad \gamma=2-3t
 \\ \\
 \frac{\left| 2(4+t)+3(-5+6t)+(-4)(2-3t)\right|}{\sqrt{ 2^{2}+3^{2}+(-4)^{2} }} = 2\sqrt{ 29 } \\ \\
--15+32t)/
+\frac{-15+32t}{\sqrt{ 29 }} = \pm2\sqrt{ 29 }
+
 \end{gather*} 
 $$
+Do not forget to set the constant of the other side of the equation $$
