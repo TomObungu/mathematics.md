@@ -253,3 +253,76 @@ Of course. Here are 7 non-multiple choice questions for the A Level Further Math
 **7. Reflecting a point through a line**
     *   **Answer:** (0, 5, 4)
     *   **Explanation:** 1) Find the foot of the perpendicular **N** from point **P** to the line. 2) The reflection **P'** is such that **N** is the midpoint of **P** and **P'**. Alternatively, use the vector reflection formula.
+
+# Math AI
+
+(Doesn't format)
+
+Certainly! Here are some challenging, context-based questions on the vectors sub-topics you specified for the A Level Further Mathematics Core Pure 1 syllabus. The questions are designed to test understanding and problem-solving skills, and the mark scheme with detailed explanations is provided afterward.
+
+---
+
+### Questions
+
+**Question 1:**  
+A plane is defined by the equation \( 2x - y + 3z = 5 \). A point \( P(4, 1, 2) \) is located on the same side of this plane as the origin. Find the coordinates of the point \( P' \) obtained by reflecting \( P \) across the plane.
+
+**Question 2:**  
+Given the plane \( x + 2y - z = 3 \) and a point \( Q(2, -1, 4) \), find the coordinates of the point \( Q' \) obtained by reflecting \( Q \) through the plane.
+
+**Question 3:**  
+Two parallel planes are given by \( 3x - 2y + z = 7 \) and \( 3x - 2y + z = -5 \). Determine the shortest distance between these two planes.
+
+**Question 4:**  
+Line \( L_1 \) passes through the point \( A(1, 2, 3) \) with direction vector \( \mathbf{d}_1 = \langle 4, -1, 2 \rangle \). Line \( L_2 \) passes through \( B(2, 0, -1) \) with direction vector \( \mathbf{d}_2 = \langle -2, 4, 1 \rangle \). Find the shortest distance between these two skew lines.
+
+**Question 5:**  
+Point \( R(3, -2, 5) \) and the plane \( 2x - y + 4z = 6 \) are given. Calculate the shortest distance from \( R \) to the plane.
+
+**Question 6:**  
+Lines \( M \) and \( N \) are given by:  
+\[ M: \frac{x-1}{2} = \frac{y+3}{-1} = \frac{z-4}{3} \]  
+\[ N: x + y = 0, \quad z = 5 \]  
+Determine the shortest distance between the two lines.
+
+**Question 7:**  
+Point \( S(1, 2, 3) \) is reflected through the line passing through \( T(0, 0, 0) \) with direction vector \( \mathbf{d} = \langle 1, 1, 0 \rangle \). Find the coordinates of the reflected point \( S' \).
+
+---
+
+### Mark Scheme & Explanations
+
+**Question 1:**  
+- To reflect a point across a plane, first find the perpendicular vector to the plane, which is the normal vector \( \mathbf{n} = \langle 2, -1, 3 \rangle \).
+- Calculate the signed distance from \( P \) to the plane using:  
+\[ d = \frac{\mathbf{n} \cdot \mathbf{OP} - c}{|\mathbf{n}|} \]  
+where \( c = 5 \) (from the plane equation) and \( \mathbf{OP} = (4,1,2) \).  
+- Then find the point \( P' \) by moving \( P \) twice the distance along the normal vector in the opposite direction.
+
+**Question 2:**  
+- Similar to Q1, reflect \( Q \) across the plane \( x + 2y - z = 3 \) by calculating the perpendicular distance and then moving \( Q \) along the normal vector \( \langle 1, 2, -1 \rangle \) appropriately.
+
+**Question 3:**  
+- The shortest distance between parallel planes \( ax + by + cz = d_1 \) and \( ax + by + cz = d_2 \) is:  
+\[ \text{Distance} = \frac{|d_1 - d_2|}{\sqrt{a^2 + b^2 + c^2}} \]  
+- Substitute the values to compute the distance.
+
+**Question 4:**  
+- Use the formula for the shortest distance between skew lines:  
+\[ \text{Distance} = \frac{|(\mathbf{A} - \mathbf{B}) \cdot (\mathbf{d}_1 \times \mathbf{d}_2)|}{|\mathbf{d}_1 \times \mathbf{d}_2|} \]  
+- Find \( \mathbf{A} - \mathbf{B} \), compute the cross product \( \mathbf{d}_1 \times \mathbf{d}_2 \), then plug into the formula to get the shortest distance.
+
+**Question 5:**  
+- The shortest distance from a point to a plane is given by:  
+\[ d = \frac{|\mathbf{n} \cdot \mathbf{OP} - c|}{|\mathbf{n}|} \]  
+- \( \mathbf{n} = \langle 2, -1, 4 \rangle \), \( \mathbf{OP} = (3, -2, 5) \), \( c = 6 \).
+
+**Question 6:**  
+- Find the shortest distance between two lines by expressing both in parametric form, then applying the formula for skew lines or using vector methods involving the cross product of direction vectors and position vectors.
+
+**Question 7:**  
+- To reflect \( S \) through a line, project \( \mathbf{S} \) onto the line, find the foot of the perpendicular, then reflect \( S \) across this foot.
+
+---
+
+Let me know if you'd like a detailed step-by-step solution for any specific question!
