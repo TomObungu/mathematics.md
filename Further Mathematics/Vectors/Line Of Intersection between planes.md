@@ -1,0 +1,1 @@
+The line of intersection between two planes will have a direction vector that is perpendicular to both planes. Thus this means the directions vector will be the cross product of the normal of plane $\Pi_{1}$ and plane $\Pi_{2}$. 
