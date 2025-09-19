@@ -12,7 +12,12 @@ $$
 0 \\
 1
 \end{pmatrix}
-\end{gather*} = 
+\end{gather*} = \begin{pmatrix}
+2 \\
+3 \\
+-4
+\end{pmatrix} \\ \\
+r = 
 $$\vec{n} = \begin{pmatrix}
 -1 \\
 2 \\
