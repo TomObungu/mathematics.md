@@ -49,6 +49,7 @@ Meaning the equations are inconsistent and have no solution. This means that the
 If a line lies **inside** a plane then you will get a a true statement e.g 8 = 8. However you will have no variables like $\lambda$ in the equation.
 
 For an example see [[Q. Determine whether line l intersects plane Π, at a single point, or lies in Π]]
+
 # Shortest distance between a line and a plane
 Working out shortest distance between a line and plane assumes that the line and plane do not intersect. The shortest distance will be perpendicular distance between the line and the plane. 
 
