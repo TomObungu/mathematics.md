@@ -41,11 +41,11 @@ $$
 ## Problem solving example 2:
 *Simplify $\frac{\sum_{r=1}^n {3}r^{3}}{\sum_{r=1}^n 2r}$*
 
-In this scenario it much simpler to directly evaluate the expression using the identity expressions
+In this scenario it is much simpler to directly evaluate the expression using the identity expressions
 
 $$
 \begin{gather*}
 \frac{\sum_{r=1}^n {3}r^{3}}{\sum_{r=1}^n 2r} = \frac{3\sum_{r=1}^n r^{3}}{2\sum_{r=1}^n r} \\ \\
-\left( \frac{3}{2} \right)\frac{\sum_{r=1}^n {3}r^{3}}{\sum_{r=1}^n 2r} 
+\left( \frac{3}{2} \right)\frac{\left(\sum_{r=1}^n r\right)^{2}}{\sum_{r=1}^n r} = \left( \frac{3}{2} \right)\sum_{r=1}^n r = \frac{3}{2}\left( \frac{n(n+1)}{2} \right)
 \end{gather*}
 $$
