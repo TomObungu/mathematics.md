@@ -1,0 +1,1 @@
+Much like the sum of squares proof in [[Sum Of Squares]]. It is possible to prove that 

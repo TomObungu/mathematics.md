@@ -38,12 +38,23 @@ Therefore it possible to evaluate $r^{2}$ by rearranging to find $r$. Remember i
 
 You can evaluate fractions by multiplying everything inside the bracket by the largest denominator and then dividing out the fraction by the largest denominator
 
-It also better to have both leading terms to be positive 
+It also better to have leading terms (The exponent with the highest degree of accuracy) to have the same sign or better to both be positive to simplify calculations.
 $$
 \begin{gather*}
 n^{3} = \sum_{r=1}^n 3r^{2}-3r+1 \\ \\
 -3\sum_{r=1}^n r^{2} = -n^{3}-\sum_{r=1}^n 3r + \sum_{r=1} ^n 1 \\ \\
-3\sum_{r=1}^nr^{2}=n^{3}+\sum_{r=1}^n
-
+3\sum_{r=1}^nr^{2}=n^{3}+\sum_{r=1}^n3r-\sum_{r=1}^n 1 \\ \\
+= \frac{1}{3}\left( n^{3}+\frac{3n(n +1)}{2} - n \right) \\ \\
+= \frac{1}{6}(2n^{3}+ 3n(n+1) -2n) \\ \\
+= \frac{1}{6}(2n^{3}+3n^{2}+3n-2n) \\ \\
+=\frac{1}{6}(2n^{3}+3n^{2}+n) \\ \\
+=\frac{1}{6}n(2n^{2}+3n+1) \\ \\
+=\frac{1}{6}n(n+1)(2n+1)
 \end{gather*}
+$$
+
+
+Therefore:
+$$
+\sum_{r=1}^n r^{2} = \frac{1}{6}n(n+1)(2n+1)
 $$
