@@ -1,7 +1,7 @@
 ![[Pasted image 20250920094813.png]]
 b)To calculate the shortest distance from C to W. You need to calculate the shortest distance from the line W to the point C on the plane. This is simply just the shortest distance from a point to a line. You must find out $\vec{CW}$ $\vec{OW}$ is the general point on the line $\vec{W}$. 
 
-Alternatively you can work out the shortest distance from the plane the general point on the line and solve for $\lambda$
+Workwork out the shortest distance from the plane the general point on the line and solve for $\lambda$
 $$
 \begin{gather*}
 W : r=\begin{pmatrix}
