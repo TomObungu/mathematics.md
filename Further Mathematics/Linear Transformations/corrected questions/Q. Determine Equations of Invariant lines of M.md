@@ -11,6 +11,10 @@ $$
 $$
 ![[Pasted image 20250908170657.png]]
 
+# teachers solution
+
+
+# Non-teacher solution
 b) 
 In this case a = 3.
 For an invariant line $y=mx+c$, the points on the line are mapped to points on the same line.  In other words if $\begin{pmatrix}x \\ y\end{pmatrix}$ a point on the line, its image $\begin{pmatrix}x' \\ y'\end{pmatrix}$ must also be on the line.
