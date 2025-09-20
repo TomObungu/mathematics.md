@@ -1,24 +1,24 @@
 1.  A drone is located at point **D** with coordinates (3, -2, 5). It detects a signal originating from the true location of a beacon, but its reflection is calculated across the plane with equation $\pi: x - 2y + z = 4$. Find the true coordinates of the beacon.
 
-
+---
 2. In a 3D modelling program, a light source is positioned at point **L**(1, 4, -1). A flat triangular section of a scene lies on the plane $\Pi: 2x - y + 2z = 8$. Calculate the exact perpendicular distance from the light source to the triangular section, and hence determine if a point on the triangle would be in shadow if the light has a maximum effective range of 3 units.
 
-
+---
 3.  Two support beams in a building are modelled as straight lines. Beam A has equation $\mathbf{r} = \begin{pmatrix} 4 \\ 1 \\ 5 \end{pmatrix} + \lambda \begin{pmatrix} 1 \\ 2 \\ -1 \end{pmatrix}$. Beam B has equation $\mathbf{r} = \begin{pmatrix} 3 \\ 0 \\ 2 \end{pmatrix} + \mu \begin{pmatrix} 2 \\ -1 \\ 3 \end{pmatrix}$. Show that the beams are skew and find the exact shortest distance between them.
 
-
+---
 4. A ray of light travels along the line with equation $\mathbf{r} = \begin{pmatrix} 0 \\ 5 \\ 3 \end{pmatrix} + t \begin{pmatrix} 1 \\ -1 \\ 2 \end{pmatrix}$. It hits a mirror defined by the plane $x + 2y - z = 11$ and is reflected. Find a vector equation for the path of the reflected ray.
 
-
+---
 5.  Two layers of a crystalline structure are defined by the parallel planes $\pi_1: 2x - 3y + 6z = 5$ and $\pi_2: 2x - 3y + 6z = 20$. Calculate the distance between these two layers.
 
-
+---
 6. Two parallel power lines run between pylons. Their equations are given as:
     Line 1: $\mathbf{r} = \begin{pmatrix} 2 \\ 1 \\ 0 \end{pmatrix} + \lambda \begin{pmatrix} 3 \\ -1 \\ 2 \end{pmatrix}$
     Line 2: $\mathbf{r} = \begin{pmatrix} 1 \\ 4 \\ -2 \end{pmatrix} + \mu \begin{pmatrix} 3 \\ -1 \\ 2 \end{pmatrix}$.
     Find the shortest distance between these two power lines.
 
-
+---
 7.  A point **P** has coordinates (6, 3, -2). Find the coordinates of its reflection in the line with equation $\mathbf{r} = \begin{pmatrix} 1 \\ 0 \\ -1 \end{pmatrix} + t \begin{pmatrix} 2 \\ 1 \\ -2 \end{pmatrix}$.
 
 ---

@@ -11,13 +11,11 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "Custom Vectors Problem Sheet 1"
             }
           }
@@ -261,9 +259,9 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
     "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.md",
     "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 2.md",
+    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
     "Further Mathematics/Vectors/Worksheet/Prompt.md",
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Series/Sum Of Cubes.md",
