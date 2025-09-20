@@ -11,12 +11,14 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 1.pdf"
+                "file": "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DMP Problem Sheet - Vectors 1"
+              "icon": "lucide-file",
+              "title": "Custom Vectors Problem Sheet 2"
             }
           }
         ]
@@ -259,8 +261,8 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 2.md",
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 1.pdf",
+    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 2.md",
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/Worksheet/Prompt.md",
     "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
