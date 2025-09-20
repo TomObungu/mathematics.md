@@ -25,14 +25,12 @@
             "id": "7ad3f9ecd592d859",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Series/Sum Of Cubes.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sum Of Cubes"
+              "icon": "lucide-file-text",
+              "title": "Edexcel_as_alevel_pure_mathematics_year_1_as"
             }
           }
         ],
@@ -93,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 381.5
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -228,17 +226,50 @@
         "height": 800,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "409c22ab2c248704",
+        "type": "window",
+        "children": [
+          {
+            "id": "9f6d916aef170991",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f71f2ce0704bc06",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
-    "Further Mathematics/Series/Sum Of Squares.md",
+    "Mathematics/Binomial Expansion.md",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Mathematics/Completing The Square.md",
     "Further Mathematics/Series/Sum Of Cubes.md",
+    "Further Mathematics/Series/Sum Of Squares.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Series/Sum Of Natural Numbers.md",
     "Further Mathematics/Series",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
@@ -270,9 +301,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
-    "Further Mathematics/Matrices/Proof of Inverse Matrix Identities.md",
-    "Further Mathematics/Matrices/Matrix Multiplication.md",
-    "Further Mathematics/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Vectors/Worksheet",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Vectors/corrected questions/attachments",
