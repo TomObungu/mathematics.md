@@ -194,7 +194,7 @@ However since this is a plane we can use calculate the reflection in the point $
 
 $$
 \begin{gather*}
-\vec{OQ} = \vec{OA} + 2\left( \frac{2\sqrt{ 6 }}{3} \right)\hat{n} \\ \\
+\vec{OQ} = \vec{OA} + 2\left( \frac{2\sqrt{ 6 }}{3} \right)\vec{n} \\ \\
 = \begin{pmatrix}
 1 \\
 0 \\
