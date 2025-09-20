@@ -10,4 +10,36 @@ r^{3}-(r-1)^{3} = r^{3}-(r^{3}-3r^{2}+3r-1) \\ \\
 \end{gather*}
 $$
 
-Use that result, it possible to form an evaluation using the formulas. This will lead to a 
+Use that result, it possible to form an evaluation using the formulas. 
+$$
+\begin{gather*}
+\sum_{r=1}^n 3r^{2}-3r+1 = \sum_{1}^n r^{3}-(r-1)^{3} \\ \\
+= 1^{3} - 0^{3} \\ \\
+= 2^{3}-1^{3} \\ \\
+= 3^{3} - 2^{3} \\ \\
+= 4^{3}-3^{3}
+\end{gather*}
+$$
+This will lead to a type of pattern in summation known a as a **telescoping sum**. 
+$$
+\begin{gather*}
+\sum_{r=1}^n 3r^{2}-3r+1 = \sum_{1}^n r^{3}-(r-1)^{3} \\ \\
+= \cancel{ 1^{3} } - 0^{3} \\ \\
+= \cancel{ 2^{3} }-\cancel{ 1^{3} } \\ \\
+= \cancel{ 3^{3} } - \cancel{ 2^{3} } \\ \\
+= 4^{3}-\cancel{ 3^{3} } \\ \\ 
+\dots \\ \\
+= \cancel{ (n-1)^{3} } -\cancel{ (n-2)^{3} }\\ \\
+= n^{3}-\cancel{ (n-1)^{3} } \\ \\
+= n^{3}
+\end{gather*}
+$$
+Therefore it possible to evaluate $r^{2}$ by rearranging to find $r$. Remember it is also beneficial to evaluate the constant first when dealing with equations. You can evaluate fractions by multiplying everything by LCM of the denominators and factoring out by the fraction that has the LCM of the denominators
+$$
+\begin{gather*}
+n^{3} = \sum_{r=1}^n 3r^{2}-3r+1 \\ \\
+3\sum_{r=1}^n r^{2} = -\sum_{r=1}^n 3r + \sum_{r=1} ^n 1 \\ \\
+\sum_{r=1}^nr^{2} = \frac{1}{3}\left( \frac{3n(n+1)}{2} + n \right) \\ \\
+= \frac{1}{6}()
+\end{gather*}
+$$
