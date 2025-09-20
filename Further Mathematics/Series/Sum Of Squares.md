@@ -34,16 +34,16 @@ $$
 = n^{3}
 \end{gather*}
 $$
-Therefore it possible to evaluate $r^{2}$ by rearranging to find $r$. Remember it is also beneficial to evaluate the constant first when dealing with equations. You can evaluate fractions by multiplying everything by LCM of the denominators and factoring out by the fraction that has the LCM of the denominators
+Therefore it possible to evaluate $r^{2}$ by rearranging to find $r$. Remember it is also beneficial to evaluate the constant first when dealing with equations. 
+
+You can evaluate fractions by multiplying everything inside the bracket by the largest denominator and then dividing out the fraction by the largest denominator
+
+It also better to have both leading terms to be positive 
 $$
 \begin{gather*}
 n^{3} = \sum_{r=1}^n 3r^{2}-3r+1 \\ \\
-3\sum_{r=1}^n r^{2} = n^{3}-\sum_{r=1}^n 3r + \sum_{r=1} ^n 1 \\ \\
-\sum_{r=1}^nr^{2} = \frac{1}{3}\left( n^{3} -\frac{3n(n+1)}{2} + n \right) \\ \\
-= \frac{1}{6}(2n^{3}-6n(n+1) +2n) \\ \\
-= \frac{1}{6}(2n^{3}-6n^{2}+6n+2n) \\ \\
-= \frac{1}{6}(2n^{3}-6n^{2}+8n) \\ \\
-= \frac{1}{6}(n(2n^{2}-6n+8)) \\\ \\ 
-= \frac{1}{6}(n())
+-3\sum_{r=1}^n r^{2} = -n^{3}-\sum_{r=1}^n 3r + \sum_{r=1} ^n 1 \\ \\
+3\sum_{r=1}^nr^{2}=n^{3}+\sum_{r=1}^n
+
 \end{gather*}
 $$
