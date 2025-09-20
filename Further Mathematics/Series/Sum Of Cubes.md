@@ -11,7 +11,7 @@ $$
 \end{pmatrix}\left( \frac{b}{a}x \right)^{2} + \begin{pmatrix}
 4 \\
 3
-\end{pmatrix}\left( \frac{b}{a}x \right)^{3} \right) + \left( \frac{b}{a}x \right)^{4}
+\end{pmatrix}\left( \frac{b}{a}x \right)^{3} + \left( \frac{b}{a}x \right)^{4}\right)
 $$
 
 
