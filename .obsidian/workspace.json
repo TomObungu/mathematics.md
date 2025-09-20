@@ -25,12 +25,14 @@
             "id": "7ad3f9ecd592d859",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                "file": "Further Mathematics/Series/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -192,8 +194,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ad3f9ecd592d859",
+  "floating": {
+    "id": "0b17523458c05b50",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3947225a9a525744",
+        "type": "window",
+        "children": [
+          {
+            "id": "e78ec1c9a4e29e2d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04cb7a1f4b6a5605",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "04cb7a1f4b6a5605",
   "lastOpenFiles": [
+    "Further Mathematics/Series/Untitled.md",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Further Mathematics/Series",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
@@ -226,19 +268,16 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Matrices/Proof of Inverse Matrix Identities.md",
     "Further Mathematics/Matrices/Matrix Multiplication.md",
     "Further Mathematics/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Matrices/Inverting a 2 x 2 matrix.md",
-    "Further Mathematics/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "Further Mathematics/Vectors/Worksheet",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Vectors/corrected questions/attachments",
     "Further Mathematics/Vectors/corrected questions",
     "Untitled.canvas",
     "Further Mathematics/Vectors/attachments",
-    "Further Mathematics/Vectors",
-    "Further Mathematics/Linear Transformations/corrected questions/attachments/attachments"
+    "Further Mathematics/Vectors"
   ]
 }
