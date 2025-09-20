@@ -12,7 +12,26 @@ $$
 ![[Pasted image 20250908170657.png]]
 
 # teachers solution
+For such questions use the $y=mx+c$ and set your transformation points as  $\begin{pmatrix}x \\ mx+c\end{pmatrix}$ and solve for m and c.
 
+$$
+\begin{gather*}
+\begin{pmatrix}
+2  & 1 \\
+2 & 3
+\end{pmatrix} \begin{pmatrix}
+x \\
+mx+c
+\end{pmatrix} = \begin{pmatrix}
+x \\
+mx+c
+\end{pmatrix} \\ \\
+2x+mx + c = x \\ \\
+2x+3mx+3c = mx + c \\ \\ \\
+x(m+1) + c= 0 \\ \\
+2x(m+1) + 3c = 0
+\end{gather*}
+$$
 
 # Non-teacher solution
 b) 
