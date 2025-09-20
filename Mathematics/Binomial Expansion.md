@@ -34,6 +34,13 @@ n \\
 \end{pmatrix}\left( \frac{b}{a}x \right) +\begin{pmatrix}
 n \\
 2
-\end{pmatrix} \right)
+\end{pmatrix}\left( \frac{b}{a}x \right)^{2} + \begin{pmatrix}
+n \\
+3
+\end{pmatrix} \right)\left( \frac{b}{a}x \right)^{3} \dots \begin{pmatrix}
+n \\
+r
+\end{pmatrix}\left( \frac{b}{a}x \right)^{r} + (\frac{b}{a} x)^{n})
 \end{gather*}
 $$
+
