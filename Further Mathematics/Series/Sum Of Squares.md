@@ -15,9 +15,9 @@ $$
 \begin{gather*}
 \sum_{r=1}^n 3r^{2}-3r+1 = \sum_{1}^n r^{3}-(r-1)^{3} \\ \\
 = 1^{3} - 0^{3} \\ \\
-= 2^{3}-1^{3} \\ \\
-= 3^{3} - 2^{3} \\ \\
-= 4^{3}-3^{3}
++ 2^{3}-1^{3} \\ \\
++ 3^{3} - 2^{3} \\ \\
++ 4^{3}-3^{3}
 \end{gather*}
 $$
 This will lead to a type of pattern in summation known a as a **telescoping sum**. 
@@ -25,12 +25,12 @@ $$
 \begin{gather*}
 \sum_{r=1}^n 3r^{2}-3r+1 = \sum_{1}^n r^{3}-(r-1)^{3} \\ \\
 = \cancel{ 1^{3} } - 0^{3} \\ \\
-= \cancel{ 2^{3} }-\cancel{ 1^{3} } \\ \\
-= \cancel{ 3^{3} } - \cancel{ 2^{3} } \\ \\
-= 4^{3}-\cancel{ 3^{3} } \\ \\ 
++ \cancel{ 2^{3} }-\cancel{ 1^{3} } \\ \\
++ \cancel{ 3^{3} } - \cancel{ 2^{3} } \\ \\
++ 4^{3}-\cancel{ 3^{3} } \\ \\ 
 \dots \\ \\
-= \cancel{ (n-1)^{3} } -\cancel{ (n-2)^{3} }\\ \\
-= n^{3}-\cancel{ (n-1)^{3} } \\ \\
++ \cancel{ (n-1)^{3} } -\cancel{ (n-2)^{3} }\\ \\
++ n^{3}-\cancel{ (n-1)^{3} } \\ \\
 = n^{3}
 \end{gather*}
 $$
