@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Lines Distances.md",
+                "file": "Mathematics/Binomial Expansion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lines Distances"
-            }
-          },
-          {
-            "id": "7ad3f9ecd592d859",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Edexcel_as_alevel_pure_mathematics_year_1_as"
+              "title": "Binomial Expansion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,6 +233,18 @@
                   "icon": "lucide-file-text",
                   "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
                 }
+              },
+              {
+                "id": "7ad3f9ecd592d859",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel_as_alevel_pure_mathematics_year_1_as"
+                }
               }
             ]
           }
@@ -260,10 +259,11 @@
       }
     ]
   },
-  "active": "7ad3f9ecd592d859",
+  "active": "3f71f2ce0704bc06",
   "lastOpenFiles": [
     "Mathematics/Binomial Expansion.md",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Mathematics/Completing The Square.md",
     "Further Mathematics/Series/Sum Of Cubes.md",
     "Further Mathematics/Series/Sum Of Squares.md",
@@ -302,7 +302,6 @@
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
     "Further Mathematics/Vectors/Worksheet",
-    "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Vectors/corrected questions/attachments",
     "Further Mathematics/Vectors/corrected questions",
     "Untitled.canvas",
