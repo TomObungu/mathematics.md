@@ -25,12 +25,14 @@
             "id": "7ad3f9ecd592d859",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf"
+                "file": "Further Mathematics/Vectors/corrected questions/Q. Find the shortest length of pipe needed to connect C to W.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vector Problem Solving"
+              "icon": "lucide-file",
+              "title": "Q. Find the shortest length of pipe needed to connect C to W"
             }
           }
         ],
@@ -194,10 +196,12 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250920094813.png",
+    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
+    "Further Mathematics/Vectors/corrected questions/Q. Find the shortest length of pipe needed to connect C to W.md",
     "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
     "Further Mathematics/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250920093759.png",
-    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/corrected questions/Q. Find the angle at which the ball hits the ground.md",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919202941.png",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919202920.png",
@@ -230,7 +234,6 @@
     "Further Mathematics/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "Further Mathematics/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Vectors/Dot Product (Scalar Product).md",
-    "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250918205305.png",
     "Further Mathematics/Vectors/Worksheet",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
