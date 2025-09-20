@@ -21,6 +21,21 @@ W : r=\begin{pmatrix}
 -1+2\lambda \\
 -1+3\lambda \\
 -3
-\end{pmatrix}
+\end{pmatrix} \\ \\
+\vec{CW} = \begin{pmatrix}
+2\lambda \\
+1+3\lambda \\
+-3
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+2\lambda \\
+1+3\lambda \\
+-3
+\end{pmatrix} \cdot \begin{pmatrix}
+2 \\
+3 \\
+0
+\end{pmatrix} = 0 \\ \\ 
+\lambda=-\frac{3}{13}
 \end{gather*}
 $$
