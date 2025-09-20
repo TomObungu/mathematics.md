@@ -14,8 +14,31 @@ This evaluated equation is also the formula for the $nth$ triangular number
 
 It is possible to split the summation into two separate parts by evaluation:
 $$
-\sum_{r=k}^n=\sum_{r=1}
+\sum_{r=k}^nf(r)= \sum_{r=1}^nf(r) - \sum_{r=1}^{k-1}f(r)
 $$
 
-# Summation with a constant
-When a constant is 
+# Summation expression with a constant
+When a constant is with summation of an expression. It is possible to move the constant to the other side. Of the summation.
+$$
+\begin{gather*}
+\sum_{r=1}^nkf(r)  \\ \\
+= kf(1)+ kf(2) + k(3) \dots k(n) \\ \\
+= k(f(1) + f(2) + f(3) \dots f(n)) \\ \\
+= k\sum_{r=1}^nf(r)
+\end{gather*}
+$$
+
+# Summation with the sum of two or more expressions
+It possible to individually evaluation each distinct expression in a summation: 
+$$
+\begin{gather*}
+\sum_{r=1}^n f(r) + g(r) \\ \\
+= f(1) + g(1) \\ \\
+= f(2) + g(2) \\ \\
+= f(3) + g(3) \\ \\
+\dots \\ \\
+= f(n) + g(n) \\ \\
+= \sum_{r=1}^nf(r) + \sum_{r=1}^ng(r)
+\end{gather*}
+$$
+
