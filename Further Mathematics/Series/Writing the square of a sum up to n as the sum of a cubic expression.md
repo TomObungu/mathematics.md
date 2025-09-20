@@ -25,11 +25,27 @@ $$
 $$
 This might faster than typing $\frac{1}{4}(10)^{2}(11)^{2}$ into your calculator 
 
-## Problem solving example:
+## Problem solving example 1:
 *Find n such that $\sum_{r=1}^nr^{3}=8281$*
 
 In this scenario, it might be easier to use $\left(\frac{n(n+1)}{2}\right)^{2}$ than $\frac{1}{4}n^{2}(n+1)^{2}$
 
 $$
+\begin{gather*}
+\left( \frac{n(n+1)}{2} \right)^{2}=8281 \\ \\
+\frac{n(n+1)}{2}=91 \\ \\
+n(n+1)=182 \\ \\
+\colorbox{purple}{$n=13$} \qquad \cancel{ n = -14 }
+\end{gather*}
+$$
+## Problem solving example 2:
+*Simplify $\frac{\sum_{r=1}^n {3}r^{3}}{\sum_{r=1}^n 2r}$*
 
+In this scenario it much simpler to directly evaluate the expression using the identity expressions
+
+$$
+\begin{gather*}
+\frac{\sum_{r=1}^n {3}r^{3}}{\sum_{r=1}^n 2r} = \frac{3\sum_{r=1}^n r^{3}}{2\sum_{r=1}^n r} \\ \\
+\left( \frac{3}{2} \right)\frac{\sum_{r=1}^n {3}r^{3}}{\sum_{r=1}^n 2r} 
+\end{gather*}
 $$
