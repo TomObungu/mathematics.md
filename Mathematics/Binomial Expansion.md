@@ -21,6 +21,9 @@ $$
 
 From A level mathematics. If n is not a natural number i.e a fraction or negative you can find the infinite series expansion of for $(a+bx)^{n}$ using the formula:
 
+This is possible because the Numworks calculator can actually use the nCr formula for non-natural values of x.
+
+
 $$
 \begin{gather*} 
 (1+bx) = b^{n} + n(bx) + \frac{n(n-1)}{2!}(bx)^{2} +\frac{n(n-1)(n-2)}{3!}(bx)^{3} \dots \begin{pmatrix}
