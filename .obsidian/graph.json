@@ -29,10 +29,17 @@
       }
     },
     {
+      "query": "path:\"Further Mathematics/Series\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 0.90625,
   "linkDistance": 30,
-  "scale": 1.043306409244179,
-  "close": false
+  "scale": 0.4636917374418573,
+  "close": true
 }
