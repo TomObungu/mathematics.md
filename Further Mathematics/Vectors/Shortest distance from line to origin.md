@@ -1,0 +1,3 @@
+This is a special case that is does not follow the same procedure as [[Lines Distances]] in that to work out the shortest distance from a point to a line you must take the dot product between the general line formula and the point on the line. This is because the point will be $(0,0,0)$ thus the dot product will be 0 and you will be unable to solve for $\lambda$.
+
+Therefore in order to work out the shortest distance from the line to the origin you must take the dot product between the general point on the line and direction vector of the line. This is because 
