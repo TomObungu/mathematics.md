@@ -38,8 +38,12 @@ Therefore it possible to evaluate $r^{2}$ by rearranging to find $r$. Remember i
 $$
 \begin{gather*}
 n^{3} = \sum_{r=1}^n 3r^{2}-3r+1 \\ \\
-3\sum_{r=1}^n r^{2} = -\sum_{r=1}^n 3r + \sum_{r=1} ^n 1 \\ \\
-\sum_{r=1}^nr^{2} = \frac{1}{3}\left( \frac{3n(n+1)}{2} + n \right) \\ \\
-= \frac{1}{6}()
+3\sum_{r=1}^n r^{2} = n^{3}-\sum_{r=1}^n 3r + \sum_{r=1} ^n 1 \\ \\
+\sum_{r=1}^nr^{2} = \frac{1}{3}\left( n^{3} -\frac{3n(n+1)}{2} + n \right) \\ \\
+= \frac{1}{6}(2n^{3}-6n(n+1) +2n) \\ \\
+= \frac{1}{6}(2n^{3}-6n^{2}+6n+2n) \\ \\
+= \frac{1}{6}(2n^{3}-6n^{2}+8n) \\ \\
+= \frac{1}{6}(n(2n^{2}-6n+8)) \\\ \\ 
+= \frac{1}{6}(n())
 \end{gather*}
 $$
