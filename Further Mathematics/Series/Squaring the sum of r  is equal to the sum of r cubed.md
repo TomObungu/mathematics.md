@@ -1,3 +1,4 @@
+#Identities #shortcuts
 It is possible to show that:
 $$
 \left( \sum_{r=1}^nr \right)^{2}=\sum_{r=1}^nr^{3}
