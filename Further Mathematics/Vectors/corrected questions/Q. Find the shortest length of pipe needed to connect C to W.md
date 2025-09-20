@@ -36,6 +36,12 @@ W : r=\begin{pmatrix}
 3 \\
 0
 \end{pmatrix} = 0 \\ \\ 
-\lambda=-\frac{3}{13}
+\lambda=-\frac{3}{13} \\ \\
+\implies  \vec{CW} = \begin{pmatrix}
+-\frac{6}{13} \\
+\frac{4}{13} \\
+-3
+\end{pmatrix} \\ \\
+\left|\vec{CW}\right| =  \sqrt{ \frac{121}{13} } = \frac{11\sqrt{ 13 }}{13}
 \end{gather*}
 $$
