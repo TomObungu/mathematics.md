@@ -25,14 +25,12 @@
             "id": "7ad3f9ecd592d859",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Vectors/corrected questions/Q..md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Q."
+              "icon": "lucide-file-text",
+              "title": "Vector Problem Solving"
             }
           }
         ],
@@ -196,8 +194,8 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/corrected questions/Q..md",
+    "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250920101051.png",
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
