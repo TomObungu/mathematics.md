@@ -11,14 +11,12 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheet/DProblem Sheet - Vectors 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "DProblem Sheet - Vectors 1"
+              "icon": "lucide-file-text",
+              "title": "DMP Problem Sheet - Vectors 1"
             }
           }
         ]
@@ -261,11 +259,13 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
-    "Further Mathematics/Vectors/Worksheet/DProblem Sheet - Vectors 1.md",
     "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 2.md",
-    "Further Mathematics/Vectors/Worksheet/Prompt.md",
+    "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 1.pdf",
     "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
+    "Further Mathematics/Vectors/Worksheet/Prompt.md",
+    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
+    "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
+    "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press",
     "Further Mathematics/Series/Sum Of Cubes.md",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
@@ -304,8 +304,6 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
     "Further Mathematics/Vectors/Worksheet",
     "Further Mathematics/Vectors/corrected questions/attachments",
-    "Further Mathematics/Vectors/corrected questions",
-    "Untitled.canvas",
-    "Further Mathematics/Vectors/attachments"
+    "Untitled.canvas"
   ]
 }
