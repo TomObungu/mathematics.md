@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Series/Sum Of Cubes.md",
+                "file": "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sum Of Cubes"
+              "title": "Custom Vectors Problem Sheet 1"
             }
           }
         ]
@@ -211,7 +211,7 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -261,18 +261,20 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Series/Sum Of Squares.md",
+    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 2.md",
+    "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.md",
+    "Further Mathematics/Vectors/Worksheet/Prompt.md",
+    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Series/Sum Of Cubes.md",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Further Mathematics/Series/Sum Of Squares.md",
     "Further Mathematics/Series/Sum Of Natural Numbers.md",
     "Mathematics/Binomial Expansion.md",
-    "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
     "Mathematics/Completing The Square.md",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Series",
     "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
-    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250920104545.png",
@@ -299,7 +301,6 @@
     "Further Mathematics/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250919180731.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
-    "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
     "Further Mathematics/Vectors/Worksheet",
     "Further Mathematics/Vectors/corrected questions/attachments",
