@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Series/Writing a cubic expression as the square of a sum.md",
+                "file": "Further Mathematics/Series/Writing the square of a sum up to n as the sum of a cubic expression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing a cubic expression as the square of a sum"
+              "title": "Writing the square of a sum up to n as the sum of a cubic expression"
             }
           }
         ]
@@ -261,8 +261,9 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Further Mathematics/Series/Writing the square of a sum up to n as the sum of a cubic expression.md",
     "Further Mathematics/Series/Sum Of Cubes.md",
-    "Further Mathematics/Series/Writing a cubic expression as the square of a sum.md",
     "Further Mathematics/Series/corrected questions/Q. Slide 13.md",
     "Further Mathematics/Series/corrected questions/attachments/Pasted image 20250920145833.png",
     "Further Mathematics/Series/corrected questions/attachments",
@@ -277,7 +278,6 @@
     "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Series/Sum Of Natural Numbers.md",
     "Mathematics/Binomial Expansion.md",
@@ -304,7 +304,6 @@
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919202941.png",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919202920.png",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919201516.png",
-    "Further Mathematics/Vectors/Proving a line is parallel to another plane.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250919180731.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
     "Untitled.canvas"
