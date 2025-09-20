@@ -16,6 +16,18 @@ $$
 
 
 $$
-r^{4}-(r^{4}-4r^{3}+6r^{2}-4r+1) = 4r^{3}-6r^{2}+4r-1
+\begin{gather*}
+r^{4} - (r-1)^{4}\\ \\
+= r^{4}-(r^{4}-4r^{3}+6r^{2}-4r+1) = 4r^{3}-6r^{2}+4r-1
+\end{gather*}
+
+$$
+Evaluating the LHS expression produces a telescoping series:
+$$
+\begin{gather*}
+r^{4}-(r-1)^{4} \\ \\
+= 1^{4} - 0^{4} \\ \\
+=2^{4} - 1^{4}
+\end{gather*}
 $$
 
