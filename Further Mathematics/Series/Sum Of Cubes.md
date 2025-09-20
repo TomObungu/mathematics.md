@@ -58,3 +58,4 @@ $$
 \sum_{r=1}^nr^{3}=\frac{1}{4}n^{2}(n+1)^{2}
 $$
 
+# Writing a cubic expression as the square of a sum

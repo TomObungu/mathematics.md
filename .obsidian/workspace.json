@@ -11,12 +11,14 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf"
+                "file": "Further Mathematics/Series/Sum Of Cubes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DMP Problem Sheet - Vectors 1"
+              "icon": "lucide-file",
+              "title": "Sum Of Cubes"
             }
           }
         ]
@@ -259,9 +261,15 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
-    "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
+    "Further Mathematics/Series/corrected questions/Q. Slide 13.md",
+    "Further Mathematics/Series/corrected questions/attachments/Pasted image 20250920145833.png",
+    "Further Mathematics/Series/corrected questions/attachments",
+    "Further Mathematics/Series/Sum Of Squares.md",
+    "Further Mathematics/Series/corrected questions",
+    "Further Mathematics/Vectors/Angles between planes.md",
     "Further Mathematics/Vectors/Worksheets/Vector Problem Solving.pdf",
+    "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
+    "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
     "Further Mathematics/Vectors/Worksheet/Prompt.md",
     "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
@@ -270,12 +278,10 @@
     "Further Mathematics/Series/Sum Of Cubes.md",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "Further Mathematics/Series/Sum Of Squares.md",
     "Further Mathematics/Series/Sum Of Natural Numbers.md",
     "Mathematics/Binomial Expansion.md",
     "Mathematics/Completing The Square.md",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "Further Mathematics/Series",
     "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
@@ -283,7 +289,6 @@
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/Distances between Planes.md",
-    "Further Mathematics/Vectors/Angles between planes.md",
     "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/Planes.md",
     "Further Mathematics/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
@@ -299,11 +304,8 @@
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919202920.png",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919201516.png",
     "Further Mathematics/Vectors/Proving a line is parallel to another plane.md",
-    "Further Mathematics/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250919180731.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
-    "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
-    "Further Mathematics/Vectors/Worksheets",
     "Untitled.canvas"
   ]
 }
