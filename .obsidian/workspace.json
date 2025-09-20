@@ -25,14 +25,12 @@
             "id": "7ad3f9ecd592d859",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Vectors/corrected questions/Q..md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Q."
+              "icon": "lucide-file-text",
+              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
             }
           }
         ],
@@ -196,19 +194,21 @@
   },
   "active": "7ad3f9ecd592d859",
   "lastOpenFiles": [
-    "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
+    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
+    "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
     "Further Mathematics/Vectors/Shortest distance from line to origin.md",
+    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
+    "Further Mathematics/Vectors/attachments/Pasted image 20250920104545.png",
+    "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Vectors/Cross Product.md",
     "Further Mathematics/Vectors/Distances between Planes.md",
-    "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/Angles between planes.md",
-    "Further Mathematics/Vectors/corrected questions/Q..md",
     "Further Mathematics/Vectors/Lines Distances.md",
     "Further Mathematics/Vectors/Planes.md",
     "Further Mathematics/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
-    "Further Mathematics/Vectors/Worksheet/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250920101051.png",
-    "Further Mathematics/Vectors/Worksheet/AI Vector Questions.md",
     "Further Mathematics/Vectors/corrected questions/Q. Find the shortest length of pipe needed to connect C to W.md",
     "Further Mathematics/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
     "Further Mathematics/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
@@ -226,15 +226,12 @@
     "Further Mathematics/Vectors/attachments/Pasted image 20250919175600.png",
     "Further Mathematics/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250919174027.png",
-    "Further Mathematics/Vectors/attachments/Pasted image 20250919174024.png",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Matrices/Proof of Inverse Matrix Identities.md",
     "Further Mathematics/Matrices/Matrix Multiplication.md",
     "Further Mathematics/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Matrices/Inverting a 2 x 2 matrix.md",
     "Further Mathematics/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
-    "Further Mathematics/Matrices/Determinants.md",
     "Further Mathematics/Vectors/Worksheet",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Vectors/corrected questions/attachments",

@@ -21,6 +21,12 @@ $$
 18
 \end{pmatrix} = 0 \\ \\
 -159+477\lambda = 0 \\ \\
-\lambda = \frac{1}{3}
+\lambda = \frac{1}{3} \\ \\
+d=\left|\begin{pmatrix}
+1 \\
+2 \\
+-1
+\end{pmatrix}\right| = \sqrt{ 6 } > 2 \\ \\ 
+\therefore \text{The octupus will not catch the fish}
 \end{gather*}
 $$
