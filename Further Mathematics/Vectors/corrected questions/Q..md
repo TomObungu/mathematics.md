@@ -11,7 +11,7 @@ $$
 1 + 3\lambda\\
 -7 +18\lambda
 \end{pmatrix} \\ \\
-\begin{pmatrix}
+\vec{OR} = \begin{pmatrix}
 -3 +12\lambda\\
 1 + 3\lambda\\
 -7 +18\lambda
