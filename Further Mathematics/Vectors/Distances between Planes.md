@@ -190,7 +190,7 @@ The shortest distance is the distance between the line and the point of intersec
 ![[Pasted image 20250915215723.png]]
 Recall from [[Lines Distances]] reflecting a point in a line is the vector from $\vec{A}$ to the intersection of the plane in direction of $n$ multiplied by 2.
 
-However since this is a plane we can use calculate the reflection in the point $\vec{A}$ by multiplying the distance by 2 and then multiplying that by the scalar product. 
+However since this is a plane we can use calculate the reflection in the point $\vec{A}$ by multiplying the distance by 2 and then multiplying that by the unit vector of the normal $\vec{n}$
 
 $$
 \begin{gather*}
