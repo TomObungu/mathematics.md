@@ -11,14 +11,12 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Vectors/Distances between Planes.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Distances between Planes"
+              "icon": "lucide-file-text",
+              "title": "DMP Problem Sheet - Vectors 1"
             }
           }
         ]
@@ -181,11 +179,11 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250921012230.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250921012210.png",
     "Further Mathematics/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
-    "Further Mathematics/Vectors/Distances between Planes.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Vectors/Shortest distance between skew lines.md",
@@ -226,7 +224,6 @@
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919202941.png",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919202920.png",
     "Further Mathematics/Linear Transformations/corrected questions/attachments/Pasted image 20250919201516.png",
-    "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250919180731.png",
     "Untitled.canvas"
   ]
 }
