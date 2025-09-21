@@ -178,13 +178,21 @@ For questions like this it is best to diagrammatically work through each part wi
 ![[Pasted image 20250915213108.png]]
 
 ## Reflecting a point in a plane
-![[Pasted image 20250915213426.png]]#
-###  My hack for this
+![[Pasted image 20250915213426.png]]
 a
 The shortest distance can be calculated using the formula
 $$
 d = \frac{\left| -2(1) + 3 - 5 \right|}{\sqrt{ 2^{2}+1^{2}+1^{2} }} = \frac{2\sqrt{ 6 }}{3}
 $$
+## Proper solution
+b) You need to find the direction vector starting from $\vec{OP}$ in the direction of the normal such that the value of $\lambda$ intersects the plane. The the reflected point is the starting point $\vec{OP}$ + $2\lambda\vec{n}$
+
+![[Pasted image 20250921012210.png]]
+
+![[Pasted image 20250921012230.png]]
+
+
+###  My hack for this ( Somtimes incorrect)
 b
 The shortest distance is the distance between the line and the point of intersection in the direction of the normal (through the normal)
 ![[Pasted image 20250915215723.png]]
