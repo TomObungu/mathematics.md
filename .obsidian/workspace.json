@@ -11,12 +11,14 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf"
+                "file": "Further Mathematics/Vectors/Distances between Planes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DMP Problem Sheet - Vectors 1"
+              "icon": "lucide-file",
+              "title": "Distances between Planes"
             }
           }
         ]
@@ -177,90 +179,13 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "0b17523458c05b50",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3947225a9a525744",
-        "type": "window",
-        "children": [
-          {
-            "id": "e78ec1c9a4e29e2d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "04cb7a1f4b6a5605",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "409c22ab2c248704",
-        "type": "window",
-        "children": [
-          {
-            "id": "9f6d916aef170991",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f71f2ce0704bc06",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
-                }
-              },
-              {
-                "id": "7ad3f9ecd592d859",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel_as_alevel_pure_mathematics_year_1_as"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Distances between Planes.md",
+    "Further Mathematics/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
+    "Further Mathematics/Vectors/Distances between Planes.md",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
     "Further Mathematics/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
@@ -269,7 +194,6 @@
     "Further Mathematics/Series/corrected questions/Q. Slide 13.md",
     "Further Mathematics/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
     "Further Mathematics/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Series/Sum Of Cubes.md",
     "Further Mathematics/Series/corrected questions/attachments/Pasted image 20250920145833.png",
     "Further Mathematics/Series/corrected questions/attachments",
@@ -282,13 +206,11 @@
     "Further Mathematics/Vectors/Worksheet/Custom Vectors Problem Sheet 1.pdf",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Series/Sum Of Natural Numbers.md",
     "Mathematics/Binomial Expansion.md",
     "Mathematics/Completing The Square.md",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
-    "Further Mathematics/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250920104545.png",
     "Further Mathematics/Vectors/Cross Product.md",
