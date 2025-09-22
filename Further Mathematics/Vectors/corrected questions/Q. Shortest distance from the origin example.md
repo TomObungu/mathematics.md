@@ -1,4 +1,7 @@
 ![[Pasted image 20250920101051.png]]
+# Simpler method
+
+# Old method
 a) You must work out line equation $\vec{AB}$ then write the point $\vec{OF}$ as the general  line in vector line  equation format.  Then you must work out the shortest distance from the point $\vec{OF}$ and demand it is perpendicular to the direction vector $\vec{AB}$ and work out $\lambda$
 $$
 \begin{gather*}

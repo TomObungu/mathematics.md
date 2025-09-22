@@ -11,12 +11,14 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf"
+                "file": "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DMP Problem Sheet - Vectors 1"
+              "icon": "lucide-file",
+              "title": "Q. Shortest distance from the origin example"
             }
           }
         ]
@@ -179,12 +181,14 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
+    "Further Mathematics/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Vectors/Lines Distances.md",
+    "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
     "Further Mathematics/Vectors/Distances between Planes.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250921012230.png",
     "Further Mathematics/Vectors/attachments/Pasted image 20250921012210.png",
-    "Further Mathematics/Vectors/Shortest distance from line to origin.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Vectors/Shortest distance between skew lines.md",
@@ -211,7 +215,6 @@
     "Mathematics/Binomial Expansion.md",
     "Mathematics/Completing The Square.md",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Vectors/attachments/Pasted image 20250920104545.png",
     "Further Mathematics/Vectors/Cross Product.md",
