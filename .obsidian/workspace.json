@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Vectors/Shortest distance from line to origin.md",
+                "file": "Further Mathematics/Vectors/Lines Distances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortest distance from line to origin"
+              "title": "Lines Distances"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Vectors/Shortest distance from line to origin.md",
+    "Further Mathematics/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Vectors/corrected questions/attachments/Pasted image 20250922081513.png",
     "Further Mathematics/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
     "Further Mathematics/Vectors/Lines Distances.md",
