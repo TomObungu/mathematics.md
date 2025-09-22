@@ -1,5 +1,25 @@
 
 ## Cross product method
+To find the shortest distance between a line and a point. Calculate the general point $\vec{OR}$ on the line and take the cross product between the unit vector of the direction vector $\hat{b}$
+
+This computation can be simplified into this equation 
+$$
+d = \frac{\left|\vec{OR} \times  \vec{b}\right|}{|\vec{b}|}
+$$
+
+
+## Worked question 1
+*In a crystallography experiment, a powerful laser is positioned at the origin point O. The laser is used to probe a specific atomic layer within a crystal. This layer is modelled as a plane with the equation:*
+*$$
+2x - y + 2z = 12
+$$*
+*where $x$, $y$, and $z$ are measured in nanometres.*
+*To avoid damaging the crystal, the laser must be activated at a safe distance from this atomic layer.*
+*Calculate the exact distance the laser must be from the atomic layer to ensure it is at the closest possible point of activation without intersecting it.*
+
+
+
+
 
 ## Old method
 This is a special case that is does not follow the same procedure as [[Lines Distances]] in that to work out the shortest distance from a point to a line you must take the dot product between the general line formula and the point on the line. This is because the point will be $(0,0,0)$ thus the dot product will be 0 and you will be unable to solve for $\lambda$.
