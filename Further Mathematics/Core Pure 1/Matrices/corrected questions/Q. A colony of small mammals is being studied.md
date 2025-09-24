@@ -127,7 +127,7 @@ $$
 \text{Let } N_{M} \text{ be the numerb of newborn males} \\ \\
 \begin{pmatrix}
 N_{F_{n}+1} \\
-N_{M+n+1} \\
+N_{M_{n}+1} \\
 J_{n + 1} \\
 B_{n +1}
 \end{pmatrix} = \begin{pmatrix}
