@@ -120,4 +120,20 @@ b = 0.45141696\\ \\
 b\approx 0.45
 \end{gather*}
 $$
-e)
+e) In such a question that presents you with new variables, try and think of ways to refine the matrix by adding new rows to consider the new variables in the matrix. Do not forget to include any parameters within the new variables given.
+$$
+\begin{gather*}
+\text{Let } N_{F} \text{ be the numnber of newborn females} \\ \\
+\text{Let } N_{M} \text{ be the numerb of newborn males} \\ \\
+\begin{pmatrix}
+N_{F_{n}+1} \\
+N_{M+n+1} \\
+J_{n + 1} \\
+B_{n +1}
+\end{pmatrix} = \begin{pmatrix}
+0 & 0 & 2 &  \\
+a  & b  & 0 \\
+0  & 0.48  & 0.96
+\end{pmatrix}
+\end{gather*}
+$$
