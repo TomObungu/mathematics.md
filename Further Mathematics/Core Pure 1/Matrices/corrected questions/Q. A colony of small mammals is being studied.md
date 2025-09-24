@@ -64,14 +64,51 @@ B_{0} = 25 \\ \\
 \therefore \text{There were 25 mammals at the start of the study}
 \end{gather*}
 $$
-c) With the previous equation it is now possible to solve for given $B_{0}=25$
+(ii) With the previous equation it is now possible to solve for given $B_{0}=25$
 $$
 40=2a(25)=50a\implies a=0.8
+$$
+c) For this question, I got caught up in computation. For such things if it is convienient, I can use the pi trick on the numworks to check however try at least work out the determinant of the matrix and the matrix of minors. Overall advice, for future questions, it is better to divide the computation into smaller chunks and then use pi trick / numworks to speed up calculation. It is better to not become reliant on it. 
+$$
+\mathbf{M^-1} = \begin{pmatrix}
+\frac{5}{4}b & \frac{5}{4} & -\frac{125}{48}b \\
+-1 & 0 & \frac{25}{12} \\
+\frac{1}{2} & 0 & 0
+\end{pmatrix}
 $$
 d) With the value of $a$ calculated it is now possible to find b based on the given information
 $$
 \begin{gather*}
 N_{n} + J_{n} +B_{n} = 1015 \\ \\
-
+\begin{pmatrix}
+596 \\
+464 \\
+437
+\end{pmatrix} = \begin{pmatrix}
+0 & 0 & 2 &  \\
+0.8  & b  & 0 \\
+0  & 0.48  & 0.96
+\end{pmatrix} \begin{pmatrix}
+N_{n}  \\
+J_{n} \\
+B_{n}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+N_{n}  \\
+J_{n} \\
+B_{n}
+\end{pmatrix} = \begin{pmatrix}
+\frac{5}{4}b & \frac{5}{4} & -\frac{125}{48}b \\
+-1 & 0 & \frac{25}{12} \\
+\frac{1}{2} & 0 & 0
+\end{pmatrix} \begin{pmatrix}
+596 \\
+464 \\
+437
+\end{pmatrix} = \begin{pmatrix}
+580-\frac{18865}{48}b \\
+\frac{3773}{12} \\
+298
+\end{pmatrix}
 \end{gather*}
 $$
