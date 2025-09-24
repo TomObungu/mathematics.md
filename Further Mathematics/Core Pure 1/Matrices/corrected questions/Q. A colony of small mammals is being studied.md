@@ -26,6 +26,7 @@ B_{0}
 $$
 With n = 0 now giving the values for n = 1. We can form an equation to get the values of n = 2.
 $$
+\begin{gather*}
 \begin{pmatrix}
 N_{2} \\
 J_{2} \\
@@ -34,5 +35,36 @@ B_{2}
 48 \\
 40 \\
 B_{2}
+\end{pmatrix} = \begin{pmatrix}
+0 & 0 & 2 &  \\
+a  & b  & 0 \\
+0  & 0.48  & 0.96
+\end{pmatrix} \begin{pmatrix}
+2B_{0} \\
+0 \\
+0.96B_{0}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+48 \\
+40 \\
+B_{2}
+\end{pmatrix} = \begin{pmatrix}
+1.92B_{0} \\
+2aB_{0} \\
+0.9216B_{0}
 \end{pmatrix}
+\end{gather*}
+$$
+From this it is now possible to form a solvable equations for the number of breeders at the beginning of the study.
+$$
+\begin{gather*}
+48 = 1.92B_{0} \\ \\
+B_{0} = 25 \\ \\
+\implies 25 \text{ breeders at the start of the study}\\ \\
+\therefore \text{There were 25 mammals at the start of the study}
+\end{gather*}
+$$
+c) With previous equation it is now possible to solve for given $B_{0}=25$
+$$
+40=2a(25)=50a\implies a=0.8
 $$
