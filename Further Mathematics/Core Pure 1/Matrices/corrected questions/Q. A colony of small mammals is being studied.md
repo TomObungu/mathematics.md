@@ -17,6 +17,22 @@ a  & b  & 0 \\
 0 \\
 0 \\
 B_{0}
-\end{pmatrix} = 
+\end{pmatrix} = \begin{pmatrix}
+2B_{0} \\
+0 \\
+0.96B_{0}
+\end{pmatrix}
 \end{gather*}
+$$
+With n = 0 now giving the values for n = 1. We can form an equation to get the values of n = 2.
+$$
+\begin{pmatrix}
+N_{2} \\
+J_{2} \\
+B_{2}
+\end{pmatrix} =\begin{pmatrix}
+48 \\
+40 \\
+B_{2}
+\end{pmatrix}
 $$
