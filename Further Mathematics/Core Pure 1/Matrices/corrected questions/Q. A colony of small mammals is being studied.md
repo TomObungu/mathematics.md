@@ -64,7 +64,14 @@ B_{0} = 25 \\ \\
 \therefore \text{There were 25 mammals at the start of the study}
 \end{gather*}
 $$
-c) With previous equation it is now possible to solve for given $B_{0}=25$
+c) With the previous equation it is now possible to solve for given $B_{0}=25$
 $$
 40=2a(25)=50a\implies a=0.8
+$$
+d) With the value of $a$ calculated it is now possible to find b based on the given information
+$$
+\begin{gather*}
+N_{n} + J_{n} +B_{n} = 1015 \\ \\
+
+\end{gather*}
 $$
