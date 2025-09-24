@@ -13,7 +13,8 @@ However, if the matrix is singular, there are two possibilities:
 - The system is consistent and has infinitely many solutions (all three equations are in the same plane)
 - Or it is inconsistent and has no solutions 
 ## Planes form a sheaf
-- If the the matrix equation is consistent i.e removing variable leads to equations that are linear multiples. Then the geometric interpretation is the planes forming a sheaf of infinite solutions.
+- If the the matrix equation is consistent i.e removing variable leads to equations that are linear multiples. Then the geometric interpretation is the planes forming a sheaf with a line of infinite solutions.
+
 ## Two or more parallel planes
 - Singular matrix
 - Equations are linear multiples only in matrix not when eliminating variables
