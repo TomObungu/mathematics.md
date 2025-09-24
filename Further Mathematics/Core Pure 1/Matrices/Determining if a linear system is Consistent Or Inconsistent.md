@@ -1,21 +1,19 @@
 [[Determinants]] [[Solving Systems Of Equations Using Matrices]]
 A system of linear equations is consistent if there is at least one set of values that satisfies all the equations simultaneously. Otherwise, it is inconsistent.
 
+# $det(M) \neq 0$
 If the matrix corresponding to a set of linear equations is **non-singular, then the system has one unique solution and is consistent.**
 
+### Planes meet at one point
+The geometric interpretation of a matrix system of equations being non-singular and consistent is the planes meeting at one point:
+![[Pasted image 20250924163634.png]]
+
+# $\det(M) = 0$
 However, if the matrix is singular, there are two possibilities: 
 - The system is consistent and has infinitely many solutions (all three equations are in the same plane)
-- Or it is inconsistent and has no solutions (Two or more parallel lines)
-### Planes meet at one point
-- Non-singular
-- System of equations is consistent 
-- Has one solution
-- This solution is the only case when matrix is non-singular
+- Or it is inconsistent and has no solutions 
 ## Planes form a sheaf
-- Singular matrix
-  - Consistent 
-- Equations are linear multiples when eliminating variables
-- Infinitely many solutions
+- If the the matrix equation is consistent i.e removing variable leads to equations that are linear multiples. Then the geometric interpretation is the planes forming a sheaf of infinite solutions.
 ## Two or more parallel planes
 - Singular matrix
 - Equations are linear multiples only in matrix not when eliminating variables

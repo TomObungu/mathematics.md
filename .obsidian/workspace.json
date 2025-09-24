@@ -23,12 +23,14 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf"
+                "file": "Further Mathematics/Core Pure 1/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Edexcel_as_alevel_pure_mathematics_year_1_as"
+              "icon": "lucide-file",
+              "title": "Determining if a linear system is Consistent Or Inconsistent"
             }
           }
         ],
@@ -192,15 +194,17 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
-    "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
-    "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
+    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924163634.png",
+    "Further Mathematics/Core Pure 1/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Resources/Applied Year 2.pdf",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
+    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
     "A Level",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle",
-    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Further Mechanics 1",
     "Further Mathematics/Core Pure 1",
@@ -209,7 +213,6 @@
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/attachments/Pasted image 20250922081513.png",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
     "Further Mathematics/Core Pure 1/Vectors/attachments/Pasted image 20250921012230.png",
     "Further Mathematics/Core Pure 1/Vectors/attachments/Pasted image 20250921012210.png",
@@ -232,7 +235,6 @@
     "Mathematics/Completing The Square.md",
     "Further Mathematics/Core Pure 1/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Core Pure 1/Vectors/attachments/Pasted image 20250920104545.png",
-    "Further Mathematics/Core Pure 1/Vectors/Cross Product.md",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/attachments/Pasted image 20250920101051.png",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/attachments/Pasted image 20250920094813.png",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/attachments/Pasted image 20250920093759.png",
