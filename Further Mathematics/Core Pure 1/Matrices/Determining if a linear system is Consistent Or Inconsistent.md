@@ -12,23 +12,28 @@ The geometric interpretation of a matrix system of equations being non-singular 
 However, if the matrix is singular, there are two possibilities: 
 - The system is consistent and has infinitely many solutions (all three equations are in the same plane)
 - Or it is inconsistent and has no solutions 
-## Planes form a sheaf
+
+# $\det (M) = 0$ & Consistent
+### Planes form a sheaf
 - If the the matrix equation is consistent i.e removing variable leads to equations that are linear multiples. Then the geometric interpretation is the planes forming a sheaf with a line of infinite solutions.
+- No planes are parallel
 ![[Pasted image 20250924165705.png]]
-## Planes lie in the same plane and overlap each other
-- If the system's equations all have parallel normal sand the system of equations are consistent then the planes all overlap in the same plane.
+### Planes lie in the same plane and overlap each other
+- If the system's equations all have parallel normals
+- The system of equations are consistent then the planes all overlap in the same plane.
 ![[Pasted image 20250924165952.png]]
-## Two or more parallel planes
-- If the matrix i
+
+## $\det (M) =0$ & Inconsistent
+### Two parallel planes
+- If the matrix has two planes that are parallel (share the same normal) then the system will form parallel planes with an intersecting plane
+![[Pasted image 20250924171642.png]]
+![[Pasted image 20250924171340.png]]
+### Three parallel planes
+- If all planes in the system of equations are parallel but the system is  inconsisten you will get 3 parallel planes
+![[Pasted image 20250924171758.png]]
 ## Planes form a prism
-- Singular matrix
-- No linear multiples in matrix and when eliminating variables
-- Inconsistent 
-- No solutions
-## All three equations represent same plane
-- Singular matrix
-- Consistent
-- Infinitely many solutions. 
+- If none of the planes are parallel and the system is inconsistent you will get a prism
+![[Pasted image 20250924171910.png]]
 
 ## Example 1
 *For each of the following values of k, determine whether the system of equations is consistent or inconsistent. 
