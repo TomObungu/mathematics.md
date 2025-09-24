@@ -29,7 +29,7 @@ However, if the matrix is singular, there are two possibilities:
 ![[Pasted image 20250924171642.png]]
 ![[Pasted image 20250924171340.png]]
 ### Three parallel planes
-- If all planes in the system of equations are parallel but the system is  inconsisten you will get 3 parallel planes
+- If all planes in the system of equations are parallel but the system is  inconsistent you will get 3 parallel planes
 ![[Pasted image 20250924171758.png]]
 ## Planes form a prism
 - If none of the planes are parallel and the system is inconsistent you will get a prism
