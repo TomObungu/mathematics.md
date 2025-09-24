@@ -14,12 +14,12 @@ However, if the matrix is singular, there are two possibilities:
 - Or it is inconsistent and has no solutions 
 ## Planes form a sheaf
 - If the the matrix equation is consistent i.e removing variable leads to equations that are linear multiples. Then the geometric interpretation is the planes forming a sheaf with a line of infinite solutions.
-
+![[Pasted image 20250924165705.png]]
+## Planes lie in the same plane and overlap each other
+- If the system's equations all have parallel normal sand the system of equations are consistent then the planes all overlap in the same plane.
+![[Pasted image 20250924165952.png]]
 ## Two or more parallel planes
-- Singular matrix
-- Equations are linear multiples only in matrix not when eliminating variables
-- Inconsistent (When eliminating variables the equations are not linear variables)
-- No solutions
+- If the matrix i
 ## Planes form a prism
 - Singular matrix
 - No linear multiples in matrix and when eliminating variables

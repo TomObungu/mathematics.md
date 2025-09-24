@@ -192,12 +192,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "07dcf71e28b63e86",
+  "floating": {
+    "id": "7e4208ec304d2924",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cca77c7248165cb7",
+        "type": "window",
+        "children": [
+          {
+            "id": "5dbf02f10a0820eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c26bc8c90523257c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c26bc8c90523257c",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924165952.png",
+    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924165949.png",
+    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924165705.png",
     "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924163634.png",
     "Further Mathematics/Core Pure 1/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Resources/Applied Year 2.pdf",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
@@ -222,7 +263,6 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
     "Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
-    "Further Mathematics/Core Pure 1/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "Further Mathematics/Core Pure 1/Series/Sum Of Cubes.md",
     "Further Mathematics/Core Pure 1/Series/corrected questions/attachments/Pasted image 20250920145833.png",
     "Further Mathematics/Core Pure 1/Series/Sum Of Squares.md",
@@ -236,10 +276,6 @@
     "Further Mathematics/Core Pure 1/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Core Pure 1/Vectors/attachments/Pasted image 20250920104545.png",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/attachments/Pasted image 20250920101051.png",
-    "Further Mathematics/Core Pure 1/Vectors/corrected questions/attachments/Pasted image 20250920094813.png",
-    "Further Mathematics/Core Pure 1/Vectors/corrected questions/attachments/Pasted image 20250920093759.png",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250919202941.png",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250919202920.png",
     "Untitled.canvas"
   ]
 }
