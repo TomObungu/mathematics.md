@@ -82,7 +82,9 @@ x + 3y + 3z = 2 &(2)\\
 $$
 Equations (4) and (5) are consistent because one in a linear multiple of the other. This is because equation (5) = $\frac{4}{5}$(4). 
 
-Thus the equation is consistent and the equations are linear multiples, thus the planes meet in a sheaf.
+Thus the equation is consistent and the equations are linear multiples $\implies$ The sytem is consistent.
+
+However in the matrix system of the equations, none of the planes are paralell (they do not share the same normal). This means non of the planes are parallel, meaning the planes form a sheaf.
 c.
 $$
 \begin{gather*}
@@ -94,6 +96,7 @@ x + 3y + 3z = 2  &(2)\\
 15x - 9z = -10 &(5)
 \end{gather*}
 $$
-Equations (4) and (5) are inconsistent so the system is inconsistent and has no solutions thus the planes form a prism
+Equations (4) and (5) are inconsistent so the system is inconsistent and has no solutions.
+This means that the system of equations is inconsistent. Looking at the matrix system of equations, non the planes are parallel, this means the system forms prisim.
 
 
