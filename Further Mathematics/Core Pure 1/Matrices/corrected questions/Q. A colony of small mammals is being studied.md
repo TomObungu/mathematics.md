@@ -76,7 +76,7 @@ $$
 \frac{1}{2} & 0 & 0
 \end{pmatrix}
 $$
-d) With the value of $a$ calculated it is now possible to find b based on the given information
+d) With the value of $a$ calculated it is now possible to find b based on the given information and solving the matrix equation using its inverse
 $$
 \begin{gather*}
 N_{n} + J_{n} +B_{n} = 1015 \\ \\
@@ -112,3 +112,12 @@ B_{n}
 \end{pmatrix}
 \end{gather*}
 $$
+Now with the values of $N_n$, $J_{n}$, $B_{n}$, it possible to substitute it back into the first equation for solve for b
+$$
+\begin{gather*}
+1015 = 580-\frac{18865}{48}b + \frac{3773}{12} + 298 \\ \\
+b = 0.45141696\\ \\
+b\approx 0.45
+\end{gather*}
+$$
+e)
