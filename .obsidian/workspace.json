@@ -23,14 +23,12 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Q. A colony of small mammals is being studied"
+              "icon": "lucide-file-text",
+              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
             }
           }
         ],
@@ -231,9 +229,11 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
+    "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
-    "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924202139.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182245.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182222.png",
@@ -248,8 +248,6 @@
     "Further Mathematics/Core Pure 1/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Resources/Applied Year 2.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
     "A Level",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
