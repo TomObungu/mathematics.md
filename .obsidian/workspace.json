@@ -87,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,6 +194,7 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.pdf",
     "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
@@ -240,7 +240,6 @@
     "Further Mathematics/Core Pure 1/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Lines Distances.md",
-    "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
     "Untitled.canvas"
   ]
 }
