@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+              "title": "Vector Problem Solving"
             }
           }
         ],
@@ -192,10 +192,20 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Vectors/Worksheet/Prompt.md",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
+    "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
+    "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press",
+    "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
+    "Further Mathematics/Vectors/Worksheet",
+    "Further Mathematics/Vectors",
+    "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
@@ -212,14 +222,7 @@
     "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924165949.png",
     "Further Mathematics/Core Pure 1/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Resources/Applied Year 2.pdf",
-    "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
-    "A Level",
-    "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Principle",
     "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
-    "Further Mathematics/Further Mechanics 1",
-    "Further Mathematics/Core Pure 1",
     "Further Mathematics/Core Pure 1/Vectors/Lines Distances.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
@@ -234,9 +237,6 @@
     "Further Mathematics/Core Pure 1/Series/Sum Of Cubes.md",
     "Further Mathematics/Core Pure 1/Series/Sum Of Squares.md",
     "Further Mathematics/Core Pure 1/Vectors/Angles between planes.md",
-    "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
-    "Further Mathematics/Vectors/Worksheet/Prompt.md",
-    "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
     "Untitled.canvas"
   ]
 }
