@@ -23,13 +23,11 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "Customised Problem Sheet - Vectors"
             }
           }
@@ -194,9 +192,9 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.pdf",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",

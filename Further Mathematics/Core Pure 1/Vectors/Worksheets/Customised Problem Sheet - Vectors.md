@@ -73,7 +73,6 @@
 
 ---
 
-
 ### **Mark Scheme**
 
 1.  **Answer:** $\sqrt{38}$ units/s
