@@ -40,7 +40,7 @@
     
 21. An astronomer needs to align a telescope perfectly perpendicular to a newly discovered planetary disk, modelled as a plane with normal vector $(2, -1, 1)$ that passes through the point (1, 2, 3). The telescope is positioned at the origin. Find the vector equation of the line along which the telescope must be pointed.
 ---
-22. **Construction Logistics:** On a construction site, materials are delivered to points A, B, and C. A new delivery point D must be established such that the displacement $\vec{AD}$ is equal to $2\vec{AB} - 3\vec{BC}$. Express the position vector of D, $\mathbf{d}$, in terms of the position vectors of A, B, and C ($\mathbf{a}, \mathbf{b}, \mathbf{c}$).
+22. *On a construction site, materials are delivered to points A, B, and C. A new delivery point D must be established such that the displacement $\vec{AD}$ is equal to $2\vec{AB} - 3\vec{BC}$. Express the position vector of D, $\mathbf{d}$, in terms of the position vectors of A, B, and C ($\mathbf{a}, \mathbf{b}, \mathbf{c}$).
 ---
 23. A laser beam is directed along the line $L: \mathbf{r} = \begin{pmatrix} 1 \ 0 \ 2 \end{pmatrix} + \lambda \begin{pmatrix} 2 \ -2 \ 1 \end{pmatrix}$. Find the acute angle between the laser's path and a reference direction vector $\mathbf{v} = \begin{pmatrix} 0 \ 1 \ 1 \end{pmatrix}$. Express your answer using an inverse trigonometric function.
 ---

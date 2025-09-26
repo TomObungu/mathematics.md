@@ -23,11 +23,13 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf"
+                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "Customised Problem Sheet - Vectors"
             }
           }
@@ -192,8 +194,8 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
