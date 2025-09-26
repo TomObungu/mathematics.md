@@ -190,49 +190,14 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "7e4208ec304d2924",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cca77c7248165cb7",
-        "type": "window",
-        "children": [
-          {
-            "id": "5dbf02f10a0820eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c26bc8c90523257c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Further Mathematics/Core Pure 1/Matrices/Inverting a 3 x 3 matrix.md",
+    "Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924202139.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182245.png",
@@ -272,8 +237,6 @@
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
     "Further Mathematics/Vectors/Worksheet/Prompt.md",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
-    "Further Mathematics/Core Pure 1/Series/Sum Of Natural Numbers.md",
-    "Mathematics/Binomial Expansion.md",
     "Untitled.canvas"
   ]
 }
