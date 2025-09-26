@@ -152,7 +152,7 @@
     *   **Explanation:** $\cos(\angle POQ) = \frac{\vec{OP} \cdot \vec{OQ}}{|\vec{OP}||\vec{OQ}|} = \frac{(1)(3)+(2)(1)+(1)(2)}{\sqrt{1+4+1}\sqrt{9+1+4}}$
       
 26.  **Answer:** (1, 6, -3)
-    *   **Explanation:** Use the reflection formula. Find the foot of the perpendicular from D(3, -2, 5) to the plane. The reflection is the point such that the foot of the perpendicular is its midpoint with D.
+    - **Explanation:** Use the reflection formula. Find the foot of the perpendicular from D(3, -2, 5) to the plane. The reflection is the point such that the foot of the perpendicular is its midpoint with D.
 
 27.  **Answer:** Distance = 3 units. The point would **not** be in shadow (as 3 ≤ 3, the light is at its maximum effective range).
     *   **Explanation:** Use the formula for the distance from point (x₁, y₁, z₁) to plane $ax+by+cz=d$: $D = \frac{|ax_1+by_1+cz_1 - d|}{\sqrt{a^2+b^2+c^2}}$. Substituting L(1,4,-1) gives $D = \frac{|2(1)-1(4)+2(-1)-8|}{\sqrt{4+1+4}} = \frac{|-12|}{3} = 4$. The conclusion is incorrect based on the calculation; the distance is 4, which is greater than 3, so the point **would** be in shadow. *(Marker's note: Award full marks for a correct distance of 4 with the correct conclusion "would be in shadow". The answer above is intentionally contradictory to test understanding of the "hence" part.)*
