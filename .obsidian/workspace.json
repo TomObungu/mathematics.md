@@ -23,12 +23,14 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf"
+                "file": "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Customised Problem Sheet - Vectors"
+              "icon": "lucide-file",
+              "title": "Customised Problem Sheet - Matrices"
             }
           }
         ],
@@ -190,13 +192,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "7504e1836e7feb25",
+  "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250909134724.png",
+    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Matrix equations practice.pdf",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Prompt.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
@@ -209,7 +215,6 @@
     "Further Mathematics/Vectors",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
@@ -234,10 +239,7 @@
     "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
-    "Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
     "Untitled.canvas"
   ]
 }
