@@ -40,7 +40,7 @@
     
 21. An astronomer needs to align a telescope perfectly perpendicular to a newly discovered planetary disk, modelled as a plane with normal vector $(2, -1, 1)$ that passes through the point (1, 2, 3). The telescope is positioned at the origin. Find the vector equation of the line along which the telescope must be pointed.
 ---
-22. *On a construction site, materials are delivered to points A, B, and C. A new delivery point D must be established such that the displacement $\vec{AD}$ is equal to $2\vec{AB} - 3\vec{BC}$. Express the position vector of D, $\mathbf{d}$, in terms of the position vectors of A, B, and C ($\mathbf{a}, \mathbf{b}, \mathbf{c}$).
+22. On a construction site, materials are delivered to points A, B, and C. A new delivery point D must be established such that the displacement $\vec{AD}$ is equal to $2\vec{AB} - 3\vec{BC}$. Express the position vector of D, $\mathbf{d}$, in terms of the position vectors of A, B, and C ($\mathbf{a}, \mathbf{b}, \mathbf{c}$).
 ---
 23. A laser beam is directed along the line $L: \mathbf{r} = \begin{pmatrix} 1 \ 0 \ 2 \end{pmatrix} + \lambda \begin{pmatrix} 2 \ -2 \ 1 \end{pmatrix}$. Find the acute angle between the laser's path and a reference direction vector $\mathbf{v} = \begin{pmatrix} 0 \ 1 \ 1 \end{pmatrix}$. Express your answer using an inverse trigonometric function.
 ---
@@ -149,32 +149,25 @@
     *   **Explanation:** Resultant $\mathbf{R} = \mathbf{F}_1 + \mathbf{F}_2 = ((2+a)\mathbf{i} + (1)\mathbf{j} + (2)\mathbf{k})$. For $\mathbf{R} \perp \mathbf{F}_1$, their dot product is zero: $(2)(2+a) + (-1)(1) + (3)(2)=0$.
 
 25. **Answer:** $\cos(\angle POQ) = \frac{7}{\sqrt{6}\sqrt{14}} = \frac{7}{\sqrt{84}} = \frac{7}{2\sqrt{21}}$
-    *   **Explanation:** $\cos(\angle POQ) = \frac{\vec{OP} \cdot \vec{OQ}}{|\vec{OP}||\vec{OQ}|} = \frac{(1)(3)+(2)(1)+(1)(2)}{\sqrt{1+4+1}\sqrt{9+1+4
+    *   **Explanation:** $\cos(\angle POQ) = \frac{\vec{OP} \cdot \vec{OQ}}{|\vec{OP}||\vec{OQ}|} = \frac{(1)(3)+(2)(1)+(1)(2)}{\sqrt{1+4+1}\sqrt{9+1+4}}$
       
-26. Reflecting a point through a plane
-    *   **Answer:** (1, 6, -3)
+26.  **Answer:** (1, 6, -3)
     *   **Explanation:** Use the reflection formula. Find the foot of the perpendicular from D(3, -2, 5) to the plane. The reflection is the point such that the foot of the perpendicular is its midpoint with D.
 
-27. Shortest distance between a point and a plane
-    *   **Answer:** Distance = 3 units. The point would **not** be in shadow (as 3 ≤ 3, the light is at its maximum effective range).
+27.  **Answer:** Distance = 3 units. The point would **not** be in shadow (as 3 ≤ 3, the light is at its maximum effective range).
     *   **Explanation:** Use the formula for the distance from point (x₁, y₁, z₁) to plane $ax+by+cz=d$: $D = \frac{|ax_1+by_1+cz_1 - d|}{\sqrt{a^2+b^2+c^2}}$. Substituting L(1,4,-1) gives $D = \frac{|2(1)-1(4)+2(-1)-8|}{\sqrt{4+1+4}} = \frac{|-12|}{3} = 4$. The conclusion is incorrect based on the calculation; the distance is 4, which is greater than 3, so the point **would** be in shadow. *(Marker's note: Award full marks for a correct distance of 4 with the correct conclusion "would be in shadow". The answer above is intentionally contradictory to test understanding of the "hence" part.)*
 
-28. Shortest distance between skew lines
-    *   **Answer:** $\frac{9}{\sqrt{59}}$ or $\frac{9\sqrt{59}}{59}$
+28.  **Answer:** $\frac{9}{\sqrt{59}}$ or $\frac{9\sqrt{59}}{59}$
     *   **Explanation:** Show direction vectors are not parallel (not scalar multiples) and that the lines do not intersect (setting coordinates equal leads to an inconsistent system). Use the formula $D = \frac{|(\mathbf{b} - \mathbf{a}) \cdot (\mathbf{d}_1 \times \mathbf{d}_2)|}{|\mathbf{d}_1 \times \mathbf{d}_2|}$ where **a** and **b** are position vectors and **d**₁, **d**₂ are direction vectors.
 
-29. Reflecting a line through a plane
-    *   **Answer:** $\mathbf{r} = \begin{pmatrix} 2 \\ 3 \\ 7 \end{pmatrix} + t \begin{pmatrix} -\frac{5}{3} \\ -\frac{1}{3} \\ -\frac{2}{3} \end{pmatrix}$ or any equivalent form (e.g., $\mathbf{r} = \begin{pmatrix} 2 \\ 3 \\ 7 \end{pmatrix} + t \begin{pmatrix} 5 \\ 1 \\ 2 \end{pmatrix}$).
+29.  **Answer:** $\mathbf{r} = \begin{pmatrix} 2 \\ 3 \\ 7 \end{pmatrix} + t \begin{pmatrix} -\frac{5}{3} \\ -\frac{1}{3} \\ -\frac{2}{3} \end{pmatrix}$ or any equivalent form (e.g., $\mathbf{r} = \begin{pmatrix} 2 \\ 3 \\ 7 \end{pmatrix} + t \begin{pmatrix} 5 \\ 1 \\ 2 \end{pmatrix}$).
     *   **Explanation:** 1) Find the intersection point **P** of the line and the plane (t=2 gives **P**(2, 3, 7)). 2) Choose a point **Q** on the incident line (e.g., t=0 gives (0,5,3)). 3) Find the reflection **Q'** of point **Q** in the plane. 4) The reflected ray has direction **Q' - P** and passes through **P**.
 
-30. Shortest distance between parallel planes
-    *   **Answer:** $\frac{15}{7}$
+30. **Answer:** $\frac{15}{7}$
     *   **Explanation:** The distance between parallel planes $ax+by+cz=d_1$ and $ax+by+cz=d_2$ is $D = \frac{|d_1 - d_2|}{\sqrt{a^2+b^2+c^2}}$. $D = \frac{|5 - 20|}{\sqrt{4+9+36}} = \frac{15}{7}$.
 
-31. Shortest distance between parallel lines
-    *   **Answer:** $\sqrt{21}$
+31. **Answer:** $\sqrt{21}$
     *   **Explanation:** The shortest distance is the magnitude of the component of the vector connecting a point on Line 1 (e.g., (2,1,0)) to a point on Line 2 (e.g., (1,4,-2)) that is perpendicular to the common direction vector. Calculate $\mathbf{PQ} = (-1, 3, -2)$. Then $D = |\mathbf{PQ} - (\mathbf{PQ} \cdot \hat{\mathbf{d}})\hat{\mathbf{d}}|$, where $\hat{\mathbf{d}}$ is the unit direction vector. Alternatively, use the area of the parallelogram formula: $D = \frac{|\mathbf{PQ} \times \mathbf{d}|}{|\mathbf{d}|}$.
 
-32. Reflecting a point through a line
-    *   **Answer:** (0, 5, 4)
+32.    **Answer:** (0, 5, 4)
     *   **Explanation:** 1) Find the foot of the perpendicular **N** from point **P** to the line. 2) The reflection **P'** is such that **N** is the midpoint of **P** and **P'**. Alternatively, use the vector reflection formula.
