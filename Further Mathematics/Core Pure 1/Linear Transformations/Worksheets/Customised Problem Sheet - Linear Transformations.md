@@ -1,4 +1,3 @@
-
 1. a) Let $M = \begin{pmatrix} a & b \\ c & d \end{pmatrix}$ be a matrix such that $M^2 = I$. Show that if $a+d \neq 2$, then $(M-I)$ is non-singular.
 
 b) For the specific case $M = \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}$, write down $M^2$, $M^3$, and $M^4$, and state the general form of $M^n$.
@@ -29,8 +28,7 @@ Determine the value of the real constant $b$ for which the image of the conic $S
 
 ---
 
-3.
-A forestry agency is monitoring the growth of a tree plantation.
+3.A forestry agency is monitoring the growth of a tree plantation.
 
 In the model, the trees are classified into 3 stages of growth:
 
@@ -70,6 +68,37 @@ It is decided to track the survival rate of planted saplings separately from nat
 *(There is no need to estimate any unknown values for the refined model, but any known values should be made clear.)*
 
 ***
+4. The population of a rare bird species in a nature reserve consists of fledglings and adults. Fledgling birds do not reproduce.
+
+In a conservation study, the numbers of fledgling and adult birds were counted at the beginning of each breeding season. A model for the population satisfies the matrix system
+
+$\begin{pmatrix}F_{n+1}\\ A_{n+1}\end{pmatrix}=\begin{pmatrix}b&0.22\\ 0.12&0.78\end{pmatrix}\begin{pmatrix}F_{n}\\ A_{n}\end{pmatrix}\qquad n=0,1,2,\ldots$
+
+where $b$ is a constant, and $F_{n}$ and $A_{n}$ are the respective numbers of fledgling and adult birds $n$ years after the start of the study.
+
+(a) Interpret the meaning of the constant $b$ in the context of the model. (1)
+
+At the start of the study, the total number of birds in the reserve was estimated to be 8,500
+
+According to the model, after one year the number of fledgling birds is 2,380 and the number of adult birds is 5,814
+
+(b) (i) Find, in terms of $b$
+
+$\begin{pmatrix}b&0.22\\ 0.12&0.78\end{pmatrix}^{-1}$
+
+(ii) Hence, or otherwise, find the value of $b$. (3)
+
+(iii) Calculate the change in the number of fledgling birds in the first year of the study, according to this model. (3)
+
+Given that the number of fledgling birds is known to be decreasing in the reserve,
+
+(c) comment on the short-term suitability of this model. (1)
+
+Research on this bird species revealed that adult birds stop reproducing after 12 years of age.
+
+(d) Refine the matrix system for the model to reflect this information, giving a reason for your answer.
+
+***
 
 ### Mark Scheme
 
@@ -103,3 +132,15 @@ $\frac{1}{-0.7q×0.88} \begin{pmatrix} q×0.88 & 0 & 0 \\ -0.7×0.88 & 0 & -2.8 
   - **Explanation:** Using the inverse matrix from (c) with the given population vectors to solve for $q$.
 - **(e)** **Answer:** The matrix could be refined to a 4×4 system or the first row could be modified to distinguish seeding sources, since natural and planted saplings may have different survival rates.
   - **Explanation:** The refined model should account for different survival probabilities based on whether saplings originated from natural seeding or planting.
+
+**4.**
+- **(a)** **Answer:** $b$ represents the proportion of fledgling birds that survive and remain in the fledgling category after one year.
+- **(b)(i)** **Answer:** 
+$\frac{1}{0.78b - 0.0264}\begin{pmatrix}0.78 & -0.22\\ -0.12 & b\end{pmatrix}$
+- **(b)(ii)** **Answer:** $b = 0.65$
+  - **Explanation:** Using the initial total $F_0 + A_0 = 8500$ and the values after one year: $F_1 = bF_0 + 0.22A_0 = 2380$ and $A_1 = 0.12F_0 + 0.78A_0 = 5814$. Solving these equations gives $b = 0.65$.
+- **(b)(iii)** **Answer:** The number of fledgling birds decreased by 1,120 in the first year.
+  - **Explanation:** $F_0 = 8500 - A_0$. From $A_1 = 0.12(8500 - A_0) + 0.78A_0 = 5814$ gives $1020 + 0.66A_0 = 5814$, so $A_0 = 7260$. Then $F_0 = 1240$. Change = $F_1 - F_0 = 2380 - 3500 = -1120$.
+- **(c)** **Answer:** The model may not be suitable in the short term as it predicts a decrease in fledgling numbers that contradicts the need for conservation efforts to increase the population.
+- **(d)** **Answer:** The matrix should be refined to include an additional age category for non-reproductive adults, since reproductive capability changes with age and affects population growth projections.
+  - **Explanation:** A third category for "senior non-reproductive adults" should be added to better reflect the biological reality that reproduction stops after 12 years.
