@@ -1,51 +1,51 @@
-Here are non-multiple choice questions for the A-Level Further Mathematics Core Pure 1 Matrices topic, formatted as requested.
+Here are the non-multiple choice questions for A-Level Further Mathematics Core Pure 1 Matrices topic, formatted with `$$` delimiters for Obsidian LaTeX Suite.
 
 ***
 
 1. A transformation of the \( xy \)-plane is represented by the matrix \( \mathbf{M} \), where
-\[
+$$
 \mathbf{M} = \begin{pmatrix} 3 & 2 \\ 4 & 1 \end{pmatrix}.
-\]
+$$
 A line has equation \( y = mx \). Given that this line is invariant under the transformation represented by \( \mathbf{M} \), find the two possible values of the gradient \( m \).
 ---
 2. A 2D linear transformation \( T \) is defined by the matrix \( \mathbf{A} \), where
-\[
+$$
 \mathbf{A} = \begin{pmatrix} 2 & -1 \\ k & 4 \end{pmatrix}.
-\]
+$$
 It is given that the only invariant point of \( T \) is the origin. Determine the value of the constant \( k \).
 ---
 3. A transformation in three-dimensional space is represented by the matrix \( \mathbf{R} \), where
-\[
+$$
 \mathbf{R} = \begin{pmatrix} 0 & 0 & 1 \\ 1 & 0 & 0 \\ 0 & 1 & 0 \end{pmatrix}.
-\]
+$$
 Describe geometrically the effect of the transformation represented by \( \mathbf{R} \).
 ---
 4. The matrix \( \mathbf{B} \) is given by
-\[
+$$
 \mathbf{B} = \begin{pmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{pmatrix}.
-\]
+$$
 Show that \( \mathbf{B}^n = \begin{pmatrix} \cos n\theta & -\sin n\theta \\ \sin n\theta & \cos n\theta \end{pmatrix} \) for all positive integers \( n \).
 ---
 5. Consider the following system of equations, where \( p \) is a real constant:
-\[
+$$
 \begin{aligned}
 x + 2y + z &= 4 \\
 3x - y + 2z &= 1 \\
 4x + y + (p+2)z &= p + 5.
 \end{aligned}
-\]
+$$
 Find the value of \( p \) for which the system is consistent and does not have a unique solution. For this value of \( p \), interpret the geometric configuration of the three planes represented by the equations.
 ---
 6. A matrix \( \mathbf{C} \) is defined as \( \mathbf{C} = \begin{pmatrix} a & b \\ c & d \end{pmatrix} \), where \( a, b, c, d \in \mathbb{R} \). The transformation represented by \( \mathbf{C} \) maps all points on the line \( y = 2x \) to the origin. Show that \( 2a + b = 0 \) and \( 2c + d = 0 \).
 ---
 7. A system of equations is given by:
-\[
+$$
 \begin{aligned}
 2x - y + 3z &= 1 \\
 x + 2y - z &= -3 \\
 4x + 3y + z &= k.
 \end{aligned}
-\]
+$$
 Determine the value of the constant \( k \) for which the system is consistent. For this value of \( k \), solve the system and state the geometric interpretation of the solution.
 ---
 8. A transformation is represented by the matrix \( \mathbf{T} = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix} \). Find the equations of all the lines of fixed points for this transformation.
@@ -53,7 +53,7 @@ Determine the value of the constant \( k \) for which the system is consistent. 
 9. A matrix \( \mathbf{M} \) is given by \( \mathbf{M} = \begin{pmatrix} k & 1 & 2 \\ 1 & k & 1 \\ 2 & 1 & k \end{pmatrix} \), where \( k \) is a constant. The determinant of \( \mathbf{M} \) is found to be 0.
    a) Show that \( (k+2) \) is a factor of the determinant.
    b) Hence, find the possible values of \( k \).
-   c) For the case where \( k=1 \), and considering \( \mathbf{M} \) as the matrix of coefficients for a system of homogeneous equations (\( \mathbf{M}\mathbf{x} = \mathbf{0} \), explain the significance of the zero determinant on the nature of the solutions.
+   c) For the case where \( k=1 \), and considering \( \mathbf{M} \) as the matrix of coefficients for a system of homogeneous equations (\( \mathbf{M}\mathbf{x} = \mathbf{0} \)), explain the significance of the zero determinant on the nature of the solutions.
 ---
 10. A matrix \( \mathbf{D} \) is defined as \( \mathbf{D} = \begin{pmatrix} 4 & -7 \\ 1 & -2 \end{pmatrix} \). Find the equation of the invariant lines of the transformation represented by \( \mathbf{D} \) which are not passing through the origin.
 
