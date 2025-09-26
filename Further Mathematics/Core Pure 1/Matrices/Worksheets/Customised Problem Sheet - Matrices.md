@@ -26,6 +26,7 @@ Show that $\mathbf{B}^n = \begin{pmatrix} \cos n\theta & -\sin n\theta \\ \sin n
 $x + 2y + z = 4$
 $3x - y + 2z = 1$
 $4x + y + (p+2)z = p + 5$.
+
 Find the value of $p$ for which the system is consistent and does not have a unique solution. For this value of $p$, interpret the geometric configuration of the three planes represented by the equations.
 
 ---
