@@ -6,13 +6,14 @@ Here are the non-multiple choice questions for A-Level Further Mathematics Core 
 $$
 \mathbf{M} = \begin{pmatrix} 3 & 2 \\ 4 & 1 \end{pmatrix}.
 $$
-A line has equation \( y = mx \). Given that this line is invariant under the transformation represented by \( \mathbf{M} \), find the two possible values of the gradient \( m \).
+---
+2. A line has equation $\( y = mx \)$. Given that this line is invariant under the transformation represented by \( \mathbf{M} \), find the two possible values of the gradient \( m \).
 ---
 2. A 2D linear transformation \( T \) is defined by the matrix \( \mathbf{A} \), where
 $$
-\mathbf{A} = \begin{pmatrix} 2 & -1 \\ k & 4 \end{pmatrix}.
+q
 $$
-It is given that the only invariant point of \( T \) is the origin. Determine the value of the constant \( k \).
+ It is given that the only invariant point of \( T \) is the origin. Determine the value of the constant \( k \).
 ---
 3. A transformation in three-dimensional space is represented by the matrix \( \mathbf{R} \), where
 $$
