@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf"
+                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Vector Problem Solving"
+              "title": "Customised Problem Sheet - Vectors"
             }
           }
         ],
@@ -192,10 +192,14 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
-    "Further Mathematics/Vectors/Worksheet/Prompt.md",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.md",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Prompt.md",
+    "Further Mathematics/Vectors/Worksheet/Prompt.md",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press",
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
@@ -221,7 +225,6 @@
     "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924165952.png",
     "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924165949.png",
     "Further Mathematics/Core Pure 1/Matrices/Solving Systems Of Equations Using Matrices.md",
-    "Resources/Applied Year 2.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Lines Distances.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
@@ -234,9 +237,6 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
     "Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
-    "Further Mathematics/Core Pure 1/Series/Sum Of Cubes.md",
-    "Further Mathematics/Core Pure 1/Series/Sum Of Squares.md",
-    "Further Mathematics/Core Pure 1/Vectors/Angles between planes.md",
     "Untitled.canvas"
   ]
 }
