@@ -23,12 +23,14 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf"
+                "file": "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Customised Problem Sheet - Matrices"
+              "icon": "lucide-file",
+              "title": "Q. Determine Equations of Invariant lines of M"
             }
           }
         ],
@@ -190,14 +192,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "7504e1836e7feb25",
+  "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show points form an invariant point.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Given distance A'B' is sqrt(58), determine values of a.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets",
+    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250909134724.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Matrix equations practice.pdf",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets",
@@ -211,7 +218,6 @@
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press",
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
     "Further Mathematics/Vectors/Worksheet",
-    "Further Mathematics/Vectors",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
@@ -234,9 +240,6 @@
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
     "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
-    "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
-    "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
     "Untitled.canvas"
   ]
 }
