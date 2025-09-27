@@ -56,9 +56,9 @@ $$
 \begin{gather*}
 \sum_{r=1}^n \frac{2}{r(r+1)(r+2)} = \sum _{r=1}^n  \frac{1}{r}-\frac{2}{r+1}+\frac{1}{r+2} \\ \\
 f(1) = \cancel{ \frac{1}{1} } - \cancel{ \frac{2}{2} } + \cancel{ \frac{1}{3}  }\\ \\
-f(2) = \cancel{ \frac{1}{2}  }- \frac{2}{3} + \frac{1}{4} \\ \\
-f(3) = \cancel{ \frac{1}{3}  }- \cancel{ \frac{2}{4} } + \frac{1}{5} \\ \\
+f(2) = \cancel{ \frac{1}{2}  }- \cancel{ \frac{2}{3}  }+ \cancel{ \frac{1}{4} } \\ \\
+f(3) = \cancel{ \frac{1}{3}  }- \cancel{ \frac{2}{4} } + \cancel{ \frac{1}{5}  }\\ \\
 \dots \\ \\
-f(n-1) = \frac{1}{n-1} -\frac{1}{n} + \frac{1}{n+1} \\ \\ f(n) = \frac{1}{n}-n+1 + \frac{1}{n+2}
+f(n-1) = \cancel{ \frac{1}{n-1} } -\cancel{ \frac{1}{n}  }+ \cancel{ \frac{1}{n+1}  }\\ \\ f(n) = \cancel{ \frac{1}{n} }- \cancel{ \frac{1}{n+1} } + \frac{1}{n+2}
 \end{gather*}
 $$
