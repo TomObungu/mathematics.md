@@ -65,3 +65,10 @@ f(n-2) = \frac{1}{n-2} - \frac{2}{n-1} + \cancel{ \frac{1}{n} }\\ \\
 f(n-1) = \frac{1}{n-1} - \cancel{ \frac{2}{n}  }+ \frac{1}{n+1} \\ \\ f(n) = \cancel{ \frac{1}{n}- } \frac{2}{n+1} + \frac{1}{n+2}
 \end{gather*}
 $$
+Evaluate the sum as a few expressions of n:
+$$
+\begin{gather*}
+\sum_{r=1}^n  \frac{2}{r(r+1)(r+2)} = \frac{1}{n+2}-\frac{1}{n+1} \\ \\
+= n
+\end{gather*}
+$$
