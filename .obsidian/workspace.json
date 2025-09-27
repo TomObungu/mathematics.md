@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Series/Method Of Differences with Telescoping Series.md",
+                "file": "Further Mathematics/Core Pure 1/Series/Rewriting Sums with different limits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Method Of Differences with Telescoping Series"
+              "title": "Rewriting Sums with different limits"
             }
           }
         ],
@@ -194,12 +194,15 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125647.png",
+    "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125534.png",
+    "Further Mathematics/Core Pure 1/Series/Method Of Differences with Telescoping Series.md",
+    "Further Mathematics/Core Pure 1/Series/Rewriting Sums with different limits.md",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115755.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115239.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115237.png",
     "Further Mathematics/Core Pure 1/Series/attachments",
     "Further Mathematics/Core Pure 1/Series/Sum Of Cubes.md",
-    "Further Mathematics/Core Pure 1/Series/Method Of Differences with Telescoping Series.md",
     "Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
     "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
@@ -232,14 +235,11 @@
     "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
-    "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924202139.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182245.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182222.png",
     "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924171910.png",
     "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924171758.png",
-    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924171642.png",
-    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924171340.png",
     "Untitled.canvas"
   ]
 }
