@@ -23,12 +23,14 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf"
+                "file": "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Invariant point around the origin to find k.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Customised Problem Sheet - Matrices"
+              "icon": "lucide-file",
+              "title": "Q. Invariant point around the origin to find k"
             }
           }
         ],
@@ -192,10 +194,15 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show points form an invariant point.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Invariant point around the origin to find k.md",
+    "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
+    "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250927201349.png",
+    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
     "Resources/New Edexcel Core Pure 2.pdf",
     "Resources/Applied Year 2.pdf",
     "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
@@ -218,11 +225,9 @@
     "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show points form an invariant point.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Given distance A'B' is sqrt(58), determine values of a.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250909134724.png",
@@ -232,11 +237,9 @@
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
     "Further Mathematics/Core Pure 1/Vectors/Further Mechanics 1/Work Energy Principle/Work Done.md",
-    "Further Mathematics/Core Pure 1/Matrices/Inverting a 3 x 3 matrix.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924202139.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182245.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182222.png",
-    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924171910.png",
     "Untitled.canvas"
   ]
 }
