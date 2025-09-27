@@ -23,12 +23,14 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/New Edexcel Core Pure 2.pdf"
+                "file": "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "New Edexcel Core Pure 2"
+              "icon": "lucide-file",
+              "title": "Shortest distance from line to origin"
             }
           }
         ],
@@ -192,15 +194,15 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
-    "Resources/73f3cc0b0df05401b4ba488e307955fcc6e4b1c7eb51999a7bcf290a3ce3901e_1.mp4",
+    "Resources/New Edexcel Core Pure 2.pdf",
     "Resources/New Edexcel Further Mechanics 2.pdf",
+    "Resources/73f3cc0b0df05401b4ba488e307955fcc6e4b1c7eb51999a7bcf290a3ce3901e_1.mp4",
     "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
     "Resources/Applied Year 2.pdf",
-    "Resources/New Edexcel Core Pure 2.pdf",
     "Resources/9781292183343-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2-Textbook.pdf",
     "Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125647.png",
