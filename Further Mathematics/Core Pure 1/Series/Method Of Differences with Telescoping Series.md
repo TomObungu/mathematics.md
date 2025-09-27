@@ -75,9 +75,36 @@ $$
 \end{gather*}
 $$
 
-## Best practices
-These questions are very tedious and have a lot of room for error so here are some best practices.
+## Step by step Best practices
+These questions are very tedious and have a lot of room for error so here are some best practices step by step.
 
-1. Double check evaluations for partial fractions using calculator. Perform fraction calculations using calculation when doing telescoping series. It is possible to use the Numworks table section to show the table of the fractions by typing each partial fraction as a function
+1. For cases when you have two fractions within the telescoping series, in most cases start with f(1) / f(0) and go until f(3).  However the cancelling pattern still does not show go until f(5) and then at the bottom go from f(n) to f(n-1).
+   
+   For cases when you have three or more fractions, it is better to start with f(1) / f(0) then go until f(5) and then from f(n) to f(n-2) to ensure the pattern is clearly seen. in general go from f(0) / f(1) to f(2k-1) and from from(n) to f(n-k-1) where k is the number of fractions within the telescoping series.
 
 2. Always make sure check limits are correct. And be sure to fully expand all values of $r$ within the summation expression before evaluating the terms of $r$ in terms of $n$ e.g.
+ ![[Pasted image 20250927115239.png]]
+ For this expression be sure to expand everything out like this before writing in terms of $n$
+ $$
+\begin{gather*}
+\sum_{r=1}^{2n} r((-1)^{2r}+4(-1)^{r}+4r^{2}) \\ \\= r+4(-1)^{r}r^{2} + 4r^{3}
+\end{gather*}
+$$
+3. Once fully expanding out be sure to simplify any fractions that are inside and outside the brackets e.g:n
+$$
+\dots 4\left( \frac{1}{4}(2n)^{2}(2n+1) \right) = 4n^{2}(2n+1)
+$$
+4. When simplifying the terms in terms of $n$, try and factorise the common term in every expression and **factor by the smallest fraction** (in this case the smallest fraction is $\frac{1}{3}$e.g.:
+$$
+\begin{gather*}
+\dots \frac{2}{3}n(n+1)(2n+1) - 2n(n+1) +n \\ \\
+= \frac{n}{3}(2(n+1)-6(n+1) + 3)
+\end{gather*}
+$$
+5. The last step in these is make sure the total expression is as factorised as possible and any nested expressions that cannot be factorised must be expanded e.g.:
+$$
+\begin{gather*}
+= \frac{n}{3}(4n^{2}+6n+2-6n+3) \\ \\
+= \frac{n}{3}(4n^{2}-1)
+\end{gather*}
+$$
