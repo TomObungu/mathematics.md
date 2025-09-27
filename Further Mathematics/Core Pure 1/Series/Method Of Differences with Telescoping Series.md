@@ -56,7 +56,7 @@ $$
 \begin{gather*}
 \sum_{r=1}^n \frac{2}{r(r+1)(r+2)} = \sum _{r=1}^n  \frac{1}{r}-\frac{2}{r+1}+\frac{1}{r+2} \\ \\
 f(1) = \cancel{ \frac{1}{1} } - \cancel{ \frac{2}{2} } + \cancel{ \frac{1}{3}  }\\ \\
-f(2) = \cancel{ \frac{1}{2}  }- \cancel{ \frac{2}{3} } + \cancel{ \frac{1}{4}  }\\ \\
+f(2) = \frac{1}{2}- \cancel{ \frac{2}{3} } + \cancel{ \frac{1}{4}  }\\ \\
 f(3) = \cancel{ \frac{1}{3}  }- \cancel{ \frac{2}{4} } + \cancel{ \frac{1}{5} } \\ \\
 f(4) = \cancel{ \frac{1}{4} } \cancel{ -\frac{2}{5} } + \frac{1}{6}\\ \\
 f(5) = \cancel{ \frac{1}{5} } -\frac{2}{6} +\frac{1}{7}\\ \\
@@ -68,7 +68,16 @@ $$
 Evaluate the sum as a few expressions of n:
 $$
 \begin{gather*}
-\sum_{r=1}^n  \frac{2}{r(r+1)(r+2)} = \frac{1}{n+2}-\frac{1}{n+1} \\ \\
-= \frac{(n+1)-(n+2)}{(n+2)(n+1)}
+\sum_{r=1}^n  \frac{2}{r(r+1)(r+2)} = \frac{1}{2} +\frac{1}{n+2}-\frac{1}{n+1} \\ \\
+= \frac{(n+1)(n+1)+2(n+1)-2(n+2)}{2(n+2)(n+1)} \\ \\
+= \frac{n^{2}+3n}{2(n+1)(n+2)} \\ \\
+=\frac{n(n+3)}{2(n+1)(n+2)}
 \end{gather*}
 $$
+
+## Best practices
+These questions are very tedious and have a lot of room for error so here are some best practices.
+
+1. Double check evaluations for partial fractions using calculator. Perform fraction calculations using calculation when doing telescoping series. It is possible to use the Numworks table section to show the table of the fractions by typing each partial fraction as a function
+
+2. Always make sure check limits are correct. And be sure to fully expand all values of $r$ within the summation expression before evaluating the terms of $r$ in terms of $n$ e.g.
