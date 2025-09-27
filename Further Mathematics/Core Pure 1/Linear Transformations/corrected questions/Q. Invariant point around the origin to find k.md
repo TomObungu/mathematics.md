@@ -1,2 +1,2 @@
 ![[Pasted image 20250927201349.png]]
-If a question ever asks 
+If a question ever asks to find the invariant points around the origin, always write $A\mathbf{x}=x$ and solve for $\mathbf{x}$ or realise that the determinant must be $\neq_{0}$ in order for the linear transformation 
