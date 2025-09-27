@@ -23,14 +23,12 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Shortest distance from line to origin"
+              "icon": "lucide-file-text",
+              "title": "Customised Problem Sheet - Matrices"
             }
           }
         ],
@@ -194,15 +192,17 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
     "Resources/New Edexcel Core Pure 2.pdf",
+    "Resources/Applied Year 2.pdf",
+    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
+    "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
     "Resources/New Edexcel Further Mechanics 2.pdf",
     "Resources/73f3cc0b0df05401b4ba488e307955fcc6e4b1c7eb51999a7bcf290a3ce3901e_1.mp4",
     "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
-    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
-    "Resources/Applied Year 2.pdf",
     "Resources/9781292183343-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2-Textbook.pdf",
     "Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125647.png",
@@ -211,11 +211,9 @@
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115755.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115239.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115237.png",
-    "Further Mathematics/Core Pure 1/Series/attachments",
     "Further Mathematics/Core Pure 1/Series/Sum Of Cubes.md",
     "Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
     "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
@@ -233,9 +231,8 @@
     "Further Mathematics/Vectors/Worksheet/Prompt.md",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Principle/Work Done.md",
+    "Further Mathematics/Core Pure 1/Vectors/Further Mechanics 1/Work Energy Principle/Work Done.md",
     "Further Mathematics/Core Pure 1/Matrices/Inverting a 3 x 3 matrix.md",
-    "Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924202139.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182245.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182222.png",
