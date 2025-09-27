@@ -51,14 +51,17 @@ r = 1 \qquad 2=6-6+2C\implies C=1 \\ \\
 \therefore \frac{2}{r(r+1)(r+2)} = \frac{1}{r}-\frac{2}{r+1}+\frac{1}{r+2}
 \end{gather*}
 $$
-Writing summation in form of partial fractions and try for a telescoping series. Notice that the telescoping series does not explicitly need to be two terms.
+Writing summation in form of partial fractions and try for a telescoping series. Notice that the telescoping series does not explicitly need to be two terms. For such questions with more than two fractions in the sum, it is better to write from f(1) to f(5) and from f(n) to (n-2) on the bottom allow a clear indication of the pattern of telescoping series
 $$
 \begin{gather*}
 \sum_{r=1}^n \frac{2}{r(r+1)(r+2)} = \sum _{r=1}^n  \frac{1}{r}-\frac{2}{r+1}+\frac{1}{r+2} \\ \\
 f(1) = \cancel{ \frac{1}{1} } - \cancel{ \frac{2}{2} } + \cancel{ \frac{1}{3}  }\\ \\
-f(2) = \cancel{ \frac{1}{2}  }- \frac{2}{3} + \frac{1}{4} \\ \\
-f(3) = \cancel{ \frac{1}{3}  }- \cancel{ \frac{2}{4} } + \frac{1}{5} \\ \\
+f(2) = \cancel{ \frac{1}{2}  }- \cancel{ \frac{2}{3} } + \cancel{ \frac{1}{4}  }\\ \\
+f(3) = \cancel{ \frac{1}{3}  }- \cancel{ \frac{2}{4} } + \cancel{ \frac{1}{5} } \\ \\
+f(4) = \cancel{ \frac{1}{4} } \cancel{ -\frac{2}{5} } + \frac{1}{6}\\ \\
+f(5) = \cancel{ \frac{1}{5} } -\frac{2}{6} +\frac{1}{7}\\ \\
 \dots \\ \\
-f(n-1) = \frac{1}{n-1} -\frac{2}{n} + \frac{1}{n+1} \\ \\ f(n) = \frac{1}{n}- \frac{2}{n+1} + \frac{1}{n+2}
+f(n-2) = \frac{1}{n-2} - \frac{2}{n-1} + \cancel{ \frac{1}{n} }\\ \\
+f(n-1) = \frac{1}{n-1} - \cancel{ \frac{2}{n}  }+ \frac{1}{n+1} \\ \\ f(n) = \cancel{ \frac{1}{n}- } \frac{2}{n+1} + \frac{1}{n+2}
 \end{gather*}
 $$
