@@ -23,14 +23,12 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Rewriting the same Sum as a sum with a different limit plus the value of f(r)"
+              "icon": "lucide-file-text",
+              "title": "Edexcel_as_alevel_statistics_mathematics_year_1_as"
             }
           }
         ],
@@ -194,10 +192,17 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Resources/9781292183343-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2-Textbook.pdf",
+    "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
+    "Resources/Applied Year 2.pdf",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
+    "Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125647.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125534.png",
     "Further Mathematics/Core Pure 1/Series/Method Of Differences with Telescoping Series.md",
-    "Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115755.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115239.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115237.png",
@@ -213,7 +218,6 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Matrix equations practice.pdf",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
@@ -221,14 +225,9 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show points form an invariant point.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Given distance A'B' is sqrt(58), determine values of a.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250909134724.png",
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Prompt.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.md",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 2.pdf",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/DMP Problem Sheet - Vectors 1.pdf",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
     "Further Mathematics/Vectors/Worksheet/Prompt.md",
     "Further Mathematics/Vectors/Worksheet/Deepseek Mathematical Press/DMP Problem Sheet - Vectors 1.md",
     "Further Mathematics/Vectors/Worksheet/DMP Problem Sheet - Vectors 2.md",
@@ -239,7 +238,6 @@
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182245.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182222.png",
     "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924171910.png",
-    "Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250924171758.png",
     "Untitled.canvas"
   ]
 }
