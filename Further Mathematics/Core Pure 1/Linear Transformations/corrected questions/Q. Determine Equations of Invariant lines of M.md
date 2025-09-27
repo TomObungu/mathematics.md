@@ -12,7 +12,7 @@ $$
 ![[Pasted image 20250908170657.png]]
 
 # teachers solution
-For such questions use the $y=mx+c$ and set your transformation points as  $\begin{pmatrix}x \\ mx+c\end{pmatrix}$ and solve for m and c.
+For such questions use the $y=mx+c$ and set your transformation points as  $\begin{pmatrix}x \\ mx+c\end{pmatrix}$ and solve for m and c. Then substitute the values of m and c into the found line equations
 
 $$
 \begin{gather*}
@@ -28,10 +28,17 @@ mx+c
 \end{pmatrix} \\ \\
 2x+mx + c = x \\ \\
 2x+3mx+3c = mx + c \\ \\ \\
-x(m+1) + c= 0 \\ \\
-2x(m+1) + 3c = 0 \\ \\
--c = x(m+1) \\ \\
-2x()
+\text{Substitute} (2x+mx+c) \text{ as } x \text{ in the bottom equation on RHS}: \\ \\
+2x+3(mx+c) = m(2x+mx+c) + c \\ \\
+2x+3mx + 3c = 2mx+m^{2}x+mc + c \\ \\
+\text{Solve for } m \\ \\
+(m^{2}-m-2)x + (m-2)c = 0 \\ \\
+m^{2}-m-2 = 0 \implies m=-1,2 \\ \\
+m=-1 \implies c = 0 \\ \\
+m=2 \implies c=c \\ \\
+\therefore \text{Invariant lines are } \\ \\
+y=-x \\ \\
+y=2x+c
 \end{gather*}
 $$
 
