@@ -28,12 +28,9 @@ Remember that the original equation will be in terms of $x$ and $y$ but after ap
 
 So we to ensure that points in the original $xy$ plane are strictly the points on the curve $C$ and not some arbitrary points in the $xy$ plane that do not match the curve $C$
 
-In order to do this we need to use the inverse matrix to find equivalent $x$ and $y$ coordinates in the $xy$ plane that corresponding to the coordinates in the  $XY$ plane.
+In order to do this we need to use the inverse matrix to find equivalent $x$ and $y$ coordinates in the $xy$ plane that corresponding to the coordinates in the $XY$ plane.  This is algebraically identical to  writing $x$ and $y$ in terms of $X$ and $Y$ respectively. 
 
-So for the example of an ellipse $C$, in the original $xy$ plane , ,$x^{2}+y^{2}=1$. And we want to transform it into say an ellipse. $X^{2}+XY+Y^{2}=k$ . We have the transformation matrix U let's say $\begin{pmatrix}2+a & 0 \\ 0 & 1-a\end{pmatrix}$ . If I were to use the forward thinking, and substitute $X=2x$ and $Y=y$ into the equation for the ellipse. Th 
-
-
-Let's go through the working step by step, using only **A-Level Maths** and **AS Further Maths (vectors/ matrices)** ideas.
+Once we have the equivalent $x$ and $y$  in terms of $X$ and $Y$ we must substitute them back into the original curve $C$, **In order to ensure that coordinates are strictly coordinates that satisfy the curve equation C**. If the question was asking to find **any** curve within the $xy$ plane that will satisfy a circle around the origin in the $XY$ plane then, we would not need to do this step. However since the question asks us to do so for the curve $C$ we must take this step. 
 
 ---
 
