@@ -23,14 +23,12 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Q. That one Question 8 from the fm test"
+              "icon": "lucide-file-text",
+              "title": "Customised Problem Sheet - Linear Transformations"
             }
           }
         ],
@@ -194,6 +192,8 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250928223520.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.pdf",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
@@ -202,10 +202,8 @@
     "Further Mathematics/Core Pure 1/Series/corrected questions/Q. Slide 13.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250928092908.png",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Matrix equations practice.pdf",
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
     "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
     "Further Mathematics/Core Pure 1/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
@@ -239,7 +237,6 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Given distance A'B' is sqrt(58), determine values of a.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/attachments/Pasted image 20250909134724.png",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924202139.png",
-    "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250924182245.png",
     "Untitled.canvas"
   ]
 }
