@@ -30,7 +30,7 @@ So we to ensure that points in the original $xy$ plane are strictly the points o
 
 In order to do this we need to use the inverse matrix to find equivalent $x$ and $y$ coordinates in the $xy$ plane that corresponding to the coordinates in the  $XY$ plane.
 
-So for the example of an ellipse $C$, in the original $xy$ plane, ,$x^{2}+y^{2}=1$. And we want to transform it into say an ellipse. $X^{2}+XY+Y^{2}=k$ . We have the transformation matrix U let's say $\begin{pmatrix}2+a & 0 \\ 0 & 1-a\end{pmatrix}$ . If I were to use the forward thinking, and substitute $X=2x$ and $Y=y$ into the equation for the ellipse. Th 
+So for the example of an ellipse $C$, in the original $xy$ plane , ,$x^{2}+y^{2}=1$. And we want to transform it into say an ellipse. $X^{2}+XY+Y^{2}=k$ . We have the transformation matrix U let's say $\begin{pmatrix}2+a & 0 \\ 0 & 1-a\end{pmatrix}$ . If I were to use the forward thinking, and substitute $X=2x$ and $Y=y$ into the equation for the ellipse. Th 
 
 
 Let's go through the working step by step, using only **A-Level Maths** and **AS Further Maths (vectors/ matrices)** ideas.
