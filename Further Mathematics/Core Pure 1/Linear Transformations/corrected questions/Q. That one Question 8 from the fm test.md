@@ -14,7 +14,7 @@ $$
 So if I'm understanding this right:
 We have a curve with the form $5x^{2}-16xy+13y^{2}=25$ which is an ellipse and we have the transformation rule which is $\begin{pmatrix}1 & a \\ -a & 3\end{pmatrix}$ which in this case is $X=2x+ay$ and $Y=-ax+3y$ . We want to transform the ellipse to a circle centred around the origin. This means after the transformation the coordinates of the transformed points will form a circle with equation $X^{2}+Y^{2}=k$ as this the equation for a circle around the origin. What's not to say we could just substitute $2x+ay$ and $-ax+3y$ into $X^{2}+Y^{2}=k$? Please continue.
 
-So for the example of a unit circle $$
+So for the example of a unit circle in original $x$ and $y$ ,$x^{2}+y^{2}=1$. And we want to transform it into say an ellipse. $X^{2}+XY+Y^{2}=k$ . We have the transformation matrix U let's say $\begin{pmatrix}2 & 0 \\ 0 & 1\end{pmatrix}$ . If I were to use the forward thinking, and substitute $X=2x$ and $Y=y$ into the equation for the ellipse. This will give me some separate equation in terms of $xy$ that is not the original unit circle but some curve in the un-transformed $xy$ plane that will map to the transformed ellipse? So that's why we need to use the inverse matrix to ensure that points in the original $xy$ plane are strictly the points on the unit circle?
 
 
 Let's go through the working step by step, using only **A-Level Maths** and **AS Further Maths (vectors/ matrices)** ideas.
