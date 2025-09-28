@@ -36,7 +36,6 @@ This work done against friction will be energy dissipated in the form of heat an
 # Worked Example 1
 ![[Pasted image 20250929002617.png]]
 Calculate the work done against friction as the box is moved from $A$ to $B$ by a force $\parallel$ to the plane.
-
-
-	
+![[Pasted image 20250929002948.png]]
+Recall that work done 
 
