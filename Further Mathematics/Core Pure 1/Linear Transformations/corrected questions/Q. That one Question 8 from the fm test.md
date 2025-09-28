@@ -17,13 +17,13 @@ Let's go through the working step by step, using **A-Level Further Maths** termi
 ## **1. Problem restatement**
 
 We have the curve  
-\[
+$$
 5x^2 - 16xy + 13y^2 = 25
-\]
+$$
 and a transformation \( U \) represented by the matrix
-\[
+$$
 M = \begin{pmatrix} -1 & a \\ -a & 3 \end{pmatrix}, \quad a \in \mathbb{R}.
-\]
+$$
 We want \( a \) such that the **image of \( C \) under \( U \)** is a **circle centred at the origin**.
 
 ---
@@ -33,13 +33,13 @@ We want \( a \) such that the **image of \( C \) under \( U \)** is a **circle c
 Let \( \mathbf{x} = \begin{pmatrix} x \\ y \end{pmatrix} \).
 
 The transformation \( U \) is represented by \( M \), so  
-\[
+$$
 \mathbf{x}' = M \mathbf{x}.
-\]
+$$
 That is, if \( (x, y) \) is the original point, then the transformed point \( (X, Y) \) is given by
-\[
+$$
 \begin{pmatrix} X \\ Y \end{pmatrix} = M \begin{pmatrix} x \\ y \end{pmatrix}.
-\]
+$$
 
 But careful: In the working, they seem to use \( M \left( \frac{x}{y} \right) \) to mean \( M \) acting on coordinates, but the **curve equation** is in the **original coordinates** \((x, y)\), and the **image** is in \((X, Y)\).
 
@@ -55,13 +55,13 @@ So if the original curve satisfies \( Q(\mathbf{x}) = 25 \), then after transfor
 Let \( \beta = \det(M) = (-1)(3) - (a)(-a) = -3 + a^2 \).
 
 Then
-\[
+$$
 M^{-1} = \frac{1}{\beta} \begin{pmatrix} 3 & -a \\ a & -1 \end{pmatrix}.
-\]
+$$
 So
-\[
+$$
 x = \frac{1}{\beta}(3X - a Y), \quad y = \frac{1}{\beta}(a X - Y).
-\]
+$$
 
 ---
 
@@ -71,20 +71,20 @@ Original: \( 5x^2 - 16xy + 13y^2 = 25 \).
 
 Substitute \( x, y \) from above:
 
-\[
+$$
 x = \frac{1}{\beta}(3X - a Y), \quad y = \frac{1}{\beta}(a X - Y).
-\]
+$$
 
 Then
-\[
+$$
 x^2 = \frac{1}{\beta^2}(9X^2 - 6a XY + a^2 Y^2),
-\]
-\[
+$$
+$$
 y^2 = \frac{1}{\beta^2}(a^2 X^2 - 2a XY + Y^2),
-\]
-\[
+$$
+$$
 xy = \frac{1}{\beta^2}\big( 3a X^2 - 3XY - a^2 XY + a Y^2 \big).
-\]
+$$
 
 ---
 
@@ -92,12 +92,12 @@ xy = \frac{1}{\beta^2}\big( 3a X^2 - 3XY - a^2 XY + a Y^2 \big).
 
 The working does:
 
-\[
+$$
 5x^2 - 16xy + 13y^2
-\]
-\[
+$$
+$$
 = \frac{1}{\beta^2} \big[ 5(9X^2 - 6a XY + a^2 Y^2) - 16(3a X^2 - 3XY - a^2 XY + a Y^2) + 13(a^2 X^2 - 2a XY + Y^2) \big].
-\]
+$$
 
 They then collect terms for \( X^2, Y^2, XY \):
 
@@ -121,13 +121,13 @@ So \(Y^2\) coefficient: \(5a^2 - 16a + 13\).
 Sum: \(16a^2 + (-30a - 26a) + 48 = 16a^2 - 56a + 48\).
 
 So transformed equation:
-\[
+$$
 \frac{1}{\beta^2} \left[ (13a^2 - 48a + 45) X^2 + (5a^2 - 16a + 13) Y^2 + (16a^2 - 56a + 48) XY \right] = 25.
-\]
+$$
 Multiply by \( \beta^2 \):
-\[
+$$
 (13a^2 - 48a + 45) X^2 + (5a^2 - 16a + 13) Y^2 + (16a^2 - 56a + 48) XY = 25\beta^2.
-\]
+$$
 
 ---
 
@@ -139,13 +139,13 @@ A circle centred at origin has equation \( X^2 + Y^2 = R^2 \), so:
 2. Coefficient of \( XY \) = 0.
 
 From \( XY \) term zero:
-\[
+$$
 16a^2 - 56a + 48 = 0.
-\]
+$$
 Divide 8: \( 2a^2 - 7a + 6 = 0 \).  
-\[
+$$
 (2a - 3)(a - 2) = 0 \implies a = 2 \ \text{or} \ a = \frac{3}{2}.
-\]
+$$
 
 ---
 
@@ -176,6 +176,6 @@ Transformed equation: \( X^2 + Y^2 = 25 \), a circle centred at origin.
 
 ---
 
-\[
+$$
 \boxed{2}
-\]
+$$
