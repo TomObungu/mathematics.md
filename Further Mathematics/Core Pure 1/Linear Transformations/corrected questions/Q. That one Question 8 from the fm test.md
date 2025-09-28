@@ -11,10 +11,26 @@ $$
 ![[Pasted image 20250909134724.png]]]
 ![[Pasted image 20250928092908.png]]
 
-So if I'm understanding this right:
-We have a curve with the form $5x^{2}-16xy+13y^{2}=25$ which is an ellipse and we have the transformation rule which is $\begin{pmatrix}1 & a \\ -a & 3\end{pmatrix}$ which in this case is $X=2x+ay$ and $Y=-ax+3y$ . We want to transform the ellipse to a circle centred around the origin. This means after the transformation the coordinates of the transformed points will form a circle with equation $X^{2}+Y^{2}=k$ as this the equation for a circle around the origin. What's not to say we could just substitute $2x+ay$ and $-ax+3y$ into $X^{2}+Y^{2}=k$? Please continue.
 
-So for the example of a unit circle in original $x$ and $y$ ,$x^{2}+y^{2}=1$. And we want to transform it into say an ellipse. $X^{2}+XY+Y^{2}=k$ . We have the transformation matrix U let's say $\begin{pmatrix}2+a & 0 \\ 0 & 1-a\end{pmatrix}$ . If I were to use the forward thinking, and substitute $X=2x$ and $Y=y$ into the equation for the ellipse. This will give me some separate equation in terms of $xy$ that is not the original unit circle but some curve in the un-transformed $xy$ plane that will map to the transformed ellipse? So that's why we need to use the inverse matrix to ensure that points in the original $xy$ plane are strictly the points on the unit circle?
+We have a curve $C$ with the form $5x^{2}-16xy+13y^{2}=25$ which is an ellipse and we have the transformation $U$ which is matrix denoted by matrix $M=$ $\begin{pmatrix}1 & a \\ -a & 3\end{pmatrix}$ .
+
+We want to transform the ellipse to a circle centred around the origin. This means after the transformation the coordinates of the transformed points will form a circle with equation $X^{2}+Y^{2}=k$ as this the equation for a circle around the origin. 
+
+We can denote the coordinates of $x$ and $y$ that have the transformation applied to them as $X$ and $Y$. After applying the transformation $U$ through the matrix $M$, the transformed coordinates $X$ and $Y$, in terms of the coordinates in the $xy$ plane, will be $X=2x+ay$ and $Y=-ax+3y$ . 
+
+So we first want the equation for circle in terms of $X$ and $Y$ and the equation for a circle is $X^{2}+Y^{2}=k$
+
+What's not to say we could just substitute $2x+ay$ and $-ax+3y$ into $X^{2}+Y^{2}=k$? 
+
+Will this approach is incorrect as this will give me some separate equation in terms of  $xy$ in the $xy$ plane that is not the original ellipse equation, $C$, but some separate curve in the un-transformed  plane that will map to the transformed circle.  This is not what the question asked.
+
+Remember that the original equation will be in terms of $x$ and $y$ but after applying the transformation $U$ the transformed equation will be in a separate plane with coordinate system of the transformed coordinates, $X$ and $Y$ - or in other words the $XY$ plane.
+
+So we to ensure that points in the original $xy$ plane are strictly the points on the curve $C$ and not some arbitrary points in the $xy$ plane that do not match the curve $C$
+
+In order to do this we need to use the inverse matrix to find equivalent $x$ and $y$ coordinates in the $xy$ plane that corresponding to the coordinates in the  $XY$ plane.
+
+So for the example of an ellipse $C$, in the original $xy$ plane, ,$x^{2}+y^{2}=1$. And we want to transform it into say an ellipse. $X^{2}+XY+Y^{2}=k$ . We have the transformation matrix U let's say $\begin{pmatrix}2+a & 0 \\ 0 & 1-a\end{pmatrix}$ . If I were to use the forward thinking, and substitute $X=2x$ and $Y=y$ into the equation for the ellipse. Th 
 
 
 Let's go through the working step by step, using only **A-Level Maths** and **AS Further Maths (vectors/ matrices)** ideas.
