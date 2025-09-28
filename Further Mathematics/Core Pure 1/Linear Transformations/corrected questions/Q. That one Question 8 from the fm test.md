@@ -10,6 +10,11 @@ $$
 $$
 ![[Pasted image 20250909134724.png]]]
 ![[Pasted image 20250928092908.png]]
+
+So if I'm understanding this right:
+We have a curve with the form $5x^{2}-16xy=13y^{2}=25$ and we have the transformation rule which is $\begin{pmatrix}1 & a \\ -a & 3\end{pmatrix}$ which in this case is $X=2x+ay$ and $Y=-ax+3y$ . We want to transform the original curve to a circle centred around the origin. This means after the transformation we will have in the form 
+
+
 Let's go through the working step by step, using only **A-Level Maths** and **AS Further Maths (vectors/ matrices)** ideas.
 
 ---
