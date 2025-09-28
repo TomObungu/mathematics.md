@@ -11,7 +11,7 @@ $$
 ![[Pasted image 20250909134724.png]]]
 ![[Pasted image 20250928092908.png]]
 
-
+# Explanation of Method
 We have a curve $C$ with the form $5x^{2}-16xy+13y^{2}=25$ which is an ellipse and we have the transformation $U$ which is matrix denoted by matrix $M=$ $\begin{pmatrix}1 & a \\ -a & 3\end{pmatrix}$ .
 
 We want to transform the ellipse to a circle centred around the origin. This means after the transformation the coordinates of the transformed points will form a circle with equation $X^{2}+Y^{2}=k$ as this the equation for a circle around the origin. 
@@ -31,6 +31,41 @@ So we to ensure that points in the original $xy$ plane are strictly the points o
 In order to do this we need to use the inverse matrix to find equivalent $x$ and $y$ coordinates in the $xy$ plane that corresponding to the coordinates in the $XY$ plane.  This is algebraically identical to  writing $x$ and $y$ in terms of $X$ and $Y$ respectively. 
 
 Once we have the equivalent $x$ and $y$  in terms of $X$ and $Y$ we must substitute them back into the original curve $C$, **In order to ensure that coordinates are strictly coordinates that satisfy the curve equation C**. If the question was asking to find **any** curve within the $xy$ plane that will satisfy a circle around the origin in the $XY$ plane then, we would not need to do this step. However since the question asks us to do so for the curve $C$ we must take this step. 
+# Computation
+$$
+\begin{align*}
+\begin{pmatrix}x\\[4pt]y\end{pmatrix}&=M^{-1}\begin{pmatrix}X\\[4pt]Y\end{pmatrix}
+=\frac{1}{\beta}\begin{pmatrix}3 & -a\\[4pt]a & -1\end{pmatrix}\begin{pmatrix}X\\[4pt]Y\end{pmatrix}\\[6pt] \\ \\
+x&=\frac{1}{\beta}\bigl(3X-aY\bigr),\qquad
+y=\frac{1}{\beta}\bigl(aX-Y\bigr)\\[6pt]
+\end{align*}
+$$
+
+
+Now have the coordinates of $x$ and $y$ in terms of $X$ and $Y$ it is time to substitute them back into curve $C$
+$$
+\begin{align*}
+\Rightarrow\quad&\frac{5}{\beta^{2}}(3X-aY)^{2}-\frac{16}{\beta^{2}}(3X-aY)(aX-Y)
++\frac{13}{\beta^{2}}(aX-Y)^{2}=25\\[6pt] \\
+\Longrightarrow\quad&5(3X-aY)^{2}-16(3X-aY)(aX-Y)+13(aX-Y)^{2}=25\beta^{2}\\[6pt] \\
+\Longrightarrow\quad&5\bigl(9X^{2}-6aXY+a^{2}Y^{2}\bigr)-16\bigl(3aX^{2}-(3+a^{2})XY+aY^{2}\bigr)\\
+&\qquad\qquad\qquad+13\bigl(a^{2}X^{2}-2aXY+Y^{2}\bigr)=25\beta^{2}\\[6pt]
+\Longrightarrow\quad&(13a^{2}-48a+45)X^{2}+(5a^{2}-16a+13)Y^{2}+(16a^{2}-56a+48)XY=25\beta^{2} \\
+\end{align*}
+$$
+Now we have the coordinates of $x$ and $y$ in terms of $X$ and $Y$ that are on the curve $C$ that will map to a circle in $XY$ plane. 
+
+The final bit of the question now asks to find the value of the $a$ such that equation the circle in the $XY$ plane is a circle. 
+
+We know that for a circle **centred around the origin** it's equation  is $X^{2}+Y^{2}=k$.  This means the coefficient for $XY$ will be equal to 0. 
+
+Thus we must set $16a^{2}-56a+48=0$. Do so will lead to:
+$$
+\begin{align*}
+16a^{2}-56a+48 = 0 \\ \\
+\implies a=-\frac{3}{2} \qquad a=2
+\end{align*}
+$$
 
 ---
 
