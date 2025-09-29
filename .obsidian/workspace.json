@@ -23,12 +23,14 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf"
+                "file": "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Customised Problem Sheet - Vectors"
+              "icon": "lucide-file",
+              "title": "Shortest distance from line to origin"
             }
           }
         ],
@@ -64,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cus",
+                "query": "coplanar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +194,9 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
+    "Mathematics/Completing The Square.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Core Pure 1/Vectors/Cross Product.md",
@@ -202,7 +206,6 @@
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20250929002948.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20250929002843.png",
@@ -232,8 +235,6 @@
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Invariant point around the origin to find k.md",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
-    "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250927201349.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125647.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125534.png",

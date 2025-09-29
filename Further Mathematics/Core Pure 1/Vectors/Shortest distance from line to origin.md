@@ -4,7 +4,7 @@ To find the shortest distance between a line and a point. Calculate the general 
 
 This computation can be simplified into this equation 
 $$
-d = \frac{\left|\vec{OR} \times  \vec{b}\right|}{|\vec{b}|}
+d = \left|\vec{OR} \times  \hat{b}\right|
 $$
 
 
