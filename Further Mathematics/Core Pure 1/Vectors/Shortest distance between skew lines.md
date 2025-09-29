@@ -28,7 +28,7 @@ Why can we use any two points on the skew lines and use their direction vector?
 
 This is because the shortest possible distance between the two lines will always be perpendicular. This means that for any other direction vector between the lines that's not the shortest, the component of the perpendicular distance between that line will always have the same component. This is true as if the points form the direction vector that is the shortest line between then then component will be the same. 
 
-In other words, the direction vector between the two lines will always have the component value in the direction of the normal equal to the value of the shortest distance. This is because the direction vectors can never have a length short than the normal. Any shorter length would mean the line distances would become closer meaning the lines would intersect and not be skew.
+In other words, the direction vector between the two lines will always have the component value in the direction of the normal equal to the value of the shortest distance. This is because the direction vectors can never have a length shorter than the normal. Any shorter length would mean the line distances would become closer meaning the lines would intersect and not be skew.
 
 ![[Pasted image 20250919173854.png]]
 ![[Pasted image 20250919174027.png]]
