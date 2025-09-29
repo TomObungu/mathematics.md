@@ -36,6 +36,32 @@ This work done against friction will be energy dissipated in the form of heat an
 # Worked Example 1
 ![[Pasted image 20250929002617.png]]
 Calculate the work done against friction as the box is moved from $A$ to $B$ by a force $\parallel$ to the plane.
-![[Pasted image 20250929002948.png]]
-Recall that work done 
+Calculate $F_{r}$
+$$
+R=12g\cos 20 \implies F_{r} = 0.3(12g\cos 20) 
+$$
+Therefore $W_{F}=F_{r}s$
+$$
+W_{F}=0.3(12g\cos 20)6 = \boxed{199J}
+$$
+# Friction on curved surface
+Friction and other resistive forces work against the direction of motion. The distance used in calculating $W_{F}$ is just the distance moved regardless or direction, d. This allows easier caclulations than using SUVAT, F=ma and we do not need to know the direction of motion. 
+![[Pasted image 20250929103557.png]]
+
+# GPE (Gravitational Potential Energy)
+GPE is the work that gravity would do on the particle if it were to fall h meters. By possessing GPE, the object has the potential do work.
+
+The height h, and the GPE is relative to where we define our zero point to be.  This means it possible to chose where the zero point - the point where GPE = 0 to be where is convenient.  
+![[Pasted image 20250929103852.png]]
+
+# Worked Example 2
+![[Pasted image 20250929103923.png]]
+*Calculate the GPE the box gains when it moves from A to B?*
+$$
+\begin{gather*}
+GPE = mgh \\ \\
+GPE = 8\sin 20 (8g) = 215J
+\end{gather*}
+$$
+
 

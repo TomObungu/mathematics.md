@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
+                "file": "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equation of Line Of Intersection between planes"
+              "title": "Work Energy Principle"
             }
           }
         ],
@@ -194,6 +194,10 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20250929103923.png",
+    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20250929103852.png",
+    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20250929103557.png",
+    "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Proving a line is parallel to another plane.md",
     "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
@@ -206,7 +210,6 @@
     "Further Mathematics/Core Pure 1/Vectors/Cases For Lines In 3D.md",
     "Further Mathematics/Core Pure 1/Vectors/Cross Product.md",
     "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
-    "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20250929002948.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20250929002843.png",
@@ -237,8 +240,6 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Invariant point around the origin to find k.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250927201349.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125647.png",
-    "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125534.png",
-    "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115755.png",
     "Untitled.canvas"
   ]
 }
