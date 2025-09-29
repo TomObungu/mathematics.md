@@ -64,4 +64,12 @@ GPE = 8\sin 20 (8g) = 215J
 \end{gather*}
 $$
 
+# KE (Kinetic Energy)
+Kinetic energy has equation $\frac{1}{2}mv^{2}$. 
+The derivation is as follows:
+![[Pasted image 20250929104305.png]]
+![[Pasted image 20250929104241.png]]
 
+With all three equations in mind, it possible to form an equation at both sides of closed system to work out missing values.
+
+# Worked Example 3
