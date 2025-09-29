@@ -23,14 +23,12 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
-                "mode": "source",
-                "source": false
+                "file": "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Distances between Planes"
+              "icon": "lucide-file-text",
+              "title": "Customised Problem Sheet - Vectors"
             }
           }
         ],
@@ -194,6 +192,11 @@
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
+    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
+    "Further Mathematics/Core Pure 1/Vectors/Cases For Lines In 3D.md",
+    "Further Mathematics/Core Pure 1/Vectors/Cross Product.md",
+    "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Lines Distances.md",
     "Further Mathematics/Core Pure 1/Vectors/Proving a line is parallel to another plane.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
@@ -231,12 +234,7 @@
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show points form an invariant point.md",
-    "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/attachments/Pasted image 20250927201349.png",
-    "Resources/Applied Year 2.pdf",
-    "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125647.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927125534.png",
     "Further Mathematics/Core Pure 1/Series/attachments/Pasted image 20250927115755.png",

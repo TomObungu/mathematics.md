@@ -192,7 +192,7 @@ b) You need to find the direction vector starting from $\vec{OP}$ in the directi
 ![[Pasted image 20250921012230.png]]
 
 
-###  My hack for this ( Somtimes incorrect)
+###  My hack for this ( Somtimes incorrect) (ignore this)
 b
 The shortest distance is the distance between the line and the point of intersection in the direction of the normal (through the normal)
 ![[Pasted image 20250915215723.png]]
