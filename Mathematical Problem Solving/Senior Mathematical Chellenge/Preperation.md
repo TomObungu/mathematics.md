@@ -1,0 +1,3 @@
+- Prime factorisation of 2025 is $3^{4}$ and $5^{2}$
+- Pythagorean triplets {3,4,5}, {5,12,13}
+	- Triangles with postive area below 13 {3,4,5}, {5,12,13}
