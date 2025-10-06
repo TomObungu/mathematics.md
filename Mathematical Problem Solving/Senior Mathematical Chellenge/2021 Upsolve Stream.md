@@ -1,4 +1,4 @@
 5. For any 4 four consecutive primes, then at least one most be 2 
 ![[Pasted image 20251006233604.png]]
  6. Remember that $A=r\theta^{2}$ and $l=r\theta$ and 
-![[Pasted image 20251006233816.png]]
+![[Pasted image 20251006233816.png]]8. ![[Pasted image 20251006234322.png]]
