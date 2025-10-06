@@ -15,3 +15,8 @@
  9. For any remainder question, for a remainder K, there can be no number N that is less than K. The use of prime factorization is useful here. Try find the factors of the largest number that gives a remainder K for N
  ![[Pasted image 20251006235451.png]]
 10. ![[Pasted image 20251007000250.png]]
+11. Recognise for dice, that number of valid solutions to a particular scenario goes down for each roll:
+12. ![[Pasted image 20251007000951.png]]13. 
+13. ![[Pasted image 20251007001003.png]]
+14. Although, I ran out of time, the best exercise for these types of question is to rigorously draw the lines and careful find out the exact solutions:
+ ![[Pasted image 20251007001127.png]]
