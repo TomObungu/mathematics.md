@@ -10,3 +10,6 @@
 108+140+72+40
 54+70+36+20
 27+35+18+10 <- 27 and 35 cannot be divided by 2 and thus the sum will be equal to (27+35+18+10) = 90
+8. This question could of been a freebie, I just didn't know that 119 is not a prime as 119 i s($2 \times 17$). 
+ ![[Pasted image 20251006235151.png]]
+ 9. For any remainder question, for a remainder K, there can be no number N that is less than K
