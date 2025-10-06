@@ -22,3 +22,5 @@
  ![[Pasted image 20251007001127.png]]
  15. Build intuition and recognise the properties of sectors and isosceles triangles for such cases:
      ![[Pasted image 20251007001442.png]]
+ 16. It is always beneficial to split numbers into prime factors with such kind of number theory questions:
+ ![[Pasted image 20251007002608.png]]
