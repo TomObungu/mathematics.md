@@ -87,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c6d690d45be7079",
+  "active": "7504e1836e7feb25",
   "lastOpenFiles": [
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
