@@ -20,3 +20,5 @@
 13. ![[Pasted image 20251007001003.png]]
 14. Although, I ran out of time, the best exercise for these types of question is to rigorously draw the lines and careful find out the exact solutions:
  ![[Pasted image 20251007001127.png]]
+ 15. Build intuition and recognise the properties of sectors and isosceles triangles for such cases:
+     ![[Pasted image 20251007001442.png]]
