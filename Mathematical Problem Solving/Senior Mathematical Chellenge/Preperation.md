@@ -9,3 +9,6 @@ There is a reoccuring question with a strategy in that when you are given geomet
 
 ![[Pasted image 20251007191448.png]]
 ![[Pasted image 20251007194938.png]]
+
+Another question like this, it is possible to form the desired arrangements using varibles as the form: 
+![[Pasted image 20251007201945.png]]
