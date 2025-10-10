@@ -72,4 +72,28 @@ The derivation is as follows:
 
 With all three equations in mind, it possible to form an equation at both sides of closed system to work out missing values.
 
+## Summary Of types of energy
+![[Pasted image 20251010084528.png]]
+
 # Worked Example 3
+A 5kg particle moves along a horizontal surface adjacent to a resistive force, F. It has initial velocity 20$ms^-1$. After 15m, its velocity is $8ms^-1$. Find F.
+$$
+\begin{align*}
+&E_{\text{start}} &= &E_{\text{end}} \\ 
+&KE_{\text{start}} &= &W_{F} + &KE_{\text{end}} \\
+&\frac{1}{2}(5)(20)^{2} &= &15F +&\frac{1}{2}(5)(8)^{2} \\
+&15F&=&840\\
+\therefore &F&=&56
+\end{align*}
+$$
+
+# Worked Example 4
+![[Pasted image 20251010085207.png]]
+For this equation, it is possible to set a point where the GPE is zero. On slopes do not forget to consider the change height being the sine of the angle of inclination:
+![[Pasted image 20251010085307.png]]
+1. Calculate friction:
+	$$
+\begin{gather*}
+R=6g\cos 30 \qquad F=1/
+\end{gather*}
+$$
