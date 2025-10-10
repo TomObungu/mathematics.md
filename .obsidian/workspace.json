@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 588.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -230,9 +231,9 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010144022.png",
     "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Power.md",
+    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010144022.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010140218.png",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010130842.png",
@@ -252,7 +253,6 @@
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007201847.png",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007194938.png",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007191448.png",
-    "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007121647.png",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments",
     "Mathematical Problem Solving/Senior Mathematical Chellenge",
     "Mathematical Problem Solving",
