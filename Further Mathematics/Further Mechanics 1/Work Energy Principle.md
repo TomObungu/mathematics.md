@@ -104,3 +104,13 @@ x = 10.9
 $$
 
 # Worked Example 5
+![[Pasted image 20251010130842.png]]
+For this type of question, you must carefully consider all of the changes in energy that can occur as a result of the motion in the system. As well as that realise that the work done against friction is only dependant on the total distance travelled on the surface of friction. The work done against friction is not dependant on any changes in height or direction whilst moving along the surface of friction. Denote the work of the girl as $W$
+$$
+\begin{gather*}
+E_{\text{start}} = E_{\text{end}} \\ 
+KE + GPE + W= KE + GPE + WF \\ 
+\frac{1}{2}(45)(5)^{2} + 45g(30) + W = \frac{1}{2}(45)(3)^{2} + 45g(20) + 15(500) \\
+W = 2730J
+\end{gather*}
+$$
