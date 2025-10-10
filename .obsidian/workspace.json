@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
+                "file": "Further Mathematics/Further Mechanics 1/Power.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Energy Principle"
+              "title": "Power"
             }
           }
         ]
@@ -184,35 +184,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "16773e91f771a1ac",
-        "type": "window",
-        "children": [
-          {
-            "id": "0729cbacb3e46e11",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ba695f83cc655332",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1320,
-        "y": 28,
-        "width": 600,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "a47dc30949c28be8",
         "type": "window",
         "children": [
@@ -222,6 +193,18 @@
             "children": [
               {
                 "id": "07dcf71e28b63e86",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Further Mechanics 1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Further Mechanics 1"
+                }
+              },
+              {
+                "id": "1a7127b345b64bda",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -247,8 +230,9 @@
   },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
-    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
+    "Further Mathematics/Further Mechanics 1/Power.md",
+    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010130842.png",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
