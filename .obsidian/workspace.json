@@ -11,28 +11,17 @@
             "id": "f92e11e5dde33abe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                "file": "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-            }
-          },
-          {
-            "id": "07dcf71e28b63e86",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/New Edexcel Further Mechanics 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "New Edexcel Further Mechanics 2"
+              "icon": "lucide-file",
+              "title": "Work Energy Principle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,12 +195,10 @@
                 "id": "ba695f83cc655332",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               }
             ]
@@ -224,15 +211,49 @@
         "height": 1000,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "a47dc30949c28be8",
+        "type": "window",
+        "children": [
+          {
+            "id": "fb7f22724976a86a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "07dcf71e28b63e86",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Further Mechanics 1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Further Mechanics 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
-    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
-    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "Resources/Applied Year 2.pdf",
     "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
+    "Resources/Further Mechanics 1.pdf",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
+    "Resources/New Edexcel Further Mechanics 2.pdf",
+    "Resources/Applied Year 2.pdf",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010085307.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010085207.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010084528.png",
@@ -271,10 +292,6 @@
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
-    "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
-    "Further Mathematics/Further Mechanics 1/attachments",
-    "Further Mathematics/Further Mechanics 1",
     "Untitled.canvas"
   ]
 }
