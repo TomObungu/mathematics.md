@@ -89,11 +89,16 @@ $$
 
 # Worked Example 4
 ![[Pasted image 20251010085207.png]]
-For this equation, it is possible to set a point where the GPE is zero. On slopes do not forget to consider the change height being the sine of the angle of inclination:
+For this equation, it is possible to set a point where the GPE is zero. In this case the relative GPE is 0 from it's starting point. On slopes do not forget to consider the change height being the sine of the angle of inclination:
 ![[Pasted image 20251010085307.png]]
 1. Calculate friction:
 	$$
 \begin{gather*}
-R=6g\cos 30 \qquad F=1/
+R=6g\cos 30 \qquad F=0.2(6g\cos 30) =1.2g\cos 30 \\
+E_{\text{start}} = E_{\text{start}} \\
+KE = GPE + WF \\ \\
+\frac{1}{2}(6)(12)^{2} = 6g(x\sin 30)+1.2g\cos 30x \\
+432 = x(6g\sin 30 + 1.2g\cos 30) \\
+x = 10.9
 \end{gather*}
 $$

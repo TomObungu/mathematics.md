@@ -23,14 +23,12 @@
             "id": "07dcf71e28b63e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/New Edexcel Further Mechanics 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Work Energy Principle"
+              "icon": "lucide-file-text",
+              "title": "New Edexcel Further Mechanics 2"
             }
           }
         ],
@@ -91,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 588.5
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -192,8 +190,49 @@
       "bases:Create new base": false
     }
   },
+  "floating": {
+    "id": "2f3b113df65c02f9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "16773e91f771a1ac",
+        "type": "window",
+        "children": [
+          {
+            "id": "0729cbacb3e46e11",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba695f83cc655332",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1320,
+        "y": 28,
+        "width": 600,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Resources/9781292183312-AS-and-A-level-Further-Mathematics-Further-Mechanics-1-Textbook.pdf",
+    "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "Resources/Applied Year 2.pdf",
+    "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010085307.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010085207.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251010084528.png",
@@ -208,9 +247,7 @@
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007121647.png",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007121248.png",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007120514.png",
-    "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments/Pasted image 20251007120233.png",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/attachments",
-    "Further Mathematics/Further Mechanics 1/Work Energy Principle.md",
     "Mathematical Problem Solving/Senior Mathematical Chellenge",
     "Mathematical Problem Solving",
     "Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
@@ -238,8 +275,6 @@
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
     "Further Mathematics/Further Mechanics 1/attachments",
     "Further Mathematics/Further Mechanics 1",
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
-    "Further Mathematics/Core Pure 1/Matrices/Worksheets/Matrix equations practice.pdf",
     "Untitled.canvas"
   ]
 }
