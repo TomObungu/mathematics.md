@@ -216,7 +216,8 @@
                   "title": "Further Mechanics 1"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -229,7 +230,7 @@
       }
     ]
   },
-  "active": "07dcf71e28b63e86",
+  "active": "1a7127b345b64bda",
   "lastOpenFiles": [
     "Further Mathematics/Further Mechanics 1/Power.md",
     "Resources/Further Mechanics 1.pdf",
