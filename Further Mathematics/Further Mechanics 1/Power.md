@@ -57,3 +57,26 @@ P = Fv \implies 100=100v \implies v = 1ms^{-1} \\
 \end{gather*}
 $$
 ## Worked Example 2
+What is the acceleration of an 800kg car moving at 8$ms^{-1}$ with engine working at 18kW facing a constant total resistive force of 400N?
+
+Again in such scenarios, it is beneficial to look at the global resutant force of the system and the local forces relative to each object in the system. Much like A level mechanics problems, it possible to look at the force on the car only and then use that to calculate the force in the system to calculate the acceleration:
+
+$$
+\begin{gather*}
+\text{Car:} \\
+P = Fv \\
+18000 = F(8) \\
+F = 2250N \\ \\
+\text{Whole system:} \\
+2250 - 400 = 800a \\
+a = 2.31ms ^{-1}
+\end{gather*}
+$$
+
+Now calculate the terminal (maximum) velocity of the car.
+
+Always remember that the terminal velocity of an object occurs when it's acceleration is 0. When the acceleration is 0, the resultant force is also 0 and thus the system is in equilibrium. This means that any opposing forces are equal. This means it is also possible to use power equation:
+
+$$
+\therefore F = 400, v=\frac{P}{F} \implies v = \frac{18000}{400} = 45ms ^{-1} (101mph)
+$$
