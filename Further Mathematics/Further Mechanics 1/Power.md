@@ -58,6 +58,7 @@ P = Fv \implies 100=100v \implies v = 1ms^{-1} \\
 $$
 ## Worked Example 2
 What is the acceleration of an 800kg car moving at 8$ms^{-1}$ with engine working at 18kW facing a constant total resistive force of 400N?
+![[Pasted image 20251012163406.png]]
 
 Again in such scenarios, it is beneficial to look at the global resutant force of the system and the local forces relative to each object in the system. Much like A level mechanics problems, it possible to look at the force on the car only and then use that to calculate the force in the system to calculate the acceleration:
 
@@ -80,3 +81,16 @@ Always remember that the terminal velocity of an object occurs when it's acceler
 $$
 \therefore F = 400, v=\frac{P}{F} \implies v = \frac{18000}{400} = 45ms ^{-1} (101mph)
 $$
+## Worked example 3
+The same example however the slope is inclined:
+![[Pasted image 20251012163429.png]]
+Calculate the power output of the engine, assuming the 600N force is constant:
+Always remember that for constant velocity, the forces opposing each other are equal.
+$$
+\begin{gather*}
+F = 600 + 900g\sin 10 \\ 
+P = (600+900g\sin 10)12 = 25600W
+\end{gather*}
+$$
+
+
