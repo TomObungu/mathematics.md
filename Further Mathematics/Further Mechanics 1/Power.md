@@ -94,4 +94,4 @@ P = (600+900g\sin 10)12 = 25600W
 $$
 
 ## Worked example 4
-It is possible to have cases where the resultant 
+It is possible to have cases where the resultant force is dependant on $v$. This feels more realistic due to $F\propto v$
