@@ -42,7 +42,7 @@ Power is measured in Watts (W), IW = $1Js^{-1}$
 ![[Pasted image 20251012161231.png]]
 
 ## Worked Example 1
-Consider a motor lifting up a 100N weight at a constant velocity. How long will it take for the motor lift up the weight?
+Consider a 100W motor lifting up a 100N weight at a constant velocity. How long will it take for the motor lift up the weight 100m?
 
 Now although the resultant force of the system is 0. The individual forces of the system are still in action however they are in equilibrium. If there is a 100N force of weight downwards due to the weight. The motor must also exerting a 100N pulling force upwards on the weight to ensure the system is in equilibrium. 
 
@@ -51,6 +51,9 @@ Now although the resultant force of the system is 0. The individual forces of th
 It is beneficial identify the local forces relative to each object in the system and label them differently, e.g. denoting the resultant force of the system $F_{r}$ and denoting any other forces as $F$
 $$
 \begin{gather*}
-F_{\text{motor}} = 100N
+F_{\text{motor}} = 100N \\ \\
+P = Fv \implies 100=100v \implies v = 1ms^{-1} \\
+\therefore \text{It will take 100s to lift 100m}
 \end{gather*}
 $$
+## Worked Example 2
