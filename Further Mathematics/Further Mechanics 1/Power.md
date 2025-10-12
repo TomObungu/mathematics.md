@@ -29,3 +29,13 @@ v = 4.52ms ^{-1}
 \end{gather*}
 $$
 
+# Power
+Power is defined as the rate of doing work:
+$$
+\therefore P = \frac{dW}{dt} = \frac{d}{dt}(Fs)
+$$
+If the force remains constant, then the power can be written as:
+$$
+P=F\frac{ds}{dt} \therefore P=Fv
+$$
+Power is measured in Watts (W), IW = $1Js^{-1}$
