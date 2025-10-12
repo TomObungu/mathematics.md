@@ -93,4 +93,5 @@ P = (600+900g\sin 10)12 = 25600W
 \end{gather*}
 $$
 
-
+## Worked example 4
+It is possible to have cases where the resultant 
