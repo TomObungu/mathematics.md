@@ -10,7 +10,7 @@ I_{y} = 3\sin\alpha = v_{y}
 $$
 From this:
 $$
-v_{x} = 3\cos\alpha + 2.8 \qquad v_{y} = 3\sin\alpha
+v_{x} = 3\cos\alpha + 2.8 \qquad v_{y} = 3\sin\alpha \\ \\
 $$
 Therefore, the final velocity can me found using pythagoras:
 $$
