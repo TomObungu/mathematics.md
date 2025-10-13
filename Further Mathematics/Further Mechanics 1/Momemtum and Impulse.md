@@ -58,9 +58,13 @@ Impulse has units $kgms ^{ -1}$
 ## Worked example 1
 A 10N force acts for 5s, find the final velocity $v$ of an object.
 ![[Pasted image 20251013172820.png]]
-Frist chose the positve direction because momentum is a vector. In this we define postive as to the right:
+Frist chose the positve direction because momentum is a vector. In this we define positive as to the right:
 $$
 \begin{gather*}
 Ft=mv
 \end{gather*}
+$$
+In this case $F=10$ and $t=5$ therefore the impulse is $Ft=\Delta \rho=10(5)$. This also means $Ft=\Delta p=mv-mu$If the right is the positive direction:
+$$
+10(5) = 5v -5(2) \qquad \therefore 5v = 10(5)+5(2) \qquad \therefore v =12
 $$
