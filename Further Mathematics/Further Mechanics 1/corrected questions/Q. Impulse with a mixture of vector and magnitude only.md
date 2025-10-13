@@ -14,5 +14,10 @@ v_{x} = 3\cos\alpha + 2.8 \qquad v_{y} = 3\sin\alpha
 $$
 Therefore, the final velocity can me found using pythagoras:
 $$
-v = \sqrt{ v_{x} }
+\begin{gather*}
+v = \sqrt{ v_{x^{2}} + v_{y}^{2} } \\ \\
+= \sqrt{ \left(3\left( \frac{4}{5}\right)+2.8\right)^{2} +  3\left( \frac{3}{5} \right)^{2}} \\ \\
+= 
+\end{gather*}
+
 $$
