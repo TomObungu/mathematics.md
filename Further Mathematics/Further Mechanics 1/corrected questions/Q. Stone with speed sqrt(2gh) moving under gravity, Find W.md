@@ -15,7 +15,7 @@ $$
 (b)
 For such questions it is possible to use A level mechanics trick using the SOHCAHTOA formulas to calculate the sides of the triangle. In this case $\tan \theta = \frac{3}{4}$. This means opposite of the triangle is 3 (shortest side), the adjacent side (second longest side) is 4. This is a 3,4,5 Pythagorean triplet so the longest side is 5 and therefore the hypotenuse is also 5. Using this trick it is possible to calculate $\sin\theta$ and $\cos\theta$ using the same principle.
 
-![[Pasted image 20251013090601.png]] 
+![[Pasted image 20251013090846.png]] 
 
 1. Calculate useful values of $\sin\theta$, $\cos\theta$, $R$ and $F_{R}$
 $$
@@ -26,5 +26,11 @@ R = mg\cos\theta \qquad F_{R} = \frac{1}{4}(mg)\left( \frac{4}{5} \right) = \fra
 $$
 2. Use WEP
 $$
+\begin{gather*}
+\text{Energy at start} = \text{Energy at end} : \\
+GPE = KE + W_{F} \\ \\
+mg(d\sin \theta) = \frac{1}{2}(m)(\sqrt{ 2gh }^{2}) + \frac{1}{5}mg(d) \\
+\frac{3}{5}gd = 
+\end{gather*}
 
 $$
