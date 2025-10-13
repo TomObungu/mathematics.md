@@ -1,4 +1,5 @@
 ![[Pasted image 20251013085256.png]]
+![[Pasted image 20251013091822.png]]
 (a)
 For this question. It is possible to calculate the velocity using a single equation all at once. Avoid forming two separate equations for question a but rather notice the forms of energy will be converted into one another as the system flows. For question a only form an equation for B to the ground.
 $$
@@ -20,8 +21,8 @@ For such questions it is possible to use A level mechanics trick using the SOHCA
 (b). Calculate useful values of $\sin\theta$, $\cos\theta$, $R$ and then $F_{R}$
 $$
 \begin{gather*}
-\sin \theta = \frac{3}{5} \qquad \cos\theta = \frac{4}{5}  \qquad \mu = \frac{1}{4}\\ 
-R = mg\cos\theta \qquad F_{R} = \frac{1}{4}(mg)\left( \frac{4}{5} \right) = \frac{1}{5}mg
+\sin \theta = \frac{3}{5} \qquad \cos\theta = \frac{4}{5}  \qquad \mu = \frac{1}{3}\\ 
+R = mg\cos\theta \qquad F_{R} = \frac{1}{3}(mg)\left( \frac{4}{5} \right) = \frac{4}{15}mg
 \end{gather*}
 $$
 (c). Use WEP
@@ -29,10 +30,10 @@ $$
 \begin{gather*}
 \text{Energy at start} = \text{Energy at end} : \\
 GPE = KE + W_{F} \\ \\
-mg(d\sin \theta) = \frac{1}{2}(m)(\sqrt{ 2gh })^{2} + \frac{1}{5}mg(d) \\
-\frac{3}{5}gd = \frac{1}{2}(2gh) + \frac{1}{5}g(d) \\ 
-\frac{2}{5}gd = gh \\ 
-d = \frac{5}{2}h
+mg(d\sin \theta) = \frac{1}{2}(m)(\sqrt{ 2gh })^{2} + \frac{4}{15}mg(d) \\
+\frac{3}{5}gd = \frac{1}{2}(2gh) + \frac{4}{15}g(d) \\ 
+\frac{d}{3}g = gh \\ 
+d = 3h
 \end{gather*}
-
 $$
+
