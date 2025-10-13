@@ -107,4 +107,36 @@ $$
 I = 0.2(5.940) - 0.2(-7) = 2.59 Ns \text{Upwards}
 $$
 
+## Note on impulse
+The impulse required to change object's momentum is independent of gravity. Moment depends on the mass of the object not the weight. 
 
+# Worked example 
+A 2kg particle is moving with velocity $2i+3j$. It experiences an impulse of $-i+2j$. Find its new velocity and the angle of deflection.
+![[Pasted image 20251013175457.png]]
+In this case, if we are given impulse as a vector and the velocity of an object as a vector it is possible to use:
+$$
+\begin{gather*}
+I = mv - mu \\ 
+i + 2j = 2v - 2(2i + 3j \\ 
+2v = 3i + 8j \\ \\
+\therefore v = \frac{3}{2}i + 4j
+\end{gather*}
+$$
+The angle of deflection is the angle the particle turn grom its original direction, $\theta$. This angle is calculated using the dot product:
+$$
+\cos\theta = \frac{\begin{pmatrix}
+2 \\
+3
+\end{pmatrix} \cdot \begin{pmatrix}
+\frac{3}{2} \\
+4
+\end{pmatrix}}{\left|\begin{pmatrix}
+2 \\
+3
+\end{pmatrix}\right|\left|\begin{pmatrix}
+\frac{3}{2} \\
+4
+\end{pmatrix}\right|} = 13.1 ^\circ
+$$
+## Worked example 5
+A 0.4kg particle is moving at a constant velocity, u when it receives and impulse of $-5i+3j$
