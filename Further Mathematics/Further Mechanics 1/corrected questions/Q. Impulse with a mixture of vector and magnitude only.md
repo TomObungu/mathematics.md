@@ -12,16 +12,16 @@ From this:
 $$
 \begin{gather*}
 v_{x} = 6\cos\alpha + 2.8 \qquad v_{y} = 6\sin\alpha \\ \\
-v_{x} = 6(\frac{3}{5}) + 2.8 \qquad v_{y} = 
+v_{x} = 6\left( \frac{3}{5} \right) + 2.8 \qquad v_{y} = 6\left( \frac{4}{5} \right) \\ \\
+v_{x} = \frac{32}{5} \qquad v_{y} = \frac{24}{5}
 \end{gather*}
 
 $$
-Therefore, the final velocity can me found using pythagoras:
+Therefore, the final velocity can me found using Pythagoras:
 $$
 \begin{gather*}
 v = \sqrt{ v_{x^{2}} + v_{y}^{2} } \\ \\
-= \sqrt{ \left(3\left( \frac{4}{5}\right)+2.8\right)^{2} +  3\left( \frac{3}{5} \right)^{2}} \\ \\
-= 
+= \sqrt{ \left( \frac{32}{5} \right)^{2} + \left( \frac{24}{5} \right)^{2}} \\ \\
+= 8
 \end{gather*}
-
 $$
