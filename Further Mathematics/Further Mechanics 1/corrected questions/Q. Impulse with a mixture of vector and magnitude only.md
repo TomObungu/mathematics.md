@@ -1,0 +1,2 @@
+![[Pasted image 20251013181407.png]]
+ When given the impulse as scalar and the speed as a scalar, then for such questions you need to split the impulse into it's horizontal and vertical components and equate the independent components for impulse
