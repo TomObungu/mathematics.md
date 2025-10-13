@@ -3,14 +3,18 @@
  ![[Pasted image 20251013182950.png]]
  From the resolving of vectors, we can see:
  $$
-I_{x} = 3\cos\alpha \implies 3\cos\alpha = v_{x} - 2.8 
+I_{x} = 3\cos\alpha \implies 3\cos\alpha = \frac{1}{2}(v_{x} - 2.8)
 $$
 and $$
-I_{y} = 3\sin\alpha = v_{y}
+I_{y} = 3\sin\alpha = \frac{1}{2}(v_{y})
 $$
 From this:
 $$
-v_{x} = 3\cos\alpha + 2.8 \qquad v_{y} = 3\sin\alpha \\ \\
+\begin{gather*}
+v_{x} = 6\cos\alpha + 2.8 \qquad v_{y} = 6\sin\alpha \\ \\
+v_{x} = 6(\frac{3}{5}) + 2.8 \qquad v_{y} = 
+\end{gather*}
+
 $$
 Therefore, the final velocity can me found using pythagoras:
 $$
