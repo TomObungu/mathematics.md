@@ -9,5 +9,6 @@ With this information it is possible to set up an equal for the magnitude in ter
 -2\lambda i + 2i = v - 8i \\ 
 (8-2\lambda)i + 2\lambda j = v
 \end{gather*}
-
 $$
+Once an equation for v has been written we can then use Pythagoras and equate to the magnitude:
+(8-2)
