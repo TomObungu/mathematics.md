@@ -139,4 +139,44 @@ $$
 \end{pmatrix}\right|} = 13.1 ^\circ
 $$
 ## Worked example 5
-A 0.4kg particle is moving at a constant velocity, u when it receives and impulse of $-5i+3j$
+A 0.4kg particle is moving at a constant velocity, u when it receives and impulse of $-5i+3j$. After receiving the impulse. the particles velocity is $12i+15j$.
+
+Find $u$ the angle of deflection and the KE lost by the particle as a result of the impulse.
+
+$$
+\begin{gather*}
+-5i+3j = 0.4(12i+15j) - 0.4u \\
+-12.5 + 7.5j = 12i + 15j - u \\ 
+u = 24.5i +7.5j
+\end{gather*}
+$$
+Using the dot product to calculate $\theta$
+$$
+\begin{gather*}
+\cos \theta = \frac{\begin{pmatrix}
+24.5 \\
+7.5
+\end{pmatrix} \cdot \begin{pmatrix}
+12 \\
+15
+\end{pmatrix}}{\left|\begin{pmatrix}
+24.5 \\
+7.5
+\end{pmatrix}\right|\left|\begin{pmatrix}
+12 \\
+15
+\end{pmatrix}\right|}
+\end{gather*} \\
+\theta = 34.3^\circ
+$$
+The change in kinetic energy is just the $KE_{final} - KE_{initial}$:
+$$
+\Delta KE=\frac{1}{2}m|v|^{2} - \frac{1}{2}m|u|^{2} \\ 
+= \frac{1}{2}(0.4)((12^{2}+15^{2}) = (24.5^{2}+7.5^{2}))
+= -57.5
+$$
+As the change in kinetic energy is negative this means the there has been a loss of kinetic energy in the environement:
+$$
+\therefore 57.5J \text{ loss}
+$$#
+
