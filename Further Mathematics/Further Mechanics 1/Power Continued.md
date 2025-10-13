@@ -40,4 +40,14 @@ $$
 A roller coaster with mass 500kg is elevated up to 30m and experience a resistive force of 150N. The roller coaster then engages with the ride and goes through a looping section. The start of ride is marked A and the top of the looping section is marked B. The distance AB is 120m. Find the maximum possible height of the looping section at B. 
 ![[Pasted image 20251013084601.png]]
 
-The maximum possible height is when the velocity 
+The maximum possible height is when the velocity at B is 0.
+
+$$
+\begin{gather*}
+\text{Energy at start } = \text{Energy at end} : \\
+GPE = GPE + W_{F} \\ \\
+500g(30) = 500g(x) + 120(150) \\
+x = 26.3m
+\end{gather*}
+
+$$
