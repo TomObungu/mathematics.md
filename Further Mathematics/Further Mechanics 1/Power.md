@@ -94,4 +94,18 @@ P = (600+900g\sin 10)12 = 25600W
 $$
 
 ## Worked example 4
-It is possible to have cases where the resultant force is dependant on $v$. This feels more realistic due to $F\propto v$
+It is possible to have cases where the resultant force is dependant on $v$. This feels more realistic due to $F\propto v$.
+
+A 1200kg car is driving up a slope inclined at 15$^\circ$  at constant speed $v$. The total non-gravatational resistive force is measured as 500 + 6v. The engine is working at 25kW. Find v
+![[Pasted image 20251013080255.png]]
+$$
+\begin{gather*}
+\text{Constant speed } \implies F=500+6v + 1200g\sin 15 \\ \\
+\text{Force for car engine}: \\
+P=Fv\\ 
+25000 = (500+6v+1200g\sin 15)v \\ 
+25000 = 500v + 6v^{2}+ 1200gv\sin 15 \\ 
+v = -597.6ms ^{-1} \qquad v = 6.97 ms ^{ -1} \boxxed{}
+
+\end{gather*}
+$$
