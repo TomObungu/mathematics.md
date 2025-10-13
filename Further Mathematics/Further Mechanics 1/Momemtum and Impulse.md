@@ -83,3 +83,28 @@ I = mv - mu \\ \\
 I = 1.5(3) - 1.5(-4) = 10.5
 \end{gather*}
 $$
+# Worked example 3 class
+A ball of mass 0.2 dropped 2.5m rebounds to 1.8m. Calculate the impulse exerted by the ground on the ball.
+![[Pasted image 20251013174719.png]]
+Since the impulse of the ground is causing the ball to rebound vertically upwards, we can define vertically upwards as the positive direction of motion
+
+For this equation we need:
+$$
+I = mv - mu
+$$
+It is possible to calculate the velocity of an object from free fall using $v=\sqrt{ 2gh }$ (can be proved using SUVAT or work energy principle)
+$$
+\begin{gather*}
+u = \sqrt{ 2g(2.5) } = 7
+\end{gather*}
+$$
+The same equation is also applicable to $v$:
+$$
+v = \sqrt{ 2(9.8)(1.8) } = 5.940 ms ^{-1}
+$$
+Therefore:
+$$
+I = 0.2(5.940) - 0.2(-7) = 2.59 Ns \text{Upwards}
+$$
+
+
