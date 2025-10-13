@@ -68,4 +68,10 @@ In this case $F=10$ and $t=5$ therefore the impulse is $Ft=\Delta \rho=10(5)$. T
 $$
 10(5) = 5v -5(2) \qquad \therefore 5v = 10(5)+5(2) \qquad \therefore v =12
 $$
-# 
+## Worked example 2
+A ball hits the wall at 4$ms ^{-1}$ and rebounds at 3$ms ^{-1}$. Find the magnitude and direction of the impulse exerted by the wall on the ball. 
+
+The impulse is simply the direction of the change in momentum and it's magnitude. When the object in motion changes it momentum, it will change relative to a direction with a certain magnitude. 
+
+If the ball re
+![[Pasted image 20251013173846.png]]
