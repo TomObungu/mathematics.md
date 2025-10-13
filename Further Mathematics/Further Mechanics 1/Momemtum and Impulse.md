@@ -73,5 +73,13 @@ A ball hits the wall at 4$ms ^{-1}$ and rebounds at 3$ms ^{-1}$. Find the magnit
 
 The impulse is simply the direction of the change in momentum and it's magnitude. When the object in motion changes it momentum, it will change relative to a direction with a certain magnitude. 
 
-If the ball re
+If the ball rebounds then it's change in momentum is towards the left therefore it's impulse is also towards the left. 
+
+If the impulse is acting towards the left then it means we can set the positive direction of motion towards the left. 
 ![[Pasted image 20251013173846.png]]
+$$
+\begin{gather*}
+I = mv - mu \\ \\
+I = 1.5(3) - 1.5(-4) = 10.5
+\end{gather*}
+$$
