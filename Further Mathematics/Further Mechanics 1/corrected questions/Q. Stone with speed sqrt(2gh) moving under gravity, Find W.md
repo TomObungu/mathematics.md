@@ -17,20 +17,22 @@ For such questions it is possible to use A level mechanics trick using the SOHCA
 
 ![[Pasted image 20251013090846.png]] 
 
-1. Calculate useful values of $\sin\theta$, $\cos\theta$, $R$ and $F_{R}$
+(b). Calculate useful values of $\sin\theta$, $\cos\theta$, $R$ and then $F_{R}$
 $$
 \begin{gather*}
 \sin \theta = \frac{3}{5} \qquad \cos\theta = \frac{4}{5}  \qquad \mu = \frac{1}{4}\\ 
 R = mg\cos\theta \qquad F_{R} = \frac{1}{4}(mg)\left( \frac{4}{5} \right) = \frac{1}{5}mg
 \end{gather*}
 $$
-2. Use WEP
+(c). Use WEP
 $$
 \begin{gather*}
 \text{Energy at start} = \text{Energy at end} : \\
 GPE = KE + W_{F} \\ \\
-mg(d\sin \theta) = \frac{1}{2}(m)(\sqrt{ 2gh }^{2}) + \frac{1}{5}mg(d) \\
-\frac{3}{5}gd = 
+mg(d\sin \theta) = \frac{1}{2}(m)(\sqrt{ 2gh })^{2} + \frac{1}{5}mg(d) \\
+\frac{3}{5}gd = \frac{1}{2}(2gh) + \frac{1}{5}g(d) \\ 
+\frac{2}{5}gd = gh \\ 
+d = \frac{5}{2}h
 \end{gather*}
 
 $$
