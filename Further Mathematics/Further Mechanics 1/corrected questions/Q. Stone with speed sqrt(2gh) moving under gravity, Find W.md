@@ -15,11 +15,16 @@ $$
 (b)
 For such questions it is possible to use A level mechanics trick using the SOHCAHTOA formulas to calculate the sides of the triangle. In this case $\tan \theta = \frac{3}{4}$. This means opposite of the triangle is 3 (shortest side), the adjacent side (second longest side) is 4. This is a 3,4,5 Pythagorean triplet so the longest side is 5 and therefore the hypotenuse is also 5. Using this trick it is possible to calculate $\sin\theta$ and $\cos\theta$ using the same principle.
 
-![[Pasted image 20251013090250.png]]1. Calculate useful values of $\sin\theta$, $\cos\theta$, $R$ and $F_{R}$
+![[Pasted image 20251013090601.png]] 
+
+1. Calculate useful values of $\sin\theta$, $\cos\theta$, $R$ and $F_{R}$
 $$
 \begin{gather*}
-\sin \theta = \frac{3}{5} \qquad \cos\theta = \frac{4}{5}  \\ 
-R
+\sin \theta = \frac{3}{5} \qquad \cos\theta = \frac{4}{5}  \qquad \mu = \frac{1}{4}\\ 
+R = mg\cos\theta \qquad F_{R} = \frac{1}{4}(mg)\left( \frac{4}{5} \right) = \frac{1}{5}mg
 \end{gather*}
+$$
+2. Use WEP
+$$
 
 $$
