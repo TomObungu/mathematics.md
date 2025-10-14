@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Series/Maclaurin Series.md",
+                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maclaurin Series"
+              "title": "Elastic Strings and Springs"
             }
           }
         ],
@@ -259,8 +259,10 @@
   },
   "active": "adeba0526c239e5f",
   "lastOpenFiles": [
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
     "Further Mathematics/Core Pure 1/Series/Maclaurin Series.md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251014105657.png",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251014105611.png",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
@@ -289,7 +291,6 @@
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions",
     "Further Mathematics/Further Mechanics 1/Power Continued",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/2021 Upsolve Stream.md",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/2020 Upsolve Stream.md",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/2015 Upsolve Stream.md",
@@ -304,7 +305,6 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Further Mathematics/Core Pure 1/Series/Sum Of Squares.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Untitled.canvas"
   ]
 }
