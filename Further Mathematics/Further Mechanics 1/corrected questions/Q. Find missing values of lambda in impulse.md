@@ -11,4 +11,14 @@ With this information it is possible to set up an equal for the magnitude in ter
 \end{gather*}
 $$
 Once an equation for v has been written we can then use Pythagoras and equate to the magnitude:
-(8-2)
+$$
+\begin{gather*}
+(8-2\lambda)^{2}+(2\lambda)^{2} = (4\sqrt{ 10 })^{2} \\ 
+8\lambda^{2} - 32\lambda - 96 = 0 \\
+\cancel{ \lambda = -2  }\qquad \lambda = 6
+\end{gather*}
+
+$$
+
+(ii) In this part of the question you must always consider the velocity vectors as if they were coming out of the same point in order to use the dot product. It is possible to now use the value of $\lambda$ for velocity vector to compute the dot product or use trigonometry and the fact the previous line is a straight line. 
+![[Pasted image 20251014093323.png]]
