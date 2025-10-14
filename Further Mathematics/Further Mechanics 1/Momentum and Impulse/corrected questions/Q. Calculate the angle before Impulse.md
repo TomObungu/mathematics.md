@@ -9,6 +9,22 @@ J = \frac{1}{2}(-5+3j) \\
 $$
 (b) In this case you must remember that angle between the impulse before the collision is the angle between the impulse vector and $v_{1}$. To visualise the angle you must draw the impulse vector and the vector $v_{1}$ from the same point: 
 ![[Pasted image 20251014105611.png]]
-It is then possible to use the dot product to calculate the angle
+It is then possible to use the dot product to calculate the angle:
+$$
+\begin{gather*}
+J = \begin{pmatrix}
+-\frac{5}{2} \\
+\frac{3}{2}
+\end{pmatrix} \\ \\
+\cos\alpha = \frac{\begin{pmatrix}
+-\frac{5}{2} \\
+\frac{3}{2}
+\end{pmatrix} \cdot \begin{pmatrix}
+4 \\
+3
+\end{pmatrix}}{\left( \frac{\sqrt{ 34 }}{2} \right)(5)} \\ \\
+\alpha = 112.16 ^\circ = 112 ^\circ
+\end{gather*}
+$$
 
 
