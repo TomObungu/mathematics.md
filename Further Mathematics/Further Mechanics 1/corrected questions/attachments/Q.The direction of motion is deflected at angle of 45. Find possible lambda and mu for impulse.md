@@ -3,6 +3,8 @@ In this diagram you need to sketch the vectors and realise a degree rotation of 
 ![[Pasted image 20251014095227.png]]
  $$
 \begin{gather*}
- 
+\text{If v } = ai: \\
+ \lambda i + \mu j = 0.5(ai - (4i + 4j)) \\ 
+ \lambda i + \mu j = (0.5)(a-4)i - 2j
 \end{gather*}
 $$
