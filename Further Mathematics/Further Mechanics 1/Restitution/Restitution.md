@@ -38,3 +38,22 @@ u(1-3e) < 0 \implies (1-3e) < 0 \\
 \frac{1}{3} < e
 \end{gather*}
 $$
+Therefore: 
+$$
+\frac{1}{3} < e \leq 1
+$$
+
+# Worked Example 3 continued...
+Given that the kinetic energy after the collision is $\frac{1}{16}th$ of what is was before, find the exact value of $e$.
+
+Since we have the initial and final velocity of particle $P$ and we are told that the $KE$ is $\frac{1}{16}th$ of what is was before, we can substitute the values of $u_{1}$ and $v_{1}$ to form an equation for $e$:
+
+$$
+\begin{gather*}
+\text{KE after} = \frac{1}{2}(m)(v_{1})^{2} \\ \\
+\text{KE before} = \frac{1}{2}(m)(4u)^{2} \\ \\
+\frac{1}{2}(m)(u(1-3e))^{2} = \frac{1}{16}\left( \frac{1}{2}(m)(4u)^{2} \right) \\ \\
+(1-3e)^{2} = 1
+\end{gather*}
+
+$$
