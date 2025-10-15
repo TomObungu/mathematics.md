@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
+                "file": "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Given that the magnitude of the impulse P on Q is 2mu, find e"
+              "title": "Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2"
             }
           }
         ],
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,8 +259,20 @@
   },
   "active": "adeba0526c239e5f",
   "lastOpenFiles": [
-    "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find the two possible values of k.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251015200029.png",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/Power Continued.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
+    "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
+    "Further Mathematics/Further Mechanics 1/Restitution/Restitution.md",
+    "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
     "Further Mathematics/Further Mechanics 1/Restitution/attachments/Pasted image 20251015191000.png",
     "Further Mathematics/Further Mechanics 1/Restitution/attachments",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Untitled",
@@ -267,9 +280,7 @@
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments/Pasted image 20251015185632.png",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments/Pasted image 20251015185553.png",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments/Pasted image 20251015185329.png",
-    "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments/Untitled",
-    "Further Mathematics/Further Mechanics 1/Restitution/Restitution.md",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments/Pasted image 20251015183156.png",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments/Pasted image 20251015182709.png",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments",
@@ -287,22 +298,12 @@
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments",
     "Further Mathematics/Core Pure 1/Series/Maclaurin Series.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251014105657.png",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/Power Continued.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Q.The direction of motion is deflected at angle of 45. Find possible lambda and mu for impulse.md",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Q. Asked to show that a particle slides down the plane.md",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/2021 Upsolve Stream.md",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/2020 Upsolve Stream.md",
     "Mathematical Problem Solving/Senior Mathematical Chellenge/2015 Upsolve Stream.md",
-    "Mathematical Problem Solving/Senior Mathematical Chellenge/Preperation.md",
     "Untitled.canvas"
   ]
 }
