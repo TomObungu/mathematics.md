@@ -17,7 +17,17 @@ $$
 \begin{gather*}
 (1) + (2): \\ 
 2v_{2} = 5eu-u \\
-v_{2} = u\left( \frac{-1-e}{2} \right)
+2v_{2} = u(5e-1)\\
+v_{2} = \frac{u}{2}\left( 5e-1 \right)
 \end{gather*}
-
+$$
+As $v_{2} > 0$:
+$$
+\begin{gather*}
+\frac{u}{2}(5e-1) > 0 \\
+5e-1 > 0 \\
+5e>1 \\
+e > \frac{1}{5} \\
+QED
+\end{gather*}
 $$
