@@ -16,7 +16,7 @@ If you know that motion is reversed for both particles, then both $v_{1}$ and $v
 $$
 \begin{gather*}
 (1) + (2): \\ 
-2v_{2} = -u-eu \\
+2v_{2} = 5eu-u \\
 v_{2} = u\left( \frac{-1-e}{2} \right)
 \end{gather*}
 
