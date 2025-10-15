@@ -9,14 +9,22 @@ Start of by writing the equations as a result of conservation of momentum:
 $$
 \begin{gather*}
 m(4u)=mv_{1} + 3mv_{2} \\ 
-4u = v_{1} + 3v_{2} \
+4u = v_{1} + 3v_{2} \qquad (1)
 \end{gather*}
 $$
 Secondly, form the equations as a result of restitution:
 $$
 \begin{gather*}
 \frac{v_{2}-v_{1}}{4u} = e \\ \\
-v_{2}-v_{1} = 4eu
+v_{2}-v_{1} = 4eu \qquad (2)
 \end{gather*}
 $$
-As it is known that the direction of P was reversed, it's final velocity will be negative as it is travelling in the other direction. Therefore we need to using the e
+As it is known that the direction of P was reversed, it's final velocity $v_{1}$ will be negative as it is travelling in the other direction. Therefore we need to find $v_{1}$ in terms of $4u$ and $e$ using equations equations $(1)$ and $(2)$:
+
+$$
+\begin{gather*}
+(1) - 3 \times (2) : \\ \\
+-2v_{1} = 
+
+\end{gather*}
+$$
