@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Restitution.md",
+                "file": "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Restitution"
+              "title": "Linear Transformations in Two Dimensions"
             }
           }
         ],
@@ -259,8 +259,12 @@
   },
   "active": "adeba0526c239e5f",
   "lastOpenFiles": [
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
+    "Further Mathematics/Core Pure 1/Matrices/Solving Systems Of Equations Using Matrices.md",
     "Further Mathematics/Further Mechanics 1/Restitution.md",
+    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251015175641.png",
+    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251015175433.png",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
     "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251014115449.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments",
@@ -284,8 +288,6 @@
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/attachments/Pasted image 20251014093508.png",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251014093323.png",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251013205809.png",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251013203009.png",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251013182950.png",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Q. Asked to show that a particle slides down the plane.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/attachments",
@@ -303,8 +305,6 @@
     "Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and lines.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "Untitled.canvas"
   ]
 }
