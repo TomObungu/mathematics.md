@@ -53,7 +53,11 @@ $$
 \text{KE after} = \frac{1}{2}(m)(v_{1})^{2} \\ \\
 \text{KE before} = \frac{1}{2}(m)(4u)^{2} \\ \\
 \frac{1}{2}(m)(u(1-3e))^{2} = \frac{1}{16}\left( \frac{1}{2}(m)(4u)^{2} \right) \\ \\
-(1-3e)^{2} = 1
+(1-3e)^{2} = 1 \\ \\
+e = 0 \qquad e = \frac{2}{3}
 \end{gather*}
-
+$$
+However as $\frac{1}{3} < e$, thefore:
+$$
+e = \frac{2}{3}
 $$
