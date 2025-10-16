@@ -32,3 +32,4 @@ T = \frac{\lambda x}{l} \\
 = \frac{mg}{2-\sqrt{ 2 }}
 \end{gather*}
 $$
+	
