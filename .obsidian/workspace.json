@@ -243,24 +243,26 @@
                   "title": "Further Mechanics 1"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "07dcf71e28b63e86",
+  "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Resources/Further Mechanics 1.pdf",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251016085407.png",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
-    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Core Pure 1/Vectors/Planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
@@ -299,9 +301,7 @@
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions",
     "Further Mathematics/Further Mechanics 1/Restitution",
     "Further Mathematics/Core Pure 1/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
-    "Further Mathematics/Core Pure 1/Matrices/Determinants.md",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251015175641.png",
-    "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251015175433.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings",
     "Untitled.canvas"
