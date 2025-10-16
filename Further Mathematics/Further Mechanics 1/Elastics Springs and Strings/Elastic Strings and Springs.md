@@ -15,6 +15,20 @@ Now we have an expression for $T$, we can now formulate an expression for x in t
 
 As the system forms two right angle triangles with length $a$ and $a$. The the length of the string diagonally is:
 $$
-\sqrt{ a^{2} + a^{2} } = \sqrt{ 2a }
+\sqrt{ a^{2} + a^{2} } = a\sqrt{ 2 }
 $$
-Therefore the total length of the string when it has been extended by the string is $2\sqrt{ 2a }$
+Therefore the total length of the string when it has been extended by the mass is $2a\sqrt{ 2 }$
+Knowing the total length of the string we can calculate the extension of the whole string by subtracting it's new length by it's natural length
+$$
+2a\sqrt{ 2 } - 2a = 2a(\sqrt{ 2 }-1)
+$$
+Now knowing the extension, the natural length and the tension, we can form an equation for $\lambda$:
+$$
+\begin{gather*}
+T = \frac{\lambda x}{l} \\ 
+\implies \frac{mg}{\sqrt{ 2 }} = \frac{\lambda (2a(\sqrt{ 2 }-1))}{2a} \\
+\implies \frac{mg}{\sqrt{ 2 }} = \lambda(\sqrt{ 2 }-1) \\
+\therefore \lambda = \frac{mg}{\sqrt{ 2 }(\sqrt{ 2 }-1)} \\
+= \frac{mg}{2-\sqrt{ 2 }}
+\end{gather*}
+$$
