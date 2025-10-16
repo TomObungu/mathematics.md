@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
+                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power"
+              "title": "Elastic Strings and Springs"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Vector Equations Of Lines"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,13 +251,16 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "07dcf71e28b63e86",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251016085407.png",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
+    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Core Pure 1/Vectors/Planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Customised Problem Sheet - Vectors.md",
@@ -271,7 +273,6 @@
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find the two possible values of k.md",
-    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251015201844.png",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
@@ -283,7 +284,6 @@
     "Further Mathematics/Further Mechanics 1/Work Energy Power/Power Continued.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
     "Further Mathematics/Further Mechanics 1/Restitution/Restitution.md",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
     "Further Mathematics/Further Mechanics 1/Restitution/attachments/Pasted image 20251015191000.png",
@@ -300,7 +300,6 @@
     "Further Mathematics/Further Mechanics 1/Restitution",
     "Further Mathematics/Core Pure 1/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "Further Mathematics/Core Pure 1/Matrices/Determinants.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251015175641.png",
     "Further Mathematics/Further Mechanics 1/attachments/Pasted image 20251015175433.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments",
