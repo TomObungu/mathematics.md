@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
+                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Pot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Elastic Strings and Springs"
+              "title": "Elastic Pot"
             }
           },
           {
@@ -239,14 +239,15 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "fdb444b5b688864c",
+  "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Pot.md",
     "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
     "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
