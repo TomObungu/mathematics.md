@@ -71,7 +71,21 @@ T = kx \\ \\
 $$
 ## Worked Example 3
 ![[Pasted image 20251017162421.png]]
-
+Resolve the forces of the system in equilibrium. 
+$$
+T=0.5mg
+$$
+Therefore we can form equations for tensions between $AB$ and $BC$
+$$
+AB : x=\frac{Tl}{\lambda}  \qquad x=\frac{0.5g(1)}{15=}0.327
+$$
+$$
+BC: x=\frac{0.5g(0.5)}{18} = 0.136
+$$
+Therefore:
+$$
+AC = 1.5 + 0.327 +  0.136 = 1.96
+$$
 # Worked Example 4
 An elastic string of natural length $2a$ is attached to the point $A$ and $B$, where $AB=2a$. A mass m is attached to the midpoint of $AB$ and hangs in equilibrium a distance $a$ below $AB$. Find $\lambda$
 ![[Pasted image 20251016122336.png]]

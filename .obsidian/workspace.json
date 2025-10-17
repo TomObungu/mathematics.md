@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
+                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elastic Strings and Springs"
+              "title": "Dynamic Elastic Strings and Springs"
             }
           },
           {
@@ -207,57 +207,12 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "2f3b113df65c02f9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a47dc30949c28be8",
-        "type": "window",
-        "children": [
-          {
-            "id": "fb7f22724976a86a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "07dcf71e28b63e86",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Further Mechanics 1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Further Mechanics 1"
-                }
-              },
-              {
-                "id": "1a7127b345b64bda",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Further Mechanics 1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Further Mechanics 1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017173635.png",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
+    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017162421.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017160623.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017160345.png",
@@ -265,12 +220,10 @@
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017155940.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017155747.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Q. The.md",
-    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/attachments/Pasted image 20251017154255.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/attachments/Pasted image 20251017154120.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/attachments/Pasted image 20251017153613.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/attachments/Pasted image 20251017153320.png",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/attachments/Pasted image 20251017152653.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/attachments",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
@@ -285,7 +238,6 @@
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find the two possible values of k.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/1D Elastic Collisions.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
     "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
@@ -298,7 +250,6 @@
     "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Lines Distances.md",
     "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
-    "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/attachments",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Untitled",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/attachments/Untitled",
