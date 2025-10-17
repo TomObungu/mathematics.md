@@ -1,3 +1,59 @@
+# Hooke's Law
+Hooke's Law was discovered experimentally in 1660. However we cannot derive it mathematically. However modern attempts at a fundamental derivation include molecular theory:
+
+The spring has no exerted forces applied to it. It's sitting on a horizontal surface and we are looking down on it. The length of the spring with forces applied is called the natural length.
+![[Pasted image 20251017155747.png]]
+
+The force required to extend or compress a spring is proportional to the extension or compression:
+$$
+\begin{gather*}
+F \propto x \\ 
+\therefore F = kx
+\end{gather*}
+$$
+The spring constant represents the stiffness of the spring. As stiffer spring will require more force to extend/compress it. 
+
+When the spring is in equilibrium:
+![[Pasted image 20251017160112.png]]
+$$
+T = F \implies T = kx
+$$
+
+## Identical strings connected in series
+Each spring has natural length $l$ and spring constant $k$.
+
+This means if we look at the springs in series as one spring. The natural length of this spring is 2l. However this combined spring will have a different spring constant of $k_{2}$. 
+![[Pasted image 20251017160623.png]]
+
+When the combined spring is stretched by $x$ due to force $F$:
+![[Pasted image 20251017160345.png]]
+Each spring is stretched by $\frac{x}{2}$
+
+This also means for a single spring with a particle in separating the spring, the natural lengths of the local spring segments will be $\frac{l}{2}$
+
+If the junction of the two springs is in equilibirum, the tension in each spring must be the same $T$.
+
+This means for the smaller spring(s) with force constant $k_{1}$:
+$$
+T=\frac{k_{1}x}{2}
+$$
+For the combined spring:
+$$
+T = k_{2}x
+$$
+If we form an equation for both $T$:
+$$
+k_{2}x=\frac{k_{1}x}{2}
+$$
+This means for springs in series of that cause the length of the spring to double:
+$$
+k_{2} = \frac{1}{2}k_{1}
+$$
+In other words:
+$$
+\therefore \boxed{\text{Doubling the length in series, halves the spring constant}}
+$$
+
 # Worked Example 4
 An elastic string of natural length $2a$ is attached to the point $A$ and $B$, where $AB=2a$. A mass m is attached to the midpoint of $AB$ and hangs in equilibrium a distance $a$ below $AB$. Find $\lambda$
 ![[Pasted image 20251016122336.png]]
