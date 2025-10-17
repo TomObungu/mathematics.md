@@ -5,6 +5,6 @@ The trickiest part about the problem is interpreting the diagram correctly. My m
 ![[Pasted image 20251017153613.png]]
 $$
 \begin{gather*}
-
+\sin\alpha = \frac{4}{5} \qquad \cos\alpha = \frac{3}{5}
 \end{gather*}
 $$
