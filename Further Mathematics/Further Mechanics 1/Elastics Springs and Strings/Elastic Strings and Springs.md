@@ -54,6 +54,22 @@ $$
 \therefore \boxed{\text{Doubling the length in series, halves the spring constant}}
 $$
 
+From this we can this also forms another relationship for the spring constant. If doubling the length of spring caused spring constant to decrease, then we can show the spring constant is inversely proportional to the natural length of the length of spring.
+$$
+k \propto \frac{1}{l} \qquad k = \frac{\lambda}{l}
+$$
+In this case, $\lambda$ is a constant known as the modulus of elasticity.
+
+As $\lambda$ is a property of the material, we can therefore find the spring constant $k$ for a given material and natural length.
+
+Thus bring us to:
+$$
+\begin{gather*}
+T = kx \\ \\
+\boxed{T = \frac{\lambda x}{l}}
+\end{gather*}
+$$
+
 # Worked Example 4
 An elastic string of natural length $2a$ is attached to the point $A$ and $B$, where $AB=2a$. A mass m is attached to the midpoint of $AB$ and hangs in equilibrium a distance $a$ below $AB$. Find $\lambda$
 ![[Pasted image 20251016122336.png]]
