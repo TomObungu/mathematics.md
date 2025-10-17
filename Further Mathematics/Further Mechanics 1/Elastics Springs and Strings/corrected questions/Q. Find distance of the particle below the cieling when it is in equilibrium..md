@@ -38,6 +38,6 @@ Therefore the distance of the particle above the ground is:
 $$
 \begin{gather*}
 y = 3a - \left( \frac{1}{4}a \right) \\
-\boxxed{y = \frac{11}{4}a}
+\boxed{y = \frac{11}{4}a}
 \end{gather*}
 $$
