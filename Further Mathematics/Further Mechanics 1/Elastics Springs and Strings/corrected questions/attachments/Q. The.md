@@ -7,6 +7,15 @@ $$
 \begin{gather*}
 \sin\alpha = \frac{4}{5} \qquad \cos\alpha = \frac{3}{5} \\ \\
 \text{Taking moments about P } : \\ 
-\frac{3}{2}\left( \frac{3}{5} \right)5g = 4T
+\frac{3}{2}\left( \frac{3}{5} \right)5g = 3T \\ \\
+\implies T = \frac{3}{2}g = 14.7
+\end{gather*}
+$$
+To calculate the natural length of the string you need form an equation for $l$ using the length $QR$ and the newly worked out Tension $T$:
+(b)
+$$
+\begin{gather*}
+\frac{3}{2}g = \frac{30(4-l)}{l} \\ \\
+l = 2.68 \implies l = 2.7
 \end{gather*}
 $$
