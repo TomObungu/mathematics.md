@@ -207,45 +207,9 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "2f3b113df65c02f9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7c9c41ed18318f68",
-        "type": "window",
-        "children": [
-          {
-            "id": "25d412e1ebce4268",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fdb444b5b688864c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Further Mechanics 1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Further Mechanics 1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fdb444b5b688864c",
+  "active": "f92e11e5dde33abe",
   "lastOpenFiles": [
+    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Potential Energy.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017212848.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017212842.png",
@@ -255,7 +219,6 @@
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017211953.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017211621.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
-    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
     "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017193304.png",
