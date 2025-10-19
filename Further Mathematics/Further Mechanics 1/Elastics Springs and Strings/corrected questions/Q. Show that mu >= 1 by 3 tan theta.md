@@ -15,5 +15,6 @@ GPE = EPE + WF \\ \\
 $$
 Therefore:
 $$
-\text{The distance moved before coming to rest}
+\text{The distance moved before coming to rest } (2a(\sin\theta-\mu \cos\theta))
 $$
+(b)
