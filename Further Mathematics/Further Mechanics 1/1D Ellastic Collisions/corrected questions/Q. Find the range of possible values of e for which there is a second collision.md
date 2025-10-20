@@ -32,7 +32,29 @@ Therefore we can deduce for the cases when P direction is unchanged, $e>0$. This
 
 The second case is when P direction is reversed. The only way for Q to collide with P afterwards is if Q's speed is greater than P. That is is if P is direction is reversed then $v_{Q} < v_{P}$ due to the negative signs and $v_{p} < 0$
 
-From the previous question we know that $v_{1}$ is the velocity of P after thec
+From the previous question we know that $v_{1}$ is the velocity of P after the collision, so we must find $v_{1}$:
+$$
+\begin{gather*}
+(1) - 4(2): \\ 
+\implies 7v_{1} = 2u - 12eu \\ 
+\implies v_{1} = \frac{u}{7}(2-12e) \\
+\end{gather*}
+$$
+As well as that after the collision with the wall, the speed of Q will be $ev_{2}$ and will also be reversed, Therefore:
+$$
+ev_{2} = \frac{1}{2}\left( \frac{u}{7}(9e+2) \right) = \frac{u}{14}(9e+2)
+$$
+With $v_{Q}$ and $v_{P}$ now found, we just need solve the inequality for e:
+$$
+\begin{gather*}
+v_{Q} < v_{P} \ :\\ \\
+\frac{u}{14}(9e+2) < \frac{u}{7}(2-12e) \\ \\
+\implies \frac{1}{14}(9e+2) < \frac{1}{7}(2-12e) \\ \\
+(9e+2) < 2(2-12e) \\ \\
+
+\end{gather*}
+
+$$
 
 
    
