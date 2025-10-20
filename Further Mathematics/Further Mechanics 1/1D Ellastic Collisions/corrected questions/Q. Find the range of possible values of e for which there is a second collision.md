@@ -32,7 +32,7 @@ Therefore we can deduce for the cases when P direction is unchanged, $e>0$. This
 
 The second case is when P direction is reversed. The only way for Q to collide with P afterwards is if Q's speed is greater than P. That is is if P is direction is reversed then $v_{Q} < v_{P}$ due to the negative signs and $v_{p} < 0$
 
-Therefore:
+From the previous question we know that $v_{1}$ is the velocity of P after thec
 
 
    
