@@ -21,6 +21,23 @@ A collision is fully inelastic if the objects coalesce (stitch together) after c
 If this happens, it means none of the kinetic energy got stored as elastic potential energy as they did not spring apart 
 
 Therefore, the maximum amount of kinetic energy was lost. Not necessarily all of it, just the max amount.
+
+## What this means
+In a perfectly inelastic collision, the objects will coalesce. However due to conservation of momentum, if the objects were moving, then combined particle will still have momentum.
+
+However the particles, when they colliding to coalesce to form a combined particle, will show no signs of "bouncing back off each other" and instead will remain coalesced after collision.
+
+In order for this to happen, the maximum amount of kinetic energy will have needed to be lost such that the EPE from the collision is dissipated and there will be no restitution. The EPE is dissipated as either heat, sound or permanent deformation but not transferred into KE. 
+
+However there is still some overall KE in the coalesced particles due to conservation of  momentum of particles that is not from the collision. 
+
+# Newton's Law Of Restitution
+The coefficient of restitution $e$ is given by
+$$
+\frac{v_{2} - v_{1}}{u_{1}-u_{2}} = e
+$$
+In a perfectly elastic collision $e=1$ as the particles will "bounce off each other" with the same velocities 
+
 # Worked Example 3
 P(m) moves with speed $4u$ when it collides with stationary particle $Q$ mass $3m$. Given the direction of $P$ reversed after the collision. Find the value of $e$.
 
