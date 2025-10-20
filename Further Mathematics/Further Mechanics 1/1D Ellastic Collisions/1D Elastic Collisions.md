@@ -1,3 +1,26 @@
+Before particles collide, they are travelling towards each other
+![[Pasted image 20251020204226.png]]
+When the particles collide, they are compressed. Some of the kinetic energy is lost as it is transferred into heat and sound.
+Some of the kinetic energy is stored as it transformed into elastic potential energy.
+![[Pasted image 20251020204322.png]]
+The particles then spring back and release the stored elastic potential energy to be transformed back into kinetic energy.
+![[Pasted image 20251020204358.png]]
+After, the particles have final velocities and are moving away from each other:
+![[Pasted image 20251020204428.png]]
+
+# Fully elastic collisions:
+If a collision is fully elastic, then no energy is lost - all it's initial KE is stored as EPE then transferred back into KE:
+$$
+\text{Total KE (before)} = \text{Total KE (after)} 
+$$
+In reality, no collision is fully elastic. There will always be some energy lost as heat or sound.
+
+# Fully inelastic collisions:
+A collision is fully inelastic if the objects coalesce (stitch together) after colliding. 
+
+If this happens, it means none of the kinetic energy got stored as elastic potential energy as they did not spring apart 
+
+Therefore, the maximum amount of kinetic energy was lost. Not necessarily all of it, just the max amount.
 # Worked Example 3
 P(m) moves with speed $4u$ when it collides with stationary particle $Q$ mass $3m$. Given the direction of $P$ reversed after the collision. Find the value of $e$.
 

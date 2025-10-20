@@ -34,4 +34,4 @@ $$
 \therefore u_{2}=\frac{1}{8}v\left( \frac{5}{e} - 11 \right)
 \end{gather*}
 $$
-Now since the problem statement states $e>0$. This means that $u_{1}>0$
+Now since the problem statement states $e>0$. This means that $u_{1}>0$ 
