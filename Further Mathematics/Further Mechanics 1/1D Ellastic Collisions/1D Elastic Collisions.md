@@ -53,6 +53,19 @@ e = \frac{v_{2}-v_{1}}{u_{1}-u_{2}} = \frac{\text{speed of seperation}}{\text{sp
 0\leq e\leq_{1}
 \end{gather*}
 $$
+## Worked Example 2
+Consider collision with a fixed plane. The plane has zero velocity so: speed of approach = $u$, and speed of separation = $v$.  This means for a particle and a fixed plane:
+$$
+\frac{v}{u} = e
+$$
+
+If the particle loss speed, (which will occur when e<1), the the particle has also lost momentum. This might make it seem like momentum is not conserved however, of course it has to be.
+
+In reality, the wall is not fully fixed, it must move a tiny amount. Because it's so much heavier than the particle, its velocity is negligible so we can ignore it. The fact that is does move, though, albeit a tiny amount, how that momentum is conserved. 
+
+## Modelling assumption
+This applies if the plane is "smooth" and bumpy so impulse acts $\perp$ to the plane. 
+
 # Worked Example 3
 P(m) moves with speed $4u$ when it collides with stationary particle $Q$ mass $3m$. Given the direction of $P$ reversed after the collision. Find the value of $e$.
 
