@@ -11,7 +11,7 @@ $$
 \begin{gather*}
 \underline{\text{Conservation Of Momentum}} : \\ \\
 5m(u_{1}) - 3m(u_{2}) = 5mv + 6mv \\ 
-5u_{1}-3u_{2} = 11v
+5u_{1}-3u_{2} = 11v (1)
 \end{gather*}
 $$
 Form the second equation using Newton's law of restitution:
@@ -20,7 +20,18 @@ $$
 \underline{\text{Newton's Law Of Restitution}} :  \\
 \frac{2v-v}{u_{1}--u_{2}} = e \\
 \implies \frac{v}{u_{1}+u_{2}} =e \\
-\implies \frac{v}{e} = u_{1}+u_{2}
+\implies \frac{v}{e} = u_{1}+u_{2} (2)
 \end{gather*}
 $$
-When given two unknowns, it is best to calculate their values in terms of $v$ and $e$ to simplify future calculations and 
+When given two unknowns, it is best to calculate their values in terms of $v$ and $e$ to simplify future calculations and to have $u_{1}$ and $u_{2}$ in known terms:
+$$
+\begin{gather*}
+(1) + 3(2): \\
+8u_{1} = 11v + \frac{3v}{e} \\
+\therefore u_{1} = \frac{1}{8}v\left( 11+\frac{3}{e} \right) \\ \\
+5(2) - (1): \\
+8u_{2} = \frac{5v}{e} - 11v \\
+\therefore 
+\end{gather*}
+
+$$
