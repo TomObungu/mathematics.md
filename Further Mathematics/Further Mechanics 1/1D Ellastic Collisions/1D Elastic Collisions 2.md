@@ -42,4 +42,7 @@ $$
 QED
 \end{gather*}
 $$
+# Worked Example 3
+$A$(4kg) particle particle is projected towards $B$ (11kg) at $ums^{-1}$. B is initially at rest. After the collision, the direction of $A$ is reversed. B hits a smooth wall rebounds. The coefficient of restituion between the spheres is $e$. The coefficient of restitution between the sphere and the wall is $\frac{e}{2}$. 
 
+Find the range of values of $e$ for which there is a second collision between $A$ and $B$
