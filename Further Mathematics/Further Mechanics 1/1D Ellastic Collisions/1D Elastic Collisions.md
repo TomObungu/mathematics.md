@@ -53,8 +53,6 @@ e = \frac{v_{2}-v_{1}}{u_{1}-u_{2}} = \frac{\text{speed of seperation}}{\text{sp
 0\leq e\leq_{1}
 \end{gather*}
 $$
-
-
 # Worked Example 3
 P(m) moves with speed $4u$ when it collides with stationary particle $Q$ mass $3m$. Given the direction of $P$ reversed after the collision. Find the value of $e$.
 
