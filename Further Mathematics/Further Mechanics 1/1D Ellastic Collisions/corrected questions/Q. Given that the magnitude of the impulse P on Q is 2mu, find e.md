@@ -4,7 +4,7 @@
 To solve this type of problem, always form simultaneous equations from conservation of momentum and Newton's law of restitution:
 $$
 \begin{gather*}
-\underline{\text{Conservation of Momentum : }}
+\underline{\text{Conservation of Momentum : }} \\ \\
+m4u + 2u = 
 \end{gather*}
-
 $$
