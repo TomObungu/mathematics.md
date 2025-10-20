@@ -8,61 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f92e11e5dde33abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2"
-            }
-          },
-          {
             "id": "80b3c249dc7c745f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/Further Mechanics 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Further Mechanics 1"
-            }
-          },
-          {
-            "id": "2da7deb30b4e6f3a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
+                "file": "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Energy Principle"
-            }
-          },
-          {
-            "id": "adeba0526c239e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector Equations Of Lines"
+              "title": "Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,37 +181,38 @@
   },
   "active": "80b3c249dc7c745f",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/attachments/Pasted image 20251020071548.png",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/1D Elastic Collisions.md",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Show that mu >= 1 by 3 tan theta.md",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/attachments/Q. Show further lambda > k by (k-2).md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find the two possible values of k.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
+    "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/attachments/Pasted image 20251020071741.png",
+    "Resources/Further Mechanics 1.pdf",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/attachments/Pasted image 20251020071548.png",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/1D Elastic Collisions.md",
     "Mathematics/Binomial Expansion.md",
     "Mathematics/Completing The Square.md",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Show that mu >= 1 by 3 tan theta.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251019202950.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251019202744.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251019202609.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251019202543.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251019191727.png",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
-    "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/1D Elastic Collisions Continued.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Potential Energy.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017212848.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017212842.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017212838.png",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/attachments/Pasted image 20251017212835.png",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/Work Energy Principle.md",
-    "Further Mathematics/Core Pure 1/Vectors/Vector Equations Of Lines.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Strings and Springs.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Q. The.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/attachments",
@@ -260,7 +220,6 @@
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/Power.md",
-    "Further Mathematics/Core Pure 1/Vectors/Planes.md",
     "Further Mathematics/Core Pure 1/Vectors/Worksheets/Vector Problem Solving.pdf",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/attachments",
     "Further Mathematics/Further Mechanics 1/Restitution/corrected questions/Untitled",
