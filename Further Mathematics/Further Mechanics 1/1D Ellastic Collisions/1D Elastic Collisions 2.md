@@ -26,4 +26,20 @@ u = \sqrt{ 2gh } \qquad v = \sqrt{ 2gh_{1} } \\
 $$
 
 # Worked Example 2
-Both walls have a
+Both walls have a coefficient of restitution $e$. The particle is projected midway between $A$ and $B$, B with velocity $4ms^{-1}$. Show that time taken for the particle to return to its starting position after bouncing off both walls once is: $\frac{(e+1)^{2}d}{8e^{2}}$
+
+Write out the velocity of each collision and their times based on the distances travelled:
+$$
+\begin{gather*}
+\text{After first collision: } v_{1} = 4e \\ \\
+\text{After second collision: } v_{2}=4e^{2} \\ \\
+\text{Time to hit B, } t_{1} = \frac{\left(\frac{d}{2}\right)}{4} = \frac{d}{8} \\ \\
+\text{Time to hit A, } t_{2} = \frac{d}{4e} \\ \\
+\text{Time from A to midpoint, } t_{3} = \frac{\left(\frac{d}{2}\right)}{8e^{2}} \\ \\
+\therefore \text{Total time t} = \frac{d}{8}+ \frac{d}{4e} + \frac{d}{8e^{2}} \\ 
+= \frac{e^{2}d}{8e^{2}} + \frac{2ed}{8e^{2}} + \frac{d}{8e^{2}} \\ 
+= \frac{(e^{2}+2e_{1})d}{8e^{2}} = \frac{(e+1)^{2}d}{8e^{2}} \\ \\
+QED
+\end{gather*}
+$$
+
