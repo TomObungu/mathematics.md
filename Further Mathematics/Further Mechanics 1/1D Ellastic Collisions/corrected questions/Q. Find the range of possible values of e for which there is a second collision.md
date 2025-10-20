@@ -3,10 +3,12 @@
  ![[Pasted image 20251020092352.png]]
  $$
  \begin{gather*}
+ \underline{\text{Conservation of momentum : }}\\ \\
 \text{Momentum Before} = \text{Momentum After} \\
 3m(2u)-4m(u) = 3m(v_{1})+4m(v_{2}) \\
 6u - 4u =3v_{1} + 4v_{2} \\
-2u = 3v_{1} + 4v_{2}
+2u = 3v_{1} + 4v_{2} \\ \\
+\\underline{}
 \end{gather*}
 $$
 
