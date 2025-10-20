@@ -53,7 +53,7 @@ e = \frac{v_{2}-v_{1}}{u_{1}-u_{2}} = \frac{\text{speed of seperation}}{\text{sp
 0\leq e\leq_{1}
 \end{gather*}
 $$
-## Worked Example 2
+## Collisions with fixed plane
 Consider collision with a fixed plane. The plane has zero velocity so: speed of approach = $u$, and speed of separation = $v$.  This means for a particle and a fixed plane:
 $$
 \frac{v}{u} = e
@@ -65,6 +65,17 @@ In reality, the wall is not fully fixed, it must move a tiny amount. Because it'
 
 ## Modelling assumption
 This applies if the plane is "smooth" and bumpy so impulse acts $\perp$ to the plane. 
+
+# Worked Example 2
+A ball is dropped form a height, h. It bounces to a height of $h_{1}$, after the second returns to a second height $h_{2}$, after the third height is $h_{3}$, etc...
+
+For questions involving the vertical speed of the particle,
+it's speed just before it hits the ground can be calculated using:
+$$
+v = \sqrt{ 2gh }
+$$
+The speed the ball 
+
 
 # Worked Example 3
 P(m) moves with speed $4u$ when it collides with stationary particle $Q$ mass $3m$. Given the direction of $P$ reversed after the collision. Find the value of $e$.
