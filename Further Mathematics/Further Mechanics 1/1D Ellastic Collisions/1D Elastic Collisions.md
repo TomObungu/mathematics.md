@@ -32,11 +32,28 @@ In order for this to happen, the maximum amount of kinetic energy will have need
 However there is still some overall KE in the coalesced particles due to conservation of  momentum of particles that is not from the collision. 
 
 # Newton's Law Of Restitution
+
 The coefficient of restitution $e$ is given by
 $$
 \frac{v_{2} - v_{1}}{u_{1}-u_{2}} = e
 $$
-In a perfectly elastic collision $e=1$ as the particles will "bounce off each other" with the same velocities 
+## Elastic collision
+In a perfectly elastic collision $e=1$ as the particles will "bounce off each other" with the same velocities however in reverse direction - negated values:
+## Inelastic collision
+In an inelastic collision, $e=0$, this is because the particles will coalesce and therefore will have the same final velocity.
+
+## All other collisions
+When particles do not coalesce or rebound with the same speed i.e when the collision is not perfectly inelastic or elastic, $0<e<1$.
+
+
+Therefore:
+$$
+\begin{gather*}
+e = \frac{v_{2}-v_{1}}{u_{1}-u_{2}} = \frac{\text{speed of seperation}}{\text{speed of approach}} \\ \\
+0\leq e\leq_{1}
+\end{gather*}
+$$
+
 
 # Worked Example 3
 P(m) moves with speed $4u$ when it collides with stationary particle $Q$ mass $3m$. Given the direction of $P$ reversed after the collision. Find the value of $e$.
