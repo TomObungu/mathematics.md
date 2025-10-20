@@ -26,3 +26,4 @@ u = \sqrt{ 2gh } \qquad v = \sqrt{ 2gh_{1} } \\
 $$
 
 # Worked Example 2
+Both walls have a
