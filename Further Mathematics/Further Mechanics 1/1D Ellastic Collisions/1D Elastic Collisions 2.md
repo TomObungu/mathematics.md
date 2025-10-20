@@ -46,3 +46,18 @@ $$
 $A$(4kg) particle particle is projected towards $B$ (11kg) at $ums^{-1}$. B is initially at rest. After the collision, the direction of $A$ is reversed. B hits a smooth wall rebounds. The coefficient of restituion between the spheres is $e$. The coefficient of restitution between the sphere and the wall is $\frac{e}{2}$. 
 
 Find the range of values of $e$ for which there is a second collision between $A$ and $B$
+
+Start off by finding the first collision between $A$ and $B$ 
+![[Pasted image 20251020224017.png]]
+
+$$
+\begin{gather*}
+\underline{\text{First Collision}} : \\
+\text{Conservation Of Momentum } : \\ 
+4u = 4v_{1} + 11v_{2} \\ \\
+\text{Newton's Law Of Restitution} : \\
+\frac{v_{2}-v_{1}}{u} = e \\
+\therefore v_{2}-v_{1}=eu
+\end{gather*}
+
+$$
