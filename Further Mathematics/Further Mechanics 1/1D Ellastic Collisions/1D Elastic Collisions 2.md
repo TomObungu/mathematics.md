@@ -59,5 +59,4 @@ $$
 \frac{v_{2}-v_{1}}{u} = e \\
 \therefore v_{2}-v_{1}=eu
 \end{gather*}
-
 $$
