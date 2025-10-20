@@ -5,3 +5,22 @@ Immediately after the collision, the speed of A is v and B, 2v.
 
 Given that $A$ & $B$ are moving in the same direction after the collision, find the range of possible values of $e$. 
 
+The first step is to the diagram required for conservation of momentum. Notice that missing values of initial speed are missing. We denote them as $u_{1}$ and $u_{2}$
+![[Pasted image 20251020172120.png]]
+$$
+\begin{gather*}
+\underline{\text{Conservation Of Momentum}} : \\ \\
+5m(u_{1}) - 3m(u_{2}) = 5mv + 6mv \\ 
+5u_{1}-3u_{2} = 11v
+\end{gather*}
+$$
+Form the second equation using Newton's law of restitution:
+$$
+\begin{gather*}
+\underline{\text{Newton's Law Of Restitution}} :  \\
+\frac{2v-v}{u_{1}--u_{2}} = e \\
+\implies \frac{v}{u_{1}+u_{2}} =e \\
+\implies \frac{v}{e} = u_{1}+u_{2}
+\end{gather*}
+$$
+When given two unknowns, it is best to calculate their values in terms of $v$ and $e$ to simplify future calculations and 
