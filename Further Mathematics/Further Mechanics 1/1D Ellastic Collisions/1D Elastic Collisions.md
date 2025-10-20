@@ -66,22 +66,6 @@ In reality, the wall is not fully fixed, it must move a tiny amount. Because it'
 ## Modelling assumption
 This applies if the plane is "smooth" and bumpy so impulse acts $\perp$ to the plane. 
 
-# Worked Example 2
-A ball is dropped form a height, h. It bounces to a height of $h_{1}$, after the second returns to a second height $h_{2}$, after the third height is $h_{3}$, etc...
-
-For questions involving the vertical speed of the particle,
-it's speed just before it hits the ground can be calculated using:
-$$
-v = \sqrt{ 2gh }
-$$
-The speed of the ball when it bounces of the ground will be:
-$$
-v_{2} = ev
-$$
-When the ball travels a height $h_{1}$ again. It will hit the ground with speed 
-$$
-v_{3}=\sqrt{ 2gh_{1} }
-$$
 
 
 
