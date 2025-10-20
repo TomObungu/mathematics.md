@@ -74,7 +74,15 @@ it's speed just before it hits the ground can be calculated using:
 $$
 v = \sqrt{ 2gh }
 $$
-The speed the ball 
+The speed of the ball when it bounces of the ground will be:
+$$
+v_{2} = ev
+$$
+When the ball travels a height $h_{1}$ again. It will hit the ground with speed 
+$$
+v_{3}=\sqrt{ 2gh_{1} }
+$$
+
 
 
 # Worked Example 3
