@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find x in terms of d.md",
+                "file": "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Find x in terms of d"
+              "title": "Q. Find e between sphere and fixed vertical plane"
             }
           }
         ]
@@ -179,14 +179,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "80b3c249dc7c745f",
+  "active": "7504e1836e7feb25",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find the possible values of e.md",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Show further lambda > k by (k-2).md",
+    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find x in terms of d.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/attachments/Pasted image 20251021104425.png",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/attachments/Pasted image 20251021104340.png",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find x in terms of d.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/attachments/Pasted image 20251021103733.png",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/1D Elastic Collisions 2.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/attachments/Pasted image 20251020225630.png",
@@ -198,12 +201,8 @@
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/attachments/Pasted image 20251020204226.png",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/1D Elastic Collision 3.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/attachments/Pasted image 20251020172120.png",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/attachments/Pasted image 20251020111030.png",
     "Resources/Further Mechanics 1.pdf",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Find the possible values of e.md",
     "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
-    "Further Mathematics/Further Mechanics 1/1D Ellastic Collisions/corrected questions/Q. Show further lambda > k by (k-2).md",
     "Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
     "Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
