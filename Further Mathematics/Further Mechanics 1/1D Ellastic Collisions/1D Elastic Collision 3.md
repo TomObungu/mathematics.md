@@ -34,4 +34,15 @@ $$
 \therefore u_{2}=\frac{1}{8}v\left( \frac{5}{e} - 11 \right)
 \end{gather*}
 $$
-Now since the problem statement states $e>0$. This means that $u_{1}>0$ 
+Now since the problem statement states $e>0$. This means that $u_{1}>0$. This means:
+$$
+\begin{gather*}
+\left( 11+\frac{3}{e} \right) > 0 \\ \\
+\therefore u_{1} > 0 \text{ for all values of }
+\end{gather*}
+
+$$
+
+
+
+As well as that problem states that they remain in the particles remain travelling in the same direction after the collision. If you 
