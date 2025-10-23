@@ -120,6 +120,8 @@ KE_{loss} = \frac{1}{2}(2)\left( (2^{2}+3^{2})-\left( 2^{2}+\left( \frac{3}{4} \
 $$
 
 # Worked Example 3
-For the cases when the plane is  not parallel to $i$ or $j$, but  is defined by the direction of a vector.
+For the cases when the plane is  not parallel to $i$ or $j$, but is defined by the direction of a vector.
+![[Pasted image 20251023194123.png]]
 
+You need find the unit vector components to the plane
 
