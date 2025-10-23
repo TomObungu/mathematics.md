@@ -25,4 +25,5 @@ $$
 ## Angle of deflection:
 The angle of deflection $\theta$, is the change in the direction from the direction it was moving to the new direction. 
 
-d
+Diagrammatically, if we sketched the direction vector of the particle and continued it's direction vector we can see that $\theta$ is equal to $\alpha+\beta$:
+![[Pasted image 20251023175059.png]]
