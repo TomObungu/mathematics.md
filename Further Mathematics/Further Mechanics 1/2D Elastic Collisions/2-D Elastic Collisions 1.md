@@ -27,3 +27,17 @@ The angle of deflection $\theta$, is the change in the direction from the direct
 
 Diagrammatically, if we sketched the direction vector of the particle and continued it's direction vector we can see that $\theta$ is equal to $\alpha+\beta$:
 ![[Pasted image 20251023175059.png]]
+
+# Worked Example 1
+![[Pasted image 20251023175258.png]]
+If e = 1/3. Find $v$ and the angle![[Pasted image 20251023175258.png]] of deflection $\theta$:
+From the diagram we know:
+$$
+\begin{gather*}
+v\cos\theta = 5\cos 40 \\
+v\sin\theta = \frac{1}{3}(5\sin 40) \\ \\
+\therefore \tan\theta = \frac{\frac{5}{3}\sin_{4}0}{5\cos 40} \qquad \theta = 15.6 \\ \\
+v^{2} = (5\cos 40)^{2} + \left( \frac{5}{3}\sin 40 \right)^{2} \\ 
+v = 3.98 ms ^{-1}
+\end{gather*}
+$$
