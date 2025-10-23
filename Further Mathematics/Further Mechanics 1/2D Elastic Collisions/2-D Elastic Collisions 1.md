@@ -1,2 +1,12 @@
 An oblique collision of a particle with a fixed plane means that the particle does not collide with plane perpendicular to it. This means the particle will not collide in the direction of the normal to the plane. 
 
+![[Pasted image 20251023173735.png]]
+
+When a particle collides with a fixed plane obliquely, then the motion of the particle is affected $\perp$ to the plane. The motion of the particle $\parallel$ is unchanged:
+
+![[Pasted image 20251023174011.png]]
+
+If we do $\frac{2}{(1)}$ we get:
+$$
+
+$$
