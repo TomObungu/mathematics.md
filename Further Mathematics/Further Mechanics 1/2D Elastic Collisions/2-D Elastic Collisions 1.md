@@ -8,5 +8,17 @@ When a particle collides with a fixed plane obliquely, then the motion of the pa
 
 If we do $\frac{2}{(1)}$ we get:
 $$
-
+\begin{gather*}
+\frac{v\cos\beta}{v\cos \beta} = \frac{eu\sin\alpha}{u\cos\alpha} \\ \\
+\therefore \tan\beta = e \tan \beta
+\end{gather*}
 $$
+Now as $e\leq_{1}$, then:
+$$
+ \tan\beta < \tan\alpha 
+$$
+Therefore:
+$$
+\therefore \beta \leq \alpha
+$$
+
