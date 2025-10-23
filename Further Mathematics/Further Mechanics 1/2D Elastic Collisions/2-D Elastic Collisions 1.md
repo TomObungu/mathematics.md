@@ -67,4 +67,12 @@ $$
 4\sin\alpha = 6e\cos 30 \\
 \end{gather*}
 $$
-
+We know that $4^{2} = (4\sin\alpha)^{2}+(4\cos\alpha)^{2}$. Therefore:
+$$
+\begin{gather*}
+16 = 36\sin^2 30 + 36e^{2}\cos ^{2} 30 \\ 
+\frac{16-36\sin ^{2} 30}{36\cos ^{2}30} = e^{2} \\ \\
+\frac{7}{27} = e^{2} \\ \\
+\therefore \boxed{\frac{\sqrt{ 21 }}{9}}
+\end{gather*}
+$$
