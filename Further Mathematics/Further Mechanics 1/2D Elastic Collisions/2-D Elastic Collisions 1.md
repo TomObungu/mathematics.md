@@ -56,5 +56,15 @@ $$
 # Worked Example 2
 A particle is dropped onto a smooth plane inclined at $30^\circ$ to the horizontal. Immediately before it hits the plane, it has speed $6ms^{-1}$. Immediately after rebounding, it has speed $4ms^{-1}$. Find the coefficient of restitution between the particle and the wall.
 
-Firstly draw the diagram:
+If the plane is inclined at 30 degrees. then if you draw the right angle triangle against the plane, the angle in the top corner of the triangle will also be $30^\circ$
+
+Firstly interpret the diagram correctly:
+![[Pasted image 20251023181556.png]]
+From the diagram we can deduce:
+$$
+\begin{gather*}
+4\sin\alpha = 6\sin 30 \\ 
+4\sin\alpha = 6e\cos 30 \\
+\end{gather*}
+$$
 
