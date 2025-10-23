@@ -76,3 +76,4 @@ $$
 \therefore \boxed{\frac{\sqrt{ 21 }}{9}}
 \end{gather*}
 $$
+# Worked Example 3
