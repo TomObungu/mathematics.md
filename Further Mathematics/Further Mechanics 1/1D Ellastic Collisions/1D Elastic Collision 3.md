@@ -34,15 +34,41 @@ $$
 \therefore u_{2}=\frac{1}{8}v\left( \frac{5}{e} - 11 \right)
 \end{gather*}
 $$
-Now since the problem statement states $e>0$. This means that $u_{1}>0$. This means:
+Now the problem states that they remain in the particles remain travelling in the same direction after the collision. This means that $u_{1}>0$. This means:
 $$
 \begin{gather*}
-\left( 11+\frac{3}{e} \right) > 0 \\ \\
-\therefore u_{1} > 0 \text{ for all values of }
+\frac{1}{8}v\left( 11+\frac{3}{e} \right) > 0 \\ \\
+\implies \left( 11+\frac{3}{e} \right) > 0 \\ \\
+\implies 11 > -\frac{3}{e} \\
+\implies 11e > -3 \\
+\implies e > -\frac{3}{11}\\
 \end{gather*}
+$$
 
+However as the physical properties of $e$ state that $0\leq e \leq 1$ and the problem states that $e<0$ then we automatically now that $e<0$ for this case. 
+
+In fact for anytime an inequality yields a negative result and the lower bound of the problem is stated, then $e>\text{lower bound}$. If the lower bound is not stated then e will always $e\geq0$ for negative inequalities.
+
+Therefore:
+$$
+e>0
 $$
 
 
-
-As well as that problem states that they remain in the particles remain travelling in the same direction after the collision. If you 
+Now if we know that collisions after wards remain moving in the same direction and $u_{1}>0$, then $u_{2}>0$ also:
+$$
+\begin{gather*}
+u_{2} > 0 \\ 
+\implies \frac{1}{8}v\left( \frac{5}{e} -11 \right) > 0 \\ 
+\implies \left( \frac{5}{e}-11 \right) > 0 \\
+\frac{5}{e} > 11  \\
+5 > 11e \\
+\frac{5}{11} > e
+\end{gather*}
+$$
+Therefore the upper bound of $e$ is $\frac{5}{11} > e$
+Combining the bounds for $e$, the final result is:
+$$
+\boxed{0<e< \frac{5}{11}}
+$$
+# Worked Example 1
