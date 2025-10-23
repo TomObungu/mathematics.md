@@ -82,5 +82,44 @@ a) As we are given the motion of the particle as a vector, we need to find the c
 
 As the plane is parallel to $i$, then the parallel component is just the $i$ component of the particle:
 $$
-u_{\parallel} = 2
+v_{\parallel} = 2
 $$
+Restitution only occurs on the perpendicular component of the vector in collisions with a fixed plane, thus the perpendicular component of $v$ will be:
+$$
+v_{\perp} = -e(3)
+$$
+Always remember that when an object rebounds, it will be in the opposite direction, therefore it will be multiplied by $-e$. Therefore the vertical component of $v$ is:
+$$
+v_{\perp} = -\frac{1}{4}(3) = -\frac{3}{4}
+$$
+Thus the vector $v$ is:
+$$
+v=(2i-\frac{3}{4}j)ms^{-1}
+$$
+b) When given the vectors when dealing with 2D collisions, the best way to calculate the angle of deflection is to use the dot product between the two vectors. The dot product will yield the angle of deflection between the starting vector and ending vector:
+![[Pasted image 20251023193417.png]]
+$$
+\cos\theta = \frac{\begin{pmatrix}
+2 \\
+3
+\end{pmatrix}  \cdot \begin{pmatrix}
+2 \\
+-\frac{3}{4}
+\end{pmatrix}}{\left|\begin{pmatrix}
+2 \\
+3
+\end{pmatrix}
+\right|\left|\begin{pmatrix}
+2 \\
+-\frac{3}{4}
+\end{pmatrix}\right|} \qquad \theta = 76.9
+$$
+c) The KE lost is just difference in KE with the ending velocity and starting velocity:
+$$
+KE_{loss} = \frac{1}{2}(2)\left( (2^{2}+3^{2})-\left( 2^{2}+\left( \frac{3}{4} \right)^{2} \right) \right) =\frac{135}{16}J
+$$
+
+# Worked Example 3
+For the cases when the plane is  not parallel to $i$ or $j$, but  is defined by the direction of a vector.
+
+
