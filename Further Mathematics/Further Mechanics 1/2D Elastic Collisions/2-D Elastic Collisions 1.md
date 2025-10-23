@@ -151,4 +151,24 @@ U_{y} = \begin{pmatrix}
 $$
 
 
-
+No we can form equations of restitution using the unit vectors of the incoming vector:
+$$
+\begin{gather*}
+Vx = Ux = \frac{7\sqrt{ 5 }}{5} \\ \\
+Vy = -eUy = -\frac{1}{3}\left( \frac{9\sqrt{ 5 }}{5} \right)=-\frac{3\sqrt{ 5 }}{5}
+\end{gather*}
+$$
+Now we have the components of $v$ parallel and perpendicular to wall, we can multiply them by their respective direction unit vectors to get $v$.
+$$
+v = \frac{7\sqrt{ 5 }}5{}\left[\left( \frac{1}{\sqrt{ 5 }}\right)\begin{pmatrix}
+1 \\
+2
+\end{pmatrix}\right] + \frac{3\sqrt{ 5 }}5{}\left[\left( \frac{1}{\sqrt{ 5 }}\right)\begin{pmatrix}
+-2 \\
+1
+\end{pmatrix}\right] 
+$$
+Therefore:
+$$
+v = \left[ \frac{1}{5}i + \frac{17}{5}j \right] ms ^{-1}
+$$
