@@ -139,15 +139,16 @@ U_{x} = \begin{pmatrix}
 \end{pmatrix}  \cdot \left( \frac{1}{\sqrt{ 5 }} \right)\begin{pmatrix}
 1 \\
 2
-\end{pmatrix} \\ \\
+\end{pmatrix} = \frac{7\sqrt{ 5 }}{5} \\ \\
 U_{y} = \begin{pmatrix}
 5 \\
 1
 \end{pmatrix}  \cdot \left( \frac{1}{\sqrt{ 5 }} \right) \begin{pmatrix}
 -2 \\
 1
-\end{pmatrix}
+\end{pmatrix} = -\frac{9\sqrt{ 5 }}{5}
 \end{gather*}
 $$
+
 
 
