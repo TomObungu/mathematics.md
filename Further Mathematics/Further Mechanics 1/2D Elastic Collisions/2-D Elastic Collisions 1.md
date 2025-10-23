@@ -123,5 +123,28 @@ $$
 For the cases when the plane is  not parallel to $i$ or $j$, but is defined by the direction of a vector.
 ![[Pasted image 20251023194123.png]]
 
-You need find the unit vector components to the plane
+You need find the unit vector components to the plane and take the dot product of the incoming vector. This will give you vertical and horizontal components of the incoming vector relative to the plane:
+
+## Finding perpendicular vector in 2-D
+To find the vector perpendicular to a 2D vector, simply switch the $i$ and $j$ components and make the $i$ component negative:
+e.g. $(3i+4j)$ becomes $(-4i+3j)$. This can be especially useful for calculating the the impulse as the impulse is the perpendicular vector the plane of impact. 
+
+
+
+$$
+\begin{gather*}
+U_{x} = \begin{pmatrix}
+5 \\
+1
+\end{pmatrix}  \cdot \left( \frac{1}{\sqrt{ 5 }} \right)\begin{pmatrix}
+1 \\
+2
+\end{pmatrix} \\ \\
+U_{y} = \begin{pmatrix}
+5 \\
+1
+\end{pmatrix}  \cdot \left( \frac{1}{\sqrt{ 5 }} \right)
+\end{gather*}
+
+$$
 
