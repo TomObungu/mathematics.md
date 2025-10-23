@@ -71,4 +71,20 @@ Combining the bounds for $e$, the final result is:
 $$
 \boxed{0<e< \frac{5}{11}}
 $$
-# Worked Example 1
+# Worked Example 1 Continued
+The kinetic energy energy of $A$ immediately after the collision is 16% of its KE before the collision. Find $e$. 
+$$
+\begin{gather*}
+\text{KE before} = \frac{1}{2}(5m)\left( \frac{1}{8}v\left( 11+\frac{3}{e} \right) \right)^{2} \\ \\
+\text{KE after} =  \frac{1}{2}(5m)v^{2} \\ \\
+\cancel{ \frac{1}{2}(5m) }v^{2} = 0.16\left( \cancel{ \frac{1}{2}(5m) }\left( \frac{1}{8}v\left( 11+\frac{3}{e} \right) \right)^{2} \right) \\ \\
+\cancel{ v^{2} } = \frac{1}{400}\cancel{ v^{2} }\left( 11+\frac{3}{e} \right)^{2} \\ \\
+\left( 11+\frac{3}{e} \right)^{2} = 400 \\ \\
+121+\frac{66}{e} +\frac{9}{e^{2}} = 400 \\ 
+279e^{2}-66e -9 = 0 \\ \\
+e = -\frac{3}{31}, \frac{1}{3} \\ \\
+\text{However } 0\leq e < \frac{5}{11} \\
+\therefore \boxed{e=\frac{1}{3}}
+\end{gather*}
+$$
+
