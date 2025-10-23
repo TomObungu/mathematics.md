@@ -22,3 +22,7 @@ $$
 \therefore \beta \leq \alpha
 $$
 
+## Angle of deflection:
+The angle of deflection $\theta$, is the change in the direction from the direction it was moving to the new direction. 
+
+d
