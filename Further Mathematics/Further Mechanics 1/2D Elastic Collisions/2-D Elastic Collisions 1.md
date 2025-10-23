@@ -172,3 +172,57 @@ Therefore:
 $$
 v = \left[ \frac{1}{5}i + \frac{17}{5}j \right] ms ^{-1}
 $$
+# Worked Example 4
+A particle is moving with velocity $(i+3j)ms ^{-1}$ when it collides with a wall. After the collision, it has velocity (-2i+j). Find the coefficient of restitution between the particle and the wall.
+![[Pasted image 20251023205537.png]]
+
+To approach this problem, you need to realise that the impulse will yield the perpendicular direction component of the plane. 
+
+As restitution only affects the perpendicular component of the incoming vector. You can work out the unit vector of the impulse and apply the same process to the perpendicular component of the incoming vector:
+$$
+\begin{gather*}
+I = m\left(\begin{pmatrix}
+-2 \\
+1
+\end{pmatrix} - \begin{pmatrix}
+1 \\
+3
+\end{pmatrix}\right)   = m\begin{pmatrix}
+-3 \\
+-2
+\end{pmatrix}
+\end{gather*}
+$$
+Find the unit vector of the impulse and take the dot product of the incoming vector to find it's component:
+$$
+\begin{gather*}
+\hat{I} = \frac{1}{\sqrt{ 13 }}\begin{pmatrix}
+-3 \\
+-2
+\end{pmatrix} \\ \\
+\end{gather*}
+
+$$
+Once you have found the unit vector of the impulse, you can then work out the perpendicular component of the rebounding vector $v_{\perp}$:
+$$
+\begin{gather*}
+u_{\perp} = \begin{pmatrix}
+1 \\
+3
+\end{pmatrix} \cdot \left[ \frac{1}{\sqrt{ 13 }} \begin{pmatrix}
+-3 \\
+-2
+\end{pmatrix} \right] = -\frac{9}{\sqrt{ 13 }} \\ \\
+v_{\perp} = \begin{pmatrix}
+-2 \\
+1
+\end{pmatrix} \cdot \left[ \frac{1}{\sqrt{ 13 }} \begin{pmatrix}
+-3 \\
+-2
+\end{pmatrix} \right] = -\frac{4}{\sqrt{ 13 }}
+\end{gather*}
+$$
+Recall that e is the ration between $u_{\perp}$ and $v_{\perp}$:
+$$
+e= \frac{\left(\frac{4}{\sqrt{ 13 }}\right)}{\left(\frac{9}{\sqrt{ 13 }}\right)} = \frac{4}{9}
+$$
