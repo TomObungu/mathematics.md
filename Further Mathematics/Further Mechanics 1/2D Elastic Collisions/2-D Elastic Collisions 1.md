@@ -77,3 +77,10 @@ $$
 \end{gather*}
 $$
 # Worked Example 3
+![[Pasted image 20251023192539.png]]
+a) As we are given the motion of the particle as a vector, we need to find the components of the plane that are parallel to it and perpendicular to it.
+
+As the plane is parallel to $i$, then the parallel component is just the $i$ component of the particle:
+$$
+u_{\parallel} = 2
+$$
