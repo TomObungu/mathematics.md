@@ -41,3 +41,20 @@ v^{2} = (5\cos 40)^{2} + \left( \frac{5}{3}\sin 40 \right)^{2} \\
 v = 3.98 ms ^{-1}
 \end{gather*}
 $$
+# Worked Example 1 Continued
+Calculate the magnitude of impulse exerted on the particle by the wall. Particle has mass 0.3kg. 
+
+Remember that the impulse only acts in the direction perpendicular to the plane so you must only consider the component perpendicular to the plane.
+$$
+\begin{gather*}
+I = 0.3(v\sin\theta+5\sin_{4}0) \\
+= 0.3(3.98\sin(15.6)+5\sin 40)
+= 1.29Ns
+\end{gather*}
+$$
+
+# Worked Example 2
+A particle is dropped onto a smooth plane inclined at $30^\circ$ to the horizontal. Immediately before it hits the plane, it has speed $6ms^{-1}$. Immediately after rebounding, it has speed $4ms^{-1}$. Find the coefficient of restitution between the particle and the wall.
+
+Firstly draw the diagram:
+
