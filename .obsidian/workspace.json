@@ -211,13 +211,14 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d113832ec2d27473",
+  "active": "80b3c249dc7c745f",
   "lastOpenFiles": [
+    "Mathematical Problem Solving/Senior Mathematical Chellenge/2021 Upsolve Stream.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
     "Resources/Further Mechanics 1.pdf",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251023205537.png",
