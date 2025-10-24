@@ -45,3 +45,4 @@ e^{2} = \frac{1}{9} \\
 \boxed{e = \frac{1}{3}}
 \end{gather*}
 $$
+# Worked Example 3
