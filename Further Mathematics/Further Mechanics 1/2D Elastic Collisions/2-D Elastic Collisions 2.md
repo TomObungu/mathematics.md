@@ -57,6 +57,6 @@ v_{1}\sin\alpha = \frac{1}{3}10\sin 30 = \frac{5}{3}  \\ \\
 \therefore \alpha = 10.89339\dots \\ \\
 \text{2nd Collision :} \\ 
 \gamma = 180 - 110 - \alpha = 59.106605\dots \\ \\
-v_{2}\cos\beta = 
+v_{2}\cos\beta = v_{1}\cos\gamma \\
 \end{gather*}
 $$
