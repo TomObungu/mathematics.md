@@ -46,3 +46,17 @@ e^{2} = \frac{1}{9} \\
 \end{gather*}
 $$
 # Worked Example 3
+![[Pasted image 20251024191925.png]]
+In examples like this, often you will need to be given the angle between the intersection of the wall if the walls are not perpendicular to each other. Using this angle you work out the angle of incidence for the second collision:
+$$
+\begin{gather*}
+\text{1st Collision :} \\
+v_{1}\cos\alpha = 10\cos 30 = 5\sqrt{ 3 } \\ \\
+v_{1}\sin\alpha = \frac{1}{3}10\sin 30 = \frac{5}{3}  \\ \\
+\tan\alpha =  \frac{\left( \frac{5}{3} \right)}{5\sqrt{ 3 }} = \frac{\sqrt{ 3 }}{9} \\
+\therefore \alpha = 10.89339\dots \\ \\
+\text{2nd Collision :} \\ 
+\gamma = 180 - 110 - \alpha = 59.106605\dots \\ \\
+v_{2}\cos\beta = 
+\end{gather*}
+$$
