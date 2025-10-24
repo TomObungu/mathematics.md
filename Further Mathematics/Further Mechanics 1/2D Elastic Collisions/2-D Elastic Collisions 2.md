@@ -24,4 +24,24 @@ $$
 \therefore \boxed{\beta = 45}
 \end{gather*}
 $$
-
+# Worked Example 2
+![[Pasted image 20251024172824.png]]
+Firstly form the equations by splitting into the respective perpendicular and parallel components
+$$
+\begin{gather*}
+\tan\theta = \frac{3}{5}, \qquad \sin\theta = \frac{3}{5}, \qquad \cos\theta=\frac{4}{5} \\ \\
+\text{First collision :} \\ 
+v_{1}\cos \alpha = u\cos 45 = \frac{4u}{5}\\ 
+v_{1}\sin \alpha = e(u\sin 45) = \frac{3e}{5} \\ \\
+\text{Second collision :} \\
+v_{2}\sin\beta = \frac{1}{2}\left( \frac{4u}{5} \right) = \frac{2u}{5} \\ \\
+v_{2}\cos\beta = v_{1}\sin\alpha=\frac{3e}{5} \\ \\
+v_{2}^{2} = \left( \frac{2u}{5} \right)^{2} +\left( \frac{3e}{5} \right)^{2} \\ \\
+KE_{after} = \frac{1}{5}KE_{before} \\ \\
+\implies  \left( \frac{1}{2} \right)mv_{2}^{2} = \frac{1}{5}\left( \frac{1}{2} \right)m(u)^{2}  \\
+\frac{1}{5}\cancel{ u^{2}  }= \left( \frac{4\cancel{ u^{2} }}{25}+\frac{9e^{2}\cancel{ u^{2} }}{25} \right) \\ \\
+9e^{2}+4 =5 \\ \\
+e^{2} = \frac{1}{9} \\
+\boxed{e = \frac{1}{3}}
+\end{gather*}
+$$
