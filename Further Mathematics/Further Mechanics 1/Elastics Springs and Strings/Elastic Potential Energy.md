@@ -31,4 +31,3 @@ $$
 ![[Pasted image 20251017212848.png]]
 # Modelling assumptions:
 - We always model the spring/string as 'light' - massless. If the string/spring had mass, we would need to account for KE and GPE of the string in energy calculations
-	
