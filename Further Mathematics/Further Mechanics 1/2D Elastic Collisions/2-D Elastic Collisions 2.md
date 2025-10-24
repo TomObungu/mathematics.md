@@ -60,5 +60,6 @@ v_{1}\sin\alpha = \frac{1}{3}10\sin 30 = \frac{5}{3}  \\ \\
 v_{1}^{2} = \left( \frac{5}{3} \right)^{2}+(5\sqrt{ 3 })^{2}\\ \\
 \therefore v_{1} = \frac{10\sqrt{ 7 }}{3} \\ \\
 v_{2}\cos\beta = v_{1}\cos\gamma \\
+v_{2} cs
 \end{gather*}
 $$
