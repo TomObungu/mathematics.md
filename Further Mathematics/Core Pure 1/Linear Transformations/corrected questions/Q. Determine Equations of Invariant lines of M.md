@@ -23,15 +23,15 @@ $$
 x \\
 mx+c
 \end{pmatrix} = \begin{pmatrix}
-x \\
-mx+c
+x' \\
+mx'+c
 \end{pmatrix} \\ \\
-2x+mx + c = x \\ \\
-2x+3mx+3c = mx + c \\ \\ \\
-\text{Substitute} (2x+mx+c) \text{ as } x \text{ in the bottom equation on RHS}: \\ \\
+2x+mx + c = x' \\ \\
+2x+3mx+3c = mx' + c \\ \\ \\
+\text{Substitute} (2x+mx+c) \text{ as } x' \text{ in the bottom equation on RHS}: \\ \\
 2x+3(mx+c) = m(2x+mx+c) + c \\ \\
 2x+3mx + 3c = 2mx+m^{2}x+mc + c \\ \\
-\text{Solve for } m \\ \\
+\text{Solve for } m \text{ by putting into } y=mx+c \text{ format:} \\ \\
 (m^{2}-m-2)x + (m-2)c = 0 \\ \\
 m^{2}-m-2 = 0 \implies m=-1,2 \\ \\
 m=-1 \implies c = 0 \\ \\
