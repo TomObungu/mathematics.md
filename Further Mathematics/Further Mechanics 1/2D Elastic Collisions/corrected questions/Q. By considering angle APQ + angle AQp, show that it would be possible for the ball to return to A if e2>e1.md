@@ -23,6 +23,8 @@ $$
 (c) Now for this question, you must look at what the question is asking. If $e_{2} > e_{1}$ and $e_{2}$ is found in $e_{2}\cot\gamma$  and $e_{1}$ is found in $e_{1}\tan\alpha$ then these two statements will be involved in the calculation and in in an inequality. 
 
 However, firstly the question asks us to compute angle $APQ$ and angle $AQP$. Let's work it out:
+APQ is $180 - \alpha -\beta$ as it lies on a straight line:
 $$
-APQ = 
+APQ = 180 - \alpha - \beta
 $$
+AQP
