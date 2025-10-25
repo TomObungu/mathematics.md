@@ -34,6 +34,4 @@ I = m\left( \frac{u\sin\alpha}{\cos\alpha}\sin\alpha+ u\cos\alpha \right) \\
 QED
 \end{gather*}
 $$
-
-
-
+(b)
