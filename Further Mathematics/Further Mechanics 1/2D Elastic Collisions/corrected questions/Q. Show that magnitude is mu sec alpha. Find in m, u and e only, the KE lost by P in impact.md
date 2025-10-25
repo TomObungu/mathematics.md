@@ -10,9 +10,30 @@ v\cos\alpha = u\sin\alpha \\
 \end{gather*}
 
 $$
-Secondly, consider the impulse:
+Secondly, consider the impulse only in the vertical component. Notice that vertical component before will be negative as it is travelling downwards in the opposite direction and we take down to be negative:
 $$
-I = m(v-u)
+\begin{gather*}
+I = m(v\sin\alpha--u\cos\alpha) \\ 
+= m(v\sin\alpha+u\cos\alpha)
+\end{gather*}
 $$
+Rewrite $v$ in terms of $u$:
+$$
+\begin{gather*}
+v = u\tan\alpha
+\end{gather*}
+$$
+Substitute back into the impulse equation:
+$$
+\begin{gather*}
+I = m\left( \frac{u\sin\alpha}{\cos\alpha}\sin\alpha+ u\cos\alpha \right) \\ 
+= m\left( \frac{u\sin ^{2}\alpha}{\cos\alpha} +u\cos\alpha\right) \\ 
+= m\left( \frac{u\sin ^{2}\alpha+u\cos ^{2}\alpha}{\cos ^{2}\alpha} \right) \\
+= mu\left( \frac{1}{\cos ^{2}\alpha} \right) \\ \\
+= \boxed{mu\sec ^{2}\alpha} \\ 
+QED
+\end{gather*}
+$$
+
 
 
