@@ -68,4 +68,21 @@ v\cos\alpha = v\sin\alpha \\ \\
 \therefore \tan ^{2}\alpha = e \\ \\
 \end{gather*}
 $$
-In this part 
+In this part we need manipulate $e$ as if it were a substitution:
+$$
+\begin{gather*}
+e = \tan ^{2}\alpha \\ 
+1+e = \tan ^{2}\alpha + 1 \\
+1+e = \sec ^{2}\alpha \\
+1+e = \frac{1}{\cos ^{2}\alpha} \\ \\
+\therefore \frac{1}{1+e} = \cos ^{2}\alpha
+\end{gather*}
+$$
+We now have what we want in terms of $e$ only. Therefore we can now substitute it back into the previous equation:
+$$
+\begin{gather*}
+\frac{1}{2}mu^{2}(1-e^{2})\left( \frac{1}{1+e} \right) \\
+= \frac{1}{2}m u^{2}(1+e)(1-e)\left( \frac{1}{1+e} \right) \\ \\
+=\boxed{\frac{1}{2}mu^{2}(1-e)}
+\end{gather*}
+$$
