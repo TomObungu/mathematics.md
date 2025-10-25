@@ -38,8 +38,23 @@ $$
 $$
 \begin{gather*}
 v\sin\alpha = -eu\cos\alpha \\
-v\cos\alpha = u\cos\alpha \\ \\
-v^{2} = (v\sin\alpha)^{2} + (u\cos\alpha)^{2} \\ \
-v^{2} = (-eu\cos\alpha)^{2} + (u\cos\alpha)^{2}
+v\cos\alpha = u\sin\alpha \\ \\
+v^{2} = (v\sin\alpha)^{2} + (u\sin\alpha)^{2} \\ 
+v^{2} = (-eu\cos\alpha)^{2} + (u\sin\alpha)^{2} \\
+v^{2} = u^{2}e^{2}\cos ^{2}\alpha + u^{2}\sin ^{2}\alpha \\ \\
+\therefore \boxed{v^{2} = u^{2}(\sin ^{2}\alpha+e^{2}\cos ^{2}\alpha)} \\
+QED
 \end{gather*}
 $$
+(c) In this question as you now you have $v^{2}$ and $u^{2}$, substitute them back into the $\frac{1}{2}mv^{2}$ and do starting $KE$ minus ending $KE$
+$$
+\begin{gather*}
+\frac{1}{2}m(u^{2}) - \frac{1}{2}m(v^{2}) \\ \\
+ =\frac{1}{2}m(u^{2}) - \frac{1}{2}m(u^{2}(\sin ^{2}\alpha+e^{2}\cos ^{2}\alpha)) \\ 
+= \frac{1}{2}mu^{2}(1-\sin ^{2}\alpha-e\cos ^{2}\alpha) \\ 
+ =\frac{1}{2}mu^{2}(\cos ^{2}\alpha -e\cos ^{2}\alpha) \\ 
+ = \boxed{\frac{1}{2}mu^{2}(1-e^{2})\cos ^{2}\alpha} \\
+ QED
+\end{gather*}
+$$
+(d) 
