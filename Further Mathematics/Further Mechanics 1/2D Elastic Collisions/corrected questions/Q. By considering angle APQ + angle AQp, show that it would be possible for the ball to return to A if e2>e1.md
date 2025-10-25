@@ -27,4 +27,18 @@ APQ is $180 - \alpha -\beta$ as it lies on a straight line:
 $$
 APQ = 180 - \alpha - \beta
 $$
-AQP
+To work out AQP let's look at angle PQC which we will call $\varepsilon$ :
+![[Pasted image 20251025164649.png]]
+$$
+\begin{gather*}
+\varepsilon= 180 - 90 - \beta \\= 90 - \beta
+\end{gather*}
+$$
+Therefore $AQP$ is:
+$$
+\begin{gather*}
+AQP =180 - \varepsilon - \gamma =180 - (90 -\beta) - \gamma \\
+\therefore AQP = 270 +\beta - \gamma
+\end{gather*}
+$$
+If we compute $AQP + APQ : $
