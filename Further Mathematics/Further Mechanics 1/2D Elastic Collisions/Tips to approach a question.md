@@ -3,7 +3,7 @@ If the question involves some form of trigonometric proof:
 2. Form equations in terms of $\sin\theta$ and $\cos\theta$ for the components
 	1. If angles are given always write them in exact form early on in workings if possible
 3. Find missing velocities by squaring the sin and cosine of the components e.g. $(1)^{2}+(2)^{2}$
-4. Find the tangent of the angles e.g. $\frac{\sin\theta}{\cos\theta}=\tan\theta$
+4. Find the tangent of the angles e.g. $\frac{\sin\theta}{\cos\theta}=\tan\theta$ e.g $\frac{(2)}{(1)}$
 5. Consider the impulse of the restitution only in the perpendicular component
 	1. When doing this always consider the negative and positive signs based on the direction of travel by the vector
 6. If given half angle formula e.g. $\frac{1}{2}\alpha$ and asked to compare it with full angle $\alpha$, then remember double angle formula and write it in terms of $\frac{1}{2}\alpha$
