@@ -180,15 +180,60 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "80b3c249dc7c745f",
+  "floating": {
+    "id": "23ca517d438a56a5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a99eff4a1826093f",
+        "type": "window",
+        "children": [
+          {
+            "id": "0793074cc897f1bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e9a39889ff5dc7d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-25 16.18.48.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5e9a39889ff5dc7d",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
+    "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Tips to approach a question.md",
+    "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
+    "Further Mathematics/Core Pure 1/Vectors/Lines Distances.md",
+    "Further Mathematics/Core Pure 1/Vectors/Planes.md",
+    "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
+    "Further Mathematics/Core Pure 1/Vectors/Proving a line is parallel to another plane.md",
+    "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
+    "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that magnitude is mu sec alpha. Find in m, u and e only, the KE lost by P in impact.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Tips to approach a question.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 3.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251025102445.png",
@@ -208,21 +253,14 @@
     "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "Further Mathematics/Core Pure 1/Matrices/Matrix Multiplication.md",
     "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
-    "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
-    "Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251024215235.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251024215212.png",
-    "Further Mathematics/Core Pure 1/Series/Maclaurin Series.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 2.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Untitled",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251024191925.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251024172824.png",
     "Excalidraw",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments",
-    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collisions 2.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions",
-    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collisions.md",
-    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collision 3.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/attachments/attachments",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/attachments",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments",
