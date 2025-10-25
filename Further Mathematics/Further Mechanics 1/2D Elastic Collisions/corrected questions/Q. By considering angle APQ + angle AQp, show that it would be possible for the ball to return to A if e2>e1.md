@@ -38,7 +38,14 @@ Therefore $AQP$ is:
 $$
 \begin{gather*}
 AQP =180 - \varepsilon - \gamma =180 - (90 -\beta) - \gamma \\
-\therefore AQP = 270 +\beta - \gamma
+\therefore AQP = 90 +\beta - \gamma
 \end{gather*}
 $$
-If we compute $AQP + APQ : $
+If we compute $AQP + APQ :$
+$$
+\begin{gather*}
+(90+\beta-\gamma) + (180 - \alpha -\beta) \\ 
+ = \boxed{270 -\alpha-\gamma}
+\end{gather*}
+$$
+
