@@ -10,7 +10,7 @@ v\cos\alpha = u\sin\alpha \\
 \end{gather*}
 
 $$
-Secondly, consider the impulse only in the vertical component. Notice that vertical component before will be negative as it is travelling downwards in the opposite direction and we take down to be negative:
+Secondly, consider the impulse only in the vertical component. Notice that vertical component before will be negative as it is travelling downwards in the opposite direction and we take down to be negative and that question does not introduce the coefficient of restitution into the question yet.
 $$
 \begin{gather*}
 I = m(v\sin\alpha--u\cos\alpha) \\ 
@@ -34,4 +34,12 @@ I = m\left( \frac{u\sin\alpha}{\cos\alpha}\sin\alpha+ u\cos\alpha \right) \\
 QED
 \end{gather*}
 $$
-(b)
+(b) In this question you must find $v$ by squaring the $\sin$ and $\cos$ of the v components and using $e$ for the perpendicular $\sin$ component:
+$$
+\begin{gather*}
+v\sin\alpha = -eu\cos\alpha \\
+v\cos\alpha = u\cos\alpha \\ \\
+v^{2} = (v\sin\alpha)^{2} + (u\cos\alpha)^{2} \\ \
+v^{2} = (-eu\cos\alpha)^{2} + (u\cos\alpha)^{2}
+\end{gather*}
+$$
