@@ -17,4 +17,7 @@ Therefore:
 $$
 \text{The distance moved before coming to rest } (2a(\sin\theta-\mu \cos\theta))
 $$
-(b)
+(b) As the question says that there is no further motion, the particle must be in equilibrium. 
+
+For these types of question, the procedure is always deducing that $Fr\geq$ than the opposing forces. Drawing a diagram can help deduce which forces are opposing friction.  
+
