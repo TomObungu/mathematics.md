@@ -1,4 +1,4 @@
-![[Pasted image 20251019191727.png]]
+x![[Pasted image 20251019191727.png]]
 (a) 
 Drawing a correctly interpreted diagram yields:
 ![[Pasted image 20251019202950.png]]
