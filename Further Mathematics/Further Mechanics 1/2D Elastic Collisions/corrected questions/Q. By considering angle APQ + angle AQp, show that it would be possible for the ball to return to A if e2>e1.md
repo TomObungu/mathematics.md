@@ -49,3 +49,10 @@ $$
 \end{gather*}
 $$
 
+Now in order for the particle to return to A, all the angles within traingle $APQ$ would need to add up to $180$. If we consider angle $PAQ$:
+$$
+\begin{gather*}
+\angle PAQ = 180 - (270 - \alpha - \gamma) \\
+\angle PAQ = -90 +
+\end{gather*}
+$$
