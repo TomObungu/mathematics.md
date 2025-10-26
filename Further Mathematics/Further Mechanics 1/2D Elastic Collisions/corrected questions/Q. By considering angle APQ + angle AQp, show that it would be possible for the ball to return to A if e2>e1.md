@@ -49,10 +49,12 @@ $$
 \end{gather*}
 $$
 
-Now in order for the particle to return to A, all the angles within traingle $APQ$ would need to add up to $180$. If we consider angle $PAQ$:
+Now in order for the particle to return to A, all the angles within traingle $APQ$ would need to add up to $180$. Therefore in order for the triangle to exist, $AQP+APQ < 180$. Therefore:
 $$
 \begin{gather*}
-\angle PAQ = 180 - (270 - \alpha - \gamma) \\
-\angle PAQ = -90 +
+270 - \alpha - \gamma < 180 \\ 
+-\alpha-\gamma < -90 \\ \\
+\alpha + \gamma > 90
 \end{gather*}
 $$
+Now we have an inquality for $\alpha$ and $\gamma$, we just need work out $$
