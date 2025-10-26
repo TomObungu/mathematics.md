@@ -57,4 +57,35 @@ $$
 \alpha + \gamma > 90
 \end{gather*}
 $$
-Now we have an inquality for $\alpha$ and $\gamma$, we just need work out $$
+Now we have an inequality for $\alpha$ and $\gamma$, we just need work out $\alpha$ in terms of the inequality:
+$$
+a>90-\gamma
+$$
+From this we can deduce:
+$$
+\tan\alpha > \tan(90 -\gamma)
+$$
+Now we just need to work what $\tan\alpha$ in terms of $\gamma$:
+$$
+\begin{gather*}
+e_{2}\cot\gamma = e_{1}\tan\alpha \\ 
+\therefore \tan\alpha =\frac{e_{2}}{e_{1}}\cot\gamma
+\end{gather*}
+$$
+Substituting back into the inquality yeilds:
+$$
+\frac{e_{2}}{e_{1}}\cot\gamma<\tan(90-\gamma)
+$$
+From the identity $\tan(90-x) = \cot(x)$:
+$$
+\frac{e_{2}}{e_{1}}\cot\gamma <\cot\gamma 
+$$
+Which leads us to:
+$$
+\begin{gather*}
+\frac{e_{2}}{e_{1}}\gamma<\gamma \\
+e_{2}\gamma < e_{1}\gamma \\
+\therefore \boxed{e_{2}<e_{1}}
+\end{gather*}
+$$
+(d) For part d if $e_{2}=e_{1}$, then $\tan\alpha= \cot\gamma$ and thus $\alpha = 90 - \gamma$. This would mean the lines would be $\parallel$ to AP
