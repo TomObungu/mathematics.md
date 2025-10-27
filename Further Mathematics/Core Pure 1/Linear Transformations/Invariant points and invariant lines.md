@@ -155,6 +155,25 @@ To find a line of invariant points, you need to check if the transformation matr
 ## Worked Example 1
 Find the line of invariant points for the transformation given by $\mathbf{T} = \begin{pmatrix}7 & -2 \\ 6 & -1\end{pmatrix}$
 
+We need to set up an equation like this $\mathbf{T}\begin{pmatrix}x \\ y\end{pmatrix}=\begin{pmatrix}x \\ y\end{pmatrix}$ and solve it:
+$$
+\begin{gather*}
+\begin{pmatrix}
+7 & -2 \\
+6 & -1
+\end{pmatrix} \begin{pmatrix}
+x \\
+y
+\end{pmatrix} = \begin{pmatrix}
+x \\
+y
+\end{pmatrix} \\ \\
+7x-2y = x \implies 6x -2y = 0\\ 
+6x-y = y \implies 6x -2y = 0\\ \\
+\therefore 3x-y = 0 \\ 
+\therefore \boxed{y = 3x \ \text{is a line of invariant points}}
+\end{gather*}
+$$
 
 To confirm if an invariant line is a a line of invariant points, you need to check if the invariant line written as a transformation matrix will yield the same points after its transformation matrix has been performed on the points $x,y$
 ## Worked Example 2
