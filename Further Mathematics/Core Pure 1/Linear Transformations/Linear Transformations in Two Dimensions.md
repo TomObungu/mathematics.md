@@ -115,8 +115,54 @@ However this isn't ideal. Often we use matrix multiplication to represent a line
 
 So in order to maintain the consistency of using a matrix to represent linear transformations, we can represent translations in the 2D(2x2) plane with a 3D (3x3) matrix:
 $$
-
+\begin{pmatrix}
+a & b & u \\
+c & d & v \\
+0 & 0 & 1
+\end{pmatrix}
 $$
+We aslo need to extend our position vector to be 3 elements long:
+$$
+\begin{pmatrix}
+x \\
+y \\
+1
+\end{pmatrix}
+$$
+Therefore for us to perform a translation on the 2D xy plane, the follow matrix will be this:
+$$
+\begin{pmatrix}
+1 & 0 & u \\
+0 & 1 & v \\
+0 & 0 & 1
+\end{pmatrix} \begin{pmatrix}
+x \\
+y \\
+1
+\end{pmatrix} = \begin{pmatrix}
+x+u \\
+y+v \\
+1
+\end{pmatrix}
+$$
+We can see that if were to have a 3D shape we would use a 4D matrix and so on.
+Representing our translation of 1 unit in the $x$ and 2 units in the $y$ from the origin of $(0,0)$as a matrix will yield:
+$$
+\begin{pmatrix}
+1 & 0 & 1 \\
+0 & 1 & 2 \\
+0 & 0 & 1
+\end{pmatrix} \begin{pmatrix}
+0 \\
+0 \\
+1
+\end{pmatrix} = \begin{pmatrix}
+1 \\
+2 \\
+1
+\end{pmatrix}
+$$
+Which is the correctly translated vertex of the bottom left of the square
 
 
 ### Why
