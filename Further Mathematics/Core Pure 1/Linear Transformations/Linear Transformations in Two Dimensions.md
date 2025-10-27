@@ -112,7 +112,9 @@ In this case our translation would be $\begin{pmatrix}1 \\ 2\end{pmatrix}$ if we
 
 However this isn't ideal. Often we use matrix multiplication to represent a linear transformation and even multiply matrices to  get a single matrix that represents a combination of transformations in succession. 
 
-Doing this calculation for translations is inconvenient. As this is a separate calculation from matrix multiplication. 
+### Why
+Doing this additional calculation for translations is inconvenient. As this is a separate calculation from matrix multiplication. For example in computer graphics this additional calculation can be extensive overhead versus using a single matrix and reduce performance
+![[Pasted image 20251027115246.png]]
 
 So in order to maintain the consistency of using a matrix to represent linear transformations, we can represent translations in the 2D(2x2) plane with a 3D (3x3) matrix:
 $$
