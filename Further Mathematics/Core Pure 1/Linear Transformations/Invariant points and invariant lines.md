@@ -153,6 +153,7 @@ However you can see that on the purple line, all those red points map to themsel
 
 To find a line of invariant points, you need to check if the transformation matrix applied on  $\begin{pmatrix}x \\ y\end{pmatrix}$ will result in the same points $\begin{pmatrix}x \\ y\end{pmatrix}$
 ## Worked Example 1
+Find the line of invariant points for the transformation given by $\mathbf{T} = \begin{pmatrix}7 & -2 \\ 6 & -1\end{pmatrix}$
 
 
 To confirm if an invariant line is a a line of invariant points, you need to check if the invariant line written as a transformation matrix will yield the same points after its transformation matrix has been performed on the points $x,y$
