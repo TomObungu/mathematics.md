@@ -91,4 +91,6 @@ So $\mathbf{M}$ is a rotation anticlockwise, through 135 about (0,0)
 ## Extra : Translations
 https://graphicmaths.com/pure/matrices/matrix-2d-transformations/
 
-Translating a shape in the 2D vector space means moving it to a different position, without changing 
+Translating a shape in the 2D vector space means moving it to a different position, without changing its shape or orientation in any way. Diagrammatically, it would look like this:
+![[Pasted image 20251027105314.png]]
+The square moves 1 unit in the $x$ direction and 2 units in the $y-a$
