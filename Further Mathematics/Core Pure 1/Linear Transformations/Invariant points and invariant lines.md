@@ -184,5 +184,9 @@ $$
 when $m=-1$
 
 # Line of invariant points
-A line of invariant points is when the t
-![[Pasted image 20251027105512.png]]
+A line of invariant points is when there is a set of invariant points after linear transformation and the these set of invariant points form a line.
+
+You can see that for the red point on the green line with the large blue arching arrow, the same point is mapped onto another point on the same green line. This is an invariant line
+
+However you can see that on the purple line, all those red points map to themselves after the linear transformation. You can see that if you were to draw a line through the points, those points form a uniform straight line. The equation of the line formed by the set of points is the line of invariant points. 
+![[Pasted image 20251027105656.png]]
