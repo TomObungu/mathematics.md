@@ -32,7 +32,7 @@ $$
 1  & 3 & 3 & 1 \\
 1 & 1 & 3 & 3
 \end{pmatrix} \\ \\
-\text{The veritces of the image S can be found by: } \\ \\
+\text{The vertices of the image S can be found by: } \\ \\
 \begin{pmatrix}-1 & 2 \\ 2 & 1\end{pmatrix}\begin{pmatrix}
 1  & 3 & 3 & 1 \\
 1 & 1 & 3 & 3
@@ -55,8 +55,8 @@ M\begin{pmatrix}0\\[4pt]1\end{pmatrix} \mapsto  \begin{pmatrix}b\\[4pt]d\end{pma
 $$
 
 ## Transformations
-- A reflection in the y-axis is represented by the matrix $\begin{pmatrix}-1 & 0 \\ 0 & 1\end{pmatrix}$ 
-- A reflection in the x-axis is represented by the matrix $\begin{pmatrix}1 & 0 \\ 0  & -1\end{pmatrix}$ 
+- A reflection in the y-axis (line x=0) is represented by the matrix $\begin{pmatrix}-1 & 0 \\ 0 & 1\end{pmatrix}$ 
+- A reflection in the x-axis (line y=0) is represented by the matrix $\begin{pmatrix}1 & 0 \\ 0  & -1\end{pmatrix}$ 
 - A reflection in the line y=x is represented as matrix $\begin{pmatrix}0 & 1 \\ 1 & 0\end{pmatrix}$ 
 - A reflection in the line y=-x is represented as matrix $\begin{pmatrix}0 & -1 \\ -1 & 0\end{pmatrix}$ 
 

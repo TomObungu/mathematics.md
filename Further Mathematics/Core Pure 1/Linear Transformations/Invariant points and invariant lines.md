@@ -2,7 +2,11 @@
 
 # Invariant points
 Points that do not move under the given transformation are called invariant points.
-You can see that after the linear transformation on the set of points that form the triangle, the point marked with red cross remains the same whilst the other points are reflected on the line x=1 and are shifted from their original location.
+
+You can see that after the linear transformation on the set of points that form the triangle, the point marked with red cross remains the same whilst the other points are reflected on the line x=1 and are shifted from their original location. 
+
+In this case the transformation matrix would be: $\begin{pmatrix}-1  & 0\\ 0 & 1\end{pmatrix}$ and the matrix of points for the triangle would be: $\begin{pmatrix}1  & 3 & 2\\1 & 2 & 4\end{pmatrix}$
+
 ![[Pasted image 20251027100509.png]]
 
 - For reflections in the y-axis and stretches parallel to the y-axis only, the invariant line has equation $x=0$ and y=k
@@ -111,7 +115,7 @@ You can see that after the linear transformation has been applied, the the point
 
 ![[Pasted image 20251027095648.png]]
 
-# Worked Example 1
+## Worked Example 1
 ![[Pasted image 20251027100832.png]]
 For an invariant line to exist under the transformation $\begin{pmatrix}2 & -1 \\ -3 & 0\end{pmatrix}$. We only consider the line equation in form $y=mx+c$ to remain the same after the transformation. 
 
@@ -134,8 +138,48 @@ The first equation for $x'$ can be substituted into the second equation for $mx'
 $$
 \begin{gather*}
 2x-mx-c = x' \ (1) \\
--3x = mx'+c  "\ (2)\\ \\
+-3x = mx'+c\ (2)\\ \\
 \text{Substitute } (1) \text{ into } (2) : \\ \\
--3x = 
+-3x = m(2x-mx-c) + c \\ 
+-3x = 2mx-m^{2}x-mc+c \\ 
+m^{2}x-3x-2mx +mc-c=0 \\ 
+(m^{2}-2m-3)x+(m-1)c = 0 
 \end{gather*}
 $$
+Now this is the most important step, you need to compare the coefficients of $x$ on both sides:
+
+You need to check if $m^{2}-2m-3=0$ and if $(m-1)c=0$ also equals zero
+
+For the first case find the values of m from the equation $m^{2}-2m-3=0$:
+$$
+\begin{gather*}
+m^{2}-2m-3 = 0 \\
+m=3 \qquad m = -1
+\end{gather*}
+$$
+With the values of $m$ found, substitute $m$ into $(m-1)c=0$:
+$$
+\begin{gather*}
+\text{When } m = 3: \\
+(3-1)c = 0 \\
+2c = 0 \\
+\therefore c = 0 \\ \\
+\text{When } m = -1: \\
+(-1-1)c = 0 \\ 
+-2c = 0 \\ 
+\therefore c = 0
+\end{gather*}
+$$
+Therefore the invariant lines are
+$$
+y = 3x+0 = \boxed{y=3x} 
+$$
+when $m=3$,
+And:
+$$
+y = -x+0=\boxed{y=-x}
+$$
+when $m=-1$
+
+# Line of invariant points
+A line of invariant points is when the the 
