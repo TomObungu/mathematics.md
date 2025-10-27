@@ -143,7 +143,7 @@ $$
 when $m=-1$
 
 # Line of invariant points
-A line of invariant points is when there is a set of invariant points after linear transformation and the these set of invariant points form a line.
+A line of invariant points is when there is a set of invariant points after linear transformation and these set of invariant points form a line.
 
 You can see that for the red point on the green line with the large blue arching arrow, the same point is mapped onto another point on the same green line. This is an invariant line
 
@@ -174,6 +174,7 @@ y
 \therefore \boxed{y = 3x \ \text{is a line of invariant points}}
 \end{gather*}
 $$
+
 
 To confirm if an invariant line is a a line of invariant points, you need to check if the invariant line written as a transformation matrix will yield the same points after its transformation matrix has been performed on the points $x,y$
 ## Worked Example 2
@@ -206,7 +207,7 @@ x \\
 -6x \\
 -12x
 \end{pmatrix} \\ \\
-y=-6x \ \ \ \ \ x = -12x \\
+y=-12x \ \ \ \ \ x = -6x \\
 \implies y=2x \\ \\
 \therefore \text{ All points on y=2x map to points on y=2x, hence the line is invariant.}
 \end{gather*}

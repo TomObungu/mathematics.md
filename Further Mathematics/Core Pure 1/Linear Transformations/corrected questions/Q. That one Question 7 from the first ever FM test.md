@@ -1,4 +1,4 @@
-[[Determinants]][[Matrix Multiplication]][[Inverting a 2 x 2 matrix]][[Invariant points and invariant lines]]
+[[Determinants]][[Matrix Multiplication]][[Inverting a 2 x 2 matrix]][[Invariant points and Invariant lines]]
 $$
 \begin{align*}
 &\text{Let } M \text{ denote the matrix } \\ \\
