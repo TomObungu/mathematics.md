@@ -2,8 +2,8 @@
 
 # Invariant points
 Points that do not move under the given transformation are called invariant points.
-You can see that after the linear tranformatio
-![[Pasted image 20251027100326.png]]
+You can see that after the linear transformation on the set of points that form the triangle, the point marked with red cross remains the same whilst the other points are reflected on the line x=1 and are shifted from their original location.
+![[Pasted image 20251027100509.png]]
 
 - For reflections in the y-axis and stretches parallel to the y-axis only, the invariant line has equation $x=0$ and y=k
 - For reflections in the x-axis and stretches parallel to the x-axis only, the invariant line has equation $y=0$ and x=k
@@ -12,7 +12,7 @@ You can see that after the linear tranformatio
 - A reflection in the line y=x has invariant line with equation y=x and y=-x+k are invaraint
 - A reflection in the line y=-x is represented as matrix has invariant line with equation y=-x and y=x+k
 
-## Example 1
+## Worked Example 1
 $$
 \begin{align*}
 A &= \begin{pmatrix}
@@ -58,7 +58,7 @@ k = 2+\sqrt{ 3 }
 
 \end{gather*}
 $$
-## Example 2
+## Worked Example 2
 $$
 \mathbf{M}=\begin{pmatrix}
 4  & -5 \\
@@ -108,4 +108,34 @@ $$
 For an invariant line under a linear transformation, every point must map **to another point on the same line**. For invariant lines, only the overall line equation is considered not the points themselves.
 
 You can see that after the linear transformation has been applied, the the points are mapped onto a another set of points that lie on the same straight line:
+
 ![[Pasted image 20251027095648.png]]
+
+# Worked Example 1
+![[Pasted image 20251027100832.png]]
+For an invariant line to exist under the transformation $\begin{pmatrix}2 & -1 \\ -3 & 0\end{pmatrix}$. We only consider the line equation in form $y=mx+c$ to remain the same after the transformation. 
+
+This means that the transformed $x$ coordinate will be mapped onto another coordinate $x'$, however if we substitute the different coordinate $x'$ into the same line with the same value of $m$(gradient) and $c$ (y-intercept), the line equation would still be equal as it is a different point on the same line. 
+
+
+$$
+\begin{pmatrix}
+2 & -1 \\
+-3 & 0
+\end{pmatrix}\begin{pmatrix}
+x \\
+mx+c
+\end{pmatrix} = \begin{pmatrix}
+x' \\
+mx'+c
+\end{pmatrix}
+$$
+The first equation for $x'$ can be substituted into the second equation for $mx'+c$ by equating the coefficients of $x$ and the equating the constant terms
+$$
+\begin{gather*}
+2x-mx-c = x' \ (1) \\
+-3x = mx'+c  "\ (2)\\ \\
+\text{Substitute } (1) \text{ into } (2) : \\ \\
+-3x = 
+\end{gather*}
+$$
