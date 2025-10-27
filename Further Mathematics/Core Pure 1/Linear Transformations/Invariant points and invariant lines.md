@@ -150,7 +150,11 @@ You can see that for the red point on the green line with the large blue arching
 However you can see that on the purple line, all those red points map to themselves after the linear transformation. You can see that if you were to draw a line through the points, those points form a uniform straight line. The equation of the line formed by the set of points is the line of invariant points. 
 ![[Pasted image 20251027105656.png]]
 
-To find a a line of invariant points, you need to check if the invariant line written as a transformation matrix will yield the same points after its transformation matrix has been performed on the points $x,y$
+
+To find a line of invariant points, you need to check if the transformation matrix applied on  $\begin{pmatrix}x \\ y\end{pmatrix}$ will result in the same points $\begin{pmatrix}x \\ y\end{pmatrix}$
+## Worked Example 1
+
+To confirm if an invariant line is a a line of invariant points, you need to check if the invariant line written as a transformation matrix will yield the same points after its transformation matrix has been performed on the points $x,y$
 ## Worked Example 2
 $$
 \mathbf{M}=\begin{pmatrix}
