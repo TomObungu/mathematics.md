@@ -121,4 +121,6 @@ $$
 
 $$
 
-Note for later: In computer graphics the homogenous coordinate is set to 
+Note for later: In computer graphics the row for  homogeneous coordinate is set to :
+https://www.youtube.com/watch?v=U0_ONQQ5ZNM&t=190s
+![[Pasted image 20251027120443.png]]
