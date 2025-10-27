@@ -120,3 +120,5 @@ So in order to maintain the consistency of using a matrix to represent linear tr
 $$
 
 $$
+
+Note for later: In computer graphics the homogenous coordinate is set to 
