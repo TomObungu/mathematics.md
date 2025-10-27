@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and invariant lines.md",
+                "file": "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invariant points and invariant lines"
+              "title": "Linear Transformations in Two Dimensions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "air resis",
+                "query": "tag:#rotations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,10 +249,10 @@
       }
     ]
   },
-  "active": "80b3c249dc7c745f",
+  "active": "3c6d690d45be7079",
   "lastOpenFiles": [
-    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and invariant lines.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027100832.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027100509.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027100326.png",

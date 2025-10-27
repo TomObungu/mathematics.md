@@ -55,6 +55,7 @@ M\begin{pmatrix}0\\[4pt]1\end{pmatrix} \mapsto  \begin{pmatrix}b\\[4pt]d\end{pma
 $$
 
 ## Transformations
+### Reflections
 - A reflection in the y-axis (line x=0) is represented by the matrix $\begin{pmatrix}-1 & 0 \\ 0 & 1\end{pmatrix}$ 
 - A reflection in the x-axis (line y=0) is represented by the matrix $\begin{pmatrix}1 & 0 \\ 0  & -1\end{pmatrix}$ 
 - A reflection in the line y=x is represented as matrix $\begin{pmatrix}0 & 1 \\ 1 & 0\end{pmatrix}$ 
@@ -72,7 +73,7 @@ $$ The only invariant point is the origin $(0,0)$
 $$\mathbf{M} = \begin{pmatrix} -\frac{\sqrt{2}}{2} & -\frac{\sqrt{2}}{2} \\ \frac{\sqrt{2}}{2} & -\frac{\sqrt{2}}{2} \end{pmatrix}$$
 *a Describe geometrically the rotation represented by $\mathbf{M}$.
 
-a
+
 $$
 \begin{gather*}
 \cos 135 = -\frac{\sqrt{ 2 }}{2} \\
@@ -82,7 +83,7 @@ $$
 So $\mathbf{M}$ is a rotation anticlockwise, through 135 about (0,0)
 
 
-## Enlargements
+### Enlargements
 [[Determinants]]
 - A transformation represented by the matrix $\begin{pmatrix}a & 0 \\ 0 & b\end{pmatrix}$ is a stretch of scale factor a parallel to the x-axis and a stretch scale factor b parallel to the y-axis
 	- In the case here a=b, the scale factor is an enlargement with scale factor a
