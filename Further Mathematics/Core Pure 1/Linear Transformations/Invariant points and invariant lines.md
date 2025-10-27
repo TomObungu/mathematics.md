@@ -62,49 +62,8 @@ k = 2+\sqrt{ 3 }
 
 \end{gather*}
 $$
-## Worked Example 2
-$$
-\mathbf{M}=\begin{pmatrix}
-4  & -5 \\
-2 & -7
-\end{pmatrix}
-$$
-*(a) Show that the matrix M is non-singular.
 
-The transformation T of the plane is represented by the matrix M.
 
-The triangle R is transformed to the triangle S by the transformation T.
-
-Given that the area of S is 63 square units,
-
-(b) find the area of R.
-
-**(c) Show that the line y = 2x is invariant under the transformation T.**
-
-To find the invariant line you must multiply the transformation matrix by the line represented as a linear transformation and then deduce whether the result matches the equation of the line
-
-(c)
-$$
-\begin{gather*}
-\begin{pmatrix}
-4  & -5 \\
-2 & -7
-\end{pmatrix}\begin{pmatrix}
-x \\
-2x
-\end{pmatrix} = \begin{pmatrix}
-4x-10x \\
-2x-14x
-\end{pmatrix}
-=\begin{pmatrix}
--6x \\
--12x
-\end{pmatrix} \\ \\
-y=-6x \ \ \ \ \ x = -12x \\
-\implies y=2x \\ \\
-\therefore \text{ All points on y=2x map to points on y=2x, hence the line is invariant.}
-\end{gather*}
-$$
 
 
 
@@ -191,4 +150,39 @@ You can see that for the red point on the green line with the large blue arching
 However you can see that on the purple line, all those red points map to themselves after the linear transformation. You can see that if you were to draw a line through the points, those points form a uniform straight line. The equation of the line formed by the set of points is the line of invariant points. 
 ![[Pasted image 20251027105656.png]]
 
-To find a 
+To find a a line of invariant points, you need to check if the invariant line written as a transformation matrix will yield the same points after its transformation matrix has been performed on the points $x,y$
+## Worked Example 2
+$$
+\mathbf{M}=\begin{pmatrix}
+4  & -5 \\
+2 & -7
+\end{pmatrix}
+$$
+
+
+Show that the line y = 2x is a line of fixed points under the transformation T.
+
+To find the invariant line you must multiply the transformation matrix by the line represented as a linear transformation and then deduce whether the result matches the equation of the line
+
+(c)
+$$
+\begin{gather*}
+\begin{pmatrix}
+4  & -5 \\
+2 & -7
+\end{pmatrix}\begin{pmatrix}
+x \\
+2x
+\end{pmatrix} = \begin{pmatrix}
+4x-10x \\
+2x-14x
+\end{pmatrix}
+=\begin{pmatrix}
+-6x \\
+-12x
+\end{pmatrix} \\ \\
+y=-6x \ \ \ \ \ x = -12x \\
+\implies y=2x \\ \\
+\therefore \text{ All points on y=2x map to points on y=2x, hence the line is invariant.}
+\end{gather*}
+$$

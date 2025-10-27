@@ -2,6 +2,7 @@
 ![[Pasted image 20250908122954.png]]
 You must multiply the points by the transformation matrix and then set the multiplication result to the points (x,y). Afterwards simplify the equations formed by the result and check if the simplified results are the same equation. ![[Pasted image 20250908123005.png]]
 
+In this case, substituting $a=1$
 $$
 \begin{gather*}
 \begin{pmatrix}
