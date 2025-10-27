@@ -1,5 +1,8 @@
 [[Linear Transformations in Two Dimensions]]
-Points that do not move under the given transformation are called invariant points, and lines which do not move are called invariant lines.
+
+# Invariant points
+
+Points that do not move under the given transformation are called invariant points.
 
 - For reflections in the y-axis and stretches parallel to the y-axis only, the invariant line has equation $x=0$ and y=k
 - For reflections in the x-axis and stretches parallel to the x-axis only, the invariant line has equation $y=0$ and x=k
@@ -100,4 +103,8 @@ $$
 
 
 
+# Invariant lines
+For an invariant line under a linear transformation, every point must map **to another point on the same line**. For invariant lines, only the overall line equation is considered not the points themselves.
 
+You can see that after the linear transformation has been applied, the the points are mapped onto a another set of points that lie on the same straight line:
+![[Pasted image 20251027095648.png]]

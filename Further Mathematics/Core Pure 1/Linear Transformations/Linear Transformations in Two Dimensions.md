@@ -1,4 +1,4 @@
-[[Matrix Multiplication]] [[Invariant points and lines]]
+[[Matrix Multiplication]] [[Invariant points and invariant lines]]
 You can define a transformation by describing how a general point with position vector $\begin{pmatrix} x \\ y \end{pmatrix}$  is transformed. 
 $$T:\begin{pmatrix} x \\ y \end{pmatrix} \mapsto \begin{pmatrix} 2x - y \\ x + y \end{pmatrix}$$
 $$T: \binom{2}{3} \mapsto \binom{2 \times 2 - 3}{2 + 3} = \binom{1}{5}$$

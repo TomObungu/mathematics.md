@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
+                "file": "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and invariant lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Find distance of the particle below the cieling when it is in equilibrium."
+              "title": "Invariant points and invariant lines"
             }
           }
         ]
@@ -196,12 +196,12 @@
                 "id": "5e9a39889ff5dc7d",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
                     "file": "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md"
                   },
-                  "icon": "lucide-file",
-                  "title": "Loading Excalidraw... Drawing 2025-10-25 16.18.48.excalidraw"
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-25 16.18.48.excalidraw"
                 }
               }
             ]
@@ -227,12 +227,12 @@
                 "id": "7cd59c7e585ba051",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
                     "file": "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md"
                   },
-                  "icon": "lucide-file",
-                  "title": "Loading Excalidraw... Drawing 2025-10-26 20.51.21.excalidraw"
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-26 20.51.21.excalidraw"
                 }
               }
             ]
@@ -248,12 +248,17 @@
       }
     ]
   },
-  "active": "7cd59c7e585ba051",
+  "active": "80b3c249dc7c745f",
   "lastOpenFiles": [
+    "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027095648.png",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
+    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Invariant point around the origin to find k.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show points form an invariant point.md",
+    "Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and invariant lines.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Show that mu >= 1 by 3 tan theta.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251026230556.png",
-    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251026225835.png",
     "Resources/Further Mechanics 1.pdf",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
@@ -284,11 +289,7 @@
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251025095958.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251025095929.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/attachments",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Invariant point around the origin to find k.md",
-    "Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show points form an invariant point.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Untitled",
     "Excalidraw",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments",
