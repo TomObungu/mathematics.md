@@ -115,6 +115,8 @@ You can see that after the linear transformation has been applied, the the point
 
 ![[Pasted image 20251027095648.png]]
 
+You can see that differen
+
 ## Worked Example 1
 ![[Pasted image 20251027100832.png]]
 For an invariant line to exist under the transformation $\begin{pmatrix}2 & -1 \\ -3 & 0\end{pmatrix}$. We only consider the line equation in form $y=mx+c$ to remain the same after the transformation. 
@@ -182,4 +184,5 @@ $$
 when $m=-1$
 
 # Line of invariant points
-A line of invariant points is when the the 
+A line of invariant points is when the t
+![[Pasted image 20251027105512.png]]
