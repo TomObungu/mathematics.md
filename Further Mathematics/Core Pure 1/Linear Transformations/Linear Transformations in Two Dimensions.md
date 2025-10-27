@@ -93,4 +93,23 @@ https://graphicmaths.com/pure/matrices/matrix-2d-transformations/
 
 Translating a shape in the 2D vector space means moving it to a different position, without changing its shape or orientation in any way. Diagrammatically, it would look like this:
 ![[Pasted image 20251027105314.png]]
-The square moves 1 unit in the $x$ direction and 2 units in the $y-a$
+The square moves 1 unit in the $x$ direction and 2 units in the $y$ direction.
+
+We can represent this by adding 2 vectors, the original $(x,y)$ and a displacement vector $(u,v)$ 
+$$
+\begin{pmatrix}
+x \\
+y
+\end{pmatrix} + \begin{pmatrix}
+u \\
+v
+\end{pmatrix} = \begin{pmatrix}
+x+u \\
+y+v
+\end{pmatrix}
+$$
+In this case our translation would be $\begin{pmatrix}1 \\ 2\end{pmatrix}$ if we were to take the original starting points of $\begin{pmatrix}0 \\ 0\end{pmatrix}$ and the displacement vector of $\begin{pmatrix}1 \\ 2\end{pmatrix}$
+
+However this isn't ideal. Often we use matrix multiplication to represent a linear transformation and even multiply matrices to  get a single matrix that represents a combination of transformations in succession. 
+
+Doing this calculation for translations is inconvenient. As this is a separate calculation from matrix multiplication.
