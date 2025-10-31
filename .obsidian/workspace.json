@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Particle P reached maximum speed at point B. The resistance to the motion P is again a constant force of 1 by 4 mg. Find distance OB.md",
+                "file": "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the possible values of e.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Particle P reached maximum speed at point B. The resistance to the motion P is again a constant force of 1 by 4 mg. Find distance OB"
+              "title": "Q. Find the possible values of e"
             }
           }
         ]
@@ -217,8 +217,17 @@
       }
     ]
   },
-  "active": "09733393b73bde59",
+  "active": "80b3c249dc7c745f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the possible values of e.md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find x in terms of d.md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Show further lambda > k by (k-2).md",
+    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Particle P reached maximum speed at point B. The resistance to the motion P is again a constant force of 1 by 4 mg. Find distance OB.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251027154507.png",
@@ -227,7 +236,6 @@
     "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027120443.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027115246.png",
-    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027105656.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027105512.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027105314.png",
@@ -250,13 +258,6 @@
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Tips to approach a question.md",
     "Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
-    "Further Mathematics/Core Pure 1/Vectors/Lines Distances.md",
-    "Further Mathematics/Core Pure 1/Vectors/Planes.md",
-    "Further Mathematics/Core Pure 1/Vectors/Shortest distance from line to origin.md",
-    "Further Mathematics/Core Pure 1/Vectors/Proving a line is parallel to another plane.md",
-    "Further Mathematics/Core Pure 1/Vectors/Shortest distance between skew lines.md",
-    "Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/attachments",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Untitled",
     "Excalidraw",
