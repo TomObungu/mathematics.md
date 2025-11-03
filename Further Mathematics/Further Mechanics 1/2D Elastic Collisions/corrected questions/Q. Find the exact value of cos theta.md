@@ -48,5 +48,9 @@ v_{2}^{2} = \left( \frac{1}{4}v \right)^{2} + \left( \frac{\sqrt{ 7 }}{4}ev \rig
 \end{gather*}
 $$Forming an equation for KE:
 $$
-\frac{1}{2}mv_{2}^{2} = \frac{1}{2}\left[ \frac{1}{2}mv_{1}^{2} \right]
+\begin{gather*}
+\frac{1}{2}mv_{2}^{2} = \frac{1}{2}\left[ \frac{1}{2}mv_{1}^{2} \right] \\ \\
+\frac{1}{2}m\left( \frac{1}{16}v^{2} + \frac{7}{16}e^{2}v^{2} \right)= 
+\end{gather*}
+
 $$
