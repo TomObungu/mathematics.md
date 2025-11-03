@@ -1,5 +1,6 @@
 ![[Pasted image 20251025095847.png]]
 
+ (a)
  Starting off with the diagram: ![[Pasted image 20251103081152.png]]
  Writing out the parallel and perpendicular components:
  $$
@@ -28,4 +29,12 @@ $$
 \cos ^{2}\theta = \frac{7}{16} \\ \\
 \boxed{\cos \theta = \frac{\sqrt{ 7 }}{4}}
 \end{gather*}
+$$
+(b) Knowing the question involves another change in KE, we can calculate $v_{2}$ and use our value of $\cos\theta$ to work out $\sin\theta$ too:
+$$
+\begin{gather*}
+\sin\theta = 
+v_{2} =
+\end{gather*}
+
 $$
