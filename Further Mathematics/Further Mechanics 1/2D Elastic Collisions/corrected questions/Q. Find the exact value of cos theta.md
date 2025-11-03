@@ -52,7 +52,10 @@ $$
 \frac{1}{2}mv_{2}^{2} = \frac{1}{2}\left[ \frac{1}{2}mv_{1}^{2} \right] \\ \\
 \frac{1}{2}m\left( \frac{1}{16}v^{2} + \frac{7}{16}e^{2}v^{2} \right)= \frac{1}{2}\left[ \frac{1}{2}m\left( v^{2}\cos ^{2}\theta+\frac{1}{9}v^{2}\sin ^{2}\theta \right) \right] \\ \\
 \frac{1}{16}v^{2}+\frac{7}{16}e^{2}v^{2} = \frac{1}{2}\left( \frac{7}{16}v^{2} + \frac{1}{16}v^{2} \right) \\
-\frac{1}{8}v^{2} + \frac{7}{8}e^{2}v^{2} = \frac{7}{16}v^{2} +\frac{1}{16}v^{2} \\ \frac{1}{8 + \frac{7}{8}}
+\frac{1}{8}v^{2} + \frac{7}{8}e^{2}v^{2} = \frac{7}{16}v^{2} +\frac{1}{16}v^{2} \\ \frac{1}{8} + \frac{7}{8}e^{2} = \frac{7}{16} + \frac{1}{16} \\
+\frac{7}{8}e^{2} = \frac{3}{8} \\ 
+e^{2} = \frac{3}{7} \\ \\
+
 \end{gather*}
 
 $$
