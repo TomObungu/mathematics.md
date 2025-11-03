@@ -43,7 +43,8 @@ Working out $v_{2}$:
 $$
 \begin{gather*}
 v_{2}\cos\gamma = \frac{1}{3}v\sin\theta = \frac{1}{4}v \\ \\
-v_{2}\sin\gamma = evos\theta = \frac{\sqrt{ 7 }}{4}e
+v_{2}\sin\gamma = evcos\theta = \frac{\sqrt{ 7 }}{4}ev \\ \\
+v_{2}^{2} = \left( \frac{1}{4}v \right)^{2} + \left( \frac{\sqrt{ 7 }}{4}ev \right)^{2} \\ v_{2}^{2} = \frac{1}{16}v^{2} + 7
 \end{gather*}
 
 $$
