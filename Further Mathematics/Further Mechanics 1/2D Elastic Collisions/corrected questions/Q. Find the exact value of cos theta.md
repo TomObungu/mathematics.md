@@ -55,6 +55,7 @@ $$
 \frac{1}{8}v^{2} + \frac{7}{8}e^{2}v^{2} = \frac{7}{16}v^{2} +\frac{1}{16}v^{2} \\ \frac{1}{8} + \frac{7}{8}e^{2} = \frac{7}{16} + \frac{1}{16} \\
 \frac{7}{8}e^{2} = \frac{3}{8} \\ 
 e^{2} = \frac{3}{7} \\ \\
-e = \sqrt{ \frac{3}{7} } = \frac{\sqrt{ 21 }}{7}
+e = \sqrt{ \frac{3}{7} } \\ \boxed{e = \frac{\sqrt{ 21 }}{7}}
 \end{gather*}
 $$
+
