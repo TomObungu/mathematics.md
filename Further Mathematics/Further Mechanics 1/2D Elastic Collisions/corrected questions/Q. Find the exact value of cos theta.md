@@ -8,7 +8,7 @@
 v_{1}\cos\beta = v\cos\theta\\ 
 v_{1}\sin\beta = \frac{1}{3}v\sin\theta \\ \\
 v_{2}\cos\gamma = v_{1}\sin\beta \\ 
-v_{2} \sin \gamma = v_{1}\cos\beta
+v_{2} \sin \gamma = ev_{1}\cos\beta
 \end{gather*}
 $$
 Using the fact that the question states that half of its kinetic energy is lost, we can calculate $v_{1}$ to use in an equation for KE:
@@ -41,5 +41,9 @@ $$
 $$
 Working out $v_{2}$:
 $$
-v_{2}\cos\gamma =
+\begin{gather*}
+v_{2}\cos\gamma = \frac{1}{3}v\sin\theta = \frac{1}{4}v \\ \\
+v_{2}\sin\gamma = evos\theta = \frac{\sqrt{ 7 }}{4}e
+\end{gather*}
+
 $$
