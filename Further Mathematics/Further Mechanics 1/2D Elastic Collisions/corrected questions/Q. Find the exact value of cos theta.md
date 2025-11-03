@@ -30,11 +30,16 @@ $$
 \boxed{\cos \theta = \frac{\sqrt{ 7 }}{4}}
 \end{gather*}
 $$
-(b) Knowing the question involves another change in KE, we can calculate $v_{2}$ and use our value of $\cos\theta$ to work out $\sin\theta$ too:
+(b) Knowing the question involves another change in KE, we can calculate $v_{2}$.
+
+We can use our value of $\cos\theta$ to work out $\sin\theta$ too. (Form the triangle by knowing $cos\theta=\frac{\text{adjacent}}{\text{hypotenuse}}$ and using Pythagoras to work out missing side)
+![[Pasted image 20251103082649.png]]
 $$
 \begin{gather*}
-\sin\theta = 
-v_{2} =
+\sin\theta = \frac{3}{4} \\
 \end{gather*}
-
+$$
+Working out $v_{2}$:
+$$
+v_{2}\cos\gamma =
 $$
