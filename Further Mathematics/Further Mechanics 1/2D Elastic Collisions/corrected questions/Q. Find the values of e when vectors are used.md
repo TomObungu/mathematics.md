@@ -37,7 +37,7 @@ AB = \lambda \begin{pmatrix}
 QED
 \end{gather*} 
 $$
-For this question the biggest thing you need to remember is the process of finding the unit vectors for the perpendicular component in direction of the wall. Once the perpendicular unit components of $v$ and $v_{1}$ are found, divide  $\frac{v_{1}}{v}$ to get $e$. Remember $e$ has to be positive so you have to take the absolute values of the components
+For this question the biggest thing you need to remember is the process of finding the unit vectors for the perpendicular component in direction of the wall. Once the perpendicular unit components of $v$ and $v_{1}$ are found, divide  $\frac{-v_{1}}{v}$ to get $e$. 
 $$
 \begin{gather*}
 \text{Perpendicular unit vector of wall } \vec{AB} : \\ 
@@ -59,6 +59,6 @@ v_{1\perp} = \frac{1}{\sqrt{ 13 }}\begin{pmatrix}
 1 \\
 6
 \end{pmatrix} = \frac{9\sqrt{ 13 }}{13} \\ \\
-e = \frac{\frac{9\sqrt{ 13 }}{13}}{\left|-\frac{17\sqrt{ 13 }}{13}\right|} = \boxed{\frac{9}{17}} 
+e = \frac{-\frac{9\sqrt{ 13 }}{13}}{-\frac{17\sqrt{ 13 }}{13}} = \boxed{\frac{9}{17}} 
 \end{gather*}
 $$
