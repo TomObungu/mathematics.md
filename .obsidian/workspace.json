@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Addition Angle Formulae.md",
+                "file": "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Find the acceleration of the car at the instant when the speed of the car is 144khm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Addition Angle Formulae"
+              "title": "Q. Find the acceleration of the car at the instant when the speed of the car is 144khm"
             }
           }
         ]
@@ -214,61 +214,31 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "31cfbc988da4f99a",
-        "type": "window",
-        "children": [
-          {
-            "id": "883f4be393bb28a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c9a47704abde4bb0",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 1
       }
     ]
   },
-  "active": "a2eb75ba478a91e5",
+  "active": "80b3c249dc7c745f",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Find the acceleration of the car at the instant when the speed of the car is 144khm.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. State how the model for air resistance can be refined to make it more realistic.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Particle P reached maximum speed at point B. The resistance to the motion P is again a constant force of 1 by 4 mg. Find distance OB.md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
+    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Show that mu >= 1 by 3 tan theta.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
+    "Mathematics/Addition Angle Formulae.md",
+    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Mathematics/Double Angle Formulae.md",
     "Mathematics/Binomial Expansion.md",
-    "Mathematics/Addition Angle Formulae.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
-    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that magnitude is mu sec alpha. Find in m, u and e only, the KE lost by P in impact.md",
     "Mathematics/Completing The Square.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251103092824.png",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Find the acceleration of the car at the instant when the speed of the car is 144khm.md",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Show that mu >= 1 by 3 tan theta.md",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Particle P reached maximum speed at point B. The resistance to the motion P is again a constant force of 1 by 4 mg. Find distance OB.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251103091121.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251103085303.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251103082649.png",
