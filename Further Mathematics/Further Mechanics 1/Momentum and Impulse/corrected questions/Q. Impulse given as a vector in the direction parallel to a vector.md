@@ -13,6 +13,7 @@ v = (4\lambda-1)i+(-2\lambda+2)j
 $$
 
 Forming an equation for KE gives:
+
 $$
 
 $$
