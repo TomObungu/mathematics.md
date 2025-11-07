@@ -16,12 +16,12 @@ Forming an equation for KE gives:
 $$
 \begin{gather*}
 \frac{1}{2}m(v^{2}-u^{2}) = 12 \\ \\ 
-\frac{1}{2}(0.5)(((4\lambda-1)^{2}+(-2\lambda+2)^{2}) - ((-1)^{2}+(2)^{2})) \\ \\
+\frac{1}{2}(0.5)(((4\lambda-1)^{2}+(-2\lambda+2)^{2}) - ((-1)^{2}+(2)^{2})) = 12 \\ \\
 \end{gather*}
 $$
 Solving for $\lambda$ gives:
 $$
-\lambda = 0 \quad \lambda = \frac{4}{5}
+\lambda = -\frac{6}{5} \quad \lambda = 2
 $$
 To verify the correct value of $\lambda$ substitute back into the impulse I
 $$
