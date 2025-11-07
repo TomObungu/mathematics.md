@@ -15,6 +15,6 @@ $$
 \cos \theta = \cos ^{2}\left( \frac{1}{2}\theta \right)-\sin ^{2}\left( \frac{1}{2}\theta \right) \\
 \cos \theta = 2\cos ^{2}\left( \frac{1}{2}\theta \right) -1  \\
 \cos \theta = 1 - 2\sin ^{2}\left( \frac{1}{2}\theta \right) \\ \\
-\tan \Theta = \frac{2\tan \left( \frac{1}{2}\theta \right)}{1-\tan ^{2}\left( \frac{1}{2}\theta \right)}
+\tan \Theta = \frac{2\tan \left( \frac{1}{2}\theta \right)}{1-\tan ^{2}\left( \frac{1}{2}\theta \right)} 
 \end{gather*}
 $$
