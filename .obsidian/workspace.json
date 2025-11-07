@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b6f2200edd84c0",
+        "id": "d8e0a9ca9eeeec73",
         "type": "tabs",
         "children": [
           {
-            "id": "80b3c249dc7c745f",
+            "id": "874013a69a9eb862",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -214,13 +214,45 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "de5601a9b2819932",
+        "type": "window",
+        "children": [
+          {
+            "id": "f9b55903b9cd5ad9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9fcc22d735efb761",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-24 15.14.08.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 817,
+        "y": 164,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "80b3c249dc7c745f",
+  "active": "9fcc22d735efb761",
   "lastOpenFiles": [
-    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Find the acceleration of the car at the instant when the speed of the car is 144khm.md",
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
+    "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
     "Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. State how the model for air resistance can be refined to make it more realistic.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
@@ -252,7 +284,6 @@
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find x in terms of d.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
-    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Show further lambda > k by (k-2).md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/attachments/Pasted image 20251027154507.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027120443.png",
     "Further Mathematics/Core Pure 1/Linear Transformations/attachments/Pasted image 20251027115246.png",
