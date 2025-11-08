@@ -5,5 +5,14 @@ Diagram:
 ![[Pasted image 20251108162521.png]]
 Conservation Of Momentum:
 $$
-
+\begin{gather*}
+m(-u) = 8m(v_{1}) + m(v_{2}) \\ \\
+-u = 8v_{1} + v_{2} \\ 
+\end{gather*}
+$$
+Newton's Law Of Restitution:
+$$
+\begin{gather*}
+\frac{v_{2}-v_{1}}{} \\ \\
+\end{gather*}
 $$
