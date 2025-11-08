@@ -27,4 +27,19 @@ EPE = KE + W_{F} + G{PE} + EPE\\ \\
 \boxed{v = \sqrt{\frac{7}{2}ag}}
 \end{gather*}
 $$
-(c) 
+(c) If the object is at maximum velocity then it means it's at terminal velocity. When an object is at terminal velocity, it will have a resultant force of 0. However as the object is still in motion, it will continue to experience a resistive force until it stops moving:
+![[Pasted image 20251108114422.png]]
+$$
+\begin{gather*}
+T + \frac{1}{4}mg - mg = 0 \\ \\
+\frac{(4mg)(x)}{2a} = \frac{3}{4}mg \\ 
+\frac{2x}{a} = \frac{3}{4} \\
+2x = \frac{3}{4}a \\
+x = \frac{3}{8}
+\end{gather*}
+$$
+Therefore OB:
+$$
+OB = 2a + \frac{3}{8}a = \boxed{\frac{19}{8}a}
+$$
+
