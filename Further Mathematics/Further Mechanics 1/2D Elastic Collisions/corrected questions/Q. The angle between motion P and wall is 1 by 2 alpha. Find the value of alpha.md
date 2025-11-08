@@ -32,6 +32,11 @@ $$
 \frac{2}{1-t^{2}} = \frac{5}{2} \\ \\
 2 = \frac{5}{2}(1-t^{2}) \\ 
 4 = 5-5t^{2} \\ \\
-0=1-
+-1=-5t^{2} \\ 
+t = \pm\sqrt{ \frac{1}{5} } = \pm \frac{\sqrt{ 5 }}{5}
 \end{gather*}
+$$
+solving for $\tan\left( \frac{1}{2}\alpha \right)$:
+$$
+\tan
 $$
