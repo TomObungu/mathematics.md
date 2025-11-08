@@ -48,5 +48,17 @@ $$
 QED
 \end{gather*}
 $$
+To find the possible values of $e$ formulate the impulse equations the values of the speed of $Q$ before and after:
+$$
+\begin{gather*}
+I=\frac{2}{9}mu=em(u-eu) \\ \\
+\frac{2}{9}u = eu-e^{2}u \\ 
+2u = 9eu-9e^{2}u \\ \\
+9e^{2}u-9eu+2u=0 \\ 
+9e^{2}-9e+2 = 0 \\ \\
+(3e-2)(3e-1) \\ \\
+\boxed{e=\frac{1}{3}} \qquad \text{or} \qquad \boxed{e=\frac{2}{3}}
+\end{gather*}
+$$
 
 
