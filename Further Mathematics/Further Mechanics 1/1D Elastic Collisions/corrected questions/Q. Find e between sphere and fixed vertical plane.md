@@ -13,6 +13,9 @@ $$
 Newton's Law Of Restitution:
 $$
 \begin{gather*}
-\frac{v_{2}-v_{1}}{} \\ \\
+\frac{v_{2}-v_{1}}{u} = \frac{7}{8}\\ \\
+v_{2}-v_{1} = \frac{7}{8}u \\
+\\
+8v_{2}-8v_{1} = 7u
 \end{gather*}
 $$
