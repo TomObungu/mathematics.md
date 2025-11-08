@@ -36,3 +36,14 @@ $$
 v_{1} = -\frac{5}{24}
 \end{gather*}
 $$
+For the second part of the question you need to consider the case of P hitting the wall and then travelling back to Q to collide with it a second time:
+![[Pasted image 20251108165213.png]]
+Convservation Of Momentum:
+$$
+\begin{gather*}
+8m\left( -\frac{5}{24}u \right) + m\left( -\frac{2}{3} eu \right) = 8mv_{3} \\ 
+-\frac{5}{3}u -\frac{2}{3}eu = 8v_{3} \\ \\
+-5u -2eu = 24v_{3}
+\end{gather*}
+$$
+Newton's Law Of Restituion
