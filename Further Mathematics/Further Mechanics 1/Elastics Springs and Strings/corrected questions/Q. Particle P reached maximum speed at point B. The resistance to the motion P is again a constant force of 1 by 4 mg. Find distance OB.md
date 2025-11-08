@@ -27,4 +27,4 @@ EPE = KE + W_{F} + G{PE} + EPE\\ \\
 \boxed{v = \sqrt{\frac{7}{2}ag}}
 \end{gather*}
 $$
-(c)
+(c) 
