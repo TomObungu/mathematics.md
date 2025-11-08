@@ -45,6 +45,10 @@ $$
 d To find the magnitude consider the different speeds of $Q$ and equate the equation for impulse:
 $$
 \begin{gather*}
-2mu = 3m()
+2mu = 3m\left( \frac{u}{2}(5+e) - 2u \right) \\ 
+2 = \frac{15}{2}e + \frac{3}{2}e-6 \\
+16 = 15e+ 3 \\
+13 = 15e \\ 
+e = \frac{13}{15}
 \end{gather*}
 $$
