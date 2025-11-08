@@ -1,4 +1,4 @@
-![[Pasted image 20251015185329.png]]
+ ![[Pasted image 20251015185329.png]]
 Firstly draw a diagram:
 ![[Pasted image 20251015185632.png]]
 Secondly, form equations of momentum and rearrange for $v_{1}$
