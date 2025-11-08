@@ -23,4 +23,23 @@ v_{2} = \frac{u}{2}(5+e) \\
 QED
 \end{gather*}
 $$
-b Speed of P = v1, Find v1 by substituting in the equation 
+b Speed of P = v1, Find v1 by substituting in the equation:
+$$
+\begin{gather*}
+\frac{u}{2}(5+e) - v_{1} = 2eu \\
+\frac{5u}{2}+\frac{eu}{2} - 2eu = v_{1} \\ \\
+\frac{5u}{2} -\frac{3}{2}eu = v_{1} \\ \\
+\frac{u}{2}(5-3e) = v_{1}
+\end{gather*}
+$$
+c To show that the direction of change, we know that $0\leq e\leq_{1}$ so we must consider the cases when $e=0$ and $e=1$:
+$$
+\begin{gather*}
+e = 0 \implies \frac{u}{2}(5-3(0)) = \frac{5u}{2} \\ \\
+e = 1 \implies \frac{u}{2}(5-(3)) = u \\ \\
+\implies \frac{5}{2} \leq u \leq 1 \\ \\
+\text{Speed of P} > 0 \\
+\therefore \text{Speed of P is unchanged after direction}  
+\end{gather*}
+$$
+d
