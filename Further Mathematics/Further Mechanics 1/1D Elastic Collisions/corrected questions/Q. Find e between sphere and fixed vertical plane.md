@@ -50,17 +50,21 @@ Newton's Law Of Restitution:
 $$
 \begin{gather*}
 \frac{0-v_{3}}{-\frac{5}{24}u--\frac{2}{3}eu} = \frac{7}{8} \\ 
--v_{3} = \frac{7}{8}\left(-\frac{5}{24}eu+\frac{2}{3}e^{2}u \right)\\ \\
-v_{3} = \frac{5}{24}eu-\frac{2}{3}e^{2}u \\ \\
-
+-v_{3} = \frac{7}{8}\left(-\frac{5}{24}u+\frac{2}{3}eu \right)\\
+-v_{3} = -\frac{35}{192}+\frac{7e}{12}\\ 
+v_{3} = \frac{35}{192}u-\frac{7}{12}eu \\ \\
+24v_{3} = \frac{35}{8}u-14eu
 \end{gather*}
 $$
+
 Substituting the equation for $24v_{3}$ back into the equation for momentum:
 $$
 \begin{gather*}
--5u-2eu = 5eu-16e^{2} \\ 
--5-2e=5e-16e^{2} \\
-16e^{2}-7e-5 = 0
+-5u-2eu = \frac{35}{8}u-14eu \\ 
+-40u-16eu=35u-112eu \\
+-40u-16e=35-112e \\
+96e=75 \\ 
+\boxed{e = \frac{25}{32}}
 \end{gather*}
 
 $$
