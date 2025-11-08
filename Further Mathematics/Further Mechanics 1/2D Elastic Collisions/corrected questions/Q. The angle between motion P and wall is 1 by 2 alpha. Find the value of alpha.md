@@ -33,10 +33,15 @@ $$
 2 = \frac{5}{2}(1-t^{2}) \\ 
 4 = 5-5t^{2} \\ \\
 -1=-5t^{2} \\ 
-t = \pm\sqrt{ \frac{1}{5} } = \pm \frac{\sqrt{ 5 }}{5}
+t = \sqrt{ \frac{1}{5} } = \frac{\sqrt{ 5 }}{5}
 \end{gather*}
 $$
 solving for $\tan\left( \frac{1}{2}\alpha \right)$:
 $$
-\tan
+\begin{gather*}
+\tan\left( \frac{1}{2}\alpha \right) = \frac{\sqrt{ 5 }}{5} \\ 
+\frac{1}{2}\alpha = 24.094842\dots \\ 
+\alpha = 48.1896851\dots
+\end{gather*}
 $$
+
