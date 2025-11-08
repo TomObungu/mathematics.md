@@ -38,7 +38,7 @@ v_{1} = -\frac{5}{24}
 $$
 For the second part of the question you need to consider the case of P hitting the wall and then travelling back to Q to collide with it a second time:
 ![[Pasted image 20251108165213.png]]
-Convservation Of Momentum:
+Conservation Of Momentum:
 $$
 \begin{gather*}
 8m\left( -\frac{5}{24}u \right) + m\left( -\frac{2}{3} eu \right) = 8mv_{3} \\ 
@@ -49,18 +49,18 @@ $$
 Newton's Law Of Restitution:
 $$
 \begin{gather*}
-\frac{0-v_{3}}{-\frac{5}{24}u-\frac{2}{3}eu} = e \\ 
--v_{3} = -\frac{5}{24}eu-\frac{2}{3}e^{2}u \\ \\
-v_{3} = \frac{5}{24}eu+\frac{2}{3}e^{2}u \\ \\
-24v_{3} = 5eu+16e^{2}u
+\frac{0-v_{3}}{-\frac{5}{24}u--\frac{2}{3}eu} = e \\ 
+-v_{3} = -\frac{5}{24}eu+\frac{2}{3}e^{2}u \\ \\
+v_{3} = \frac{5}{24}eu-\frac{2}{3}e^{2}u \\ \\
+24v_{3} = 5eu-16e^{2}u
 \end{gather*}
 $$
 Substituting the equation for $24v_{3}$ back into the equation for momentum:
 $$
 \begin{gather*}
--5u-2eu = 5eu+16e^{2} \\ 
--5-2e=5e+16e^{2} \\
-16e^{2}+7e+5 = 0
+-5u-2eu = 5eu-16e^{2} \\ 
+-5-2e=5e-16e^{2} \\
+16e^{2}-7e-5 = 0
 \end{gather*}
 
 $$
