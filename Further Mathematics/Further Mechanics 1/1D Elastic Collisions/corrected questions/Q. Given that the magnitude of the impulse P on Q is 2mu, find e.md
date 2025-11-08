@@ -23,4 +23,4 @@ v_{2} = \frac{u}{2}(5+e) \\
 QED
 \end{gather*}
 $$
-
+b Speed of P = v1, Find v1 by substituting in the equation 
