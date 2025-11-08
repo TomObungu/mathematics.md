@@ -49,8 +49,8 @@ $$
 Newton's Law Of Restitution:
 $$
 \begin{gather*}
-\frac{0-v_{3}}{-\frac{5}{24}u--\frac{2}{3}eu} = e \\ 
--v_{3} = -\frac{5}{24}eu+\frac{2}{3}e^{2}u \\ \\
+\frac{0-v_{3}}{-\frac{5}{24}u--\frac{2}{3}eu} = \frac{7}{8} \\ 
+-v_{3} = \frac{7}{8}\left(-\frac{5}{24}eu+\frac{2}{3}e^{2}u \right)\\ \\
 v_{3} = \frac{5}{24}eu-\frac{2}{3}e^{2}u \\ \\
 24v_{3} = 5eu-16e^{2}u
 \end{gather*}
