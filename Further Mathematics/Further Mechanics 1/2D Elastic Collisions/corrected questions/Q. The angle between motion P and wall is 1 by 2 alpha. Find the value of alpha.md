@@ -5,5 +5,33 @@ Firstly set up the diagram for scenario:
 ![[Pasted image 20251108142935.png]]
 Setting up the equations for horizontal and perpendicular components of the velocity:
 $$
-v_{2}\cos
+\begin{gather*}
+v_{2}\cos\left( \frac{1}{2}\alpha \right) = v_{1}\cos\alpha \\ \\
+v_{2}\sin\left( \frac{1}{2}\alpha \right) = \frac{2}{5}v_{1}\sin\alpha
+\end{gather*}
+$$
+Find an equation for $\tan\alpha$:
+$$
+\begin{gather*}
+\frac{2}{5}\tan\alpha = \tan\left( \frac{1}{2}\alpha \right)
+\end{gather*}
+$$
+Now you know that $\tan(A+B)=\frac{\tan A+\tan B}{1-\tan A\tan B}$ therefore $\tan\alpha=\tan\left( \frac{1}{2}\alpha+\frac{1}{2a} \right)$ :
+$$
+\tan\alpha = \frac{2\tan \left(\frac{1}{2} \alpha\right)}{1-\tan ^{2}\left( \frac{1}{2}a \right)}
+$$
+therefore:
+$$
+\frac{2}{5}\left( \frac{2\tan \left(\frac{1}{2} \alpha\right)}{1-\tan ^{2}\left( \frac{1}{2}a \right)}\right) = \tan\left( \frac{1}{2}a \right)
+$$
+Using trigonometric substitution using $t=\tan\left( \frac{1}{2}\alpha \right)$ and solving for t:
+$$
+\begin{gather*}
+\frac{2}{5}\left( \frac{2t}{1-t^{2}} \right) = t \\ \\
+\frac{2}{5}\left( \frac{2}{1-t^{2}} \right) = 1 \\ \\
+\frac{2}{1-t^{2}} = \frac{5}{2} \\ \\
+2 = \frac{5}{2}(1-t^{2}) \\ 
+4 = 5-5t^{2} \\ \\
+0=1-
+\end{gather*}
 $$
