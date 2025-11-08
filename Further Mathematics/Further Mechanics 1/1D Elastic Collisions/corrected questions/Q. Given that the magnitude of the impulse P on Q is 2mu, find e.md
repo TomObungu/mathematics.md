@@ -45,6 +45,6 @@ $$
 d To find the magnitude consider the different speeds of $Q$ and equate the equation for impulse:
 $$
 \begin{gather*}
-
+2mu = 3m()
 \end{gather*}
 $$
