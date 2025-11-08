@@ -42,4 +42,9 @@ e = 1 \implies \frac{u}{2}(5-(3)) = u \\ \\
 \therefore \text{Speed of P is unchanged after direction}  
 \end{gather*}
 $$
-d
+d To find the magnitude consider the different speeds of $Q$ and equate the equation for impulse:
+$$
+\begin{gather*}
+
+\end{gather*}
+$$
