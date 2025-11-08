@@ -55,4 +55,12 @@ v_{3} = \frac{5}{24}eu+\frac{2}{3}e^{2}u \\ \\
 24v_{3} = 5eu+16e^{2}u
 \end{gather*}
 $$
-Substituting the equation for $24v_{3}$ back into the equation for momentum
+Substituting the equation for $24v_{3}$ back into the equation for momentum:
+$$
+\begin{gather*}
+-5u-2eu = 5eu+16e^{2} \\ 
+-5-2e=5e+16e^{2} \\
+16e^{2}+7e+5 = 0
+\end{gather*}
+
+$$
