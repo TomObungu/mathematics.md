@@ -46,7 +46,7 @@ $$
 -5u -2eu = 24v_{3}
 \end{gather*}
 $$
-Newton's Law Of Restituion:
+Newton's Law Of Restitution:
 $$
 \begin{gather*}
 \frac{0-v_{3}}{-\frac{5}{24}u-\frac{2}{3}eu} = e \\ 
