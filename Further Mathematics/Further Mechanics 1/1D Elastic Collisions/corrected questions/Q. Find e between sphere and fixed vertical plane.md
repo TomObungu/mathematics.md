@@ -19,3 +19,20 @@ v_{2}-v_{1} = \frac{7}{8}u \\
 8v_{2}-8v_{1} = 7u
 \end{gather*}
 $$
+Finding $v_{2}$:
+$$
+\begin{gather*}
+8v_{1}+v_{2} = u \\ 
+8v_{2}-8v_{1} = 7u \\ \\
+9v_{2} = 6u \\
+v_{2} = \frac{2}{3}u
+\end{gather*}
+$$
+Finding $v_{1}$:
+$$
+\begin{gather*}
+\frac{2}{3}u-v_{1} = \frac{7}{8}u \\
+\frac{2}{3}u -\frac{7}{8}u = v_{1} \\ \\
+v_{1} = -\frac{5}{24}
+\end{gather*}
+$$
