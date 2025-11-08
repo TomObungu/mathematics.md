@@ -47,6 +47,9 @@ $$
 \begin{gather*}
 2mu = 3m\left( \frac{u}{2}(5+e) - 2u \right) \\ 
 2mu = 3m\left( \frac{5u}{2} + \frac{eu}{2}-2u \right) \\ \\ 
-2mu = \frac{3mu}{2}()
+2mu = \frac{3mu}{2}(1+e) \\ \\
+4 = 3+3e \\ 
+1 = 3e \\ \\
+\boxed{e = \frac{1}{3}}
 \end{gather*}
 $$
