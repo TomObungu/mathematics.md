@@ -22,4 +22,23 @@ e=\frac{V(k+\lambda)}{\lambda V(k-1)} \\ \\
 QED
 \end{gather*}
 $$
-b For this question you need consider the cases for when e
+b For this question you need consider the inequality $0<e<1$ and substitute the found value of $e$ beforehand. Afterwards rearrange for what they want you to find which is $\lambda$
+$$
+\begin{gather*}
+0 < \frac{k+\lambda}{\lambda(k-1)} < 1 \\ \\
+k + \lambda < \lambda(k-1) \\
+k+\lambda < \lambda k-\lambda \\
+k<\lambda k-2\lambda \\  
+k<\lambda(k-2) \\ \\
+\frac{k}{k-2} < \lambda
+\end{gather*}
+$$
+The final verdict they want you to find is is to show that $k>2$. This has to be the case because $k>0$ as the initial direction must be positive. As well as that $\lambda$ must be positive as mass can't be negative. Therefore:
+$$
+\begin{gather*}
+\frac{k}{k-2} < 0 \\ \\
+k-2>0 \\ 
+k>2 \\
+QED
+\end{gather*}
+$$
