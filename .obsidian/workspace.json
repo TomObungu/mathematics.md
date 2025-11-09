@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
+                "file": "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1"
+              "title": "Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e))"
             }
           }
         ]
@@ -196,12 +196,12 @@
                 "id": "16a9b0dd7054fe2e",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
                     "file": "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md"
                   },
-                  "icon": "lucide-file",
-                  "title": "Loading Excalidraw... Drawing 2025-10-26 20.51.21.excalidraw"
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-26 20.51.21.excalidraw"
                 }
               }
             ]
@@ -219,15 +219,22 @@
   },
   "active": "874013a69a9eb862",
   "lastOpenFiles": [
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that magnitude is mu sec alpha. Find in m, u and e only, the KE lost by P in impact.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that magnitude is mu sec alpha. Find in m, u and e only, the KE lost by P in impact.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find the two possible values of k.md",
+    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Impulse given as a vector in the direction parallel to a vector.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Q.  Find the size of the angle through which the direction of motion of A is turned through an angle of 90 degrees.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/attachments/Pasted image 20251108192822.png",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/attachments",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/attachments/Pasted image 20251108191527.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres.md",
     "Resources/Further Mechanics 1.pdf",
@@ -242,17 +249,11 @@
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Show further lambda > k by (k-2).md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108175709.png",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
     "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
-    "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Impulse given as a vector in the direction parallel to a vector.md",
     "Mathematics/Completing The Square.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108165213.png",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108162521.png",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Show that this implies the coefficient of restitution e satisfies inequality e <= 0.2.md",
-    "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collision 3.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108160612.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251108142935.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251108142743.png",
