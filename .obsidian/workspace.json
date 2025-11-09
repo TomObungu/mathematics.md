@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
+                "file": "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
                 "mode": "source",
                 "source": false
               },
@@ -25,12 +25,14 @@
             "id": "17238a948a254fec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Further Mechanics 1.pdf"
+                "file": "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Further Mechanics 1"
+              "icon": "lucide-file",
+              "title": "Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e))"
             }
           }
         ],
@@ -230,18 +232,21 @@
       }
     ]
   },
-  "active": "17238a948a254fec",
+  "active": "7504e1836e7feb25",
   "lastOpenFiles": [
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
-    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251109140748.png",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that tan beta = ((m+M)tan alpha) by (m - eM).md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that magnitude is mu sec alpha. Find in m, u and e only, the KE lost by P in impact.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251109141324.png",
+    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
+    "Resources/Further Mechanics 1.pdf",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251109140748.png",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
     "Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
@@ -253,7 +258,6 @@
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/attachments",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/attachments/Pasted image 20251108191527.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres.md",
-    "Resources/Further Mechanics 1.pdf",
     "Resources/New Edexcel Further Mechanics 2.pdf",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
@@ -264,13 +268,11 @@
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Show further lambda > k by (k-2).md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108175709.png",
-    "Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108165213.png",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108162521.png",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/attachments/Pasted image 20251108160612.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251108142935.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251108142743.png",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Pasted image 20251108142350.png",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/attachments",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Untitled",
