@@ -353,6 +353,6 @@ z^{3}-5z^{2}+32z-78=0
 $$
 # Worked Example 6
 The roots of the equation $az^{3}+bz^{2}+cz+d=0$ form a vertical line. Given that one root is $-8-i$, find the full equation.
-$$
 
-$$
+If the roots form a vertical line then it means real part of all the coordinates is the same:
+
