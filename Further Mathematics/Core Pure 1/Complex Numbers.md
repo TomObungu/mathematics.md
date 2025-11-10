@@ -121,7 +121,7 @@ zz^{*}= (x+iy)(x-iy) = x^{2}-ixy+ixy+y^{2} =x^{2}+y^{2} \\ \\
 $$
 
 # Conservation Of Conjugation:
-Consider $z=a+bi$, $w=c+di$:
+Consider $z=a+bi$, $w=c+di$. If you compute each operation and take the conjugate of the final outcome, you will see that: 
 ## Addition
 $$
 z^{*}+w^{*} = (z+w)^{*}
@@ -134,5 +134,28 @@ $$
 $$
 z^{*}w^{*}=(zw)^{*}
 $$
-Division
+## Division
+$$
+\begin{gather*}
+\frac{z^{*}}{w^{*}} = \left( \frac{z}{w} \right)^{*}
+\end{gather*}
+$$
+## Exponentiation
+To prove conjugation is preserved for exponentiation, we must use proof by induction:
+$$
+\begin{gather*}
+\text{We want to prove that } (z^{*})^n = (z^n)^{*}, \ n \in \mathbb{Z} \\ \\
+n=0: \\
+(z^{*})^{0} = (z^{0})^{*} = 1 \qquad \therefore\text{ true for n=0} \\ \\
+n=1: \\
+(z^{*})^{1}=(z^{*})=(z^{1})^{*} \qquad \therefore\text{true for n=1} \\ \\
+n = k: \\
+\text{Assume } (z^{*})^{k} = (z^{k})^{*}, \ k\in \mathbb{N} \\ \\
+n=k+1: \\
+(z^{*})^{k+1} = (z^{*})^{k}z^{*} \\ 
+= (z^{k})^{*}z^{*} \\
+=(z^{k}z)^{*} \text{( multiplication is convserved in conjugation)} \\ 
+= 
+\end{gather*}
+$$
 
