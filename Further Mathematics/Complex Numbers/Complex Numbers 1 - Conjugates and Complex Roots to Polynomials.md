@@ -388,3 +388,34 @@ Now there are two ways to factor the quartic.
 - Equating coefficients 
 
 ## Polynomial Division
+![[Pasted image 20251110205707.png]]
+Doing polynomial division is very straight forward and systematic however there are many calculations which can lead to calculation errors 
+
+## Equating Coefficients 
+We know that:
+$$
+\begin{gather*}
+(z^{2}-6z+18)(az^{2}+bz+c) = z^{4}-9z^{3}+26z^{2}+6z-180 
+
+\end{gather*}
+$$
+For it is possible to deduce a $a$ and $c$. We know $a$ will be:
+$$
+az^{4} = z^{2}
+$$
+Therefore $a=1$. As well as that we know that $-180$ will be a result of:
+$$
+18c=-180
+$$
+Therefore $c=-10$.
+To calculate $b$ you must form an equation with $b$ to compare a coefficient with. We know that to form $z^{2}$ will need to multiply $b$
+$$
+\begin{gather*}
+-6bz^{2}+cz^{2}+18az^{2} = 26z^{2} \\ 
+(-6b-10+18) = 26 \\ 
+-6=18 \\ 
+b=-3
+\end{gather*}
+$$
+We can see that this method has less calculations but is not the standard of doing so
+
