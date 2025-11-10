@@ -44,3 +44,7 @@ $$
 \text{Angle of deflection, } \gamma = 87.3-40
 \end{gather*}
 $$
+This is the case as:
+![[Pasted image 20251110213103.png]]
+Speed of $A=\sqrt{ 0.123^{2}+(4\sin 40 ^\circ) }=2.57$ at $87.3\$. Speed of $B$ = 1.96
+# Worked example 2
