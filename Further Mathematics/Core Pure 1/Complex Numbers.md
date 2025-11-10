@@ -110,3 +110,19 @@ As seen in complex division, negating the imaginary part of  the complex number,
 $$
 z=x+iy \qquad z*=x-iy
 $$
+# Useful properties
+$$
+\begin{gather*}
+z+z* = (x+iy)(x-iy) = 2x \\ \\
+z-z* = (x+iy)-(x-iy) = -2iy \\ \\
+zz* = (x+iy)(x-iy) = x^{2}-ixy+ixy+y^{2} =x^{2}+y^{2} \\ \\
+\frac{z}{z*} = \frac{(x+iy)}{x-iy} \left( \frac{x+iy}{x+iy} \right) = \frac{x^{2}-y^{2}+2ixy}{x^{2}+y^{2}}
+\end{gather*}
+$$
+
+# Conservation Of Conjugation:
+Consider $z=a+bi$, $w=c+di$:
+## Addition
+$$
+z^{*}+w^{*}
+$$
