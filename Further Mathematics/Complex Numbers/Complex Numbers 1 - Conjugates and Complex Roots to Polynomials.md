@@ -429,4 +429,22 @@ z_{3}=5, z_{4}=-2
 
 
 $$
+# Worked Example 7
+Given that $z^{4}+bz^{3}+cz^{2}+dz+e=0$
+Given that one of the roots is $7-4i$ and that the roots form a square with one root in each quadrant, find the full equation.
+
+Drawing an argand diagram, you can see that:
+![[Pasted image 20251110211413.png]]
+We can see that difference between the conjugate is side length $8$. Therefore we can see that the side length of the square is 8. This means that the real part of the other vertices of the square will be $7-8=-1$.
+
+From the onwards, you can form an equation for the polynomial:
+$$
+\begin{gather*}
+(z^{2}-14z+65)(z^{2}+2z+17) = 0 \\ 
+z^{4}+2z^{2}-17z-14z^{3}-28z^{2}-238z+65z^{2}+130z+1105 \\ 
+z^{4}-12z^{3}+54z^{2}-108z+1105=0
+\end{gather*}
+$$
+
+
 
