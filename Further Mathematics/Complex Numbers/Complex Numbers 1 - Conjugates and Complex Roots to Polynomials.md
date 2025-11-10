@@ -417,5 +417,16 @@ $$
 b=-3
 \end{gather*}
 $$
-We can see that this method has less calculations but is not the standard of doing so
+We can see that this method has less calculations but is not the standard of doing so. As well it is not always obvious whether your coefficients are correct. In polynomial division, if your remainder is not 0 then it means there is probably an error in calculations.
+
+Continuing the question we can see:
+$$
+\begin{gather*}
+(z^{2}-6z+18)(z^{2}-3z-10) = 0 \\
+(z^{2}-6z+18)(z-5)(z+2)=-2 \\ \\
+z_{3}=5, z_{4}=-2
+\end{gather*}
+
+
+$$
 
