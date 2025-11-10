@@ -35,6 +35,12 @@ Putting the equations into the solve in the calculator:
 $$
 v_{1}=0.123 \qquad v_{2}=1.96
 $$
-To find the angle of defelction, you need to extend the original line of motion and compare it with the new line of motion of the and compare the difference in the angles:
+To find the angle of deflection, you need to extend the original line of motion and compare it with the new line of motion of the and compare the difference in the angles:
 ![[Pasted image 20251110212414.png]]
-
+The angle of deflection is $\gamma$:
+$$
+\begin{gather*}
+\beta = \arctan\left( \frac{4\sin 40^\circ}{0.123} \right) = 87.3 \\ \\
+\text{Angle of deflection, } \gamma = 87.3-40
+\end{gather*}
+$$
