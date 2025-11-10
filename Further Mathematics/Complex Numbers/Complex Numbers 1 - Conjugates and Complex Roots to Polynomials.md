@@ -375,4 +375,5 @@ A quartic equation of the form: $ax^{4}+bx^{3}+cx^{2}+dx+e=0$ has either:
 
 
 # Worked Example
-$z^{4}-9z^{3}+26z^{2}+6z$
+$z^{4}-9z^{3}+26z^{2}+6z-180=0$
+Given that one of the roots is $3+3i$, find the other roots 
