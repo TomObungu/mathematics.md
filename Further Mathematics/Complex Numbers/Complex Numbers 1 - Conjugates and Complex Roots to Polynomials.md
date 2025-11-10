@@ -355,4 +355,23 @@ $$
 The roots of the equation $az^{3}+bz^{2}+cz+d=0$ form a vertical line. Given that one root is $-8-i$, find the full equation.
 
 If the roots form a vertical line then it means real part of all the coordinates is the same:
+![[Pasted image 20251110162652.png]]
+As complex roots always come in conjugate pairs this means the roots to the equations are $z_{1}=-8$, $z_{3}=-8-i$, $z_{3}=-8+i$:
+Forming the quadratic equation from the conjugate equations and the real root gives:
+$$
+\begin{gather*}
+(z^{2}+16z+65)(z+8) \\
+z^{3}+16z^{2}+65z+8z^{2}+128z+520 \\
+z^{3}+24z^{2}+193z+520=0
+\end{gather*}
+$$
+# Quartics
+A quartic equation of the form: $ax^{4}+bx^{3}+cx^{2}+dx+e=0$ has either:
+- Four real roots
+- Two reals roots and one conjugate pair
+- Two complex conjugate pairs
 
+![[Pasted image 20251110163144.png]]
+
+
+# Worked Example
