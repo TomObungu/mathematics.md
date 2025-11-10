@@ -174,5 +174,60 @@ We know that $w^{*}z^{*}=(wz)^{*}$
 Consider $w\in \mathbb{R}$, as $w$ has no imaginary part (the imaginary part is 0), then the conjugate is itself $w^{*}=w$. $$
 \therefore w^{*}z^{*} = wz^{*} = (wz)^{*}
 $$
-Therefore multiplication by a real scalar is preserved.
+Therefore multiplication by a real scalar is preserved. In this we only need to conjugate $z$.
 
+# Roots of polynomials
+A polynomial with real coefficients is a combination of exponentiation, multiplication by a real scalar and addition.
+
+For a polynomial, p:
+$$
+p(z) = w \implies p(z^{*}) = w^{*}
+$$
+
+This only works for real coefficients as if $p$ had complex coefficients for the above to true, we would need to have to conjugate the coefficients. If we did that, we would no longer have the same polynomial and the function will not work.
+$$
+\therefore p(z) = 0 \implies p(z^{*})=0 
+$$
+This means that if $z$ is a root of $p$ so is $z^{*}$. 
+
+**Therefore this means that complex roots of polynomials with real coefficients always occur in conjugate pairs**
+
+From the fundamental theorem of algebra, an $nth$ degree polynomial has $n$ roots. 
+
+We can use the statement to determine the nature of the roots of different polynomials. 
+
+## Quadratics
+A quadratic equation of the form, $az^{2}+bz+c, \  a,b,c\in \mathbb{R}$ has either:
+- Two real roots
+	- ![[Pasted image 20251110092549.png]]
+- A complex conjugate pair of roots
+	- ![[Pasted image 20251110092557.png]]
+
+# Worked Example 1
+Find the roots the equation $z^{2}-2z+5=0$.
+
+For this type of questions, always complete the square and compute for any multiples of $i$. It is also possible to use the discriminant to determine if the quadratic has roots beforehand if it isn't stated.
+$$
+\begin{gather*}
+z^{2}-2z+5 = 0 \\ 
+(z-1)^{2}+4 = 0 \\ 
+(z-1)^{2} = -4 \\ 
+z-1 = \pm_{2}i \\ \\
+z_{1} = 1+2i \qquad z_{2} = 1-2i
+\end{gather*}
+$$
+
+# Worked Example 2
+Given that $z=3+2i$ is a root of the equation $z^{2}+bz+c=0$, find the other root and the equation.
+
+We know that complex roots of quadratics come in conjugate pairs. Therefore:
+$$
+z_{1} = 3+2i \qquad z_{2} = 3-2i 
+$$
+Knowing this, it possible to substitute these roots back into the bracket form of the quadratic equation:
+$$
+\begin{gather*}
+\therefore (z-(3+2i))(z-(3-2i)) = 0 \text{ are both factors } \\ \\
+z^{2}-(3-2i)z-(3+2i)z+(3+2i)(3-2i)
+\end{gather*}
+$$
