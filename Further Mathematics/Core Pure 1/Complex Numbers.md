@@ -228,6 +228,126 @@ Knowing this, it possible to substitute these roots back into the bracket form o
 $$
 \begin{gather*}
 \therefore (z-(3+2i))(z-(3-2i)) = 0 \text{ are both factors } \\ \\
-z^{2}-(3-2i)z-(3+2i)z+(3+2i)(3-2i)
+z^{2}-(3-2i)z-(3+2i)z+(3+2i)(3-2i) \\ \\
+\therefore z^{2}-6z+13 = 0
 \end{gather*}
+$$
+The shortcuts used in this case are:
+$$
+\begin{gather*}
+(x+iy)(x-iy) = x^{2}+y^{2} \\ \\
+(x+iy)^{2} = x^{2}-y^{2}+2ixy
+\end{gather*}
+$$
+
+# Useful rule
+For an equation of the form $z^{2}+bz+c=0$, with roots $\alpha$ and $\beta$:
+$$
+\begin{gather*}
+(z-\alpha)(z-\beta) = 0 \\ 
+z^{2}-\beta z-\alpha z+a\beta \\
+z^{2}-(\alpha+\beta)z+\alpha \beta \\ \\
+\end{gather*}
+$$
+Now if $\alpha=(x+iy)$ and $\beta=(x-iy)$... We know that $z+z^{*} = 2x$ and $zz^{*}=x^{2}+y^{2}$ then:
+$$
+\begin{gather*}
+z^{2}-(\alpha+\beta)z +\alpha \beta = 0 \\ \\
+\implies z^{2}-(2x)z+(x^{2}+y^{2})=0
+\end{gather*}
+$$
+Applying this rule to given roots e.g. $z_{1}=3+2i$ $z_{2}=3-2i$, then the quadratic equation for these roots are:
+$$
+\begin{gather*}
+z^{2}-(2(3))z+(3^{2}+2^{2}) = 0 \\ 
+z^{2}-6z+13=0
+\end{gather*}
+$$
+## Worked Example 3
+Given taht $-2-4i$ is a root of quadratic equation $z^{2}+bz+c=0$, find the equation.
+
+Using the useful rule:
+$$
+\begin{gather*}
+z^{2}-(2(-2))z+((-2)^{2}+4^{2}) = 0 \\
+z^{2}+4z+20
+\end{gather*}
+$$
+
+# Cubics
+A cubic equation of the form: $ax^{3}+bx^{2}+cx+d$ has either
+- Three real roots
+- One real root and one complex conjugate pair of roots
+
+Real roots all lie on the $\mathrm{Re}$ axis
+![[Pasted image 20251110094635.png]]
+Or two roots lie on the $\mathrm{Im}$ axis and one on the $\mathrm{Re}$ axis. 
+The shape that these roots form will either be a triangle or a straight line
+![[Pasted image 20251110094649.png]]
+
+# Worked Example 4
+Given that one of the roots of equation $z^{3}+bz^{2}+cz-120=0$ is $4+2i$, find the other two roots and the full equation:
+
+We know that the other root will be a conjugate and that the other real root will be come constant $a$:
+$$
+z_{1}=4+2i, z_{2}=4-2i, z_{3}=a
+$$
+We know that a cubic can be composed of a quadratic like this: $(z^{2}+bz+c)(z-a)$, we can substitute the complex roots into the brackets of the quadratic:
+$$
+\begin{gather*}
+(z-(4+2i))(z-(4-2i))(z-a) = 0 \\ \\
+(z^{2}-8z+20)(z-a) = 0 \\ 
+\end{gather*}
+$$
+We know that after expanding we will get a cubic of the form 
+$$
+\begin{gather*}
+z^{2}-8z+20)(z-a) = z^{3}+bz^{2}+cz-120 
+\end{gather*}
+$$
+Therefore we know the only coefficient we can compare is after multiplying $-20a$. This coefficient will be equal to $120$. Therefore we can solve for $a$:
+$$
+\begin{gather*}
+-20a = 120 \\ 
+a = 6
+\end{gather*}
+$$
+Substituting $a=6$ back into the brackets gives:
+$$
+\begin{gather*}
+(z^{2}-8z+20)(z-6) \\ 
+z^{3}-8z^{2}+20z-6z^{2}+48z-120 = 0 \\ \\
+\boxed{z^{3}-14z^{2}+68z-120}
+\end{gather*}
+$$
+# Worked Example 5
+Given that $z^{3}-5z^{2}+pz-78=0$ has one real roof of $3$, find the two other roots and the full equation:
+
+We know that a cubic will be in form $(z-3)(z^{2}+bz+c)=0$
+$$
+\begin{gather*}
+(z-3)(z^{2}+bz+c) = 0 \\ \\
+z^{3}+bz^{2}+cz-3z^{2}-3bz-3c=0 \\ 
+z+(b-3)z^{2}+(c-3b)z-3c=0 \\ \\
+\end{gather*}
+$$
+Comparing coefficients with $z^{3}-5z^{2}+pz-78=0$:
+$$
+\begin{gather*}
+b-3 = -5 \implies b = -2 \\ \\
+-3c = 78 \implies c = 26 \\ \\
+c-3b \implies 26 + 6 = p \implies p = 32
+\end{gather*}
+$$
+Finding roots of $z^{2}-2z=26=0$ gives:
+$$
+\begin{gather*}
+(z-1)^{2}+25=0 \\
+\therefore(z-1)^{2}=-25 \\
+z_{2} = 1+5i, z_{3} = 1-5i 
+\end{gather*}
+$$
+Therefore the final equation is:
+$$
+z^{3}-5z^{2}+32z-78=0
 $$
