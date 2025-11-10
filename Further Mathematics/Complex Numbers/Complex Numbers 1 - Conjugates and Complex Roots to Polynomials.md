@@ -376,4 +376,15 @@ A quartic equation of the form: $ax^{4}+bx^{3}+cx^{2}+dx+e=0$ has either:
 
 # Worked Example
 $z^{4}-9z^{3}+26z^{2}+6z-180=0$
-Given that one of the roots is $3+3i$, find the other roots 
+Given that one of the roots is $3+3i$, find the other roots.
+$$
+\begin{gather*}
+z_{1}=3+3i, z_{2} = 3-3i \\
+\therefore (z^{2}-6z+18)
+\end{gather*}
+$$
+Now there are two ways to factor the quartic.
+- Polynomial division
+- Equating coefficients 
+
+## Polynomial Division
