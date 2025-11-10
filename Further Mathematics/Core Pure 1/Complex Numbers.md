@@ -155,7 +155,9 @@ n=k+1: \\
 (z^{*})^{k+1} = (z^{*})^{k}z^{*} \\ 
 = (z^{k})^{*}z^{*} \\
 =(z^{k}z)^{*} \text{( multiplication is convserved in conjugation)} \\ 
-= 
+= (z^{k+1})^{*} \\ \\
+\text{If ture for } n = k+1 \text{ then true for } n\in \mathbb{Z}^{+}
 \end{gather*}
 $$
+
 
