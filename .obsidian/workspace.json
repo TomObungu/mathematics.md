@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
+                "file": "Further Mathematics/Core Pure 1/Complex Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision"
+              "title": "Complex Numbers"
             }
           },
           {
@@ -231,18 +231,19 @@
       }
     ]
   },
-  "active": "34cf1d648a4c9886",
+  "active": "874013a69a9eb862",
   "lastOpenFiles": [
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
+    "Further Mathematics/Core Pure 1/Complex Numbers.md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
+    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that tan beta = ((m+M)tan alpha) by (m - eM).md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251109142916.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251109142841.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251109142638.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 2.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that tan beta = ((m+M)tan alpha) by (m - eM).md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that magnitude is mu sec alpha. Find in m, u and e only, the KE lost by P in impact.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
