@@ -160,4 +160,19 @@ n=k+1: \\
 \end{gather*}
 $$
 
+Time for continue the proof for negative values of $n$:
+$$
+\begin{gather*}
+\text{Assume } n =-m, m\in \mathbb{Z}^{+} \\ \\
+(z^{*})^{-m} = \frac{1}{(z^{*})^{m}} = \frac{1}{(z^{m})^{*}} = \left( \frac{1}{z^{m}} \right)^{*} = (z^{-m})^{*} \\ \\
+\therefore (z^{*})^{n} = (z^{n})^{*}
+\end{gather*}
+$$
+# Multiplying a real scalar
+We know that $w^{*}z^{*}=(wz)^{*}$
+
+Consider $w\in \mathbb{R}$, as $w$ has no imaginary part (the imaginary part is 0), then the conjugate is itself $w^{*}=w$. $$
+\therefore w^{*}z^{*} = wz^{*} = (wz)^{*}
+$$
+Therefore multiplication by a real scalar is preserved.
 
