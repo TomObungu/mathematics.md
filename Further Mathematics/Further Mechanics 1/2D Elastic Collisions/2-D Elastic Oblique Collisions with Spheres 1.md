@@ -108,5 +108,16 @@ $$
 This is because it lies on a straight line along the original direction of motion. 
 When the angle is usually $90-\alpha$ then eventually you will end up using $\cos(90-\alpha)=\sin\alpha$, $\sin(90-\alpha)=\cos\alpha$ or $\tan(90-\alpha)=\cot\alpha$ for later parts in your working when showing a proof. 
 
-For this question we will use the the first scenario of the angle at the bottom left corner of the triangle:
+For this question we will use the the first scenario of the angle at the bottom left corner of the triangle. Forming the conservation of momentum diagram:
+![[Pasted image 20251111185011.png]]
+
+The next biggest thing with this question is that if we are told the direction has been turned by $90^\circ$. This proves to show that the direction of motion is towards the opposite direction. 
+
+**This means that component along the line of centres will be negative**. This means that $v_{1}$ will be $-v_{1}$Always consider this case for all problems like this:
+$$
+\begin{gather*}
+mu\cos\alpha=4mv_{2}-mv_{1}\sin\alpha \\ 
+4v_{2}-v_{1}\sin\alpha = u\cos\alpha
+\end{gather*}
+$$
 
