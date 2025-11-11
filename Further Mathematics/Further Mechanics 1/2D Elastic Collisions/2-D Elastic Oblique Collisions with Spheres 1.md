@@ -159,3 +159,9 @@ Therefore:
 $$
 \boxed{\tan\alpha=\sqrt{ \frac{1}{5} }}
 $$
+# Modelling assumption:
+The modelling assumption in all these questions is that the spheres has equal radii. Consider if this was not the case:
+![[Pasted image 20251111191857.png]]
+If this was not the case then spheres collision would not be in the same plane as their velocities. 
+
+Essentially it always ensures that the Impulse direction will always act parallel to the line of centres
