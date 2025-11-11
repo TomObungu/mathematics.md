@@ -94,3 +94,46 @@ $$
 
 
 
+# Worked Example 2
+![[Pasted image 20251111204444.png]]
+Now for this question there is the conventional route of form equations for $v_{1}$ and $v_{2}$ in terms of $e$. However since we are working with vectors and have been given an equation for KE, we can work out the values of $v_{1}$ and $v_{2}$ directly.:
+
+Firstly draw a diagram:
+![[Pasted image 20251111204620.png]]
+
+From knowing that the KE are is 0.85 of the KE before:
+$$
+\begin{gather*}
+\frac{1}{2}m(v_{2}^{2}+3^{2}) = 0.85\left[ \frac{1}{2}m(4^{2}+3^{2}) \right] \\ 
+v^{2}_{2} + 9 = \frac{85}{4} \\ \\
+v_{2}^{2} = \frac{49}{4}  \\ \\
+\therefore v_{2} = \pm \frac{7}{2}
+\end{gather*}
+$$
+Forming equations for conservation of momentum:
+$$
+\begin{gather*}
+-2(3m) + 4m = 3mv_{1} + mv_{2} \\ 
+3v_{1} + v_{2} = -2 \\ \\
+v_{1} = \frac{-2-v_{2}}{3}
+\end{gather*}
+$$
+We can now try the different cases for $v_{2}$ to see the correct value of $v_{1}$ and $v_{2}$
+If $v_{2} = \frac{7}{2}$:
+$$
+v_{1} = -\frac{11}{6}
+$$
+However this would mean particle A would not be moving apart from particle A 
+Therefore $v_{2}=-\frac{7}{2}$ and thus:
+$$
+v_{1} = \frac{1}{2}
+$$
+Now we have the values of $v_{1}$ and $v_{2}$ we can find the vectors of $V_{A}$ and $V_{B}$:
+$$
+V_{A} = \left( 5i+\frac{1}{2}j \right) \qquad V_{B} = \left( 3i-\frac{7}{2}j \right)
+$$
+Thus:
+$$
+e = \frac{\frac{7}{2}+\frac{1}{2}}{2+4} = \boxed{\frac{2}{3}}
+$$
+
