@@ -11,14 +11,12 @@
             "id": "e44dfc36849ff2d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2-D Elastic Oblique Collisions with Spheres 1"
+              "icon": "lucide-file-text",
+              "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
             }
           }
         ]
@@ -196,12 +194,12 @@
                 "id": "0cc653a9a8c71069",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-10-24 15.14.08.excalidraw"
+                  "icon": "lucide-file",
+                  "title": "Loading Excalidraw... Drawing 2025-10-24 15.14.08.excalidraw"
                 }
               }
             ]
@@ -217,10 +215,12 @@
       }
     ]
   },
-  "active": "e44dfc36849ff2d8",
+  "active": "0cc653a9a8c71069",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
+    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251111123234.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251111123136.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251111122748.png",
@@ -261,7 +261,6 @@
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
     "Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Given that the magnitude of the impulse P on Q is 2mu, find e.md",
-    "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/attachments",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Untitled",
     "Untitled.canvas"
