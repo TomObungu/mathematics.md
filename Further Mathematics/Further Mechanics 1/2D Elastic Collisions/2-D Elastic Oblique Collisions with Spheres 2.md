@@ -50,5 +50,27 @@ To do this part of the question, you must think back to find the unit components
 
 We know that the line of centres is parallel to $(-i+j)$ therefore the unit vector for the line of impulse is $\frac{1}{\sqrt{ 2 }}(-i+j)$. If we draw a diagram for this scenario, we can see that:
 ![[Pasted image 20251111193832.png]]
-
+and:
+![[Pasted image 20251111194413.png]]
+To find these components we must take the dot product of the incoming vectors with with the unit vector of the impulse. As the impulse only acts in the direction in the line of centres, we only need to use the unit vector parallel to the line of centres
+$$
+\begin{gather*}
+\text{Unit vector parallel to LOC : } \frac{1}{\sqrt{  2}}(-i+j ) \\ \\
+u_{A\parallel} = \begin{pmatrix}
+3 \\
+1
+\end{pmatrix} \cdot \left(\frac{1}{\sqrt{ 2 }}\right)\left[
+\begin{pmatrix}
+-1 \\
+1
+\end{pmatrix}\\right] = -\frac{2}{\sqrt{ 2 }} \\ \\
+u_{B\parallel} = \begin{pmatrix}
+-1 \\
+2
+\end{pmatrix} \cdot \left[ \left( \frac{1}{\sqrt{ 2 }} \right)\begin{pmatrix}
+-1 \\
+1
+\end{pmatrix}\right]
+\end{gather*}
+$$
 
