@@ -95,7 +95,18 @@ To calculate the K.E lost in the collision, you must take components before and 
 ![[Pasted image 20251111120649.png]]
 In this example, the direction of rotation of A is turned by $90^\circ$. In order to represent this diagrammatically properly. You need to extend the initial of motion an d rotate from that line by $90^\circ$. This process will work for any question that states the rotation that the motion is turned by:
 ![[Pasted image 20251111121022.png]]
-From the diagram you can see that the new direction of motion will form a right angle triangle. The angle in the bottom left corner of the triangle will be equal to alpha. 
+From the diagram you can see that the new direction of motion will form a right angle triangle. The angle in the bottom left corner of the triangle will be equal to alpha:
 ![[Pasted image 20251111123234.png]]
 It is also possible to work out the direct angle the line makes with the line of centres:
-![[Pasted image 20251111123136.png]]
+![[Pasted image 20251111123136.png]]In this case, the angel $\beta$ will be equal to:
+$$
+\begin{gather*}
+\beta = 180-90-\alpha \\
+\beta = 90 - \alpha
+\end{gather*}
+$$
+This is because it lies on a straight line along the original direction of motion. 
+When the angle is usually $90-\alpha$ then eventually you will end up using $\cos(90-\alpha)=\sin\alpha$, $\sin(90-\alpha)=\cos\alpha$ or $\tan(90-\alpha)=\cot\alpha$ for later parts in your working when showing a proof. 
+
+For this question we will use the the first scenario of the angle at the bottom left corner of the triangle:
+
