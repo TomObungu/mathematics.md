@@ -59,18 +59,38 @@ $$
 u_{A\parallel} = \begin{pmatrix}
 3 \\
 1
-\end{pmatrix} \cdot \left(\frac{1}{\sqrt{ 2 }}\right)\left[
-\begin{pmatrix}
+\end{pmatrix} \cdot \left[ \left( \frac{1}{\sqrt{ 2 }} \right)\begin{pmatrix}
 -1 \\
 1
-\end{pmatrix}\\right] = -\frac{2}{\sqrt{ 2 }} \\ \\
+\end{pmatrix} \right] = -\frac{2}{\sqrt{ 2 }} \\ \\
 u_{B\parallel} = \begin{pmatrix}
 -1 \\
 2
 \end{pmatrix} \cdot \left[ \left( \frac{1}{\sqrt{ 2 }} \right)\begin{pmatrix}
 -1 \\
 1
-\end{pmatrix}\right]
+\end{pmatrix}\right] = \frac{3}{\sqrt{ 2 }} \\ \\
+v_{A\parallel} = \begin{pmatrix}
+1 \\
+3
+\end{pmatrix} \cdot\left[ \left( \frac{1}{\sqrt{ 2 }} \right) \begin{pmatrix}
+-1 \\
+1
+\end{pmatrix}\right] = \frac{2}{\sqrt{ 2 }} \\ \\
+v_{B\parallel} = \frac{1}{3}\begin{pmatrix}
+1 \\
+2
+\end{pmatrix} \cdot \left[ \left( \frac{1}{\sqrt{ 2 }} \right) \begin{pmatrix}
+-1 \\
+1
+\end{pmatrix}\right] = \frac{1}{3\sqrt{ 2 }}
 \end{gather*}
 $$
+From this we can now form an equation for $e$ using the speed of approach and speed of separation:
+$$
+e = \frac{\frac{2}{\sqrt{ 2 }}-\frac{1}{3\sqrt{ 2 }}}{\frac{2}{\sqrt{ 2 }}+\frac{3}{\sqrt{ 2 }}} = \boxed{\frac{1}{3}}
+$$
+
+
+
 
