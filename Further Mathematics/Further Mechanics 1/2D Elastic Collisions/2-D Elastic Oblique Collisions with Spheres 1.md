@@ -90,3 +90,5 @@ V_{A} = 2i \qquad V_{B}=4i+3j
 $$
 To calculate the K.E lost in the collision, you must take components before and after the collision;
 ![[Pasted image 20251111000019.png]]
+
+# Worked Example 5
