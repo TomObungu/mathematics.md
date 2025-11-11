@@ -92,3 +92,5 @@ To calculate the K.E lost in the collision, you must take components before and 
 ![[Pasted image 20251111000019.png]]
 
 # Worked Example 5
+![[Pasted image 20251111120649.png]]
+In this example, the direction of rotation of A is turned by $90^\circ$. In order to represent this diagrammatically properly. You need to extend the initial of motion an d rotate from that line by $90^\circ$. This process will work for any question that state the rotation that the motion is turned by:
