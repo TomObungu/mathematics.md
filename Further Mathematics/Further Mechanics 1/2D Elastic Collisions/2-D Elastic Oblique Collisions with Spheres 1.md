@@ -121,3 +121,4 @@ mu\cos\alpha=4mv_{2}-mv_{1}\sin\alpha \\
 \end{gather*}
 $$
 
+ 
