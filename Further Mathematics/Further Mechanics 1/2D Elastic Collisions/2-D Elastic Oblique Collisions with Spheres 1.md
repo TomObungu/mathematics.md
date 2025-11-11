@@ -48,3 +48,45 @@ This is the case as:
 ![[Pasted image 20251110213103.png]]
 Speed of $A=\sqrt{ 0.123^{2}+(4\sin 40 ^\circ) }=2.57$ at $87.3\$. Speed of $B$ = 1.96
 # Worked example 2
+Given that $e$ between the spheres is $\frac{3}{4}$. Find the magnitude of velocities after collision.
+![[Pasted image 20251110235230.png]]D
+Conservation Of Momentum:
+![[Pasted image 20251110235312.png]]
+$$
+\begin{gather*}
+2(5\cos 45^\circ) - 8\cos 30^\circ = 2v_{1}+v_{2} \\
+2v_{1} + v_{2} = 5\sqrt{ 2 }-4\sqrt{ 3 }
+\end{gather*}
+$$
+Newton's Law Of Restituion:
+$$
+\begin{gather*}
+v_{2}-v_{1} = \frac{3}{4}(5\cos 45^\circ+8\cos_{3}0^\circ) \\ \\
+v_{2}-v_{1} = \frac{24\sqrt{ 3 }-15\sqrt{ 2 }}{8} \\ \\
+v_{1} = 2.568 \qquad v_{2} = 5.279
+\end{gather*}
+$$
+Find the magnitudes and directions:
+![[Pasted image 20251110235605.png]]
+
+# Worked Example 3
+It is possible to have oblique collisions given as vectors:
+![[Pasted image 20251110235711.png]]
+Convservation Of Restitution:
+$$
+\begin{gather*}
+5(3)-3(2) = 5v_{1}+3v_{2} \\ 
+5v_{1}+3v_{2}=9
+\end{gather*}
+$$
+Newton's Law Of Restitution:
+$$
+ \begin{gather*}
+v_{2}-v_{1}=\frac{3}{5}(2+3) \\
+v_{2}-1v_{1} = 3 \\ \\
+\therefore v_{1} = 0 \qquad v_{2} = 3 \\ \\
+V_{A} = 2i \qquad V_{B}=4i+3j
+\end{gather*}
+$$
+To calculate the K.E lost in the collision, you must take components before and after the collision;
+![[Pasted image 20251111000019.png]]
