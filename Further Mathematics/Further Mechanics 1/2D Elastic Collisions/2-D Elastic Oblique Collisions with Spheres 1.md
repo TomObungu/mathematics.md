@@ -109,7 +109,7 @@ This is because it lies on a straight line along the original direction of motio
 When the angle is usually $90-\alpha$ then eventually you will end up using $\cos(90-\alpha)=\sin\alpha$, $\sin(90-\alpha)=\cos\alpha$ or $\tan(90-\alpha)=\cot\alpha$ for later parts in your working when showing a proof. 
 
 For this question we will use the the first scenario of the angle at the bottom left corner of the triangle. Forming the conservation of momentum diagram:
-![[Pasted image 20251111185011.png]]
+![[Pasted image 20251111191154.png]]
 
 
 The next biggest thing with this question is that if we are told the direction has been turned by $90^\circ$. This proves to show that the direction of motion is towards the opposite direction. 
@@ -119,7 +119,7 @@ The next biggest thing with this question is that if we are told the direction h
 $$
 \begin{gather*}
 mu\cos\alpha=4mv_{2}-mv_{1}\\ 
-4v_{2}-v_{1} = u\cos\alpha
+4v_{2}-v_{1} = u\cos\alpha \ (1)
 \end{gather*}
 $$
 Newton's Law Of Restitution:
@@ -127,9 +127,35 @@ $$
 \begin{gather*}
 \frac{v_{2}--v_{1}}{u\cos\alpha} = \frac{1}{2} \\ \\
 v_{2}+v_{1} = \frac{1}{2}u\cos\alpha \\ \\
-2v_{2}+2v_{1}=u\cos\alpha
+2v_{2}+2v_{1}=u\cos\alpha \ (2)
 \end{gather*}
 $$
-We know that v
-
- 
+We know that $v\sin\alpha=v_{1}$ therefore we must find $v_{1}$:
+$$
+\begin{gather*}
+(1) + (-2(2)) : \\
+4v_{2}-v_{1}=u\cos\alpha \\
+-4v_{2}-4v_{1} = -2u\cos\alpha \\ \\
+-5v_{1} = -u\cos\alpha \\ \\
+\implies v_{1} = \frac{1}{5}u\cos\alpha
+\end{gather*}
+$$
+This means that $vsin\alpha = \frac{1}{5}u\cos\alpha$. Forming the complete set of equations:
+$$
+\begin{gather*}
+v\sin\alpha = \frac{1}{5}u\cos\alpha \\ \\
+v\cos\alpha = u\sin\alpha
+\end{gather*}
+$$
+Forming an equation for $\tan\alpha$:
+$$
+\begin{gather*}
+\tan\alpha = \frac{1}{5}\cot\alpha \\
+5\tan\alpha = \frac{1}{\tan\alpha} \\ 
+\tan ^{2}\alpha = \frac{1}{5} \\ \\
+\end{gather*}
+$$
+Therefore:
+$$
+\boxed{\tan\alpha=\sqrt{ \frac{1}{5} }}
+$$
