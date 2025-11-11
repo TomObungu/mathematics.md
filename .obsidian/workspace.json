@@ -195,47 +195,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "c8b327a4daf6ac95",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e540924bb51cda9e",
-        "type": "window",
-        "children": [
-          {
-            "id": "21424ce9029be1d8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "34fcd4efdb53f5b6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-10-24 15.14.08.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "34fcd4efdb53f5b6",
+  "active": "a3cefbc2790ac016",
   "lastOpenFiles": [
-    "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
+    "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111233916.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111233559.png",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/New Edexcel Core Pure 2.pdf",
@@ -257,7 +221,6 @@
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251111192339.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251111191857.png",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/attachments/Pasted image 20251111191154.png",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Tips to approach a question.md",
