@@ -111,14 +111,25 @@ When the angle is usually $90-\alpha$ then eventually you will end up using $\co
 For this question we will use the the first scenario of the angle at the bottom left corner of the triangle. Forming the conservation of momentum diagram:
 ![[Pasted image 20251111185011.png]]
 
+
 The next biggest thing with this question is that if we are told the direction has been turned by $90^\circ$. This proves to show that the direction of motion is towards the opposite direction. 
 
 **This means that component along the line of centres will be negative**. This means that $v_{1}$ will be $-v_{1}$Always consider this case for all problems like this:
+![[Pasted image 20251111190638.png]]
 $$
 \begin{gather*}
-mu\cos\alpha=4mv_{2}-mv_{1}\sin\alpha \\ 
-4v_{2}-v_{1}\sin\alpha = u\cos\alpha
+mu\cos\alpha=4mv_{2}-mv_{1}\\ 
+4v_{2}-v_{1} = u\cos\alpha
 \end{gather*}
 $$
+Newton's Law Of Restitution:
+$$
+\begin{gather*}
+\frac{v_{2}--v_{1}}{u\cos\alpha} = \frac{1}{2} \\ \\
+v_{2}+v_{1} = \frac{1}{2}u\cos\alpha \\ \\
+2v_{2}+2v_{1}=u\cos\alpha
+\end{gather*}
+$$
+We know that v
 
  
