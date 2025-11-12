@@ -196,12 +196,12 @@
                 "id": "6738f01025230329",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
                     "file": "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md"
                   },
-                  "icon": "lucide-file",
-                  "title": "Loading Excalidraw... Drawing 2025-10-26 20.51.21.excalidraw"
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-26 20.51.21.excalidraw"
                 }
               }
             ]
@@ -217,8 +217,10 @@
       }
     ]
   },
-  "active": "a3cefbc2790ac016",
+  "active": "98d480662824121e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
+    "Further Mathematics/Complex Numbers/Loci.md",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112011018.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112010734.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112010550.png",
@@ -229,9 +231,6 @@
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112005955.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112005834.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112005322.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112005303.png",
-    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
-    "Further Mathematics/Complex Numbers/Loci.md",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
