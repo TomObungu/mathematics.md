@@ -107,7 +107,7 @@ Since we subtract $z_{1}$ from $z$ before take the argument, we can imagine that
 ![[Pasted image 20251112004630.png]]
 
 # Worked Example 3
-Sketch the locus of the points that satifies:
+Sketch the locus of the points that satisfies:
 $\{z\in \mathbb{C}:arg(z-3)=\frac{3}{4}\pi\}$
 and find the minimum value of $|z|$.
 Drawing out the locus involves showing that that angle is obtuse. The minimum value of $|z|$ will just be the perpendicular distance from the origin:
@@ -116,5 +116,46 @@ From the triangle formed we can see that:
 ![[Pasted image 20251112005322.png]]
 
 ## Worked Example 4
+![[Pasted image 20251112005834.png]]
+For this example, you need to carefully draw the locus. Always consider which angle is bigger. If one angle is less than the other the intersect, however if one angle is greater or they are parallel, there will be no intersection:
+![[Pasted image 20251112005955.png]]
+The next thing with theis question is to realise that the gradient of these lines will always be equal to $\tan\theta$:
+![[Pasted image 20251112010035.png]]
+Once the line equations have been found, set them equal to each other and solve for $x$ and $y$ to give you $z$.
+## Worked Example 5
+![[Pasted image 20251112010153.png]]
+For this question you must draw circles and also draw the locus. In this question, locus can only be the max value if it less than the tangent lines of the circle:
+![[Pasted image 20251112010252.png]]
+
+# Regions
+If a complex number satisfies a inequality, we can shade a region in the complex plane.
+
+## Circles
+Consider $\{z\in \mathbb{C}:|z-z_{1}|\leq r\}$
+![[Pasted image 20251112010416.png]]
+
+# Bisectors
+Consider $\{z\in \mathbb{C}:|z-z_{1}|>|z-z_{1}|\}$
+
+The distance from $z$ to $z_{2}$ is less than the distance from $z$ to $z_{1}$. The points that satisfy this are closer to $z_{2}$ than $z_{1}$:
+![[Pasted image 20251112010550.png]]
+
+# Half-lines
+Consider $\{z\in \mathbb{C}:\theta_{1}\leq arg(z-z_{1})\leq \theta_{2}\}$
+The argument measured from $z_{1}$ lies between these half-lines:
+![[Pasted image 20251112010734.png]]
+
+# Worked Example 6
+Sketch the region defined by the following expression and its exact area:
+$\{|z-4-5i|\leq_{2}\}\cap\left\{ z\in \mathbb{C}:arg(z-4-3i)\leq \frac{\pi}{3}  \right\}$
+The hardest parts of these problems are ensuring that your diagram is drawn correctly. With a correctly drawn diagram, you willl see that that region forms the area of a segment with angle $\alpha$ subtending it:
+![[Pasted image 20251112011018.png]]
+The angle alpha can be calculated due it it being an isosceles triangle:
+$$
+\begin{gather}
+
+\end{gather}
+\alpha = \pi - 2\left( \frac{\pi}{2} - \frac{\pi} {3}\right) = \frac{2\pi}{3}
+$$
 
 
