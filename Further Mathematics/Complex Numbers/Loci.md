@@ -106,4 +106,8 @@ Now consider $\{z\in \mathbb{C}:argz(z-z_{1})=\theta$
 Since we subtract $z_{1}$ from $z$ before take the argument, we can imagine that we have shifted our origin to $z_{1}$ therefore the points that satisfies this condition have argument $\theta$, but measured from $z_{1}$
 ![[Pasted image 20251112004630.png]]
 
+# Worked Example 3
+Sketch the locus of the points that satifies:
+$\{z\in \mathbb{C}:arg(z-3)=\frac{3}{4}\pi\}$
+and find the minimum value of $|z|$.
 
