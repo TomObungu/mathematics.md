@@ -72,5 +72,38 @@ For this question, it is really asking us to find the perpendicular bisector bet
 
 ![[Pasted image 20251112003416.png]]
 We know that the $x$ coordinate will be the midpoint of the points:
-$x = ($
+![[Pasted image 20251112003624.png]]
+$x = \frac{4+2}{2} = 3$
+$y = \frac{-1+3}{2} = 1$
+From then onwards, we can calculate the gradients of the line between the points and then the gradient of the perpendicular bisector:
+$$
+m = \frac{3--1}{4-2} = 2
+$$
+Therefore the gradient of locus will be:
+$$
+m_{\perp} = -\frac{1}{2}
+$$
+Substituting the midpoint points into the line formula, the perpendicular bisector is :
+$$
+y = -\frac{1}{2}x +\frac{5}{2}
+$$
+To find the minimum value of $|z|$,  we must find the shortest distance from the line. We know that the shortest distance to line is the perpendicular distance from the origin to the line. In this case it will be a line of perpendicular gradient from the origin:
+![[Pasted image 20251112004101.png]]
+Therefore, it will have equation $y=-\frac{1}{\left( -\frac{1}{2} \right)}=2x$ and pass through the origin. In order to find the minimum distance, find the point of intersection between it:
+$$
+\begin{gather*}
+2x=\frac{1}{2}x+\frac{5}{2} \\ \\
+x = 1 \qquad y = 2 \\ \\
+|z| = \sqrt{ 1^{2}+2^{2} } = \sqrt{ 5 }
+\end{gather*}
+$$
+
+# Half Lines
+Consider $|\{z\in \mathbb{C}:arg(z)=\theta\}$. The point that satisfy this all have argument. The locus is the 'half-line' from the origin:
+![[Pasted image 20251112004434.png]]
+Now consider $\{z\in \mathbb{C}:argz(z-z_{1})=\theta$
+
+Since we subtract $z_{1}$ from $z$ before take the argument, we can imagine that we have shifted our origin to $z_{1}$ therefore the points that satisfies this condition have argument $\theta$, but measured from $z_{1}$
+![[Pasted image 20251112004630.png]]
+
 
