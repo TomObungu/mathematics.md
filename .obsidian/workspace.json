@@ -196,12 +196,12 @@
                 "id": "6738f01025230329",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-10-26 20.51.21.excalidraw"
+                  "icon": "lucide-file",
+                  "title": "Loading Excalidraw... Drawing 2025-10-26 20.51.21.excalidraw"
                 }
               }
             ]

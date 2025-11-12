@@ -153,9 +153,17 @@ The hardest parts of these problems are ensuring that your diagram is drawn corr
 The angle alpha can be calculated due it it being an isosceles triangle:
 $$
 \begin{gather}
-
+\alpha = \pi - 2\left( \frac{\pi}{2} - \frac{\pi} {3}\right) = \frac{2\pi}{3} \\ \\ \\
 \end{gather}
-\alpha = \pi - 2\left( \frac{\pi}{2} - \frac{\pi} {3}\right) = \frac{2\pi}{3}
 $$
+We know from the area of a segment formula:
+$$
+A = \frac{1}{2}r^{2}(\theta-\sin\theta)
+$$
+Therefore the area is:
+$$
+\frac{1}{2}(2)^{2}\left( \frac{2}{3}\pi - \sin\left( \frac{2}{3}\pi \right) \right) = \boxed{\frac{4}{3}\pi-\sqrt{ 3 }}
+$$
+
 
 
