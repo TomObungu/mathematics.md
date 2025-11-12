@@ -180,23 +180,59 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a3cefbc2790ac016",
+  "floating": {
+    "id": "8e0e54fc38d8e23a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "26ce64bb803aa2a0",
+        "type": "window",
+        "children": [
+          {
+            "id": "a624aafcf2bbce29",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6738f01025230329",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-26 20.51.21.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6738f01025230329",
   "lastOpenFiles": [
+    "Further Mathematics/Complex Numbers/Loci.md",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112003416.png",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112003258.png",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112003210.png",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112002619.png",
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112002447.png",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112002243.png",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112002207.png",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112001744.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112000949.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112000557.png",
     "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
-    "Further Mathematics/Complex Numbers/Loci.md",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112000238.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112000116.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112000026.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111235116.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111235037.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111234737.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111234332.png",
-    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111234153.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251111234032.png",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "Resources/New Edexcel Core Pure 2.pdf",
     "Mathematics/Double Angle Formulae.md",
