@@ -110,4 +110,11 @@ Since we subtract $z_{1}$ from $z$ before take the argument, we can imagine that
 Sketch the locus of the points that satifies:
 $\{z\in \mathbb{C}:arg(z-3)=\frac{3}{4}\pi\}$
 and find the minimum value of $|z|$.
+Drawing out the locus involves showing that that angle is obtuse. The minimum value of $|z|$ will just be the perpendicular distance from the origin:
+![[Pasted image 20251112005303.png]]
+From the triangle formed we can see that:
+![[Pasted image 20251112005322.png]]
+
+## Worked Example 4
+
 
