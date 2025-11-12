@@ -56,5 +56,12 @@ $$
 \end{gather*}
 $$
 
-#
+# Worked Example 5
+![[Pasted image 20251112000026.png]]
+For this diagram you must consider that the angle is obtuse. Therefore when drawing the vectors tail to tail. One of the vectors will point in the other direction to form a triangle:
+![[Pasted image 20251112000116.png]]
+With this triangle, the angle between the triangles sides and the $\mathrm{Re}$ can be found.:
+![[Pasted image 20251112000238.png]]
+
+
 
