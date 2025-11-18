@@ -79,5 +79,19 @@ We cannot use the rules for $n\notin\mathbb{Z}$
 Let's consider $n\in \mathbb{Q} \setminus \mathbb{Z}$:
 For $2nk\pi$ is not always an intger multiple of $2\pi$. This means that different values of $k$ give different values of $e^{2nk\pi i}$:
 $$
-
+\begin{array}{|c|c|}
+\hline
+\text{k} & 2nk\pi \\
+\hline
+0 & 0 \\
+\hline
+1 & \pi  \\
+\hline
+2 & 2\pi \\
+\hline
+3 & 3\pi \\
+\hline
+\end{array}
 $$
+This means that $e^{2nk\pi}$ will have two possibilities as it alternates between the odd multiples of $\pi$ $(2k-1)\pi$and even multiples of $2k\pi$. On the Argand diagram, this looks like $e^{2nk\pi}$ alternating between the negative part of the real number line:
+
