@@ -55,7 +55,8 @@ Now consider $z\in \mathbb{C}$, $|z|=r$, $arg(z)=\theta$. Consider when raising 
 ![[Pasted image 20251118101653.png]]
 Each time we multiply by $z$, the angle $\theta$ is increase by the number of times we multiply by $\theta$ each time. So in this case $arg(z^{2})=2\theta$ and $arg(z^{3})=3\theta$ and so on.
 
-It will get to a point that if the number is fractional multiple of $\pi$ e.g. $\frac{\pi}{6}$, Raising $z^{6}$ will yield $\pi$ and the number will be on the part of the Argand diagram only - $z^{6} \in \mathbb{R}$:
+It will get to a point that if the number is fractional multiple of $\pi$ e.g. $\frac{\pi}{6}$, Raising $z^{6}$ will yield $\pi$ and the number will be on the part of the Argand diagram only - $z^{6} \in \mathbb{R}$: 
+![[Pasted image 20251118102326.png]]
 
 # Worked Example 2
 Given that $z_{1}=\sqrt{ 3 }+i$, $|z_{1}z_{2}|=24$, $arg(z_{1}z_{2})=\frac{\pi}{3}$ 
@@ -76,4 +77,16 @@ $$
 $$
 z=1+\sqrt{ 3 }i
 $$
-Given that $z^{n}\in \mathbb{R}$, $n\in \mathbb{Z}^{+}$ determine the smallest value of n. Now for this question you must consider the Argand diagram:
+Given that $z^{n}\in \mathbb{R}$, $n\in \mathbb{Z}^{+}$ determine the smallest value of n. Now for this question you must consider the Argand diagram. What value of $n$ must you raise to make the value $\theta$ an integer multiple of $\pi$?:
+![[Pasted image 20251118102535.png]]
+In this case the smallest number we can multiple to make $\frac{\pi}{3}$ a integer multiple of $\pi$ is $3$:
+$$
+\begin{gather*}
+arg(z) = arctran\sqrt{ 3 }) = \frac{\pi}{3} \\ 
+arg(z^{n}) = narg(z) = \pi \\ \\
+\frac{\pi}{3}n = \pi \\ \\
+\therefore n=3
+\end{gather*}
+$$
+
+
