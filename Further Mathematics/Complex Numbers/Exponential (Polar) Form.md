@@ -120,4 +120,7 @@ If we do $re^{-i\theta} =r(cos(-\theta)+i\sin(-\theta))$ we know that $\cos(-\th
 $$
 re^{i\theta}= r(\cos\theta-i\sin\theta)
 $$
-This is just the conjugated form 
+This is just the conjugated form for $re^{i\theta}$. Therefore:
+$$
+z=re^{i\theta}
+$$
