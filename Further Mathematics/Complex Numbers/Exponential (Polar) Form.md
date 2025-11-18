@@ -121,6 +121,8 @@ $$
 re^{i\theta}= r(\cos\theta-i\sin\theta)
 $$
 This is just the conjugated form for $re^{i\theta}$. Therefore:
+$$\begin{gather*}
+z=re^{i\theta} \ z^{*}=re^{-i\theta}
+\end{gather*}
 $$
-z=re^{i\theta}
-$$
+# 
