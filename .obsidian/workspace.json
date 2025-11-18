@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Complex Numbers 3 - Modulus Argument Form"
             }
+          },
+          {
+            "id": "915afb1e9656b228",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-24 15.14.08.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,12 +230,13 @@
       }
     ]
   },
-  "active": "a3cefbc2790ac016",
+  "active": "915afb1e9656b228",
   "lastOpenFiles": [
+    "Further Mathematics/Complex Numbers/Complex Numbers 3 - Modulus Argument Form.md",
+    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118101653.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118095641.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118095401.png",
     "Further Mathematics/Complex Numbers/Loci.md",
-    "Further Mathematics/Complex Numbers/Complex Numbers 3 - Modulus Argument Form.md",
     "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112011018.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112010734.png",
@@ -231,8 +245,6 @@
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112010252.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112010153.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112010035.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112005955.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251112005834.png",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
