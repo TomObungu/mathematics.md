@@ -141,4 +141,34 @@ Therefore:
 $$
 \mathrm{Im}(z) = \frac{\sin 3\theta - \sin\theta}{2 - 2\cos 2\theta}
 $$
+# Worked Example 4
+We know that $z=1+i\sqrt{ 3 }$, $\mathrm{Re}\left( \frac{z^{2}}{w} \right)=0$, $\left|\frac{z^{2}}{w}\right|=|z|$
+Use geometric reasoning to find two possilble values for $w$, in the form $w=re^{i\theta}$.
 
+The first step in this question is to always draw a diagram:
+![[Pasted image 20251118124351.png]]
+If we know that the real part of the equation will be $0$ then the equation will have two values of its magnitude in terms of $i$. 
+$$
+\begin{gather*}
+arg(z) = \frac{\pi}{3}, \ |z| = 2 \\ \\
+\mathrm{Re}\left( \frac{z^{2}}{w} \right)=0 \qquad arg\left( \frac{z^{2}}{w} \right)=\frac{\pi}{2 } \ or \ \frac{3\pi}{2} \\ \\
+arg\left( \frac{z^{2}}{w} \right) = 2arg(z) - arg(w) \\ \\
+\therefore arg(w) = 2\left( \frac{\pi}{3} \right) - \frac{\pi}{2} = \frac{\pi}{6} \\ \\ or \\ \\
+arg(w) = 2\left( \frac{\pi}{3} \right) - \frac{3}{2} = -\frac{5\pi}{6} \\ \\
+\therefore w = 2e^{\frac{\pi}{5}i} \qquad w=2e^{\frac{-5\pi}{6}i}
+\end{gather*}
+$$
+
+
+# Definitions of $\sin\theta$ and $\cos\theta$
+We can use Euler's formula to obtain definitions for $\sin\theta$ and $\cos\theta$:
+$$
+\begin{gather*}
+e^{i\theta} = \cos\theta+i\sin\theta \\ 
+e^{-i\theta} = \cos\theta-i\sin\theta \\ \\
+e^{i\theta}+e^{-i\theta} = 2\cos\theta \\ 
+\therefore \boxed{\cos\theta = \frac{e^{i\theta}+e^{-i\theta}}{2}} \\ \\
+e^{i\theta}-e^{i\theta} = 2i\sin\theta \\ 
+\therefore \boxed{\sin\theta = \frac{e^{i\theta}-e^{-i\theta}}{2i}}
+\end{gather*}
+$$
