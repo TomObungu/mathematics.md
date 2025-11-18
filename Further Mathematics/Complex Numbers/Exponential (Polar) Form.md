@@ -76,7 +76,16 @@ $$
 $$
 We cannot use the rules for $n\notin\mathbb{Z}$
 ### Why not...?
+We know that $n\in \mathbb{Z}$:
+$2nk\pi$ is always a multiple of $2\pi$ . This  means:
+$$
+e^{2nk\pi i} =1 
+$$
+The solution is always unique.
+![[Pasted image 20251118113111.png]]
+
 Let's consider $n\in \mathbb{Q} \setminus \mathbb{Z}$:
+Let's say $n=\frac{1}{2}$:
 For $2nk\pi$ is not always an integer multiple of $2\pi$. This means that different values of $k$ give different values of $e^{2nk\pi i}$:
 $$
 \begin{array}{|c|c|}
@@ -87,11 +96,28 @@ $$
 \hline
 1 & \pi  \\
 \hline
-\frac{1}{2} & 2\pi \\
+2 & 2\pi \\
 \hline
-\frac{1}{3} & 3\pi \\
+3 & 3\pi \\
 \hline
 \end{array}
 $$
 This means that $e^{2nk\pi}$ will have two possibilities as it alternates between the odd multiples of $\pi$ $(2k-1)\pi$and even multiples of $2k\pi$. On the Argand diagram, this looks like $e^{2nk\pi}$ alternating between the negative part of the real number line:
 
+The solutions in the case of $n=\frac{1}{2}$ will take the first values of $\pi$ and $2\pi$ and all other solutions will be the same for odd multiples and the same for even multiples
+![[Pasted image 20251118113447.png]]
+This means there will be multiple but finite solutions for this case:
+
+Now let's consider $n\in \mathbb{R} \setminus \mathbb{Q}$:
+As $n$ is always irrational, $2nk\pi$ is never an integer multiple of $2\pi$. This means that there are infinitely many solutions. 
+
+From all of this we can see that we will only get one unique solution for $Z^{n}$ when $n\in \mathbb{Z}$
+
+
+## Complex Conjugate of Polar Form:
+Consider $re^{i\theta}=r(\cos\theta+i\sin\theta)$,
+If we do $re^{-i\theta} =r(cos(-\theta)+i\sin(-\theta))$ we know that $\cos(-\theta)=\cos\theta$ and $\sin(-\theta)=-\sin\theta$, therefore:
+$$
+re^{i\theta}= r(\cos\theta-i\sin\theta)
+$$
+This is just the conjugated form 
