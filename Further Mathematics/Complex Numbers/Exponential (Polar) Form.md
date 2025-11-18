@@ -125,4 +125,20 @@ $$\begin{gather*}
 z=re^{i\theta} \ z^{*}=re^{-i\theta}
 \end{gather*}
 $$
-# 
+# Worked Example 3
+$z=\frac{e^{3i}}{1-e^{2i\theta}}$, find Im(z). To evaluate this, you must multiply by the conjugate:
+$$
+\frac{e^{3i}}{1-e^{2i\theta}} \left(\frac{1-e^{-2i\theta}}{1-e^{-2i\theta}}\right) = \frac{e^{3i\theta}-e^{i\theta}}{1-e^{-2i\theta}-e^{2i\theta}+1}
+$$
+Expressing in modulus argument form and separating the imaginary and complex form:
+$$
+\begin{gather*}
+\frac{\cos 3\theta+i\sin 3\theta-(\cos\theta+i\sin\theta)}{2-(\cos 2\theta-i\sin 2\theta)-(\cos 2\theta +i\sin 2\theta)} \\ \\
+= \frac{(\cos 3\theta-\cos\theta)+i(\sin 3\theta-\sin \theta)}{2-2\cos 2\theta}
+\end{gather*}
+$$
+Therefore:
+$$
+\mathrm{Im}(z) = \frac{\sin 3\theta - \sin\theta}{2 - 2\cos 2\theta}
+$$
+
