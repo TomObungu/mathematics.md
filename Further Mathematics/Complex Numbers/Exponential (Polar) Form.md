@@ -76,4 +76,8 @@ $$
 $$
 We cannot use the rules for $n\notin\mathbb{Z}$
 ### Why not...?
+Let's consider $n\in \mathbb{Q} \setminus \mathbb{Z}$:
+For $2nk\pi$ is not always an intger multiple of $2\pi$. This means that different values of $k$ give different values of $e^{2nk\pi i}$:
+$$
 
+$$
