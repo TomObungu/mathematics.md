@@ -36,4 +36,4 @@ $$
 \therefore a = 41
 \end{gather*}
 $$
-
+(c) 
