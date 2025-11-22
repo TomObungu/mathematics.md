@@ -20,5 +20,10 @@ d = -4
 $$
 Now have the value of the linear term we can solve for $f(z)=0$ by writing out the factored form of $f(z)$:
 $$
-(z-(2+3i))(z-(2-3i))(z+4)
+(z-(2+3i))(z-(2-3i))(z+4) = 0
 $$
+Therefore solving $f(z)=0$ yields:
+$$
+z_{1}=2+3i \qquad z_{2}=2-3i \qquad z_{3}=-4
+$$
+
