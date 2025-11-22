@@ -253,6 +253,11 @@ We can solve this by substituting $x=\cos\theta$ and solving in the range $0\leq
 
 This is because $\sin\theta$ and $\cos\theta$ are oscillating functions and may repeat solutions within the range. If you do not have 5 distinct solutions by the time you have solved to $\theta=360$ then the function has repeated solutions.
 
+If $16\cos ^{5}\theta-20\cos ^{3}\theta+5\cos\theta=0$ then $\cos 5\theta=0$. Solving for $\cos 5\theta$ using the calcuator and to 3 significant figures:
+
+![[Pasted image 20251122184246.png]]
+
+
 
 
 
