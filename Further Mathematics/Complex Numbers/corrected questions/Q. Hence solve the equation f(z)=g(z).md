@@ -8,4 +8,5 @@ and the other root must be real and have the same $\mathrm{Re}$ value as the oth
 $$
 z_{3} = \frac{3}{2}
 $$
-(c) (i) 
+(c) (i) If you were to draw an Argand diagram of the roots of $f(z)$, you will notice that in order for the roots of $g(z)$ to lie on a  **different** straight line and also share a common root is if the line were to intersect horizontally with the vertical line formed by the roots of $f(z)=0$:
+
