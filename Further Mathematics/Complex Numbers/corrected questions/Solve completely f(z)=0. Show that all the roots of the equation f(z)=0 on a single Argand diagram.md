@@ -10,4 +10,15 @@ $$
 z^{3}+az+52 = (z^{2}+4z+25)(z-d) 
 \end{gather*}
 $$
-From this we can equation coefficients. The constant terms in the expansion must equal  
+From this we can equation coefficients. The constant terms in the expansion must equal 52 thus we know that:
+$$
+13(d) = 52 
+$$
+Therefore:
+$$
+d = 4
+$$
+Now have the value of the linear term we can solve for $f(z)=0$ by writing out the factored form of $f(z)$:
+$$
+
+$$
