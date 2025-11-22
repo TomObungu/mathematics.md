@@ -293,7 +293,7 @@ $$
 = z^{5}+5z^{3}+10z+10\left( \frac{1}{z} \right)+5\left( \frac{1}{z^{3}} \right)+\frac{1}{z^{5}}
 \end{gather*}
 $$
-Now in order to get trigonometric functions of $\cos$ in the expansion, we must group everything in terms of $\left( z+\frac{1}{z^{n}} \right)$:
+Now in order to get trigonometric functions of $\cos$ in the expansion, we must group everything in terms of $\left( z^{n}+\frac{1}{z^{n}} \right)$:
 $$
 =\left( z^{5}+\frac{1}{z^{5}} \right)+5\left( z^{3}+\frac{1}{z^{3}} \right)+10\left( z+\frac{1}{z} \right)
 $$
@@ -309,4 +309,42 @@ $$
 QED
 \end{gather*}
 $$
+# Worked Example 3
+Show that $\sin ^{4}\theta=\frac{1}{8}\cos(4\theta)-\frac{1}{2}\cos(2\theta)+\frac{3}{8}$. 
+We know that $\left( z-\frac{1}{z} \right)^{4}=(2i\cos\theta)^{4}=16\sin ^{4}\theta$. Therefore we can equate $16\sin ^{4}\theta$ to the expansion of $\left( z-\frac{1}{z} \right)^{4}$:
+$$
+\begin{gather*}
+\left( z-\frac{1}{z} \right)^{4} = z^{4}+\begin{pmatrix}
+4 \\
+1 
+\end{pmatrix}z^{3}\left( \frac{1}{z} \right)+\begin{pmatrix}
+4 \\
+2
+\end{pmatrix}z^{2}\left( \frac{1}{z} \right)^{2}+\begin{pmatrix}
+4 \\
+3
+\end{pmatrix}z\left( \frac{1}{z} \right)^{3}+\begin{pmatrix}
+4 \\
+4
+\end{pmatrix}\left( \frac{1}{z} \right)^{4} \\ \\
+= z^{4}-4z^{2}+6-4\left( \frac{1}{z^{2}} \right)+\frac{1}{z^{4}}
+\end{gather*}
+$$
+Grouping in terms of $\left( z^{n}+\frac{1}{z^{n}} \right)$:
+$$
+\begin{gather*}
+= \left( z^{4}+\frac{1}{z^{4}} \right)-4\left( z^{2}+\frac{1}{z^{2}} \right)+6 \\ \\ 
+2\cos 4\theta - 8\cos 2\theta + 6
+\end{gather*}
+$$
+Thus:
+$$
+\begin{gather*}
+16 \sin ^{4}\theta = 2\cos 4\theta -8\cos 2\theta + 6 \\ \\
+\sin ^{4}\theta = \frac{1}{8}\cos 4\theta - \frac{1}{2}\cos 2\theta + \frac{3}{8} \\ 
+QED
+\end{gather*}
+$$
+
+
 
