@@ -26,4 +26,9 @@ Therefore solving $f(z)=0$ yields:
 $$
 z_{1}=2+3i \qquad z_{2}=2-3i \qquad z_{3}=-4
 $$
-(ii) We can then find the value of $a$ by using the same quadratic and linear factor 
+(ii) We can then find the value of $a$ by using the same quadratic and linear factorisation of $f(z)$ and consider only the coefficients with $z$:
+$$
+\begin{gather*}
+(z^{2}+4z+25)(z-d) 
+\end{gather*}
+$$
