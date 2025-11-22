@@ -3,7 +3,7 @@
 $$
 z_{2} = 2+3i
 $$
-(b) This question is asking us to write out the complex function in terms of its factored form. Since we know two of the roots, we can use $(z-(x+yi))(z-(x-yi))=z^{2}+(2x)z+(x^{2}+y^{2})$  to form the quadratic part of the factored form. We know that in order to form a cubic function out of a quadratic, we must multiply it by some linear term $(z-d)$. With this we can write out a partial factored form of the function:
+(b) (i) This question is asking us to write out the complex function in terms of its factored form. Since we know two of the roots, we can use $(z-(x+yi))(z-(x-yi))=z^{2}+(2x)z+(x^{2}+y^{2})$  to form the quadratic part of the factored form. We know that in order to form a cubic function out of a quadratic, we must multiply it by some linear term $(z-d)$. With this we can write out a partial factored form of the function:
 $$
 \begin{gather*}
 (z-(2+3i))(z-(2-3i))=z^{2}+4z+13 \\ \\
@@ -26,4 +26,4 @@ Therefore solving $f(z)=0$ yields:
 $$
 z_{1}=2+3i \qquad z_{2}=2-3i \qquad z_{3}=-4
 $$
-
+(ii) We can then find the value of $a$ by using the same quadratic and linear factor 
