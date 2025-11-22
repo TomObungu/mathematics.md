@@ -36,4 +36,5 @@ $$
 \therefore a = 41
 \end{gather*}
 $$
-(c) 
+(c) From the results of $f(z)=0$ we sketch the Argand diagram for $f(z)$:
+
