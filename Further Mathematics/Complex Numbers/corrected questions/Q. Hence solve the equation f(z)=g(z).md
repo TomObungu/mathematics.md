@@ -35,16 +35,32 @@ $$
 z_{3} = -2
 $$
 
-(d) For this question we must take the factorised forms of the functions $f(z)$ and $g(z)$ and equate them.  Since we know all the roots to $f(z)$ and $g(z)$ we write them in factorised form. Do not forget to consider the factor of $8$ in $f(z)$ for $8z^{3}$:
+(d) For this question we must take the factorised forms of the functions $f(z)$ and $g(z)$ and equate them.  Since we know all the roots to $f(z)$ and $g(z)$ we write them in factorised form. 
+
+Do not forget to consider the factor of $8$ in $f(z)$ for $8z^{3}$:
 $$
 \begin{gather*}
 f(z) = 8\left( z-\left( \frac{3}{2}+\frac{3}{2i} \right) \right)\left( z-\left( \frac{3}{2}-\frac{3}{2} \right)i \right)\left( z-\frac{3}{2} \right) \\ \\
 = 8\left( z^{2} +3z+\left(\left( \frac{3}{2} \right)^{2} +\left( \frac{3}{2} \right)^{2}\right)\right)\left( z-\frac{3}{2} \right) \\ \\
 = (8z^{2}+24z+36)\left( z-\frac{3}{2} \right) \\ \\
 = 8z^{3}-12z^{2}+24z^{2}-36z+36z + 54 \\ \\ 
-= 8z^{3}+12z^{2}
+= 8z^{3}+12z^{2}+54
+\end{gather*}
+$$
+The factorisation of $g(z)$ leads to:
+$$
+\begin{gather*}
+g(z)=\left( z^{2}+\frac{5}{2}z-6 \right)(z-2) \\ \\
+= z^{3}-2z^{2}+\frac{5}{2}z^{2}-5z-6z+12 \\ \\
+= z^{3}+\frac{1}{2}z^{2}-11z+12
+\end{gather*}
+$$
+Equating them to each other gives:
+$$
+\begin{gather*}
+8z^{3}-12z^{2}+54 = z^{3}+\frac{1}{2}z^{2}-11z+12 \\ \\
+ \implies 7z^{3}+\frac{25}{2}z^{2}+11z + 42 = 0 
 \end{gather*}
 
 $$
-
 
