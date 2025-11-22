@@ -38,5 +38,5 @@ $$
 $$
 (c) From the results of $f(z)=0$ we sketch the Argand diagram for $f(z)$:
 ![[Pasted image 20251122200101.png]]
-We can see that roots form a triangle in the complex 
+We can see that roots form a triangle in the complex plane
 
