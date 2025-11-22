@@ -258,8 +258,55 @@ If $16\cos ^{5}\theta-20\cos ^{3}\theta+5\cos\theta=0$ then $\cos 5\theta=0$. So
 ![[Pasted image 20251122184246.png]]
 
 
+# Other trig identities
+Consider $z=\cos\theta+i\sin\theta$. Now $z^{n}=(\cos\theta+i\sin\theta)^{n}$ . From polar form we know that $\frac{1}{z^{n}}=z^{-n}=(\cos\theta+i\sin\theta) = \cos(n\theta)-i\sin n\theta$. Therefore we know that:
+$$
+\begin{gather*}
+z^{n}+\frac{1}{z^{n}} = 2\cos n\theta \\ \\
+z^{n}-\frac{1}{z^{n}} = 2\sin n\theta
+\end{gather*}
+$$
+We must be able to recognise these definitions too.
 
+# Worked Example 2
+Show that $\cos ^{5}\theta=\frac{1}{6}\cos 5\theta+\frac{5}{16}\cos 3\theta+\frac{5}{8}\cos\theta$
 
-
-
+To do this question, we must use $z=\cos\theta+i\sin\theta$ and the fact that $\left( z+\frac{1}{z} \right)^{5}=(2\cos\theta)^{5}$ . We can expand $\left( z+\frac{1}{z} \right)^{5}$ using the Binomial expansion:
+$$
+\begin{gather*}
+\left( z+\frac{1}{z} \right)^{5} = z^{5}+\begin{pmatrix}
+5 \\
+1 
+\end{pmatrix}z^{4}\left( \frac{1}{z} \right)+\begin{pmatrix}
+5 \\
+2 
+\end{pmatrix}z^{3}\left( \frac{1}{z} \right)^{2} + \begin{pmatrix}
+5 \\
+3 
+\end{pmatrix}z^{2}\left( \frac{1}{z} \right)^{3}+\begin{pmatrix}
+5 \\
+4
+\end{pmatrix}z\left( \frac{1}{z} \right)^{4}+\begin{pmatrix}
+5 \\
+5
+\end{pmatrix}\left( \frac{1}{z} \right)^{5} \\ \\ 
+= z^{5}+5z^{3}+10z+10\left( \frac{1}{z} \right)+5\left( \frac{1}{z^{3}} \right)+\frac{1}{z^{5}}
+\end{gather*}
+$$
+Now in order to get trigonometric functions of $\cos$ in the expansion, we must group everything in terms of $\left( z+\frac{1}{z^{n}} \right)$:
+$$
+=\left( z^{5}+\frac{1}{z^{5}} \right)+5\left( z^{3}+\frac{1}{z^{3}} \right)+10\left( z+\frac{1}{z} \right)
+$$
+We must now substitute $\left( z^{n}+\frac{1}{z^{n}} \right)$ as $2cos(n\theta)$:
+$$
+= 2\cos 5\theta +10\cos 3\theta + 20\cos\theta
+$$
+We know this $\equiv(2\cos ^{5}\theta)^{5}=32\cos ^{5}\theta$.  Thus we can set them equal and get the value of $\cos ^{5}\theta$:
+$$
+\begin{gather*}
+\implies 32\cos ^{ 5}\theta = 2\cos 5\theta+10\cos 3\theta+20\cos \theta \\ \\
+\therefore \cos ^{5}\theta = \frac{1}{16}\cos 5\theta + \frac{5}{16}\cos 3\theta + \frac{5}{8}\cos\theta \\ 
+QED
+\end{gather*}
+$$
 
