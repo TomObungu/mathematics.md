@@ -3,4 +3,4 @@
 $$
 z_{2} = 2+3i
 $$
-(b) This question is asking us to write out the complex function in terms of its factored form. Since we know two of the roots, we can use $(z-(a))$
+(b) This question is asking us to write out the complex function in terms of its factored form. Since we know two of the roots, we can use $(z-(x+yi))(z-(x-yi))=z^{2}+2x+(x^{2}+y^{2})$  to form the quadrati
