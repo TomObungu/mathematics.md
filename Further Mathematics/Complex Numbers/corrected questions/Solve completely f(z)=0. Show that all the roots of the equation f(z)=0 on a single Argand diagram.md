@@ -29,6 +29,8 @@ $$
 (ii) We can then find the value of $a$ by using the same quadratic and linear factorisation of $f(z)$ and consider only the coefficients with $z$:
 $$
 \begin{gather*}
-(z^{2}+4z+25)(z-d) 
+(z^{2}+4z+25)(z+4) = z^{3}+az+52\\ \\
+\dots \\
+25z+16z =az
 \end{gather*}
 $$
