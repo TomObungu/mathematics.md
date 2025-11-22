@@ -11,12 +11,14 @@
             "id": "a3cefbc2790ac016",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md"
+                "file": "Further Mathematics/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-26 20.51.21.excalidraw"
+              "icon": "lucide-file",
+              "title": "Q. Hence solve the equation f(z)=g(z)"
             }
           }
         ]
@@ -180,8 +182,10 @@
   },
   "active": "a3cefbc2790ac016",
   "lastOpenFiles": [
-    "Further Mathematics/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
+    "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251122201255.png",
     "Further Mathematics/Complex Numbers/corrected questions/Q. Solve completely f(z)=0. Show that all the roots of the equation f(z)=0 on a single Argand diagram.md",
+    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
+    "Further Mathematics/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
     "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251122200230.png",
     "Further Mathematics/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251122200205.png",
     "Further Mathematics/Complex Numbers/corrected questions/attachments/attachments",
@@ -194,7 +198,6 @@
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251122184246.png",
     "Further Mathematics/Complex Numbers/Proving Trigonmetric Identiiess.md",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118124351.png",
-    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Further Mathematics/Complex Numbers/Complex Numbers 1 - Conjugates and Complex Roots to Polynomials.md",
     "Further Mathematics/Complex Numbers/Complex Numbers 3 - Modulus Argument Form.md",
     "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
