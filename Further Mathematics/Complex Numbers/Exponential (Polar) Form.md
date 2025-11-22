@@ -172,3 +172,5 @@ e^{i\theta}-e^{i\theta} = 2i\sin\theta \\
 \therefore \boxed{\sin\theta = \frac{e^{i\theta}-e^{-i\theta}}{2i}}
 \end{gather*}
 $$
+# De Moivre's Theorem
+Consider $z=r(\cos\theta+i\sin\theta)$
