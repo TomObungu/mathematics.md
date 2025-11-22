@@ -37,7 +37,14 @@ $$
 
 (d) For this question we must take the factorised forms of the functions $f(z)$ and $g(z)$ and equate them.  Since we know all the roots to $f(z)$ and $g(z)$ we write them in factorised form. Do not forget to consider the factor of $8$ in $f(z)$ for $8z^{3}$:
 $$
-f(z) = 8\left( z-\left( \frac{3}{2}+\frac{3}{2i} \right) \right)\left( z-\left( \frac{3}{2}-\frac{3}{2} \right)i \right)(z-)
+\begin{gather*}
+f(z) = 8\left( z-\left( \frac{3}{2}+\frac{3}{2i} \right) \right)\left( z-\left( \frac{3}{2}-\frac{3}{2} \right)i \right)\left( z-\frac{3}{2} \right) \\ \\
+= 8\left( z^{2} +3z+\left(\left( \frac{3}{2} \right)^{2} +\left( \frac{3}{2} \right)^{2}\right)\right)\left( z-\frac{3}{2} \right) \\ \\
+= (8z^{2}+24z+36)\left( z-\frac{3}{2} \right) \\ \\
+= 8z^{3}-12z^{2}+24z^{2}-36z+36z + 54 \\ \\ 
+= 8z^{3}+12z^{2}
+\end{gather*}
+
 $$
 
 
