@@ -182,5 +182,67 @@ $$
 \boxed{[r(\cos\theta + i\sin\theta)]^{n} = r^{n}(\cos(n\theta)+i\sin(n\theta))}
 $$
 
-# Proving Trignometric Identities
+# Proving Trigonometric Identities using polar form and De Moivre's theorem
+# Worked Example 1
+Show that $\cos 5\theta=16\cos ^{5}\theta-20\cos ^{3}\theta+5\cos\theta$:
+
+Using the identity from De Moivre's theorem:
+$$
+(\cos(5\theta)+i\sin(5\theta)) = (\cos\theta+i\sin\theta)^{5}
+$$
+In order to obtain a value for $\cos 5\theta$ we must take $\mathrm{Re}(\cos 5\theta+i\sin 5\theta)$ and as result the the real part of the of the expansion of $(\cos\theta+i\sin\theta)^{5}$. 
+
+We can use the binomial expansion to computer $(\cos\theta +i\sin\theta)$ as well as that we can make substitutions for $\sin\theta$ and $\cos\theta$ as $c = \cos\theta$ and $g=\sin\theta$ (I am making g the substitution as my s looks like a 5 on paper):
+$$
+\begin{gather*}
+(\cos\theta+i\sin\theta)^{5} = c^{5}+\begin{pmatrix}
+5 \\
+1
+\end{pmatrix}c^{4}(ig)+\begin{pmatrix}
+5 \\
+2
+\end{pmatrix}c^{3}(ig)^{2}+\begin{pmatrix}
+5 \\
+3
+\end{pmatrix}c^{2}(ig)^{3}+\begin{pmatrix}
+5 \\
+4
+\end{pmatrix}c(ig)^{4}+ \begin{pmatrix}
+5 \\
+5
+\end{pmatrix}(ig)^{5}
+\end{gather*}
+$$
+We know that all even powers of $i$ are real thus, in order to obtain the real part of the expansion, we must consider the even power in the binomial expansion:
+$$
+\begin{gather*}
+\mathrm{Re}(\cos\theta+i\sin\theta)^{5} = c^{5}+\begin{pmatrix}
+5 \\
+2
+\end{pmatrix}c^{3}(ig)^{2}+\begin{pmatrix}
+5 \\
+4
+\end{pmatrix}c(ig)^{4} \\ \\ 
+= c^{5}-10c^{3}g^{2}+5cg^{2}
+\end{gather*}
+$$
+Now in order to make everything in terms of $\cos\theta$, we must turn the $\sin ^{2}\theta$ into $1-\sin ^{2}\theta$ which is $1-c^{2}$. We write higher powers of $\sin\theta$ e.g $\sin ^{4}\theta$as $(1-\cos ^{2}\theta)^{2}$ which is $(1-c^{2})^{2}$
+$$
+\begin{gather*}
+= c^{5}-10c^{3}(1-c^{2}) + 5c(1-c^{2})^{2} \\ \\
+= c^{5}-10c^{3}+10c^{5}+5c(1-2c^{2}+c^{4}) \\ \\
+= c^{5}-10c^{3}+10c^{5}+5c-10c^{3}+5c^{5} \\ \\
+= 16c^{5}-20c^{3}+5c 
+\end{gather*}
+$$
+Rewriting in terms of $\cos\theta$:
+$$
+\begin{gather*}
+= 16\cos ^{5}\theta - 20\cos^{3}\theta+5\cos\theta \\ 
+QED
+\end{gather*}
+$$#
+
+
+
 
