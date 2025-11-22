@@ -29,4 +29,4 @@ By comparing coefficients:
 $$
 (6x+x^{2}+y^{2})= p \qquad -3x^{2}-3y=q
 $$
-Using 
+And also
