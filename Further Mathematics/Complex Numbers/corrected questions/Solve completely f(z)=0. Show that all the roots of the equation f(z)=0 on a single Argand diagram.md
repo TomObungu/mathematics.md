@@ -31,6 +31,9 @@ $$
 \begin{gather*}
 (z^{2}+4z+25)(z+4) = z^{3}+az+52\\ \\
 \dots \\
-25z+16z =az
+25z+16z =az \\
+41z = az \\ \\
+\therefore a = 41
 \end{gather*}
 $$
+
