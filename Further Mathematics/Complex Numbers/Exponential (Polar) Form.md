@@ -241,7 +241,19 @@ $$
 = 16\cos ^{5}\theta - 20\cos^{3}\theta+5\cos\theta \\ 
 QED
 \end{gather*}
-$$#
+$$
+## Worked Example 1 continued:
+Use the solution to find the distinct solutions of:
+$$
+\begin{gather*}
+16x^{5}-20x^{3}+5x=0 \\ \\\
+\end{gather*}
+$$
+We can solve this by substituting $x=\cos\theta$ and solving in the range $0\leq\theta\leq 360$ to give us distinct values of $\cos \theta$. Since it is 5th degree polynomial, we can have up to 5 **distinct** solution's. Once we have at least 5 distinct solutions when solving, we can take that the solutions as that set of values. 
+
+This is because $\sin\theta$ and $\cos\theta$ are oscillating functions and may repeat solutions within the range. If you do not have 5 distinct solutions by the time you have solved to $\theta=360$ then the function has repeated solutions.7
+
+
 
 
 
