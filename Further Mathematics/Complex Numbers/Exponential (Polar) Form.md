@@ -173,4 +173,14 @@ e^{i\theta}-e^{i\theta} = 2i\sin\theta \\
 \end{gather*}
 $$
 # De Moivre's Theorem
-Consider $z=r(\cos\theta+i\sin\theta)$
+Consider $z=r(\cos\theta+i\sin\theta)$ then $z^{n}=r^{n}(\cos\theta+i\sin\theta)^{n}$. If were to write this identity in exponential form:
+$$
+z=re^{i\theta} \qquad z^{n}=(re^{i\theta})^{n} = r^{n}e^{in\theta}
+$$
+We also know that $z^{n}=r^{n}(\cos(n\theta)+i\sin(n\theta))$. Therefore we can form an identity using De Moivre's theorem:
+$$
+\boxed{[r(\cos\theta + i\sin\theta)]^{n} = r^{n}(\cos(n\theta)+i\sin(n\theta))}
+$$
+
+
+
