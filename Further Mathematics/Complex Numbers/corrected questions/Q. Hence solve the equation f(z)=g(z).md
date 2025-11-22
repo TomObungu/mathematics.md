@@ -36,6 +36,8 @@ z_{3} = -2
 $$
 
 (d) For this question we must take the factorised forms of the functions $f(z)$ and $g(z)$ and equate them.  Since we know all the roots to $f(z)$ and $g(z)$ we write them in factorised form. Do not forget to consider the factor of $8$ in $f(z)$ for $8z^{3}$:
-
+$$
+f(z) = 8\left( z-\left( \frac{3}{2}+\frac{3}{2i} \right) \right)\left( z-\left( \frac{3}{2}-\frac{3}{2} \right)i \right)(z-)
+$$
 
 
