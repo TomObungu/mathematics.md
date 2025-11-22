@@ -182,5 +182,5 @@ $$
 \boxed{[r(\cos\theta + i\sin\theta)]^{n} = r^{n}(\cos(n\theta)+i\sin(n\theta))}
 $$
 
-
+# Proving Trignometric Identities
 
