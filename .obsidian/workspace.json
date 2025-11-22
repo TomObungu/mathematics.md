@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
+                "file": "Further Mathematics/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Hence solve the equation f(z)=g(z)"
+              "title": "Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q."
             }
           }
         ]
@@ -182,10 +182,13 @@
   },
   "active": "a3cefbc2790ac016",
   "lastOpenFiles": [
-    "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251122201255.png",
-    "Further Mathematics/Complex Numbers/corrected questions/Q. Solve completely f(z)=0. Show that all the roots of the equation f(z)=0 on a single Argand diagram.md",
+    "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251122210508.png",
     "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Further Mathematics/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
+    "Further Mathematics/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
+    "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251122210204.png",
+    "Further Mathematics/Complex Numbers/corrected questions/Q. Solve completely f(z)=0. Show that all the roots of the equation f(z)=0 on a single Argand diagram.md",
+    "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251122201255.png",
     "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251122200230.png",
     "Further Mathematics/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251122200205.png",
     "Further Mathematics/Complex Numbers/corrected questions/attachments/attachments",
@@ -203,8 +206,6 @@
     "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118113447.png",
     "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118113302.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118113111.png",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251118102535.png",
     "Further Mathematics/Complex Numbers/Loci.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
     "Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
@@ -227,7 +228,6 @@
     "Further Mathematics/Complex Numbers/attachments",
     "Further Mathematics/Complex Numbers",
     "Further Mathematics/Core Pure 1/attachments",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 2.md",
     "Untitled.canvas"
   ]
 }

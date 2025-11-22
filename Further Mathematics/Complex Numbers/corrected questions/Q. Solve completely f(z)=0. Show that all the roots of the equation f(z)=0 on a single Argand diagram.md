@@ -3,11 +3,11 @@
 $$
 z_{2} = 2+3i
 $$
-(b) (i) This question is asking us to write out the complex function in terms of its factored form. Since we know two of the roots, we can use $(z-(x+yi))(z-(x-yi))=z^{2}+(2x)z+(x^{2}+y^{2})$  to form the quadratic part of the factored form. We know that in order to form a cubic function out of a quadratic, we must multiply it by some linear term $(z-d)$. With this we can write out a partial factored form of the function:
+(b) (i) This question is asking us to write out the complex function in terms of its factored form. Since we know two of the roots, we can use $(z-(x+yi))(z-(x-yi))=z^{2}-(2x)z+(x^{2}+y^{2})$  to form the quadratic part of the factored form. We know that in order to form a cubic function out of a quadratic, we must multiply it by some linear term $(z-d)$. With this we can write out a partial factored form of the function:
 $$
 \begin{gather*}
 (z-(2+3i))(z-(2-3i))=z^{2}+4z+13 \\ \\
-z^{3}+az+52 = (z^{2}+4z+25)(z-d) 
+z^{3}+az+52 = (z^{2}-4z+13)(z-d) 
 \end{gather*}
 $$
 From this we can equation coefficients. The constant terms in the expansion must equal 52 thus we know that:
@@ -29,11 +29,11 @@ $$
 (ii) We can then find the value of $a$ by using the same quadratic and linear factorisation of $f(z)$ and consider only the coefficients with $z$:
 $$
 \begin{gather*}
-(z^{2}+4z+25)(z+4) = z^{3}+az+52\\ \\
+(z^{2}-4z+13)(z+4) = z^{3}+az+52\\ \\
 \dots \\
-25z+16z =az \\
-41z = az \\ \\
-\therefore a = 41
+13z-16z =az \\
+-3z = az \\ \\
+\therefore a = -3
 \end{gather*}
 $$
 (c) From the results of $f(z)=0$ we sketch the Argand diagram for $f(z)$:
