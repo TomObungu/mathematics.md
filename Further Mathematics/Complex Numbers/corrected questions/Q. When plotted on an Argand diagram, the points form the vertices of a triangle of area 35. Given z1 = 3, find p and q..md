@@ -19,5 +19,5 @@ A_{\text{triangle}} = \frac{bh}{2} \\ \\
 $$
 As well as that we can form another equation using the roots in the form $x\pm iy$ and $(z-3)$ as the linear term in factorised form:
 $$
-(z^{2}-2x+x^{2}+y^{2})(z-3) = 0 
+(z^{2}-2xz+x^{2}+y^{2})(z-3) = 0 
 $$
