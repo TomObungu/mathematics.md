@@ -23,6 +23,7 @@ From here we can use the calculator to get the Cartesian form:
 $$
 = -\frac{2\sqrt{ 2 }}{3}-\frac{2\sqrt{ 6 }}{3}i
 $$
-This is much cleaner than the route of using the initial conversion to Cartesian form:
+This is much cleaner than the route of using the initial conversion to Cartesian form...:
 
 ![[Pasted image 20251123225250.png]]
+(ii) 
