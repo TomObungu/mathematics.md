@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Exponential (Polar) Form"
             }
+          },
+          {
+            "id": "8d98894a3f738408",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,11 +205,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22920a3e19debe45",
+  "active": "8d98894a3f738408",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/De Moivre's Theorem.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Numbers and Conjugates.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus Argument Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Numbers and Conjugates.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Roots of polynomials.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
     "Roots Of Polynomials",
@@ -210,7 +222,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the maximum value of arg w in the interval ( -pi, pi).md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Loci.md",
     "A-Level/Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250903003258.png",
     "A-Level",
@@ -239,7 +250,6 @@
     "A-Level/Mathematics/Completing The Square.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find the two possible values of k.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
-    "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/attachments",
