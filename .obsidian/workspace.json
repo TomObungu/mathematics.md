@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Mathematics/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
+                "file": "Further Mathematics/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r."
+              "title": "Q. Determine in the form a + bi, z1 by z2"
             }
           }
         ]
@@ -182,9 +182,13 @@
   },
   "active": "a3cefbc2790ac016",
   "lastOpenFiles": [
+    "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251123205602.png",
+    "Further Mathematics/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
+    "Further Mathematics/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
+    "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251123205520.png",
+    "Further Mathematics/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "Further Mathematics/Complex Numbers/Loci.md",
     "Further Mathematics/Complex Numbers/Complex Numbers 1 - Conjugates and Complex Roots to Polynomials.md",
-    "Further Mathematics/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "Further Mathematics/Complex Numbers/Complex Numbers 2 - Modulus And Argument.md",
     "Further Mathematics/Complex Numbers/corrected questions/attachments/Pasted image 20251123070016.png",
     "Further Mathematics/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
@@ -204,7 +208,6 @@
     "Further Mathematics/Complex Numbers/corrected questions/attachments",
     "Further Mathematics/Complex Numbers/Exponential (Polar) Form.md",
     "Further Mathematics/Complex Numbers/corrected questions",
-    "Further Mathematics/Complex Numbers/attachments/Pasted image 20251122184246.png",
     "Further Mathematics/Complex Numbers/Proving Trigonmetric Identiiess.md",
     "Further Mathematics/Complex Numbers/Complex Numbers 3 - Modulus Argument Form.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
@@ -220,8 +223,6 @@
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 2.md",
     "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
-    "Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Tips to approach a question.md",
     "Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "Further Mathematics/Complex Numbers/attachments",
