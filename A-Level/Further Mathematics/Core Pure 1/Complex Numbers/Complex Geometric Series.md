@@ -77,7 +77,7 @@ $$
 also recall, a geometric series is only convergent if $|z|<1$.
 
 ## Worked example 2
-The follow sereis are convergent:
+The follow series are convergent:
 $$
 \begin{gather*}
 c = 1+\frac{1}{2}\cos\theta+\frac{1}{4}\cos(2\theta)+\frac{1}{8}\cos(3\theta)\dots \\ \\
@@ -113,8 +113,27 @@ Now we we know that $c+is=\frac{2}{2-e^{i\theta}}$. If we were to convert into m
 
 We need to multiply by $2-e^{-i\theta}$. This is because multiplying $e^{i\theta}$ by $e^{-i\theta}$ is the same as multiplying by it's conjugate:
 
-**Multiplying $a-re^{i\theta}$ by $a-re^{-i\theta}$ will always return $a^{2}+2r\cos\theta+1$**
+**Multiplying $a-re^{i\theta}$ by $a-re^{-i\theta}$ will always return $a^{2}-2ar\cos\theta+1$**
 
-Thus in doing so will yield us the $4\cos\theta$ we are looking for 
-
-
+Thus in doing so will yield us the $4\cos\theta$ which is what we are looking for:
+$$
+\begin{gather*}
+c+is = \frac{2}{2-e^{i\theta}}\left( \frac{2-e^{i\theta}}{2-e^{-i\theta}} \right) \\ \\
+= \frac{4-2e^{-i\theta}}{4-2e^{i\theta}-2e^{-i\theta}+1} \\ \\
+= \frac{4-2e^{-i\theta}}{5 - 4\cos\theta}
+\end{gather*}
+$$
+Writing in modulus argument form and in form $a+bi$:
+$$
+\begin{gather*} 
+= \frac{4-2(\cos\theta-i\sin\theta)}{5-4\cos\theta} \\ \\
+= \frac{4-2\cos\theta}{5-4\cos\theta} +\frac{2i\sin\theta}{5-4\cos\theta}
+\end{gather*}
+$$
+$c=\mathrm{Re}(c+is)$ which is just:
+$$
+\begin{gather*}
+c=\mathrm{Re}(c+is) = \frac{4-2\cos\theta}{5-4\cos\theta} \\ 
+QED
+\end{gather*}
+$$
