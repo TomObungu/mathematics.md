@@ -113,8 +113,6 @@ Now we we know that $c+is=\frac{2}{2-e^{i\theta}}$. If we were to convert into m
 
 We need to multiply by $2-e^{-i\theta}$. This is because multiplying $e^{i\theta}$ by $e^{-i\theta}$ is the same as multiplying by it's conjugate:
 
-**Multiplying $a-re^{i\theta}$ by $a-re^{-i\theta}$ will always return $a^{2}-2ar\cos\theta+1$**
-
 Thus in doing so will yield us the $4\cos\theta$ which is what we are looking for:
 $$
 \begin{gather*}
@@ -194,8 +192,10 @@ $$
 Now in order for us to get $10+6\sin\theta$ we must multiply by $3+e^{-i\theta}$ 
 $$
 \begin{gather*}
-\frac{3e^{i\theta}}{3+3e^{i\theta}}\left( \frac{3+e^{-i\theta}}{3+e^{-i\theta}} \right) 
+\frac{3e^{i\theta}}{3+3e^{i\theta}}\left( \frac{3+e^{-i\theta}}{3+e^{-i\theta}} \right)  \\ \\
+= \frac{9e^{i\theta}+3}{9 +3e^{-i\theta}+3e^{^{i\vartheta}}+1} \\ \\
+= \frac{9e^{i\theta}+3}{10+3\left( e^{i\theta}+\frac{1}{e^{i\theta}} \right)}
 \end{gather*}
-
 $$
+
 
