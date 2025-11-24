@@ -39,14 +39,12 @@
             "id": "8d98894a3f738408",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Geometric Series.md",
-                "mode": "source",
-                "source": false
+                "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Complex Geometric Series"
+              "icon": "lucide-file-text",
+              "title": "New Edexcel Core Pure 2"
             }
           }
         ],
@@ -209,10 +207,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d98894a3f738408",
+  "active": "7504e1836e7feb25",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Numbers and Conjugates.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Geometric Series.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Numbers and Conjugates.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus Argument Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Roots of polynomials.md",
