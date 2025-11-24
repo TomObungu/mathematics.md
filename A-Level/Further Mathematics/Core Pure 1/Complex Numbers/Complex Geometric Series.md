@@ -113,8 +113,20 @@ Now we we know that $c+is=\frac{2}{2-e^{i\theta}}$. If we were to convert into m
 
 We need to multiply by $2-e^{-i\theta}$. 
 ### Why...?
+In the question, the desired denominator is real. However we have a fraction that contains an imaginary part. So we essentially want to manipulate the fraction in such a way the denominator is purely real
 
-This is because multiplying $e^{i\theta}$ by $e^{-i\theta}$ is the same as multiplying by it's conjugate:
+Recall that:
+$$
+zz^{*}=|z|^{2}
+$$
+So we want to multiply the denominator by it's conjugate. That is if the denominator $w=2-e^{i\theta}$ we want to multiply it by $w^{*}=2-e^{-i\theta}$
+
+However in order to preserve the fraction we must also do this to the numerator also . This is because multiplying by $\frac{w^{*}}{w^{*}}$ has the same affect as multiplying by $1$ which keeps the fraction the same whilst also making the denominator real
+
+If $\frac{2}{z}$ then:
+$$\frac{2}{z}  \frac{z^{*}}{z^{*}} = \frac{2z^{*}}{|z|^{2}}$$ Which yields a completely real denominator. 
+
+---
 
 Thus in doing so will yield us the $4\cos\theta$ which is what we are looking for:
 $$
@@ -192,13 +204,23 @@ $$
 = \frac{3e^{i\theta}}{3+e^{i\theta}}
 \end{gather*}
 $$
-Now in order for us to get $10+6\sin\theta$ we must multiply by $3+e^{-i\theta}$ 
+Now in order for us to get $10+6\cos\theta$, which is real,  we must multiply by $3+e^{-i\theta}$  as multiplying by the conjugate will give the real part of a complex number
 $$
 \begin{gather*}
 \frac{3e^{i\theta}}{3+3e^{i\theta}}\left( \frac{3+e^{-i\theta}}{3+e^{-i\theta}} \right)  \\ \\
 = \frac{9e^{i\theta}+3}{9 +3e^{-i\theta}+3e^{^{i\vartheta}}+1} \\ \\
-= \frac{9e^{i\theta}+3}{10+3\left( e^{i\theta}+\frac{1}{e^{i\theta}} \right)}
+= \frac{9e^{i\theta}+3}{10+3\left( e^{i\theta}+\frac{1}{e^{i\theta}} \right)} \\ \\
+= \frac{9e^{i\theta}+3}{10+6\cos\theta} \\ \\= \frac{9\cos\theta+9i\sin\theta+3}{10+6\cos\theta} \\ \\
 \end{gather*}
 $$
+Thus if we want $S$ we must take the imaginary part of $c+is$:
+$$
+\begin{gather*}
+\mathrm{Im}(c+is) = \frac{9i\sin\theta}{10+6\cos\theta} \\
+QED
+\end{gather*}
+$$
+
+
 
 
