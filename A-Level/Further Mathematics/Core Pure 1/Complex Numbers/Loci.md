@@ -124,6 +124,7 @@ The next thing with theis question is to realise that the gradient of these line
 Once the line equations have been found, set them equal to each other and solve for $x$ and $y$ to give you $z$.
 ## Worked Example 5
 ![[Pasted image 20251112010153.png]]
+![[Pasted image 20251124095349.png]]
 For this question you must draw circles and also draw the locus. In this question, locus can only be the max value if it less than the tangent lines of the circle:
 ![[Pasted image 20251112010252.png]]
 
