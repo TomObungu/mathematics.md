@@ -113,10 +113,10 @@ $$
 # Useful properties
 $$
 \begin{gather*}
-z+z^{*} = (x+iy)(x-iy) = 2x \\ \\
-z-z= (x+iy)-(x-iy) = -2iy \\ \\
-zz^{*}= (x+iy)(x-iy) = x^{2}-ixy+ixy+y^{2} =x^{2}+y^{2} \\ \\
-\frac{z}{z^{*}} = \frac{(x+iy)}{x-iy} \left( \frac{x+iy}{x+iy} \right) = \frac{x^{2}-y^{2}+2ixy}{x^{2}+y^{2}}
+\boxed{z+z^{*} = 2x} \\ \\
+\boxed{z-z = -2iy} \\ \\
+\boxed{zz^{*}=x^{2}+y^{2}} \\ \\
+\boxed{\frac{z}{z^{*}} = \frac{x^{2}-y^{2}+2ixy}{x^{2}+y^{2}}}
 \end{gather*}
 $$
 
