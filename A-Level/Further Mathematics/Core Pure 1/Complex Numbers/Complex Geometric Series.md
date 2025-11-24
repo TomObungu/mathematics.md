@@ -19,3 +19,16 @@ $$
 S_{n} = \frac{e^{in\theta}-1}{e^{i\theta}-1}
 $$
 
+# Worked Example 1
+$$
+z = \cos \frac{\pi}{n} + i\sin \frac{\pi}{n}
+$$
+Show that $1+z+z^{2}+\dots+z^{n-1}=1+i\cot \frac{\pi}{2n}$.
+Writing $z$ in exponential form:
+$$
+z = e^{\frac{\pi}{n}i}
+$$
+Expressing the geometric series:
+$$
+1+z^{2}+z^{3}+\dots = 1+e^{\frac{\pi}{n}i}+e^{\frac{2\pi}{n}i}+e^{\frac{3\pi}{n}i}\dots
+$$
