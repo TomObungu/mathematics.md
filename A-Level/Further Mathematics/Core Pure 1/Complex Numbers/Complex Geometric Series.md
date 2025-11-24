@@ -101,8 +101,20 @@ $$
 $$
 Now notice that we want the denominator to be $e^{i\theta}$,  In order to do this we to apply the same trick but this time multiply by $\frac{2}{2}$ to get rid of the $\frac{1}{2}$ in the denominator:
 $$
-= \frac{2}{2-e^{i\theta}}
+\begin{gather*}
+= \frac{2}{2-e^{i\theta}}  \\
+QED
+\end{gather*}
 $$
+## Worked Example 2 Continued...
+Hence show that $c=\frac{4-2\cos\theta}{5-4\cos\theta}$. 
 
+Now we we know that $c+is=\frac{2}{2-e^{i\theta}}$. If we were to convert into modulus argument form, $c+is$ will yield $\dots 2-\cos\theta+i\sin\theta$ on the denominator. As well as that we know that $c$ will be the real part of $c +is$. In otherwords $\mathrm{Re}\left( \frac{2}{2-e^{i\theta}} \right)$ will yield $2-\cos\theta$ on the denominator. How can we change this to match the $5-4\cos\theta$ as wanted?...
+
+We need to multiply by $2-e^{-i\theta}$. This is because multiplying $e^{i\theta}$ by $e^{-i\theta}$ is the same as multiplying by it's conjugate:
+
+**Multiplying $re^{i\theta}$ by $re^{i\theta}$ will always return $2r\cos\theta+1$**
+
+Thus in doing so will yield us the $4\cos\theta$ we are looking for 
 
 
