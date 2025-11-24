@@ -26,5 +26,30 @@ r^{3}e^{3i\theta}= 2\sqrt{ 2 }e^{(\frac{\pi}{4}+2k\pi)i}
 $$
 By comparing coefficients we can see:
 $$
-r^{3} = 2\sqrt{ 2 } \implies r = n
+r^{3} = 2\sqrt{ 2 } \implies r = (2\sqrt{ 2 })^{\frac{1}{3}} = \sqrt{ 2 }
 $$
+and:
+$$
+3\theta = \frac{\pi}{4} + 2k\pi
+$$
+We can now sub in different values of $k$ until we have all the unique values of $\theta$:
+$$
+\begin{array}{|c|c|}
+\hline
+\text{k} & \theta \\
+\hline
+0 & \frac{\pi}{12} \\
+\hline
+1 & \frac{3\pi}{4}  \\
+\hline
+-1 & -\frac{7\pi}{12} \\
+\hline
+\end{array}
+$$
+Therefore the solutions to the equation are:
+$$
+z_{1} = \sqrt{ 2 }e^{\frac{\pi}{12}}, z_{2} = \sqrt{ 2 }e^{\frac{3\pi}{4}}, z_{3} = \sqrt{ 2 }e^{\frac{-7}{12}\pi}
+$$
+If we kept going we would land back at the same values of roots. For $z^{n}=w$, we get $n$ distinct roots.
+
+It also possible 
