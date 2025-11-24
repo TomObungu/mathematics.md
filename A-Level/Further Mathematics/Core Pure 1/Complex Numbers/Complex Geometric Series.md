@@ -191,8 +191,11 @@ $$
 = \frac{3e^{i\theta}}{3+e^{i\theta}}
 \end{gather*}
 $$
-Now in order for us to get $10+6\sin\theta$ we must multiply by $3+e^{-i\theta}$ :
+Now in order for us to get $10+6\sin\theta$ we must multiply by $3+e^{-i\theta}$ 
 $$
-\frac{3e^{i\theta}}{3+3e^{i\theta}}\left( \frac{3+e^{-i\theta}}{3+e^{-i\theta}} \right)
+\begin{gather*}
+\frac{3e^{i\theta}}{3+3e^{i\theta}}\left( \frac{3+e^{-i\theta}}{3+e^{-i\theta}} \right) 
+\end{gather*}
+
 $$
 
