@@ -19,7 +19,7 @@ $$
 S_{n} = \frac{e^{in\theta}-1}{e^{i\theta}-1}
 $$
 
-# Worked Example 1
+##  Worked Example 1
 $$
 z = \cos \frac{\pi}{n} + i\sin \frac{\pi}{n}
 $$
@@ -68,5 +68,41 @@ $$
 QED
 \end{gather*}
 $$
+
+# Complex Convergent Series
+Recall for A-level mathematics, the sum of a convergent geometric  series is:
+$$
+S_{\infty} = \frac{w}{1-z}
+$$
+also recall, a geometric series is only convergent if $|z|<1$.
+
+## Worked example 2
+The follow sereis are convergent:
+$$
+\begin{gather*}
+c = 1+\frac{1}{2}\cos\theta+\frac{1}{4}\cos(2\theta)+\frac{1}{8}\cos(3\theta)\dots \\ \\
+s = \frac{1}{2}\sin\theta+\frac{1}{4}\sin(2\theta)+\frac{1}{8}\sin(3\theta)\dots
+\end{gather*}
+$$
+Show that $c+is=\frac{2}{2-e^{i\theta}}$. 
+
+If we evaluate $c+is$:
+$$
+c+is = 1 +\frac{1}{2}(\cos\theta +i\sin\theta)+\frac{1}{4}(\cos2\theta+i\sin 2\theta)+\frac{1}{8}(\cos 3\theta+i\sin 3\theta)\dots
+$$
+Notice that the $\cos\theta+i\sin\theta$ parts can be written as $e^{i\theta}$:
+$$
+= 1+\frac{1}{2}e^{i\theta}+\frac{1}{4}e^{2i\theta}+\frac{1}{8}e^{3i\theta}\dots
+$$
+This gives us a series with $w=1$ and $z=e^{\frac{1}{2}i\theta}$
+As the series is convergent  we can use the infinite sum formula:
+$$
+= \frac{1}{1-\frac{1}{2}e^{i\theta}}
+$$
+Now notice that we want the denominator to be $e^{i\theta}$,  In order to do this we to apply the same trick but this time multiply by $\frac{2}{2}$ to get rid of the $\frac{1}{2}$ in the denominator:
+$$
+= \frac{2}{2-e^{i\theta}}
+$$
+
 
 
