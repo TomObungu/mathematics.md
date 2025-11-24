@@ -137,3 +137,20 @@ c=\mathrm{Re}(c+is) = \frac{4-2\cos\theta}{5-4\cos\theta} \\
 QED
 \end{gather*}
 $$
+## Worked Example 2 Continued Continued...
+Hence show that $c+is$ cannot be purely be imaginary.
+
+Now we now that if it were purely imaginary, then the real part of complex number must equal to $0$:
+$$
+\mathrm{Re}(c + is) = c = 0
+$$
+Let's consider this:
+$$
+\begin{gather*}
+c = \frac{4-2\cos\theta}{5-4\cos\theta} = 0 \\ \\
+\implies 4-2\cos\theta = 0 \\ 
+2\cos\theta=4 \\
+\cos\theta = 2
+\end{gather*}
+$$
+However as 
