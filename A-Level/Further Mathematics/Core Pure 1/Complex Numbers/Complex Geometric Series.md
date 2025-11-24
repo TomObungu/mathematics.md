@@ -153,4 +153,42 @@ c = \frac{4-2\cos\theta}{5-4\cos\theta} = 0 \\ \\
 \cos\theta = 2
 \end{gather*}
 $$
-However as 
+However as $-1\leq \cos\theta\leq 1, \theta \in  \mathbb{R}$, for this case there are no solutions:
+$$
+\therefore \text{Never purley imaginary}
+$$
+
+If we were to do this for the imaginary part we would do $2\sin\theta=0$ which has solutions so $c+is$ can be purely imaginary
+
+# Worked Example 3
+$S$ is a convergent series. $S=\sin\theta-\frac{1}{3}\sin(2\theta)+\frac{1}{9}\sin(3\theta)-\frac{1}{27}\sin(4\theta)\dots$ 
+Show that $S = \frac{9\sin\theta}{10 + 6\cos\theta}$
+
+In this problem was must define $C$ (that is $C=\cos\theta$). Do this we can write the value of $S$ but with $\cos\theta$ instead of $\sin\theta$:
+$$
+C = \cos\theta-\frac{1}{3}\cos(2\theta)+\frac{1}{9}\cos(3\theta)-\frac{1}{27}\cos(4\theta)\dots
+$$
+Therefore $c+is$=:
+$$
+(\cos\theta +i\sin\theta) -\frac{1}{3}(\cos(2\theta)+i\sin(2\theta))+\frac{1}{9}(\cos(3\theta)+i\sin(3\theta))-\frac{1}{27}(\cos(4\theta)+i\sin(4\theta))\dots
+$$
+Writing this out in exponential form:
+$$
+ = e^{i\theta}-\frac{1}{3}e^{2i\theta}+\frac{1}{9}e^{3i\theta}-\frac{1}{27}e^{4i\theta}\dots
+$$
+This gives us a geometric series with $w=e^{i\theta}$ and $z=-\frac{1}{3}e^{i\theta}$. The sum of the series is:
+$$
+\begin{gather*}
+= \frac{e^{i\theta}}{1+\frac{1}{3}e^{i\theta}}
+\end{gather*}
+$$
+Now time do some trickery again
+
+First let's multiply out by $\frac{3}{3}$ again to get rid of the $\frac{1}{3}$:
+$$
+\begin{gather*}
+= \frac{e^{i\theta}}{1+\frac{1}{3}e^{i\theta}}\left( \frac{3}{3} \right) \\ \\ 
+= \frac{3e^{i\theta}}{3+e^{i\theta}}
+\end{gather*}
+$$
+Now in order for us to get $10+6\sin\theta$ we must multiply by $3+e^{-i\theta}$ 
