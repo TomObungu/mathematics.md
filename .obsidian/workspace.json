@@ -39,12 +39,14 @@
             "id": "8d98894a3f738408",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
+                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Loci.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-24 15.14.08.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loci"
             }
           }
         ],
@@ -209,10 +211,14 @@
   },
   "active": "8d98894a3f738408",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the maximum value of arg w in the interval ( -pi, pi).md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251124095001.png",
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251124094724.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
-    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/De Moivre's Theorem.md",
@@ -225,9 +231,6 @@
     "Roots Of Polynomials",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123225250.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123225247.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Loci.md",
     "A-Level/Further Mathematics/Core Pure 1/Matrices/attachments/Pasted image 20250903003258.png",
     "A-Level",
@@ -241,7 +244,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123205520.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123070016.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123065438.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251122210508.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions",
