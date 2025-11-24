@@ -57,15 +57,16 @@ $$
 Another trick to remember is dividing by $i$ is the same as multiplying by $-i$:
 $$
 \begin{gather*}
-= \frac{i\cos \frac{\pi}{2n}+\sin \frac{\pi}{2n}}{\sin \frac{\pi}{n}}
+= \frac{i\cos \frac{\pi}{2n}+\sin \frac{\pi}{2n}}{\sin \frac{\pi}{2n}}
 \end{gather*}
 $$
 Splitting this up into real and imaginary form ($a+bi$):
 $$
 \begin{gather*}
-= \frac{\sin \frac{2\pi}{n}}{\sin \frac{2\pi}{n}}+\frac{i\cos \frac{2\pi}{n}}{\sin \frac{2\pi}{n}} \\ \\
+= \frac{\sin \frac{\pi}{2n}}{\sin \frac{\pi}{2n}}+\frac{i\cos \frac{\pi}{2n}}{\sin \frac{\pi}{2n}} \\ \\
 = 1 + i\cot \frac{\pi}{2n} \\ 
 QED
 \end{gather*}
 $$
+
 
