@@ -214,43 +214,47 @@
     "type": "floating",
     "children": [
       {
-        "id": "b84c5c69c1b507d1",
+        "id": "f7b18b7b1add3d04",
         "type": "window",
         "children": [
           {
-            "id": "3c1d7d3fce97f1bf",
+            "id": "bead7f0ea1daa5d8",
             "type": "tabs",
             "children": [
               {
-                "id": "b8b8f3efec5bc798",
+                "id": "e1cde9e8faa18c8c",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+                  "title": "New Edexcel Core Pure 2"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b8b8f3efec5bc798",
+  "active": "8d98894a3f738408",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251124163415.png",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Find the coordinates of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Untitled.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence determine the minimum distance of w from the locus arg(z+10i) = pi by 3.md",
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251124163251.png",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence determine the minimum distance of w from the locus arg(z+10i) = pi by 3.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251124161539.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/De Moivre's Theorem.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Roots of polynomials.md",
@@ -283,15 +287,11 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123210203.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Solve completely f(z)=0. Show that all the roots of the equation f(z)=0 on a single Argand diagram.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123205602.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251123205520.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions",
     "Further Mathematics/Complex Numbers/Proving Trigonmetric Identiiess.md",
-    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
-    "A-Level/Mathematics/Double Angle Formulae.md",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/attachments",
     "Untitled.canvas"
