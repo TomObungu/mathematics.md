@@ -113,7 +113,7 @@ Now we we know that $c+is=\frac{2}{2-e^{i\theta}}$. If we were to convert into m
 
 We need to multiply by $2-e^{-i\theta}$. This is because multiplying $e^{i\theta}$ by $e^{-i\theta}$ is the same as multiplying by it's conjugate:
 
-**Multiplying $re^{i\theta}$ by $re^{i\theta}$ will always return $2r\cos\theta+1$**
+**Multiplying $a-re^{i\theta}$ by $a-re^{-i\theta}$ will always return $a^{2}+2r\cos\theta+1$**
 
 Thus in doing so will yield us the $4\cos\theta$ we are looking for 
 
