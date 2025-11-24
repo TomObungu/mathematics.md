@@ -111,7 +111,10 @@ Hence show that $c=\frac{4-2\cos\theta}{5-4\cos\theta}$.
 
 Now we we know that $c+is=\frac{2}{2-e^{i\theta}}$. If we were to convert into modulus argument form, $c+is$ will yield $\dots 2-\cos\theta+i\sin\theta$ on the denominator. As well as that we know that $c$ will be the real part of $c +is$. In otherwords $\mathrm{Re}\left( \frac{2}{2-e^{i\theta}} \right)$ will yield $2-\cos\theta$ on the denominator. How can we change this to match the $5-4\cos\theta$ as wanted?...
 
-We need to multiply by $2-e^{-i\theta}$. This is because multiplying $e^{i\theta}$ by $e^{-i\theta}$ is the same as multiplying by it's conjugate:
+We need to multiply by $2-e^{-i\theta}$. 
+### Why...?
+
+This is because multiplying $e^{i\theta}$ by $e^{-i\theta}$ is the same as multiplying by it's conjugate:
 
 Thus in doing so will yield us the $4\cos\theta$ which is what we are looking for:
 $$
