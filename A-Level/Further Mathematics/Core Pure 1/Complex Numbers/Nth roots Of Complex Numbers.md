@@ -91,6 +91,8 @@ $$
 1 & \frac{3\pi}{4}  \\
 \hline
 2 & -\frac{7\pi}{12} \\
-\hline
+\hline  \\
+-1 & -\frac{\pi}{5} \\
+
 \end{array}
 $$
