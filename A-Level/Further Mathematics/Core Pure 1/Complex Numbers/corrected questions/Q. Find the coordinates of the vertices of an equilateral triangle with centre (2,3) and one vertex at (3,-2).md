@@ -25,7 +25,18 @@ $$
 However in order for the roots to be centred around (2,3) we must reverse the translation i.e $(z+\alpha)$ again:
 $$
 \begin{gather*}
+z_{1} + 2+3i = 3 - 2i\\ \\
 z_{2} + 2+3i = \left( \frac{3}{2}+\frac{5\sqrt{ 3 }}{2} \right)+\left( \frac{11}{2}+\frac{\sqrt{ 3 }}{2} \right)i \\ \\
 z_{3} + 2+3i = \left( \frac{3}{2}-\frac{5\sqrt{ 3 }}{2} \right)+\left( \frac{11}{2}-\frac{\sqrt{ 3 }}{2} \right)i \\ \\
 \end{gather*}
 $$
+Thus the coordinates will be:
+$$
+\begin{gather*}
+\boxed{(3 , 2)} \\ \\
+\boxed{\left( \frac{3}{2}+\frac{5\sqrt{ 3 }}{2} ,\frac{11}{2}+\frac{\sqrt{ 3 }}{2} \right)} \\ \\
+ \boxed{\left( \frac{3}{2}-\frac{5\sqrt{ 3 }}{2} , \frac{11}{2}-\frac{\sqrt{ 3 }}{2} \right)}
+\end{gather*}
+$$
+
+
