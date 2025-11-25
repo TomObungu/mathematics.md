@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Untitled.md",
+                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures"
             }
           },
           {
@@ -256,45 +256,16 @@
         "height": 1040,
         "maximize": true,
         "zoom": 0
-      },
-      {
-        "id": "6d3f300e6caa2169",
-        "type": "window",
-        "children": [
-          {
-            "id": "5ead0c25f5ccd606",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d4e4dcbff63d4963",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "New Edexcel Core Pure 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "a3cefbc2790ac016",
+  "active": "f08c4fa260ab163d",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Viteils Formula.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125215011.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Untitled.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the coordinates of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the maximum value of arg w in the interval ( -pi, pi).md",
@@ -319,7 +290,6 @@
     "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the possible values of e.md",
     "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
-    "Untitled.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125210821.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125210227.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125123137.png",
@@ -327,8 +297,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125113238.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/attachments/Pasted image 20251125020900.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/attachments/Pasted image 20251125013159.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/attachments/Pasted image 20251125012602.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/attachments/Pasted image 20251125012543.png",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Roots Of Polynomials",
     "A-Level",
