@@ -86,13 +86,20 @@ $$
 \hline
 \text{k} & \theta \\
 \hline
-0 & \frac{\pi}{12} \\
+0 & \frac{\pi}{5} \\
 \hline
-1 & \frac{3\pi}{4}  \\
+1 & \frac{3\pi}{5}  \\
 \hline
-2 & -\frac{7\pi}{12} \\
-\hline  \\
+2 & \pi \\
+\hline 
 -1 & -\frac{\pi}{5} \\
-
+\hline
+-2  & -\frac{3\pi}{5} \\
+\hline
 \end{array}
 $$
+Therefore:
+$$
+z_{1} = e^{\frac{\pi}{5}i}, e^{\frac{3\pi}{5}}, e^{\pi}, e^{-\frac{\pi}{5}}, e^{\frac{-3\pi}{5}}
+$$
+

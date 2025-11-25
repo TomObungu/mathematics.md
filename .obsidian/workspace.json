@@ -209,10 +209,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d98894a3f738408",
+  "floating": {
+    "id": "f4d6c3fba04bc2ec",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1d70e9c8aef88c31",
+        "type": "window",
+        "children": [
+          {
+            "id": "25cd50ffda7df69c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f08c4fa260ab163d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "New Edexcel Core Pure 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f08c4fa260ab163d",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/De Moivre's Theorem.md",
     "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Geometric Series.md",
