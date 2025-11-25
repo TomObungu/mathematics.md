@@ -254,5 +254,7 @@ The solutions for $z$ of $(z-a)^{n}=w$ form a regular n-gon centred of $\alpha$.
 
 They lie on a circle with radius $\sqrt[n]{ |w| }$ and centre, $\alpha$.
 
+In order to find the roots at the centre $\alpha$ again. Find the roots as if the triangle were centred around the origin and then reverse the translation of $\alpha$ on the found roots
+
 E.g. $(z-\alpha)^{3}=w$
 ![[Pasted image 20251125020900.png]]
