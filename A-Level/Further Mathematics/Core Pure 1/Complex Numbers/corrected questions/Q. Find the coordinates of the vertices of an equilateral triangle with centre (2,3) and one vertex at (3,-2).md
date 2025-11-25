@@ -15,10 +15,17 @@ As we are given a vertex, we can take that as our value of $z_{1}$:
 $$
 z_{1} = 1-5i
 $$
-The remaining roots will be:
+The remaining roots **centred around the origin** will be:
 $$
 \begin{gather*}
-z_{1}\omega = (1-5i)(e^{\frac{2\pi}{3}i}) \\ \\
-z_{1}\omega^{2} = (1-5i)(e^{\frac{2\pi}{3}i})^{2}
+z_{2}  = z_{1}\omega = (1-5i)\left( e^{\frac{2\pi}{3}i} \right) = \left( \frac{1}{2} + \frac{5\sqrt{ 3 }}{2} \right) + \left( \frac{5}{2}+\frac{\sqrt{ 3 }}{2} \right)i \\ \\
+z_{3} = z_{1}\omega^{2} = (1-5i)\left( e^{\frac{2\pi}{3}i} \right)^{2} = \left( -\frac{1}{2} - \frac{5\sqrt{ 3 }}{2} \right) + \left( \frac{5}{2}-\frac{\sqrt{ 3 }}{2} \right)i 
+\end{gather*}
+$$
+However in order for the roots to be centred around (2,3) we must reverse the translation i.e $(z+\alpha)$ again:
+$$
+\begin{gather*}
+z_{2} + 2+3i = \left( \frac{3}{2}+\frac{5\sqrt{ 3 }}{2} \right)+\left( \frac{11}{2}+\frac{\sqrt{ 3 }}{2} \right)i \\ \\
+z_{3} + 2+3i = \left( \frac{3}{2}-\frac{5\sqrt{ 3 }}{2} \right)+\left( \frac{11}{2}-\frac{\sqrt{ 3 }}{2} \right)i \\ \\
 \end{gather*}
 $$
