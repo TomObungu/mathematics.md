@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
+                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i"
+              "title": "Q."
             }
           },
           {
@@ -254,7 +254,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -285,17 +285,19 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "a3cefbc2790ac016",
   "lastOpenFiles": [
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q..md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125210821.png",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125210227.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
     "Untitled.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
@@ -323,13 +325,10 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Geometric Series.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251124163415.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Find the coordinates of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251124163251.png",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Loci.md",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "Roots Of Polynomials",
     "A-Level",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments",
