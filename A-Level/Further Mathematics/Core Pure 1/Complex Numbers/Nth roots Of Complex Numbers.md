@@ -153,3 +153,14 @@ $z^{3}=1$
 
 $z^{5}=1$
 ![[Pasted image 20251125012602.png]]\
+
+If we consider $z^{3}=1$. If we visualise $z_{1}+z_{2}+z_{3}$ by considering the vector addition. We can see the end result will be $0$:
+![[Pasted image 20251125013159.png]]
+Therefore:
+$$
+z_{1}+z_{2}+z_{3} = 0
+$$
+Therefore:
+$$
+1+\omega+\omega^{2} + \omega^{3} +\dots + \omega^{n-1} = 0
+$$
