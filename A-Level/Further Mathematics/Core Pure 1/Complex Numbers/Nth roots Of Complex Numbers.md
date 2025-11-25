@@ -152,4 +152,4 @@ $z^{3}=1$
 ![[Pasted image 20251125012543.png]]
 
 $z^{5}=1$
-![[Pasted image 20251125012602.png]]
+![[Pasted image 20251125012602.png]]\
