@@ -52,4 +52,45 @@ z_{1} = \sqrt{ 2 }e^{\frac{\pi}{12}}, z_{2} = \sqrt{ 2 }e^{\frac{3\pi}{4}}, z_{3
 $$
 If we kept going we would land back at the same values of roots. For $z^{n}=w$, we get $n$ distinct roots.
 
-It also possible 
+It also possible work to the same solution using De Moivre's Theorem:
+$$
+\begin{gather*}
+[r(\cos\theta+i\sin\theta)]^{3} = 2\sqrt{ 2 }\left( \cos\left( \frac{\pi}{4} + 2k\pi \right) \right) + i\sin\left( \frac{\pi}{4}+2k\pi \right) \\ \\
+r^{3}(\cos 3\theta+i\sin 3\theta) = 2\sqrt{ 2 }\left( \cos\left( \frac{\pi}{4} + 2k\pi \right) \right)+i\sin\left( \frac{\pi}{4}+2k\pi \right) \\ \\
+r^{3} = 2\sqrt{ 2 } \qquad 3\theta = \frac{\pi}{4} + 2k\pi
+\end{gather*}
+$$
+## Worked Example 2
+Solve:
+$$
+z^{n}+1 = 0, z \in \mathbb{C}
+$$
+From this we know that $z^{5}=-1$. If we take the same steps as before and calculate the modulus and argument of $z^{5}$:
+$$
+|z^{5}| = 1 \qquad |z^{5}| = \pi
+$$
+Again, taking $z=re^{i\theta}$:
+$$
+\begin{gather*}
+z=re^{i\theta} \\ 
+r^{3}e^{5i\theta} = e^{\pi+2k\pi} \\ \\
+r^{5} = 1 \implies r = 1 \\ \\
+5\theta = \pi + 2k\pi
+\end{gather*}
+$$
+Forming the table for the different values of $k$:
+For these types of questions, experimentally try out different values of k until all distinct solutions are found or all new values of $k$ will yield something outside the principle range of $-\pi<\theta<\pi$
+
+$$
+\begin{array}{|c|c|}
+\hline
+\text{k} & \theta \\
+\hline
+0 & \frac{\pi}{12} \\
+\hline
+1 & \frac{3\pi}{4}  \\
+\hline
+2 & -\frac{7\pi}{12} \\
+\hline
+\end{array}
+$$
