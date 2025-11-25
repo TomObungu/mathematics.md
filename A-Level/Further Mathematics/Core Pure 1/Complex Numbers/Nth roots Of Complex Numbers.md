@@ -210,5 +210,10 @@ If you recognise that is the roots of unity, then this becomes:
 $$
 z_{1}, z_{1}\omega,z_{1}\omega^{2},z_{1}\omega^{3}\dots
 $$
+These roots of $z^{n}=w$ are equally spaced on a circle, with radius $\sqrt[n]{ |w| }$ and form a regular $n-gon$, centred at the origin. 
 
+The vertices of the $n-gon$ are the corresponding roots of unity but scaled by $|z|$ and with their arguments shunted by $arg({z_{1}})$  
 
+The $nth$ roots of any complex number sum to $0$
+
+## Worked 
