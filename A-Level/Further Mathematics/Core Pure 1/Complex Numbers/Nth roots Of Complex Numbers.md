@@ -164,3 +164,51 @@ Therefore:
 $$
 1+\omega+\omega^{2} + \omega^{3} +\dots + \omega^{n-1} = 0
 $$
+
+## Relating this back to general roots
+Consider $z^{n}=w$. Doing the same process yeilds:
+$$
+|z^{n}| = |w| \qquad arg(z^{n}) = arg(w)
+$$
+And again:
+$$
+\begin{gather*}
+z=rei\theta \\ \\
+r^{n}e^{in\theta} = |w|e^{arg(w)+2k\pi} \\ \\
+r = \sqrt[n]{ |w| } \qquad n\theta = arg(w)+2k\pi
+\end{gather*}
+$$
+Forming the table of values for $k=0,k=1,k=2,k=3\dots k=n-1$:
+$$
+\begin{array}{|c|c|}
+\hline
+\text{k} & \theta \\
+\hline
+0 & \frac{arg(w)}{n} \\
+\hline
+1 & \frac{arg(w)}{n} + \frac{2\pi}{n}\\
+\hline
+2 & \frac{arg(w)}{n} + \frac{4\pi}{n}\\
+\hline 
+3 & \frac{arg(w)}{n} + \frac{6\pi}{n} \\
+\hline 
+\dots  &  \dots \\
+\hline
+n-1  & \frac{arg(w)}{n} + \frac{2(n - 1)\pi}{n} \\
+\hline
+\end{array}
+$$
+For this we can see that the solutions are:
+$$
+z_{1} = \sqrt[n]{ |w| }e^{\frac{arg(w)}{n}i}, z_{2} = \sqrt[n]{ |w| }e^{\left( \frac{arg(w)}{n} +\frac{2\pi}{n} \right)i}, z_{3} =\sqrt[n]{ |w| }e^{\left( \frac{arg(w)}{n} \frac{4\pi}{n} \right)i}\dots
+$$
+Notice this is just:
+$$
+z_{1},z_{1}e^{\frac{2\pi}{n}}, z_{1}e^{\frac{4\pi}{n}},z_{1}e^{\frac{6\pi}{n}}\dots, z_{1}e^{(\frac{2(n-1)\pi}{n})i}
+$$
+If you recognise that is the roots of unity, then this becomes:
+$$
+z_{1}, z_{1}\omega,z_{1}\omega^{2},z_{1}\omega^{3}\dots
+$$
+
+
