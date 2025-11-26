@@ -55,3 +55,21 @@ If $f(x) = \frac{g(x)}{h(x)}$ then $f'(x)$ is:
 $$
 \frac{h(x)g'(x)-g(x)h(x)}{(h(x))^{2}}
 $$
+## Standard trigonometric functions
+$$
+\begin{gather*}
+\frac{d}{dx}\tan kx = k\sec ^{2}kx \\ \\
+\frac{d}{dx} \csc kx = -k\csc kx\cot kx \\ \\
+\frac{d}{dx} \sec kx = -k\sec kx\tan kx \\ \\ 
+\frac{d}{dx} \cot kx = -k\csc ^{2}kx
+\end{gather*} 
+$$
+Inverse trigonometric functions:
+$$
+\begin{gather*}
+\frac{d}{dx}\arcsin x = \frac{1}{\sqrt{ 1-x^{2} }} \\ \\
+\frac{d}{dx} \arccos x = -\frac{1}{\sqrt{ 1-x^{2} }} \\ \\
+\frac{d}{dx} \arctan x = \frac{1}{1+x^{2}}
+\end{gather*}
+
+$$
