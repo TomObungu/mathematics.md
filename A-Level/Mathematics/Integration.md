@@ -59,3 +59,15 @@ E.g $\frac{\cos x}{3+2\sin x}$:
 $$
 \frac{1}{2}\ln|3+2\sin x|
 $$
+Do not forget to adjust for the constant in the denominator. 
+
+This rule also works on the case:
+$$
+\int kf'(x)(f(x))^{n} = (f(x))^{n+1}
+$$
+Do not forget to adjust for the constant in the denominator.
+
+E.g $\int 3\cos x\sin ^{2} x$:
+$$
+
+$$
