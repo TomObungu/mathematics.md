@@ -39,4 +39,19 @@ f(x) = 5x^{2}+1 \\ \\
 = \frac{1}{2}(5x^{2}+1)^{-\frac{1}{2}}(10x) \\ \\ 
 = \boxed{5x(5x^{2}+1)^{-\frac{1}{2}}}
 \end{gather*}
-$$#
+$$
+
+In general:
+$$
+\frac{dy}{dx} = \frac{1}{\frac{dx}{dy}}
+$$
+## The product rule
+If $f(x)=g(x)h(x)$ then $f'(x)$ is:
+$$
+g(x)h'(x) + g'(x)h(x)
+$$
+## The quotient rule
+If $f(x) = \frac{g(x)}{h(x)}$ then $f'(x)$ is:
+$$
+\frac{h(x)g'(x)-g(x)h(x)}{(h(x))^{2}}
+$$
