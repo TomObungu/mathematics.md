@@ -31,9 +31,31 @@ That is $F(x)$ is the integral result of the function
 E.g $\int \cos(2x+3)$:
 $$
 \begin{gather*}
-f(x) = \cos(x)  \qquad F(x) = \sin x
+f(x) = \cos(g(x))  \qquad F(x) = \sin (g(x))
 \\ \\ \int \cos(2x+3) = \frac{1}{2}\sin(2x+3)
 \end{gather*}
 
 $$
-E.g. 
+E.g. $\frac{1}{3x+2}$:
+$$
+\begin{gather*}
+f(x) = \frac{1}{g(x)} \qquad \ln|g(x)| \\ \\
+\int \frac{1}{3x+2} = \frac{1}{3}\ln(3x+2)
+\end{gather*}
+$$
+E.g $(2x+3)^{4}$:
+$$
+\begin{gather*}
+f(x) = (g(x)^{4} \qquad F(x) = \frac{1}{5}(g(x))^{5} \\ \\
+\int (2x+3)^{4} = \frac{1}{2}\left( \frac{1}{10} \right)(2x+3)^{5} = \frac{1}{10}(2x+3)^{5}
+\end{gather*}
+$$
+# Reverse chain rule
+In general:
+$$
+\int k\frac{f'(x)}{f(x)} = \ln|f(x)|
+$$
+E.g $\frac{\cos x}{3+2\sin x}$:
+$$
+\frac{1}{2}\ln|3+2\sin x|
+$$

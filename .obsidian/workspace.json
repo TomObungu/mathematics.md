@@ -208,7 +208,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
+        "x": 0,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -217,8 +217,9 @@
       }
     ]
   },
-  "active": "1589b645cf839f40",
+  "active": "282dbce8d3a6d377",
   "lastOpenFiles": [
+    "A-Level/Mathematics/Double Angle Formulae.md",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Mathematics/Integration.md",
     "A-Level/Mathematics/Differentiation.md",
