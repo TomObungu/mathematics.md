@@ -45,6 +45,25 @@ In general:
 $$
 \frac{dy}{dx} = \frac{1}{\frac{dx}{dy}}
 $$
+### U-Substitution:
+In general you can use u substitution to differentiate
+$$
+\frac{dy}{dx} = \frac{dy}{du}\left( \frac{du}{dx} \right)
+$$
+E.g. $y =\arctan\left( \frac{1-x}{1+x} \right)$, Find $\frac{dy}{dx}$:
+$$
+\begin{gather*}
+y =\arctan\left( \frac{1-x}{1+x} \right) \\ \\
+u = \frac{1-x}{1+x} \\ \\
+\frac{du}{dx} = -\frac{2}{(1+x)^{2}} \qquad \text{(Quotient rule)} \\ \\
+\implies y = \arctan u \\ \\
+\frac{dy}{du} = \frac{1}{1+u^{2}} \\ \\
+\frac{dy}{dx} = \frac{dy}{dx} \left(\frac{du}{dx }\right) = \frac{1}{1+u^{2}} \left( -\frac{2}{(1+x)^{2}} \right) \\ \\ 
+= -\frac{2}{(1+u^{2})(1 +x)} \\ \\
+= -\frac{2}{\left( 1+\left(\frac{1-x}{1+x}\right)^{2} \right)(1+x)^{2}} \\ \\ 
+= -\frac{2}{2+2x^{2}}
+\end{gather*}
+$$
 ## The product rule
 If $f(x)=g(x)h(x)$ then $f'(x)$ is:
 $$

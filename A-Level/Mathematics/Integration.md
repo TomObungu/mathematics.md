@@ -22,3 +22,18 @@ $$
 \int \csc x = \ln|\csc x -\cot x|
 \end{gather*}
 $$
+## Integrating $f(ax+b)$
+In general:
+$$
+\int f(ax+b) = \frac{1}{a}F(ax+b)
+$$
+That is $F(x)$ is the integral result of the function
+E.g $\int \cos(2x+3)$:
+$$
+\begin{gather*}
+f(x) = \cos(x)  \qquad F(x) = \sin x
+\\ \\ \int \cos(2x+3) = \frac{1}{2}\sin(2x+3)
+\end{gather*}
+
+$$
+E.g. 
