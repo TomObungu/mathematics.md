@@ -65,9 +65,46 @@ This rule also works on the case:
 $$
 \int kf'(x)(f(x))^{n} = (f(x))^{n+1}
 $$
+
 Do not forget to adjust for the constant in the denominator.
 
 E.g $\int 3\cos x\sin ^{2} x$:
 $$
-
+\begin{gather*}
+y = \sin ^{3}x  \\ 
+\frac{dy}{dx} = 3\cos x \sin x \\ \\
+\therefore I = \sin ^{3}x+c
+\end{gather*}
+$$
+E.g. $\int x(x^{2}+5)^{3}$:
+$$
+\begin{gather*}
+y = (x^{2}+5)^{4} \\ \\
+\frac{dy}{dx} = 8x(x^{2}+5)^{3}  \\ \\
+\therefore I = \frac{1}{8}(x^{2}+4)^{4}
+\end{gather*}
+$$
+E.g $\int \frac{\csc ^{2}x}{(2+\cot x)^{3}}$
+$$
+\begin{gather*}
+= \int \csc ^{2}x(2+\cot x)^{-3} \\ \\
+y = (2+\cot x)^{-2} \\ \\
+\frac{dy}{dx} = 2\csc ^{2}x(2+\cot x)^{-2} \\ \
+\therefore I = \frac{1}{2}(2+\cot x)^{-2}
+\end{gather*}
+$$
+# Integrating by susbtitution
+E.g. $\int x\sqrt{ 2x+5 }$
+$$
+\begin{gather*}
+u = 2x+5 \\ \\
+\frac{du}{dx} = 2 \\ \\
+\frac{du}{2} = dx \\ \\
+x = \frac{u-5}{2} \\ \\
+\int \frac{u-5}{5} u^{\frac{1}{2}} \frac{du}{2} \\ \\
+= \int \frac{1}{4}(u-5)u^{\frac{1}{2}}du \\ \\
+= \int \frac{1}{4}\left( u^{\frac{3}{2}}-5^{\frac{1}{2}} \right) \\ \
+= \frac{u^{\frac{5}{2}}}{10}-\frac{5u^{\frac{3}{2}}}{6} \\ \\
+= \frac{(2x+5)^{\frac{5}{2}}}{10}-\frac{5(2x+5)^{\frac{3}{2}}}{6}
+\end{gather*}
 $$
