@@ -71,5 +71,34 @@ $$
 \frac{d}{dx} \arccos x = -\frac{1}{\sqrt{ 1-x^{2} }} \\ \\
 \frac{d}{dx} \arctan x = \frac{1}{1+x^{2}}
 \end{gather*}
-
+$$
+## Parametric differentiation
+If $x$ and $y$ are given as functions of a parameter, $t$: $\frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}$
+E.g $x=t^{3}+t$, $y=t^{2}+1$. Find $\frac{dy}{dx}$:
+$$
+\begin{gather*}
+\frac{dx}{dt} = 3t^{2}+1 \qquad \frac{dy}{dt} = 2t \\ \\
+\frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}} = \frac{2t}{3t^{2}+1}
+\end{gather*}
+$$
+## Implicit differentiation
+In general from the chain rule:
+$$
+\frac{d}{dx}f(y) = \frac{f'(y)dy}{dx}
+$$
+For powers in $y$:
+$$
+\frac{d}{dx}(y^{n}) = ny^{n-1} \frac{dy}{dx}
+$$
+For products of $y$, use the product rule:
+$$
+\frac{d}{dx}(xy) = x \frac{dy}{dx} + y
+$$
+E.g. Find $\frac{dy}{dx}$ where $x^{3}+x+y^{3}+3y=6$:
+$$
+\begin{gather*}
+3x^{2}+1+3y^{2} \frac{dy}{dx} + 3 \frac{dy}{dx} = 0 \\ \\
+\frac{dy}{dx}(3y^{2}+3) = -3x^{2}-1 \\ \\
+\frac{dy}{dx} = \frac{-3x^{2} + 1}{3(1+y^{2})}
+\end{gather*}
 $$
