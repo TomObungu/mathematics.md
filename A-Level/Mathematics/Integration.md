@@ -105,6 +105,12 @@ x = \frac{u-5}{2} \\ \\
 = \int \frac{1}{4}(u-5)u^{\frac{1}{2}}du \\ \\
 = \int \frac{1}{4}\left( u^{\frac{3}{2}}-5^{\frac{1}{2}} \right) \\ \
 = \frac{u^{\frac{5}{2}}}{10}-\frac{5u^{\frac{3}{2}}}{6} \\ \\
-= \frac{(2x+5)^{\frac{5}{2}}}{10}-\frac{5(2x+5)^{\frac{3}{2}}}{6}
+= \frac{(2x+5)^{\frac{5}{2}}}{10}-\frac{5^{*}(2x+5)^{\frac{3}{2}}}{6}
 \end{gather*}
 $$
+# Integration by parts
+In general:
+$$
+\int u \frac{dv}{dx} = uv - \int v \frac{du}{dx}
+$$
+
