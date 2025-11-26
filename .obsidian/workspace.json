@@ -254,13 +254,14 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "f08c4fa260ab163d",
   "lastOpenFiles": [
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Viteils Formula.md",
@@ -272,7 +273,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence determine the minimum distance of w from the locus arg(z+10i) = pi by 3.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Q = {z in C ;a <= (z+b+ci) <=d } and {z in c; (z-i) <= (z-3i)} determine the exact area of the region defined by Q, giving your answer in simplest form.md",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
