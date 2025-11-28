@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
+                "file": "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nth roots Of Complex Numbers"
+              "title": "First Order Differential Equations"
             }
           }
         ]
@@ -248,8 +248,11 @@
       }
     ]
   },
-  "active": "ad1e2d5c6a8d84cd",
+  "active": "7504e1836e7feb25",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure 1/Differential Equations",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
+    "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Numbers and Conjugates.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Geometric Series.md",
@@ -274,11 +277,9 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Viteils Formula.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show that the invariant points form an a line of invariant points.md",
-    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Invariant point around the origin to find k.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125215011.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125214055.png",
