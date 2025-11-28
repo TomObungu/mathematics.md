@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
+                "file": "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nth roots Of Complex Numbers"
+              "title": "Q. That one Question 8 from the fm test"
+            }
+          },
+          {
+            "id": "b531b2bd1ea22b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Transformations in Three Dimensions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,39 +195,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ad1e2d5c6a8d84cd",
+  "active": "b531b2bd1ea22b2b",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Determine whether line l intersects plane Π, at a single point, or lies in Π.md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. The angle between the birds is 120, determine a.md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Find the coordinates of intersecting lines.md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Find the shortest length of pipe needed to connect C to W.md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Given that the shortest distance between A and Pi is 2sqrt(29).md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/corrected questions/Q. Find the angle at which the ball hits the ground.md",
     "Untitled.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Numbers and Conjugates.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Geometric Series.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus Argument Form.md",
+    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
+    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Loci.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/De Moivre's Theorem.md",
-    "A-Level/Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
-    "A-Level/Further Mathematics/Core Pure 1/Series/Method Of Differences with Telescoping Series.md",
-    "A-Level/Further Mathematics/Core Pure 1/Series/Maclaurin Series.md",
-    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
-    "A-Level/Mathematics/Integration.md",
-    "A-Level/Mathematics/Differentiation.md",
-    "A-Level/Mathematics/Completing The Square.md",
-    "A-Level/Mathematics/Double Angle Formulae.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
+    "A-Level/Further Mathematics/Core Pure 1/Matrices/Determinants.md",
+    "A-Level/Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
+    "A-Level/Further Mathematics/Core Pure 1/Matrices/Matrix Multiplication.md",
+    "A-Level/Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
+    "A-Level/Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
+    "A-Level/Further Mathematics/Core Pure 1/Series/Sum Of Natural Numbers.md",
+    "A-Level/Further Mathematics/Core Pure 1/Series/Sum Of Cubes.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Geometric Series.md",
+    "Untitled 1.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Complex Numbers and Conjugates.md",
+    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Resources/New Edexcel Core Pure 2.pdf",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Viteils Formula.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125215011.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the coordinates of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the maximum value of arg w in the interval ( -pi, pi).md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence determine the minimum distance of w from the locus arg(z+10i) = pi by 3.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Q = {z in C ;a <= (z+b+ci) <=d } and {z in c; (z-i) <= (z-3i)} determine the exact area of the region defined by Q, giving your answer in simplest form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125214055.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125210821.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125210227.png",
