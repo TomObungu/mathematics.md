@@ -154,5 +154,58 @@ $$
 $$
 
 # Worked Example 1
-
-Find 
+Find the solution to:7
+![[Pasted image 20251129230346.png]]
+For questions like this, we want to get get the equation in standard form:
+$$
+\begin{gather*}
+xy' + 3y = \frac{e^{x}}{x^{2}} \\ \\
+y'+\frac{3}{x}y=\frac{e^{x}}{x^{3}}
+\end{gather*}
+$$
+Now it is in standard form, work out the integrating factor $f(x)$:
+$$
+\begin{gather*}
+f(x) = e^{\int \frac{3}{x}} \\ \\
+= e^{3ln|x|} \\ \\
+= e^{\ln|x^{3}|} \\ \\
+= x^{3}
+\end{gather*}
+$$
+Therefore the resultant product with the equation will be:
+$$
+\begin{gather*}
+x^{3}y = \int \frac{e^{x}}{\cancel{ x^{3} }}(\cancel{ x^{3}) } \\ \\
+\end{gather*}
+$$
+Thus the solution to the DE is:
+$$
+\begin{gather*}
+x^{3}y=e^{x} + c\\ \\
+\therefore \boxed{y = \frac{e^{x}}{x^{3}} +\frac{c}{x^{3}}}
+\end{gather*}
+$$
+# Worked Example 1
+Find the solution to
+![[Pasted image 20251129230920.png]]
+Getting equation in standard form:
+$$
+\begin{gather*}
+y' +\frac{2}{x}y=\frac{\sin x}{x^{2}}
+\end{gather*}
+$$
+Finding the integrating factor:
+$$
+\begin{gather*}
+f(x) = e^{\int \frac{2}{x}} \\ \\
+= e^{\ln|x^{2}|} = x^{2} \\ \\
+\end{gather*}
+$$
+Find the product and integrating:
+$$
+\begin{gather*}
+x^{2}y = \int \frac{\sin x}{\cancel{ x^{2} }} (\cancel{ x^{2} }) \\ \\
+\boxed{x^{2}y=-\cos x+c}
+\end{gather*}
+$$
+# Worked Example 3
