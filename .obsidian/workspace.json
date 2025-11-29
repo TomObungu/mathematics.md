@@ -200,37 +200,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "a492471f8fa74ae0",
-        "type": "window",
-        "children": [
-          {
-            "id": "40f14977bcc4ddeb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5e77fbaa24ec463b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "fc54352b7116eef2",
         "type": "window",
         "children": [
@@ -255,19 +224,19 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 205,
-        "width": 1024,
-        "height": 800,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "a066c5a151e06d56",
+  "active": "d154890d66b9774c",
   "lastOpenFiles": [
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The midpoints of the sides of ABCD represents the 4th roots of a complex number w. Find w.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The triangle OAB in argand daigram is equilateral. O is the origin and A corresponds to complex number sqrt(3)(1-i). B is represented by complex number b. Find the two possibilities for b..md",

@@ -153,4 +153,5 @@ $$
 \end{gather*}
 $$
 
+# Worked Example 1
 
