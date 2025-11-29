@@ -48,4 +48,29 @@ $$
 
 $$
 ## Arbitrary Constants
-In the 
+In the first example above, the solution has one arbitrary constant $c$. This is the result of integrating once.
+
+In the second example, we performed two integrations so there are two arbitrary constants $c$ and $d$
+
+In general, an $nth$ order $DE$ has solution containing $n$ arbitrary constants. This is called the general solution.
+
+## Bound conditions and Particular solutions
+Boundary conditions (BC) are pieces of information that allow the determination of the values of the arbitrary constants. An $nth$ order DE needs $n$ BCs.
+
+Looking at the second example, let's say the boundary conditions were:
+$$
+y(0)=0, \qquad y'(0)=0
+$$
+Plugging $y'(0)=0$ into the integral of second order derivative:
+$$
+5(0)+c = 0 \implies c =0
+$$
+Plugging $y(0)=0$ and $c=0$ into the integral of the first derivative gives:
+$$
+\frac{5}{2}(0)^{2}+d=0 \implies d =0
+$$
+Therefore the particular solution for the BC is:
+$$
+y = \frac{5}{2}x^{2}
+$$
+The particular solution is 
