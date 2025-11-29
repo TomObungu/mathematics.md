@@ -73,4 +73,17 @@ Therefore the particular solution for the BC is:
 $$
 y = \frac{5}{2}x^{2}
 $$
-The particular solution is 
+The particular solution is a solution to the DE that satisfies a particular set of BC. Usually these are physical constraints of a system such as initial velocity etc.
+
+# Solving first order DEs
+In A-level mathematics, we learnt about solving differential equations. E.g.:
+$$
+\begin{gather*}
+x\frac{dy}{dx} = y+1 \\ \\
+\frac{1}{x} \frac{dx}{dy} = \frac{1}{y+1} \\ \\
+\int \frac{1}{x} dx = \int \frac{1}{y+1}dy \\ \\
+\ln|x| +c = \ln|y+1| \\ \\
+\ln|y+1| = \ln|ax| \\ \\
+y = ax-1
+\end{gather*}
+$$
