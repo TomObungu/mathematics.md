@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
+                "file": "A-Level/Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Order Differential Equations"
+              "title": "Squaring the sum of r  is equal to the sum of r cubed"
             }
           }
         ],
@@ -227,16 +227,17 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "d154890d66b9774c",
+  "active": "a066c5a151e06d56",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and Invariant lines.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The midpoints of the sides of ABCD represents the 4th roots of a complex number w. Find w.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The triangle OAB in argand daigram is equilateral. O is the origin and A corresponds to complex number sqrt(3)(1-i). B is represented by complex number b. Find the two possibilities for b..md",
@@ -258,7 +259,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/De Moivre's Theorem.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
-    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and Invariant lines.md",
     "A-Level/Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
     "A-Level/Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations",
