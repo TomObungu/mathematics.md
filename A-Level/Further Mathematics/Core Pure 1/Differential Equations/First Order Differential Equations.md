@@ -87,15 +87,70 @@ x\frac{dy}{dx} = y+1 \\ \\
 y = ax-1
 \end{gather*}
 $$
-## Exact DE
-Now, to kick off the start the DE topic, we will start off with exact DEs. A DE in exact form is:
+## Exact DEs
+Now, to kick off the start the DE topic, we will start off with exact DEs. Consider the equation:
+$$
+xy'+y=e^{x}
+$$
+Notice, that the LHS of this equation is the product rule from the derivative of $xy$. Recall from the product rule that:
+$$
+\frac{d}{dx}(xy) = xy'+y
+$$
+Thus, from this we can substitute $\frac{d}{dx}(xy)$ into the left side of the equation:
+$$
+\frac{d}{dx}(xy)=e^{x}
+$$
+From then onwards, integrating will give the solution to the differential equation:
+$$
+\begin{gather*}
+xy = \int e^{x}dx \\ \\
+xy = e^{x} \\ 
+\boxed{y=\frac{e^{x}}{x}}
+\end{gather*}
+$$
+
+**DEs where the LHS is the derivative of a product are called exact differential equations**
+
+# Standard Form
+The standard form a linear first order DE is:
 $$
 y'+P(x)y=Q(x)
 $$
 We need to get equations into this form before we can solve them. I.e We might have to divide by a factor of $x$ in order to leave $y'$
-
 # Integrating factor
-Lets assume that there exists a function, $f(x)$ that we can multiply a DE in standform by such that it will transform it into an exact DE:
+Lets assume that there exists a function, $f(x)$ that we can multiply a DE in standard form by, such that it will transform it into an exact DE.
 $$
-f(xy'+f(x)P9
+f(x)y'+f(x)P(x)y=f(x)Q(x)
 $$
+Let's take a process of trying to find $f(x)$. If we know that the LHS is the derivative of the product $f(x)y$. If we know that the derivative of $f(x)y$ is:
+$$
+f(x)y' + f'(x)y
+$$
+Then by comparing the equation for the exact DE $f(x)y'+f(x)P(x)y=f(x)Q(x)$, we can see that in order for the equation to hold being a the derivative of a product:
+$$
+f'(x) = f(x)p(x)
+$$
+Therefore, if we rearrange and integrate, we can find $f(x)$:
+$$
+\begin{gather*}
+p(x) = \frac{f'(x)}{f(x)} \\ \\
+\int p(x) = \int \frac{f'(x)}{f(x)} \\ \\
+\int p(x) = \ln|f(x)| \\ \\
+\end{gather*}
+$$
+Therefore, the function $f(x)$ can be found as:
+$$
+\boxed{f(x)=e^{\int p(x)}}
+$$
+Where $p(x)$ is the function multiplying $y$ in the equation. This is the integrating factor (IF). The constant is ignored as when multiplying by $f(x)$ to make the DE exact, the constants will be on both sides and cancel out.
+
+Multiplying a DE in **standard form** by the IF gives an exact DE:
+$$
+\begin{gather*}
+\frac{d}{dx}[f(x)y]=f(x)Q(x) \\ \\
+\implies f(x)y=\int f(x)Q(x)dx + c \\ \\
+\therefore \boxed{y = \frac{\int f(x)Q(x)dx + c }{f(x)}}
+\end{gather*}
+$$
+
+
