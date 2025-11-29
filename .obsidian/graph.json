@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Further Mathematics/Matrices\"  ",
+      "query": "path:\"A-Level/Further Mathematics/Core Pure 1/Vectors\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Further Mathematics/Linear Transformations\"  ",
+      "query": "path:\"A-Level/Further Mathematics/Core Pure 1/Linear Transformations\"                              ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"A-Level/Further Mathematics\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -53,6 +53,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 0.90625,
   "linkDistance": 30,
-  "scale": 0.7019483470030201,
-  "close": true
+  "scale": 0.467965564668679,
+  "close": false
 }
