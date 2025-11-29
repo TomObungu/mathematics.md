@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "First Order Differential Equations"
             }
           }
         ],
@@ -265,8 +265,13 @@
   },
   "active": "a066c5a151e06d56",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/De Moivre's Theorem.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
+    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
+    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and Invariant lines.md",
+    "A-Level/Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
     "Untitled 1.md",
+    "A-Level/Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
     "A-Level/Further Mathematics/Core Pure 1/Matrices/Inverting a 2 x 2 matrix.md",
     "A-Level/Further Mathematics/Core Pure 1/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "A-Level/Further Mathematics/Core Pure 1/Matrices/Determinants.md",
@@ -277,7 +282,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Series/Sum Of Natural Numbers.md",
     "A-Level/Further Mathematics/Core Pure 1/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
     "A-Level/Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
-    "A-Level/Further Mathematics/Core Pure 1/Vectors/Distances between Planes.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
     "A-Level/Further Mathematics/Core Pure 1/Vectors/Equation of Line Of Intersection between planes.md",
     "A-Level/Mathematics/Binomial Expansion.md",
@@ -292,10 +296,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251128152225.png",
     "Untitled.md",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The midpoints of the sides of ABCD represents the 4th roots of a complex number w. Find w.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Solve completely f(z)=0. Show that all the roots of the equation f(z)=0 on a single Argand diagram.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125215011.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125214055.png",

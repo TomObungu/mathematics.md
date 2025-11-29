@@ -88,4 +88,14 @@ y = ax-1
 \end{gather*}
 $$
 ## Exact DE
-Now, to kick off the start the DE topic, we will start off with 
+Now, to kick off the start the DE topic, we will start off with exact DEs. A DE in exact form is:
+$$
+y'+P(x)y=Q(x)
+$$
+We need to get equations into this form before we can solve them. I.e We might have to divide by a factor of $x$ in order to leave $y'$
+
+# Integrating factor
+Lets assume that there exists a function, $f(x)$ that we can multiply a DE in standform by such that it will transform it into an exact DE:
+$$
+f(xy'+f(x)P9
+$$
