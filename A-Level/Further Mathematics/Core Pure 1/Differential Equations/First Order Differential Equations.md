@@ -88,4 +88,4 @@ y = ax-1
 \end{gather*}
 $$
 ## Exact DE
-Now, to kick off start
+Now, to kick off the start the DE topic, we will start off with 
