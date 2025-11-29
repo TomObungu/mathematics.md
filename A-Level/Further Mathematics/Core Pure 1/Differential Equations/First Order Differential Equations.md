@@ -87,3 +87,5 @@ x\frac{dy}{dx} = y+1 \\ \\
 y = ax-1
 \end{gather*}
 $$
+## Exact DE
+Now, to kick off start
