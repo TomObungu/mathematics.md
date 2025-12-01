@@ -209,3 +209,70 @@ x^{2}y = \int \frac{\sin x}{\cancel{ x^{2} }} (\cancel{ x^{2} }) \\ \\
 \end{gather*}
 $$
 # Worked Example 3
+![[Pasted image 20251201015350.png]]
+As the equation is already in standard form, we just need to find the integrating factor:
+$$
+f(x) = e^{\int \cot x} = e^{\ln|\sin x| } = \sin x
+$$
+Thus:
+$$
+\begin{gather*}
+y\sin x = \int \cancel{ \csc x \sin x  } \\ \\
+y\sin x = \int (1) \\ \\ 
+y\sin x = x + c
+\end{gather*}
+$$
+# Particular Solutions
+## Worked Example 4
+![[Pasted image 20251201015757.png]]
+For these problems, find the general solution then substitute the values for the boundary conditions to find the missing values of the constants:
+$$
+f(x) = e^{\int 2} = e^{2x}
+$$
+Thus:
+$$
+\begin{gather*}
+e^{2x}y = \int 4e^{2x}e^{2x}  =  \int 4e^{4x} \\ \\
+e^{2x}y = e^{4x}+c
+
+\end{gather*}
+$$
+Applying the boundary conditions. When $x=0$, $y(x)=3$
+$$
+e^{0}(3) = e^{0}+c \implies c = 2
+$$
+Therefore the particular solution is:
+$$
+\begin{gather*}
+e^{2x}y=e^{4x}+2 \\ \\
+\boxed{y=e^{2x}+2e^{-2x}}
+\end{gather*}
+$$
+## Worked Example5
+![[Pasted image 20251201020334.png]]
+Standard form:
+$$
+\begin{gather*}
+xy'=y+x^{2}(\sin x+\cos x) \\ \\
+y' -\left( \frac{1}{x} \right)y=x(\sin x +\cos x) 
+\end{gather*}
+$$
+Finding the integrating factor:
+$$
+f(x) = e^{\int -\frac{1}{x}} = e^{\ln|\frac{1}{x}|} = \frac{1}{x}
+$$
+Writing as a exact DE:
+$$
+\begin{gather*}
+\left( \frac{1}{x} \right)y = \int \cancel{ x }(\sin x + \cos x) \cancel{ \left( \frac{1}{x} \right)  }\\ \\
+\frac{y}{x} = -\cos x +\sin x + c \\ \\
+\end{gather*}
+$$
+Substituting boundary conditions, when $x=\frac{\pi}{2}$, $y=0$:
+$$
+0 = -\cos\left( \frac{\pi}{2} \right)+\sin\left( \frac{\pi}{2} \right)+c \implies c =1
+$$
+Therefore:
+$$
+\boxed{y=x(\sin x-\cos x-1)}
+$$
