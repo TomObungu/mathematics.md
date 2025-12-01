@@ -31,7 +31,7 @@ That is $F(x)$ is the integral result of the function
 E.g $\int \cos(2x+3)$:
 $$
 \begin{gather*}
-f(x) = \cos(g(x))  \qquad F(x) = \sin (g(x))
+g(x)=ax+b=(2x+3) \qquad f(x) = \cos(g(x))  \qquad F(x) = \left( \frac{1}{a} \right)\sin (ax+b)
 \\ \\ \int \cos(2x+3) = \frac{1}{2}\sin(2x+3)
 \end{gather*}
 
@@ -48,6 +48,12 @@ $$
 \begin{gather*}
 f(x) = (g(x)^{4} \qquad F(x) = \frac{1}{5}(g(x))^{5} \\ \\
 \int (2x+3)^{4} = \frac{1}{2}\left( \frac{1}{10} \right)(2x+3)^{5} = \frac{1}{10}(2x+3)^{5}
+\end{gather*}
+$$
+E.g. $3e^{2x-1}$:
+$$
+\begin{gather*}
+ax+b = 2x-1 \qquad f(x) = e^{ax} \qquad F(x) = e^{g(x)}
 \end{gather*}
 $$
 # Reverse chain rule
