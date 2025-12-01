@@ -50,6 +50,21 @@ In general you can use u substitution to differentiate
 $$
 \frac{dy}{dx} = \frac{dy}{du}\left( \frac{du}{dx} \right)
 $$
+E.g. $y=8cos(3x^{2}+1)$, to find $\frac{dy}{dx}$:
+$$
+\begin{gather*} 
+u = 3x^{2}+1 \\ \\
+y = 8\cos(u) \\ \\
+\frac{dy}{du} = -8\sin(u) \\ \\
+= -8\sin(3x^{2}+1)\\ \\ \\
+\frac{du}{dx} = 6x \\ \\ 
+\frac{dy}{dx} = \frac{dy}{du} \frac{du}{dx} \\ \\
+= -8\sin(3x^{2}+1)(6x)\\ \\
+\frac{dy}{dx} = -48\sin(3x^{2}+1)
+\end{gather*}
+$$
+
+
 E.g. $y =\arctan\left( \frac{1-x}{1+x} \right)$, Find $\frac{dy}{dx}$:
 $$
 \begin{gather*}
