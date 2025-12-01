@@ -31,7 +31,7 @@ That is $F(x)$ is the integral result of the function
 E.g $\int \cos(2x+3)$:
 $$
 \begin{gather*}
-g(x)=ax+b=(2x+3) \qquad f(x) = \cos(g(x))  \qquad F(x) = \left( \frac{1}{a} \right)\sin (ax+b)
+ax+b=(2x+3) \qquad f(x) = \cos(ax+b)  \qquad F(x) = \left( \frac{1}{a} \right)\sin (ax+b)
 \\ \\ \int \cos(2x+3) = \frac{1}{2}\sin(2x+3)
 \end{gather*}
 
@@ -53,7 +53,8 @@ $$
 E.g. $3e^{2x-1}$:
 $$
 \begin{gather*}
-ax+b = 2x-1 \qquad f(x) = e^{ax} \qquad F(x) = e^{g(x)}
+ax+b = 2x-1 \qquad f(x) = e^{ax+b} \qquad F(x) = \left( \frac{1}{a} \right)e^{ax+b} \\ \\
+\int 3xe^{2x-1} = \frac{3}{2}e^{2x-1}
 \end{gather*}
 $$
 # Reverse chain rule
@@ -73,6 +74,7 @@ $$
 $$
 
 Do not forget to adjust for the constant in the denominator.
+That is, try $f(x)^{n+1}$  and differentiate to check, and then adjust any constant
 
 E.g $\int 3\cos x\sin ^{2} x$:
 $$
@@ -90,7 +92,7 @@ y = (x^{2}+5)^{4} \\ \\
 \therefore I = \frac{1}{8}(x^{2}+4)^{4}
 \end{gather*}
 $$
-E.g $\int \frac{\csc ^{2}x}{(2+\cot x)^{3}}$
+E.g $\int \frac{\csc ^{2}x}{(2+\cot x)^{3}}$:
 $$
 \begin{gather*}
 = \int \csc ^{2}x(2+\cot x)^{-3} \\ \\
@@ -98,6 +100,10 @@ y = (2+\cot x)^{-2} \\ \\
 \frac{dy}{dx} = 2\csc ^{2}x(2+\cot x)^{-2} \\ \
 \therefore I = \frac{1}{2}(2+\cot x)^{-2}
 \end{gather*}
+$$
+E.g. $\int x^{2}e^{x^{3}}$:
+$$
+y=e^{x}
 $$
 # Integrating by susbtitution
 E.g. $\int x\sqrt{ 2x+5 }$

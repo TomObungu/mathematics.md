@@ -195,13 +195,51 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "9d2aff058a587980",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dac66de86fc061d3",
+        "type": "window",
+        "children": [
+          {
+            "id": "ef5b3a4a6311f22d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe123bf2cf533d23",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "a066c5a151e06d56",
   "lastOpenFiles": [
+    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "A-Level/Mathematics/Integration.md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201020334.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201015757.png",
-    "A-Level/Mathematics/Integration.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201015350.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction",
@@ -233,10 +271,8 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the maximum value of arg w in the interval ( -pi, pi).md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251128152225.png",
-    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125215011.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125214055.png",
