@@ -103,7 +103,11 @@ y = (2+\cot x)^{-2} \\ \\
 $$
 E.g. $\int x^{2}e^{x^{3}}$:
 $$
-y=e^{x}
+\begin{gather*}
+y=e^{x^{3}+1} \\ \\
+\frac{dy}{dx} = 3x^{2}
+\end{gather*}
+
 $$
 # Integrating by susbtitution
 E.g. $\int x\sqrt{ 2x+5 }$
