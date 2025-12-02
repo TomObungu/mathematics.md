@@ -10,6 +10,10 @@ Then do not try $y=e^{n+1}$ but $y=e^{n}$:
 $$
 \begin{gather*}
 y = e^{x^{3}} \\ \\
-\frac{dy}{dx} = 3x
+\frac{dy}{dx} = 3x^{2}e^{x^{3}}
 \end{gather*}
+$$
+Therefore:
+$$
+\int x^{2}e^{x^{3}} = \frac{1}{3}e^{x^{3}}
 $$

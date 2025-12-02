@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d655f5fb597bb488",
+        "id": "b47e2264e602d22d",
         "type": "tabs",
         "children": [
           {
-            "id": "ad1e2d5c6a8d84cd",
+            "id": "f42d90557987c28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
+                "file": "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. 10M_-1 + M = I, Find k"
-            }
-          },
-          {
-            "id": "a066c5a151e06d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-Level/Mathematics/Differentiation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Differentiation"
+              "title": "Integrating using Trigonometric Identities"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,58 +185,74 @@
     "type": "floating",
     "children": [
       {
-        "id": "dac66de86fc061d3",
+        "id": "007126fa6813aefa",
         "type": "window",
         "children": [
           {
-            "id": "ef5b3a4a6311f22d",
+            "id": "8d80de2a48188074",
             "type": "tabs",
             "children": [
               {
-                "id": "fe123bf2cf533d23",
+                "id": "2e038a9b2472dcff",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf"
+                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
+                  "title": "New Edexcel Core Pure 2"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "a066c5a151e06d56",
+  "active": "2e038a9b2472dcff",
   "lastOpenFiles": [
-    "A-Level/Mathematics/Binomial Expansion.md",
-    "A-Level/Mathematics/Integration/Integration.md",
+    "A-Level/Mathematics/Integration/Special Cases.md",
+    "A-Level/Mathematics/Integration/Standard Functions.md",
+    "A-Level/Mathematics/Integration/Integrating f(ax+b).md",
+    "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
+    "A-Level/Mathematics/Integration/Integrating by substitution.md",
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Divisbility Proof By Induction.md",
+    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Series Proof By Induction.md",
+    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Matrix Proof by Induction.md",
+    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
+    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus",
+    "A-Level/Mathematics/Integration/Reverse chain rule.md",
+    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Mathematics/Integration/corrected questions/Q. integral x squared multiplied by e to x cubed.md",
+    "A-Level/Mathematics/Integration/corrected questions/Q. Integral of 3x multiplied by sqrt(2x squared -4).md",
+    "A-Level/Mathematics/Integration/Integration.md",
+    "A-Level/Mathematics/Integration/Integration by parts.md",
+    "A-Level/Mathematics/Binomial Expansion.md",
+    "A-Level/Mathematics/Differentiation.md",
+    "A-Level/Mathematics/Addition Angle Formulae.md",
+    "A-Level/Mathematics/Double Angle Formulae.md",
+    "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201161129.png",
     "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201155703.png",
     "A-Level/Mathematics/Integration/corrected questions/attachments",
-    "A-Level/Mathematics/Differentiation.md",
     "A-Level/Mathematics/Integration/corrected questions",
     "A-Level/Mathematics/Integration",
-    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
-    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/First Order Differential Equations.md",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201020334.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201015757.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201015350.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction",
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230920.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230346.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments",
@@ -259,27 +260,10 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the roots of the equation (z+1) raised to 3  = -1.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Q = {z in C ;a <= (z+b+ci) <=d } and {z in c; (z-i) <= (z-3i)} determine the exact area of the region defined by Q, giving your answer in simplest form.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Viteils Formula.md",
-    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
-    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Show that the invariant points form an a line of invariant points.md",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "A-Level/Resources/Applied Year 2.pdf",
-    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
-    "A-Level/Further Mathematics/Core Pure 1/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
-    "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and Invariant lines.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The midpoints of the sides of ABCD represents the 4th roots of a complex number w. Find w.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The triangle OAB in argand daigram is equilateral. O is the origin and A corresponds to complex number sqrt(3)(1-i). B is represented by complex number b. Find the two possibilities for b..md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251128152225.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125215011.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125214055.png",
     "Untitled.canvas"
   ]
 }

@@ -136,3 +136,13 @@ $$
 \frac{dy}{dx} = \frac{-3x^{2} + 1}{3(1+y^{2})}
 \end{gather*}
 $$
+# Exponentials and logarithms:
+The standard result for an exponential function $a^{x}$ 
+$$
+\frac{d}{dx} a^{x} =a^{x} \ln a
+$$
+The standard result of a logarithmic function that is not base $e$:
+$$
+\frac{d}{dx}\log_{a}x =\frac{1}{\ln (a)x}
+$$
+
