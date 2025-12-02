@@ -6,6 +6,10 @@ It is possible to split this up into partial fractions:
 $$
 \begin{gather*}
 \frac{3}{x^{2}-4} = \frac{3}{(x+2)(x-2)} \\ \\
-\frac{3}{(x+2)(x-2)} = \frac{1}{}
+\frac{3}{(x+2)(x-2)} = \frac{A}{x+2} + \frac{B}{x-2} \\ \\
+3 = A(x-2) + B(x+2) \\ \\
+x=-2: \\ 
+3= -4A \\ 
+A = -/
 \end{gather*}
 $$
