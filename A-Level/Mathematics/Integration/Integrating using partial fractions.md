@@ -19,5 +19,9 @@ B = \frac{3}{4} \\ \\
 $$
 It is now possible to integrate these fractions this using reverse chain rule of $\int k\frac{f'(x)}{f(x)} = \ln|f(x)|$:
 $$
-\int-\frac{\frac{3}{4}}{x+2} + \frac{\frac{3}{4}}{x-2}  = -\frac{3}{4}\ln|x+2
+\int-\frac{\frac{3}{4}}{x+2} + \frac{\frac{3}{4}}{x-2}  = -\frac{3}{4}\ln|x+2| + \frac{3}{4}\ln|x-2| +c
+$$
+Simplifying using log rules gives:
+$$
+= \frac{3}{4}\ln\left| \frac{x-2)}{}\right|
 $$
