@@ -12,3 +12,4 @@ Therefore:
 $$
 \int x^{2}e^{x^{3}} = \frac{1}{3}e^{x^{3}}
 $$
+In general if you ever see something in the form 
