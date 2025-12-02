@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Mathematics/Integration/Special Cases.md",
+                "file": "A-Level/Mathematics/Integration/Integrating using partial fractions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Special Cases"
+              "title": "Integrating using partial fractions"
             }
           }
         ]
@@ -185,30 +185,30 @@
     "type": "floating",
     "children": [
       {
-        "id": "007126fa6813aefa",
+        "id": "f200fc534ca81d54",
         "type": "window",
         "children": [
           {
-            "id": "8d80de2a48188074",
+            "id": "ad3b21d82ac63ad7",
             "type": "tabs",
             "children": [
               {
-                "id": "2e038a9b2472dcff",
+                "id": "92c399b12bc99223",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
+                    "file": "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "New Edexcel Core Pure 2"
+                  "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -219,13 +219,15 @@
   },
   "active": "f42d90557987c28c",
   "lastOpenFiles": [
+    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
+    "A-Level/Mathematics/Integration/Integrating using partial fractions.md",
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Mathematics/Integration/Special Cases.md",
     "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
     "A-Level/Mathematics/Differentiation.md",
-    "A-Level/Mathematics/Integration/Special Cases.md",
     "A-Level/Mathematics/Integration/Integration by parts.md",
     "A-Level/Mathematics/Integration/Standard Functions.md",
     "A-Level/Mathematics/Integration/Reverse chain rule.md",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Mathematics/Integration/Integrating f(ax+b).md",
     "A-Level/Mathematics/Integration/Integrating by substitution.md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Divisbility Proof By Induction.md",
@@ -233,7 +235,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus",
-    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Mathematics/Integration/corrected questions/Q. integral x squared multiplied by e to x cubed.md",
@@ -259,7 +260,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/corrected questions/Q. Find k when M represents an enlargement.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the roots of the equation (z+1) raised to 3  = -1.md",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251128152225.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",

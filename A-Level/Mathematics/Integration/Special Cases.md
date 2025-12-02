@@ -22,35 +22,9 @@ This problem is much like the previous problem, instead you must split the compo
 ## $\int \frac{1}{1+\cos x}$
 
 
-
 ## $\int \frac{\sin x}{\sin x+\cos x}$
 
 
 ## $\int \sqrt{ x^{2}+2x }$
 
 
-
-$$
-\begin{gather*}
-\int \frac{3}{x^{2}-4}dx \qquad x =2\sec u \qquad dx = 2\sec u\tan u du \\ \\
-=\int \frac{3}{4\tan ^{2}u}2\sec u\tan u du \\ \\
-= \int \frac{3}{2} \csc u du \\ \\
-= \frac{3}{2}\ln|\csc u - \cot u| +c
-\end{gather*}
-$$
-My rearranging process:
-$$
-\begin{gather*}
-\frac{1}{x} = \frac{1}{2}\cos u  \\ \\
-\frac{4}{x^{2}} = \cos ^{2}u \\ \\
-1-\frac{4}{x^{2}} = 1-\cos ^{2}u \\ \\
-\sqrt{ \frac{x^{2}}{x^{2}-4} } = \csc u \\ \\ \\
-\cot u = \csc u \cos u \\ \\
-= \frac{2}{x} \sqrt{ \frac{x^{2}}{x^{2}-4} }  
-\end{gather*}
-$$
-Thus:
-$$
-\int \frac{3}{x^{2}-4}dx  = \frac{3}{2}\ln\left| \sqrt{ \frac{x^{2}}{x^{2}-4} }\left( 1-\frac{2}{x} \right)  \right| + c
-$$
- 
