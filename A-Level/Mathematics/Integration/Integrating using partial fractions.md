@@ -23,5 +23,6 @@ $$
 $$
 Simplifying using log rules gives:
 $$
-= \frac{3}{4}\ln\left| \frac{x-2)}{}\right|
+= \frac{3}{4}\ln\left| \frac{x-2}{x+2}\right|+c
 $$
+
