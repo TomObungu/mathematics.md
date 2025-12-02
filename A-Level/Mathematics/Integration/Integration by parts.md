@@ -10,3 +10,7 @@ I - Inverse trigonometric functions e.g $\arcsin x$,$\arctan x$
 A - Algebra e.g. $x^{2}$, $2x$, $x^{5}$
 T = Trigonometric functions e.g $\sin x$, $\cos x$
 E - Exponential functions e.g $e^{x}$, $3^{x}$
+
+E.g. $\int x^{2}e^{x}$
+
+E.g. $$
