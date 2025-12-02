@@ -17,8 +17,6 @@ In general if you ever see something in the form $x^{n}e^{n+1}$ always try $e^{n
 ## $\int x^{5}x^{x^{3}}$
 This problem is much like the previous problem, instead you must split the components into 
 
-
-
 ## $\int \frac{1}{1+\cos x}$
 
 
