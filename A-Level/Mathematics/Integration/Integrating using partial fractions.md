@@ -17,4 +17,7 @@ B = \frac{3}{4} \\ \\
 \frac{3}{(x+2)(x-2)} = -\frac{\frac{3}{4}}{x+2} + \frac{\frac{3}{4}}{x-2} 
 \end{gather*}
 $$
-It is now p
+It is now possible to integrate these fractions this using reverse chain rule of $\int k\frac{f'(x)}{f(x)} = \ln|f(x)|$:
+$$
+\int-\frac{\frac{3}{4}}{x+2} + \frac{\frac{3}{4}}{x-2}  = -\frac{3}{4}\ln|x+2
+$$
