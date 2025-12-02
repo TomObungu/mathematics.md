@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q..md",
+                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Loci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q."
+              "title": "Loci"
             }
           }
         ]
@@ -212,16 +212,17 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "f42d90557987c28c",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251202161250.png",
     "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q..md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
@@ -259,12 +260,10 @@
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230920.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230346.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Modulus And Argument.md",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251128152225.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125220315.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251125215011.png",
     "Untitled.canvas"
   ]
 }
