@@ -11,12 +11,14 @@
             "id": "f42d90557987c28c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
+                "file": "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "New Edexcel Core Pure 2"
+              "icon": "lucide-file",
+              "title": "Nth roots Of Complex Numbers"
             }
           }
         ]
@@ -178,46 +180,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "9d2aff058a587980",
-    "type": "floating",
-    "children": [
-      {
-        "id": "13a6225ac09d536a",
-        "type": "window",
-        "children": [
-          {
-            "id": "ed62abdbcd8e3f2e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "688d8fc31a659784",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "688d8fc31a659784",
+  "active": "f42d90557987c28c",
   "lastOpenFiles": [
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
+    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q..md",
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Resources/Applied Year 2.pdf",
@@ -228,13 +196,11 @@
     "A-Level/Mathematics/Integration/Integrating by substitution.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Loci.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251202161250.png",
     "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
     "A-Level/Mathematics/Integration/Integrating using partial fractions.md",
     "A-Level/Mathematics/Integration/Reverse chain rule.md",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Mathematics/Differentiation.md",
     "A-Level/Mathematics/Integration/Integration by parts.md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Divisbility Proof By Induction.md",
@@ -257,8 +223,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201020334.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201015757.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201015350.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
-    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230920.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230346.png",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251128152225.png",
