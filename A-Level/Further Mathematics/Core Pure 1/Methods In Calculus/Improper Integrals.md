@@ -6,3 +6,18 @@ They can be evaluated by defining the improper integral as the limit of a sequen
 
 If the limit does not exist, i.e one or more of the limits tends to $\infty$, the the integral is said to be divergent. 
 
+The main bulk of improper integrals is the actual integration of the function.
+
+
+# Worked Example 1
+![[Pasted image 20251209110551.png]]
+
+Firstly, replace the infinite limit with a variable $t$ and consider the variable as it approaches $\infty$:
+$$
+\begin{gather*}
+\lim_{ t \to \infty } \left\{ \int_{1}^{t} \frac{1}{x^{2}}\right\} \\ \\
+= \lim_{ t \to \infty } \left\{ [-x^{-1}]_{1}^{t}\right\} \\ \\
+= \lim_{ t \to \infty } \left\{ -t^{-1}+1^{-1}\right\} \\ \\
+=\lim_{ t \to \infty } \left\{1 -\frac{1}{t}\right\} 
+\end{gather*}
+$$
