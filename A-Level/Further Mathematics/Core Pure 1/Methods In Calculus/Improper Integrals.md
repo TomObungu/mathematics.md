@@ -51,3 +51,13 @@ $$
 $$
 \text{As } t\to \infty, \ln t\to \infty
 $$
+Therefore:
+$$
+\text{The limit does not exist}
+$$
+Thus:
+$$
+\therefore \int_{1}^{\infty} \frac{1}{x}dx \text{ is divergent}
+$$
+
+# Worked Example 2 - Both limits are undefined/infite
