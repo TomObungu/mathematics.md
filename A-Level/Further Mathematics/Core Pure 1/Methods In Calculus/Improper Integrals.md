@@ -10,8 +10,9 @@ The main bulk of improper integrals is the actual integration of the function.
 
 
 # Worked Example 1
-![[Pasted image 20251209110551.png]]
+![[Pasted image 20251209111538.png]]
 
+For the case of $\int_{1}^{\infty} \frac{1}{x^{2}}$:
 Firstly, replace the infinite limit with a variable $t$ and consider the variable as it approaches $\infty$:
 $$
 \begin{gather*}
@@ -21,4 +22,19 @@ $$
 =\lim_{ t \to \infty } \left\{1 -\frac{1}{t}\right\} 
 \end{gather*}
 $$
-It is always best practice to try and get expressions simplified into fractions. 
+It is always best practice to try and get expressions simplified into fractions before considering limits:
+$$
+\begin{gather*}
+\text{As }t\to \infty, \frac{1}{t}\to 0
+\end{gather*}
+$$
+Therefore:
+$$
+\lim_{ t \to \infty } \left\{1 -\frac{1}{t}\right\}  = 1
+$$
+Thus the integral can be evaluated as the value of the limit which is $1$:
+$$
+\int_{1}^{\infty} \frac{1}{x^{2}} = 1
+$$
+
+
