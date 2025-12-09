@@ -88,6 +88,19 @@ Meaning we should try and rearrange and manipulate our expression to look someth
 \begin{gather*}
  = \frac{1}{3}(k)(2k+1)(2k-1)+(2k+1)^{2} \\ \\
  =\frac{1}{3}(2k+1)\left[k(2k-1)+3(2k+1)\right] \\ \\
- =\frac{1}{3}(k)(2k+1)\left[ 2k \right]
+ = \frac{1}{3}(k)(2k+1)\left[ 2k^{2}-k+6k+3 \right] \\ \\
+ = \frac{1}{3}(k)(2k+1)\left[ 2k^{2}+5k+3 \right] \\ \\
+ = \frac{1}{3}(k)(2k+1)(2k+3)(k+1) \\ \\
+ = \frac{1}{3}(k)(k+1)[(2k+3)(2k+1)] \\ \\ 
+ = \frac{1}{3}(k)(k+1)[4k^{2}+8k^{2}+3] \\ \\ 
+= \frac{1}{3}(k)(k+1)[4(k+1)^{2}-1)] \\ \\ 
+\therefore \text{The statement is true for } n = k+1
+\end{gather*}
+$$
+$$
+\begin{gather*}
+\text{We have proven the statement is true for n=1, n =k and for n=k } \\
+\text{Therefore, the statement is true for all n>1} \\
+QED
 \end{gather*}
 $$
