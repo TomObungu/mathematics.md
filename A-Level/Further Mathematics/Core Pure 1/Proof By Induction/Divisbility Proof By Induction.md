@@ -69,4 +69,24 @@ QED
 $$
 
 # Worked Example 2
-This is a standard example which involves reducing the power and splitting up a sum of the power terms
+This is a standard example which involves reducing the power and splitting up a sum of the power terms to get an expression in terms of $f(n)$:
+
+![[Pasted image 20251209103758.png]]
+
+Let $f(n)=2^{2n-1}+3^{2n-1}$ 
+
+Consider the case when $n=1$:
+$$
+\begin{gather*}
+f(1) = 2^{2(1)-1}+3^{2(1)-1} = 5 = 5(1) \\
+\text{Which is divisible by } 5
+\end{gather*}
+$$
+Assuming that the statement is true for $n=k$ such that $f(k)$ is divisible by 5:
+$$
+f(k) = 2^{2k-1}+3^{2k-1}
+$$
+Consider $f(k+1)-f(k)$:
+$$
+2^{2(k+1)}+3^{2(k+1)}
+$$
