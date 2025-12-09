@@ -88,5 +88,38 @@ f(k) = 2^{2k-1}+3^{2k-1}
 $$
 Consider $f(k+1)-f(k)$:
 $$
-2^{2(k+1)}+3^{2(k+1)}
+(2^{2(k+1)-1}+3^{2(k+1)-1})-(2^{2k-1}+3^{2k-1}) 
+$$
+In these scenarios, it always best to try and reduce until the powers match the original powers in the expression:
+$$
+\begin{gather*}
+= (2^{2k+1}+3^{2k+1})-(2^{2k-1}+3^{2k-1}) \\ \\
+= 4(2^{2k-1})+9(2^{2k-1}) - 2^{2k-1}-3^{2k-1} \\ \\
+= 8(3^{2k-1}) +3(2^{2k-1})
+\end{gather*}
+$$
+Now we want to try and ensure that there is a multiple of $5$ in there. We can see that $8-3=5$ so splitting up the term of $8(3^{2k-1})$ will yield a multiple of $5$ in $3^{2k-1}$ .
+
+As well as that, it will also cause there to be a multiple of $f(n)$
+$$
+\begin{gather*}
+ = 5(3^{2k-1}) + (3(3^{2k-1}) + 3(2^{2k-1})) \\ \\
+ = \underbrace{ 5(3^{2k-1}) }_{ \text{Divisible by 5} } + 3f(n)
+\end{gather*}
+$$
+Therefore:
+$$
+f(k+1) = 4f(n) + 5(3^{2k-1})
+$$
+Hence, since $f(k)$ is divisible by $5$ and $5(3^{2k-1})$ is divisible by $5$, then $f(k+1)$ is also divisible by $5$.
+
+$$
+\therefore \text{The statement is true for } n = k+1
+$$
+$$
+\begin{gather*}
+\text{We have proven the statement is true for n =1, n = k and for n = k +1} \\
+\text{Therefore, the statement is true for all n>1} \\
+QED
+\end{gather*}
 $$
