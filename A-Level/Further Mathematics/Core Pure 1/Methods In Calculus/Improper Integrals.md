@@ -21,3 +21,4 @@ $$
 =\lim_{ t \to \infty } \left\{1 -\frac{1}{t}\right\} 
 \end{gather*}
 $$
+It is always best practice to try and get expressions simplified into fractions. 
