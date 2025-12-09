@@ -180,10 +180,48 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f42d90557987c28c",
+  "floating": {
+    "id": "cbcb08cf72258c2b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5bbabd13a66b4035",
+        "type": "window",
+        "children": [
+          {
+            "id": "2a5c46e7816f49d3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6404cd4b3e7ab2b3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6404cd4b3e7ab2b3",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Series Proof By Induction.md",
+    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/attachments/Pasted image 20251209092253.png",
+    "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Invariant points and Invariant lines.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "A-Level/Further Mathematics/Core Pure 1/Linear Transformations/Linear Transformations in Three Dimensions.md",
@@ -217,7 +255,6 @@
     "A-Level/Mathematics/Integration/corrected questions/Q. integral x squared multiplied by e to x cubed.md",
     "A-Level/Mathematics/Integration/corrected questions/Q. Integral of 3x multiplied by sqrt(2x squared -4).md",
     "A-Level/Mathematics/Integration/Integration.md",
-    "A-Level/Mathematics/Binomial Expansion.md",
     "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201161129.png",
     "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201155703.png",
     "A-Level/Mathematics/Integration/corrected questions/attachments",
@@ -227,7 +264,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201015350.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230920.png",
     "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251129230346.png",
-    "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/attachments/Pasted image 20251128152225.png",
     "Untitled.canvas"
   ]
 }
