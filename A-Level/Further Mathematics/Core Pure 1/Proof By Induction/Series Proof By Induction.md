@@ -33,7 +33,7 @@ $$
 $$
 $$
 \begin{gather*}
-\text{We have proven the statement is true for n=1, n =k and for n=k } \\
+\text{We have proven the statement is true for n=1, n =k and for n=k +1} \\
 \text{Therefore, the statement is true for all n>1} \\
 QED
 \end{gather*}
@@ -99,7 +99,7 @@ Meaning we should try and rearrange and manipulate our expression to look someth
 $$
 $$
 \begin{gather*}
-\text{We have proven the statement is true for n=1, n =k and for n=k } \\
+\text{We have proven the statement is true for n=1, n =k and for n=k+1 } \\
 \text{Therefore, the statement is true for all n>1} \\
 QED
 \end{gather*}

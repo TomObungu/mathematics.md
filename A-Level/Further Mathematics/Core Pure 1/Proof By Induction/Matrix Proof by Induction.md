@@ -67,7 +67,7 @@ $$
 $$
 $$
 \begin{gather*}
-\text{We have proven the statement is true for n=1, n =k and for n=k } \\
+\text{We have proven the statement is true for n=1, n =k and for n=k+1 } \\
 \text{Therefore, the statement is true for all n>1} \\
 QED
 \end{gather*}

@@ -26,7 +26,7 @@ $$
 $$
 
 # Worked Example 1
-This is a standard example that does not involve any reduction of powers of splitting up sums of powers terms:
+This is a standard example that involves reduction of powers but not splitting up sums of powers terms:
 ![[Pasted image 20251209102028.png]]
 
 Let $f(n)=3^{2n+11}$.
@@ -38,7 +38,35 @@ f(1) = 3^{2}+11 = 20 = 4(5), \\ \text{which is divisible by } 4 \\ \\
 \therefore \text{The statement is true for } n=1
 \end{gather*}
 $$
-Assuming that the statement is true for $n=k$ $f(k)$ is divisible by $4$:
+Assuming that the statement is true for $n=k$ such that $f(k)$ is divisible by $4$:
 $$
 f(k) = 3^{2k}+11
 $$
+Consider the case $f(k+1)-f(k)$:
+$$
+\begin{gather*}
+= (3^{2(k+1)} +11) - (3^{2k}+11) \\ \\
+= 3^{2k+2}+11-3^{2k}+11 \\ \\
+= 9(3^{2k})-3^{2k} \\ \\
+=8(3^{2k}) \\ \\
+= 4(2)(3^{2k}), \text{ wich is divisible by } 4 
+
+\end{gather*}
+$$Therefore:
+$$
+f(k+1) = f(k) + 4(2)(3^{2k})
+$$
+Hence, since $f(k)$ is divisible $by$ 4 and  $4(2)(3^{2k})$ is also divisible $4$ then $f(k+1)$ is also divisible by $4$:
+$$
+\therefore \text{The statement is true for } n = k+1
+$$
+$$
+\begin{gather*}
+\text{We have proven the statement is true for n =1, n = k and for n = k +1} \\
+\text{Therefore, the statement is true for all n>1} \\
+QED
+\end{gather*}
+$$
+
+# Worked Example 2
+This is a standard example which involves reducing the power and splitting up a sum of the power terms
