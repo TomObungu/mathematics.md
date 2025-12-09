@@ -23,7 +23,18 @@ $$
 \begin{gather*}
 \sum_{r=1}^{k+1} r 2^{r} = \sum_{r=1}^{k} r2r + (k+1)2^{k+1}\\ \\
 = 2(1+(k-1)2^{k}) + (k+1)2^{k+1} \\ \\
-= 2+2^{2k+1}-2^{k}+2^{2k+1}+2^{k+1} \\ \\
-= 2(2^{2})
+= 2+(k-1)2^{k+1}+(k+1)2^{k+1} \\ \\
+= 2 +2^{k+1}(k-1+k+1) \\ \\
+= 2+2^{k+1}(2k) \\ \\
+= 2(1+k 2^{k+1}) \\ \\
+= 2(1+(k+1)-1)2^{k+1}) \\ \\
+\therefore \text{The statement is true for } n = k+1
+\end{gather*}
+$$
+$$
+\begin{gather*}
+\text{We have proven the statement is true for n=1, n =k and for n=k } \\
+\text{Therefore, the statement is true for all n>1} \\
+QED
 \end{gather*}
 $$

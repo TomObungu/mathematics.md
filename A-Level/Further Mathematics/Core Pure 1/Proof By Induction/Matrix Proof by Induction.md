@@ -61,7 +61,8 @@ $$
 = \begin{pmatrix}
 1  & 1-2^{k+1} \\
 0 &  2^{k+1}
-\end{pmatrix}
+\end{pmatrix}\\ \\
+\therefore \text{The statement is true for } n = k+1
 \end{gather*}
 $$
 $$
@@ -70,5 +71,4 @@ $$
 \text{Therefore, the statement is true for all n>1} \\
 QED
 \end{gather*}
-
 $$
