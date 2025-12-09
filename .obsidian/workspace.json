@@ -212,7 +212,7 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -252,6 +252,7 @@
   "lastOpenFiles": [
     "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
+    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209114919.png",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209111538.png",
@@ -293,7 +294,6 @@
     "A-Level/Mathematics/Integration/corrected questions/Q. Integral of 3x multiplied by sqrt(2x squared -4).md",
     "A-Level/Mathematics/Integration/Integration.md",
     "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201161129.png",
-    "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201155703.png",
     "A-Level/Mathematics/Integration/corrected questions/attachments",
     "Untitled.canvas"
   ]

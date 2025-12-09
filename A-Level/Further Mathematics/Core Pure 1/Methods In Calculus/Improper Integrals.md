@@ -61,3 +61,18 @@ $$
 $$
 
 # Worked Example 2 - Both limits are undefined/infite
+![[Pasted image 20251209114919.png]]
+In these types of questions, it is good to firstly handle the integral without the limits:
+
+Integration by u-substitution (or reverse chain rule):
+$$
+\begin{gather*}
+\int xe^{-x^{2}} \\ \\
+u = -x^{2} \qquad \frac{du}{dx} = -2x \\ \\
+\frac{du}{-2x} = dx \\ \\
+\int \cancel{ x }e^{u} \frac{du}{-2\cancel{ x }} \\ \\
+ -\frac{1}{2}\int e^{u}dx \\ \\
+ = -\frac{1}{2}e^{u} + c \\ 
+ = -\frac{1}{2}e
+\end{gather*}
+$$
