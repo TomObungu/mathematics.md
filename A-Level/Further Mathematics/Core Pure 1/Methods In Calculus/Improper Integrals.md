@@ -13,7 +13,7 @@ The main bulk of improper integrals is the actual integration of the function.
 ![[Pasted image 20251209111538.png]]
 
 For the case of $\int_{1}^{\infty} \frac{1}{x^{2}}$:
-Firstly, replace the infinite limit with a variable $t$ and consider the variable as it approaches $\infty$:
+Firstly, replace the infinite limit with a variable $t$ and consider the variable as $t$ approaches $\infty$:
 $$
 \begin{gather*}
 \lim_{ t \to \infty } \left\{ \int_{1}^{t} \frac{1}{x^{2}}\right\} \\ \\
@@ -38,3 +38,16 @@ $$
 $$
 
 
+For the case of $\int_{1}^{\infty} \frac{1}{x}dx$:
+Replace, the infinite limit with a variable $t$ and consider the limit as $t$ approaches $\infty$:
+$$
+\begin{gather*}
+\lim_{ t \to \infty } \left\{ \int_{1}^{t} \frac{1}{x}\right\} \\ \\
+= \lim_{ t \to \infty } \left\{ [\ln x]_{1}^{t}\right\} \\ \\
+= \lim_{ t \to \infty } \left\{ \ln t-\ln 1\right\} \\ \\
+=\lim_{ t \to \infty } \left\{\ln t\right\} 
+\end{gather*}
+$$
+$$
+\text{As } t\to \infty, \ln t\to \infty
+$$

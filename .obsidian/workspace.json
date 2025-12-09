@@ -212,6 +212,37 @@
         "y": 120,
         "width": 1024,
         "height": 800,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "f1600be6ac636078",
+        "type": "window",
+        "children": [
+          {
+            "id": "dfa8cc521825d6b4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9421a66eb9b00265",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "New Edexcel Core Pure 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
@@ -219,6 +250,10 @@
   },
   "active": "f42d90557987c28c",
   "lastOpenFiles": [
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209111538.png",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209110551.png",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments",
@@ -227,7 +262,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Proof By Induction.md",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/Series Proof By Induction.md",
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/attachments/Pasted image 20251209102028.png",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/attachments/Pasted image 20251209094454.png",
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/attachments/Pasted image 20251209092253.png",
@@ -238,9 +272,7 @@
     "A-Level/Further Mathematics/Core Pure 1/Proof By Induction/attachments",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/Q. The circle D, with equation (z-2-3i) = 2, intersects C at the points representing the complex numbers z1 and z2. Find complex numbers z1 and z2..md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Nth roots Of Complex Numbers.md",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
-    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Resources/Applied Year 2.pdf",
     "A-Level/Resources/Edexcel_as_alevel_statistics_mathematics_year_1_as.pdf",
     "A-Level/Mathematics/Integration/Special Cases.md",
@@ -251,7 +283,6 @@
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/Exponential (Polar) Form.md",
     "A-Level/Further Mathematics/Core Pure 1/Complex Numbers/corrected questions/attachments/Pasted image 20251202161250.png",
     "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
-    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
     "A-Level/Mathematics/Integration/Integrating using partial fractions.md",
     "A-Level/Mathematics/Integration/Reverse chain rule.md",
     "A-Level/Mathematics/Differentiation.md",
@@ -264,7 +295,6 @@
     "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201161129.png",
     "A-Level/Mathematics/Integration/corrected questions/attachments/Pasted image 20251201155703.png",
     "A-Level/Mathematics/Integration/corrected questions/attachments",
-    "A-Level/Further Mathematics/Core Pure 1/Differential Equations/attachments/Pasted image 20251201020334.png",
     "Untitled.canvas"
   ]
 }
