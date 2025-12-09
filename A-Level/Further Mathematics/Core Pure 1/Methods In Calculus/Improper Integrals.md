@@ -64,7 +64,7 @@ $$
 ![[Pasted image 20251209114919.png]]
 In these types of questions, it is good to firstly handle the integral without the limits:
 
-Integration by u-substitution (or reverse chain rule):
+Integration by u-substitution (reverse chain rule):
 $$
 \begin{gather*}
 \int xe^{-x^{2}} \\ \\
