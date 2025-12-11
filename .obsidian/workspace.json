@@ -180,80 +180,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "cbcb08cf72258c2b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5bbabd13a66b4035",
-        "type": "window",
-        "children": [
-          {
-            "id": "2a5c46e7816f49d3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6404cd4b3e7ab2b3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "f1600be6ac636078",
-        "type": "window",
-        "children": [
-          {
-            "id": "dfa8cc521825d6b4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9421a66eb9b00265",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "New Edexcel Core Pure 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9421a66eb9b00265",
+  "active": "f42d90557987c28c",
   "lastOpenFiles": [
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
-    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
-    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209114919.png",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/Improper Integrals.md",
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209114919.png",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209111538.png",
     "A-Level/Further Mathematics/Core Pure 1/Methods In Calculus/attachments/Pasted image 20251209110551.png",
