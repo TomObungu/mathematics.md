@@ -117,6 +117,12 @@ Due to the reverse change rule multiplying by $\frac{1}{-1}$
 
 $$
 \begin{gather*}
-\lim_{ t \to 0 } \int_{0}^{2} \frac{1}{\sqrt{ x }}
+\lim_{ t \to 0 } \int_{t}^{2} \frac{1}{\sqrt{ x }} \\ \\
+= \lim_{ t \to 0 } \left[ 2(2)^{\frac{1}{2}} \right] - \left[ 2(t)^{\frac{1}{2}} \right] \\ \\
+= 2\sqrt{2 }
 \end{gather*}
+$$
+Thus 
+$$
+\int_{-1}^{2} \frac{1}{\sqrt{ x }} = 2\sqrt{ 2 } + 2
 $$
