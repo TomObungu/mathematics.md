@@ -105,10 +105,18 @@ We can now evaluate these integrals as separate limits:
 $$
 \begin{gather*}
 \lim_{ t \to 0 }  \int_{-1}^{t} \frac{1}{\sqrt{ -x}} =  \int_{-1}^{t} (-x)^{-\frac{1}{2}}\\ \\
-= \lim_{ t \to 0 } \left[ -2(-t)^{\frac{1}{2}} \right] - \left[ -2(-1)^{\frac{1}{2}} \right]
+= \lim_{ t \to 0 } \left[ -2(-t)^{\frac{1}{2}} \right] - \left[ -2(-1)^{\frac{1}{2}} \right] \\
+= -2
 \end{gather*}
 $$
-Note that: 
+**Note that:** 
 $$
-\int(-x)^{-\frac{1}{2}} = -2(-x)^{}
+\int(-x)^{-\frac{1}{2}} = -2(-x)^{\frac{1}{2}}
+$$
+Due to the reverse change rule multiplying by $\frac{1}{-1}$
+
+$$
+\begin{gather*}
+\lim_{ t \to 0 } \int_{0}^{2} \frac{1}{\sqrt{ x }}
+\end{gather*}
 $$
