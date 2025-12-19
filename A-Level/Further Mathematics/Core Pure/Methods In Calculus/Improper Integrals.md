@@ -79,4 +79,18 @@ $$
 
 ## Worked Example 3 - Integral with absolute value in it:
 ![[Pasted image 20251219125749.png]]
-For the special problem, you first need to identify the limits 
+For the special problem, you first need to identify when the function is undefined, it is at when $x=0$ thus we are going to split the integral into:
+$$
+\int_{-1}^{0} \frac{1}{\sqrt{| x| }} \qquad \int_{0}^{2} \frac{1}{\sqrt{ |x| }}
+$$
+
+And set our variable limit as $t=0$.:
+Now consider:
+$$
+\int_{-1}^{0} \frac{1}{\sqrt{| x| }} 
+$$
+When $x$ is negative, e.g. $-1$, $-1$ becomes $1$. This has the same effect as doing $-x$. Thus we can write the integral as:
+$$
+\int_{-1}^{0} \frac{1}{\sqrt{ -x}} 
+$$
+Also 
