@@ -79,3 +79,4 @@ $$
 
 ## Worked Example 3 - Integral with absolute value in it:
 ![[Pasted image 20251219125749.png]]
+For the special problem, you first need to identify the limits 
