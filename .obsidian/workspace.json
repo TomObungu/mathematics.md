@@ -180,10 +180,49 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7504e1836e7feb25",
+  "floating": {
+    "id": "127249aa4befd88c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5e35a94df2b0ef97",
+        "type": "window",
+        "children": [
+          {
+            "id": "d4bdf93db7f53902",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41abc1d7bc45d306",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "New Edexcel Core Pure 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "45ec31e6dad69e6a",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
+    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/attachments/Pasted image 20251219125749.png",
     "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Improper Integrals.md",
+    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/Proof By Induction.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/Divisbility Proof By Induction.md",
@@ -206,7 +245,6 @@
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the y-axis.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the x-axis.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/corrected questions",
-    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Improper Integrals.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Complex Geometric Series.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Roots of polynomials.md",

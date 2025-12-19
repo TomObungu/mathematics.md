@@ -76,3 +76,6 @@ u = -x^{2} \qquad \frac{du}{dx} = -2x \\ \\
  = -\frac{1}{2}e
 \end{gather*}
 $$
+
+## Worked Example 3 - Integral with absolute value in it:
+![[Pasted image 20251219125749.png]]
