@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f9c415c3ac09f0",
+        "id": "854ff31273639598",
         "type": "tabs",
         "children": [
           {
-            "id": "5c830eb73971e7e1",
+            "id": "45ec31e6dad69e6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Series Proof By Induction"
+              "title": "New tab"
             }
           }
         ]
@@ -181,37 +177,39 @@
     }
   },
   "floating": {
-    "id": "770d65223574e07b",
+    "id": "3a15db57d4430f69",
     "type": "floating",
     "children": [
       {
-        "id": "edb767054f4734fd",
+        "id": "f349346c8fbca4c4",
         "type": "window",
         "children": [
           {
-            "id": "463cfcaf87e0c1b7",
+            "id": "a9167044f1f16a1f",
             "type": "tabs",
             "children": [
               {
-                "id": "f42d90557987c28c",
+                "id": "5c830eb73971e7e1",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
+                    "file": "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-file-text",
-                  "title": "New Edexcel Core Pure 2"
+                  "icon": "lucide-file",
+                  "title": "Series Proof By Induction"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 902,
-        "y": 180,
-        "width": 960,
-        "height": 1040,
+        "x": 574,
+        "y": 15,
+        "width": 600,
+        "height": 1000,
         "maximize": false,
         "zoom": 0
       }
@@ -219,6 +217,8 @@
   },
   "active": "5c830eb73971e7e1",
   "lastOpenFiles": [
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
+    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/Proof By Induction.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/Matrix Proof by Induction.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/Divisbility Proof By Induction.md",
@@ -227,7 +227,6 @@
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Using boundary conditions.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Non-Homogeneous differential equations.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Homogeneous Differential Equations.md",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Osborne's Rule; Hyperbolic trig. identites.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Hyperbolic Functions.md",
@@ -255,11 +254,9 @@
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/attachments/Pasted image 20251209110551.png",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/attachments",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments/Pasted image 20251209103758.png",
-    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments/Pasted image 20251209102028.png",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments/Pasted image 20251209094454.png",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments/Pasted image 20251209092253.png",
-    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments/Pasted image 20251209084109.png",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments",
     "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
