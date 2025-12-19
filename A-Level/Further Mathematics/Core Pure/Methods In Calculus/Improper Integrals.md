@@ -93,4 +93,22 @@ When $x$ is negative, e.g. $-1$, $-1$ becomes $1$. This has the same effect as d
 $$
 \int_{-1}^{0} \frac{1}{\sqrt{ -x}} 
 $$
-Also 
+Now consider:
+$$
+\int_{0}^{2} \frac{1}{\sqrt{ |x| }}
+$$
+When $x$ is positive, $|x|$ leaves x unchanged thus we can write the integral as:
+$$
+\int_{0}^{2} \frac{1}{\sqrt{ x }}
+$$
+We can now evaluate these integrals as separate limits:
+$$
+\begin{gather*}
+\lim_{ t \to 0 }  \int_{-1}^{t} \frac{1}{\sqrt{ -x}} =  \int_{-1}^{t} (-x)^{-\frac{1}{2}}\\ \\
+= \lim_{ t \to 0 } \left[ -2(-t)^{\frac{1}{2}} \right] - \left[ -2(-1)^{\frac{1}{2}} \right]
+\end{gather*}
+$$
+Note that: 
+$$
+\int(-x)^{-\frac{1}{2}} = -2(-x)^{}
+$$
