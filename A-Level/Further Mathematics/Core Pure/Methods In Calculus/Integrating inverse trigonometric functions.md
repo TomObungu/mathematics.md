@@ -9,7 +9,7 @@ $$
 Thus in general when integrating:
 $$
 \begin{gather*}
-\int \frac{1}{a+x^{2}} = \frac{1}{a}\arctan\left( \frac{x}{a} \right) + c \\ \\
+\int \frac{1}{a^{2}+x^{2}} = \frac{1}{a}\arctan\left( \frac{x}{a} \right) + c \\ \\
 \int \frac{1}{\sqrt{ a^{2}-x^{2} }} = \arcsin\left( \frac{x}{a} \right) + c
 \end{gather*}
 $$
@@ -18,6 +18,19 @@ $$
 $$
 \begin{gather*}
 \int \frac{4}{5+x^{2}} dx \\ \\
-= 4\int
+= 4\int \frac{1}{5+x^{2}} = 4\left( \frac{1}{\sqrt{ 5 }}\arctan\left( \frac{1}{\sqrt{ 5 }} \right) \right) + c
 \end{gather*}
 $$
+# Worked Example 2
+For cases when the coefficient of $x$ is not 1. It is possible to factor out the coefficient and write it in the form $k(a^{2}+x^{2})$:
+
+E.g. Find $\int \frac{1}{25+9x^{2}}$
+$$
+\begin{gather*}
+\int \frac{1}{25+9x^{2}}dx = \int \frac{1}{9\left( \frac{25}{9}+x^{2} \right)} \\ \\
+= \frac{1}{9}\int \frac{1}{\frac{25}{9}+x^{2}} = \frac{1}{9}\int \frac{1}{\left( \frac{5}{3} \right)^{2}+(x)^{2}} \\ \\
+= \frac{1}{9}\left( \frac{3}{5} \right)\arctan\left( \frac{3x}{5} \right) + c \\ \\
+= \frac{1}{15}\arctan\left( \frac{3x}{5} \right)+c
+\end{gather*} 
+$$
+
