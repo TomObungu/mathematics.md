@@ -60,7 +60,7 @@ $$
 \therefore \int_{1}^{\infty} \frac{1}{x}dx \text{ is divergent}
 $$
 
-# Worked Example 2 - Both limits are undefined/infite
+# Worked Example 2 - Both limits are undefined/infinte
 ![[Pasted image 20251209114919.png]]
 In these types of questions, it is good to firstly handle the integral without the limits:
 
@@ -73,10 +73,29 @@ u = -x^{2} \qquad \frac{du}{dx} = -2x \\ \\
 \int \cancel{ x }e^{u} \frac{du}{-2\cancel{ x }} \\ \\
  -\frac{1}{2}\int e^{u}dx \\ \\
  = -\frac{1}{2}e^{u} + c \\ 
- = -\frac{1}{2}e
+ = -\frac{1}{2}e^{-x^{2}}
 \end{gather*}
 $$
 
+If both limit of an integral are infinite, then you need to split the integral into the sum of two improper integrals. In other words, you write:
+$$
+\int_{-\infty}^{\infty} f(x) \, dx = \int_{-\infty}^{c}f(x) dx  + \int_{c}^{\infty}f(x)dx
+$$
+From some value c. 
+
+If both of these integrals converge, then the original integral converges. However if any of the them diverges, the original integral is also divergent. 
+
+In the case of $\int_{\infty}^{\infty}xe^{-x^{2}}dx$:
+
+Split it into:
+$$
+\int_{\infty}^{0}xe^{-x^{2}}dx + \int_{0}^{\infty}xe^{-x^{2}}
+$$
+
+Consider:
+$$
+\lim_{ t \to \infty } \int_{t}^{0}xe^{-x^{2}}=\lim_{ t \to \infty } \left[ -\frac{1}{2}e^{2} \right]
+$$
 ## Worked Example 3 - Integral with absolute value in it:
 ![[Pasted image 20251219125749.png]]
 For the special problem, you first need to identify when the function is undefined, it is at when $x=0$ thus we are going to split the integral into:
