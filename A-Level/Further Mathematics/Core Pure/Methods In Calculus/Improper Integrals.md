@@ -91,11 +91,21 @@ Split it into:
 $$
 \int_{\infty}^{0}xe^{-x^{2}}dx + \int_{0}^{\infty}xe^{-x^{2}}
 $$
-
+Thus the integral converges
 Consider:
 $$
-\lim_{ t \to \infty } \int_{t}^{0}xe^{-x^{2}}=\lim_{ t \to \infty } \left[ -\frac{1}{2}e^{2} \right]
+\lim_{ t \to \infty } \int_{t}^{0}xe^{-x^{2}}=\lim_{ t \to \infty } \left[ -\frac{1}{2}e^{-0^{2}}+\frac{1}{2}e^{-t^{2}} \right] = -\frac{1}{2}
 $$
+Similarly, consider:
+$$
+\lim_{ t \to \infty } \int_{0}^{t}xe^{-x^{2}}dx = \lim_{ t \to \infty } \left[ -\frac{1}{2}e^{-t^{2}}+\frac{1}{2}e^{-0^{2}} \right] = \frac{1}{2}
+$$
+Thus the integral also converges.
+Therefore:
+$$
+\int_{\infty}^{\infty}xe^{-x^{2}}dx = \int_{\infty}^{0}xe^{-x^{2}}dx + \int_{0}^{\infty}xe^{-x^{2}} = -\frac{1}{2} + \frac{1}{2} = 0
+$$
+
 ## Worked Example 3 - Integral with absolute value in it:
 ![[Pasted image 20251219125749.png]]
 For the special problem, you first need to identify when the function is undefined, it is at when $x=0$ thus we are going to split the integral into:
