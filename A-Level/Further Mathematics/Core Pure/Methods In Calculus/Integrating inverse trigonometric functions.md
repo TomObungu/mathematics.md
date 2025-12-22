@@ -14,3 +14,10 @@ $$
 \end{gather*}
 $$
 
+# Worked Example 1
+$$
+\begin{gather*}
+\int \frac{4}{5+x^{2}} dx \\ \\
+= 4\int
+\end{gather*}
+$$
