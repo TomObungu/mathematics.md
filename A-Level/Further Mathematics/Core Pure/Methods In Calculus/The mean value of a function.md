@@ -1,1 +1,1 @@
-If the function $f(x)$ has a mean value $\bar{f}$  over the interval $[a,b]$, and $k$ is a real constant 
+Finding mean value of a function on a given interval $[a,b]$ will involve taking an infinite number of values

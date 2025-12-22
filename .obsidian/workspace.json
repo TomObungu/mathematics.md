@@ -185,21 +185,23 @@
     "type": "floating",
     "children": [
       {
-        "id": "5e35a94df2b0ef97",
+        "id": "4684a4b83ed0a62f",
         "type": "window",
         "children": [
           {
-            "id": "d4bdf93db7f53902",
+            "id": "d59f8d37b80fe8cf",
             "type": "tabs",
             "children": [
               {
-                "id": "41abc1d7bc45d306",
+                "id": "44ae8f13cce9e3bf",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
                 }
               }
             ]
@@ -215,11 +217,11 @@
       }
     ]
   },
-  "active": "41abc1d7bc45d306",
+  "active": "45ec31e6dad69e6a",
   "lastOpenFiles": [
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
-    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/The mean value of a function.md",
+    "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating inverse trigonometric functions.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Improper Integrals.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the x-axis.md",
@@ -261,7 +263,6 @@
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments/Pasted image 20251209092253.png",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments/Pasted image 20251209084109.png",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/attachments",
-    "A-Level/Resources/Edexcel_as_alevel_pure_mathematics_year_1_as.pdf",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20251202161250.png",
     "Untitled.canvas"
   ]
