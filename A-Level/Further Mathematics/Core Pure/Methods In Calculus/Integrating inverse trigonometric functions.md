@@ -45,5 +45,16 @@ $$
 = \frac{1}{2}\arcsin\left( \frac{2x}{\sqrt{ 3 }} \right) + c
 \end{gather*}
 $$
+# Worked Example 4
+In cases when you have linear terms on the numerator. The integral can be split into a fraction wich can be integrated using the reverse chan rule:
 
+E.g. Find $\int \frac{x+4}{\sqrt{ 1-4x^{2} }}$:
+
+$$
+\begin{gather*}
+\int \frac{x+4}{\sqrt{ 1-4x^{2} } } = \int \frac{x}{\sqrt{ 1-4x^{2} }} + \int \frac{4}{\sqrt{ 1-4x^{2} }} \\ \\
+\int x(1-4x^{2})^{-\frac{1}{2}} +4\int \frac{1}{\sqrt{ 4\left( \frac{1}{4}-x^{2} \right) }} \\ \\
+= -\frac{1}{8}()
+\end{gather*}
+$$
 
