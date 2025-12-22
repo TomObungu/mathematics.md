@@ -37,5 +37,13 @@ $$
 ## Worked Example 3
 For cases dealing with the integral of $\frac{1}{\sqrt{ a-kx^{2} }}$, factor out the $k$ within the square root and then consider the square roof of $k$ as a factor on the outside:
 
-E.g. Find $\frac{1}{\sqrt{ 3-4x^{2} }}$
+E.g. Find $\int\frac{1}{\sqrt{ 3-4x^{2} }}$
+$$
+\begin{gather*}
+\int \frac{1}{\sqrt{ 3-4x^{2} }} = \int \frac{1}{\sqrt{ 4\left( \frac{3}{4}-x^{2} \right) }} \\ \\
+= \frac{1}{2}\int \frac{1}{\sqrt{ \left( \frac{\sqrt{ 3 }}{2} \right)^{2}-(x)^{2} }} \\ \\
+= \frac{1}{2}\arcsin\left( \frac{2x}{\sqrt{ 3 }} \right) + c
+\end{gather*}
+$$
+
 
