@@ -1,0 +1,1 @@
+If the function $f(x)$ has a mean value $\bar{f}$  over the interval $[a,b]$, and $k$ is a real constant 
