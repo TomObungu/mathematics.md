@@ -54,7 +54,8 @@ $$
 \begin{gather*}
 \int \frac{x+4}{\sqrt{ 1-4x^{2} } } = \int \frac{x}{\sqrt{ 1-4x^{2} }} + \int \frac{4}{\sqrt{ 1-4x^{2} }} \\ \\
 \int x(1-4x^{2})^{-\frac{1}{2}} +4\int \frac{1}{\sqrt{ 4\left( \frac{1}{4}-x^{2} \right) }} \\ \\
-= -\frac{1}{8}()
+= -\frac{1}{4}(1-4x^{2})^{\frac{1}{2}}+2\arcsin (2x)+c
 \end{gather*}
 $$
+
 
