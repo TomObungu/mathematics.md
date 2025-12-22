@@ -196,12 +196,10 @@
                 "id": "41abc1d7bc45d306",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/New Edexcel Core Pure 2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "New Edexcel Core Pure 2"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               }
             ]
@@ -217,8 +215,9 @@
       }
     ]
   },
-  "active": "45ec31e6dad69e6a",
+  "active": "41abc1d7bc45d306",
   "lastOpenFiles": [
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Resources/New Edexcel Core Pure 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/The mean value of a function.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating inverse trigonometric functions.md",
