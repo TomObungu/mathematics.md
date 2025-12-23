@@ -64,6 +64,10 @@ As the $\cosh(x) = \frac{e^{x}+e^{-x}}{2}$, then graph of $\cosh(x)$ is just the
 ![[Pasted image 20251223172422.png]]
 ![[Pasted image 20251223172755.png]]
 
+### Approximations
+As $x$ is very large and positive, $\cosh x \approx \frac{1}{2}e^{-x}$
+As $x$ is very large and negative, $\cosh x \approx \frac{1}{2}e^{-x}$
+![[Pasted image 20251223181508.png]]
 # Hyperbolic tangent 
 By using the definitions of $\cosh(x)$ and $\sinh(x)$, it is possible to write $\tanh(x)$ in exponential form:
 $$
@@ -80,5 +84,9 @@ You can sketch the graphs of $\cosh(x)$ and $\sinh(x)$ and see that for very lar
 ### Approximations
 As $x$ is very large and is positive: $\tanh x \approx {1}$
 As $x$ is very large and is negative: $\tanh x\approx -1$
+As $\tanh x$ is an odd function, $\tanh(-a)=-\tan h(a)$
+# Hyperbolic reciprocal trigonometric functions
 
-## 
+$$
+\cosh
+$$
