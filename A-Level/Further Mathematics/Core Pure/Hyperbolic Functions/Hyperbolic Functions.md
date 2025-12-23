@@ -46,12 +46,18 @@ $$
 $$
 
 ## Graphs of hyperbolic sine and cosine
-You can sketch the graphs of hyberbolic functions by considering the graphs of $y=e^{x}$ and $y=e^{-x}$. 
+
+## Graph of $\sinh(x)$
+You can sketch the graphs of hyberbolic functions by considering the graphs of $y=e^{x}$ and $y=-e^{-x}$. 
 The graph of $\sinh x$ is the 'average' of the graphs of $y=e^{x}$ and $y=e^{-x}$:
 ![[Pasted image 20251223171927.png]]
 ![[Pasted image 20251223172046.png]]
 
-## Approximations:
+### Approximations:
 ![[Pasted image 20251223172002.png]]
 
 
+## Graph of $\cosh(x)$
+As the $\cosh(x) = \frac{e^{x}+e^{-x}}{2}$, then graph of $\cosh(x)$ is just the 'average' of $y=e^{x}$ and $y=e^{-x}$:
+![[Pasted image 20251223172422.png]]
+![[Pasted image 20251223172446.png]]
