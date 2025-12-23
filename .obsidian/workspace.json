@@ -180,48 +180,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "127249aa4befd88c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4684a4b83ed0a62f",
-        "type": "window",
-        "children": [
-          {
-            "id": "d59f8d37b80fe8cf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "44ae8f13cce9e3bf",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "45ec31e6dad69e6a",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223172755.png",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Hyperbolic Functions.md",
+    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223172755.png",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223172704.png",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223172646.png",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223172446.png",
@@ -235,7 +198,6 @@
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the x-axis.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/attachments/Pasted image 20251223154052.png",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/attachments/Pasted image 20251223151133.png",
-    "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/attachments/Pasted image 20251223145333.png",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/attachments",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating partial fractions.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating completing the square using inverse trigonometry.md",

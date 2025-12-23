@@ -70,3 +70,6 @@ $$
 = \boxed{ \frac{e^{x}-e^{-x}}{e^{x}+e^{-x}} }
 \end{gather*}
 $$
+
+## Graph of hyperbolic tangent
+You can sketch the graphs of $\cosh(x)$ and $\sinh(x)$ and see that for very large values of $x$, $e^{-x}\to {0}$ thus $\cosh(x)$
