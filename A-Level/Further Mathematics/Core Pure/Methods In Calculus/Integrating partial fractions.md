@@ -2,6 +2,36 @@ It can be shown that:
 $$
 \int \frac{1}{a^{2}-x^{2}} = \frac{1}{2a}\ln\left|  \frac{a+x}{a-x}\right| + c
 $$
+
+# Proof
+This case can be proved using partial fractions and then integrating:
+$$\begin{gather*}
+\frac{1}{a^{2}-x^{2}} = \frac{1}{(a+x)(a-x)} \\ \\
+= \frac{A}{(a+x)} + \frac{B}{(a-x)} \\ \\
+1 = A(a-x) + B(a+x) \\ \\
+\text{Let } x = -a: \\ 
+1 = 2aA  \\
+A = \frac{1}{2a} \\ \\
+\text{Let } x = a: \\ \\
+1 = -2aB \\ 
+B = -\frac{1}{2a} \\ \\
+\frac{1}{a^{2}-x^{2}} = \frac{\frac{1}{2a}}{a+x}-\frac{\frac{1}{2a}}{a-x}
+\end{gather*}
+$$
+Thus writing the form and integrating:
+$$
+\begin{gather*}
+\int \frac{1}{a^{2}-x^{2}} = \int \frac{\frac{1}{2a}}{a+x}-\frac{\frac{1}{2a}}{a-x} \\ \\
+= \frac{1}{2a}\ln|a+x| - \frac{1}{2a}\ln|a-x| + c
+\end{gather*}
+$$
+Simplifying using rules of logarithms:
+$$
+\boxed{ \frac{1}{2a}\ln\left| \frac{a+x}{a-x} \right| + c}
+$$
+
+--- 
+
 As well as that, if the denominator or a partial fraction includes a a quadratic factor of the term $(x^{2}+c)$ you cannot write it as a product of linear factors with real coefficients. 
 
 However, it is possible to write it in partial fractions, where the partial fraction corresponding to the quadratic factor has a linear numerator and a quadratic denominator. 
