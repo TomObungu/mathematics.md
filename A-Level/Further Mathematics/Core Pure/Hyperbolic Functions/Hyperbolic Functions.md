@@ -1,23 +1,23 @@
 From Euler's identity, we know that:
 $$
-e^{ix}=\cos x + i\sin x
+e^{i\theta}=\cos \theta + i\sin \theta
 $$
 and:
 $$
-e^{-ix} = \cos x - i\sin x
+e^{-i\theta} = \cos \theta - i\sin \theta
 $$
-Thus it possible to use these equations to form identities for $\cos x$:
+Thus it possible to use these equations to form identities for $\cos \theta$:
 $$
 \begin{gather*}
-e^{ix}+e^{-ix} = 2\cos x \\ \\
-\frac{e^{ix}+e^{-ix}}{2} = \cos x \\ \\
+e^{i\theta}+e^{-i\theta} = 2\cos \theta \\ \\
+\frac{e^{i\theta}+e^{-i\theta}}{2} = \cos \theta \\ \\
 \end{gather*}
 $$
- and $i\sin x$:
+ and $i\sin \theta$:
  $$
  \begin{gather*}
-e^{ix}-e^{-ix} = 2i\sin x \\ \\
-\frac{e^{ix}-e^{-ix}}{2} = i\sin x
+e^{i\theta}-e^{-i\theta} = 2i\sin \theta \\ \\
+\frac{e^{i\theta}-e^{-i\theta}}{2} = i\sin \theta
 \end{gather*}
 $$
 
