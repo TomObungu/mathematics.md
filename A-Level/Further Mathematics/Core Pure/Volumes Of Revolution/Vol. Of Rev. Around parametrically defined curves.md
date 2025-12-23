@@ -12,5 +12,5 @@ $$
 V = \pi \int_{y=a}^{y=b}x^{2}dy = \pi \int_{y=a}^{y=b}x^{2} \frac{dy}{dt}dt
 $$
 
-
-
+# Worked Example 1
+![[Pasted image 20251223154052.png]]
