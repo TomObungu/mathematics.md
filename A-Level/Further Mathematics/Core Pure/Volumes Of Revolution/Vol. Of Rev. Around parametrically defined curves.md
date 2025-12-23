@@ -4,6 +4,6 @@ The volume of revolution formed by the parametric curve with equations $x=f(t)$ 
 
 is rotated through $2\pi$ radians about the x-axis between $x=a$ and $x=b$ is given by:
 $$
-V = \pi inx
+V = \pi \int_{x=a}^{x=b}x^{2} dx = \pi \int_{x=a}^{x=b}x^{2} \frac{dx}{}
 $$
 
