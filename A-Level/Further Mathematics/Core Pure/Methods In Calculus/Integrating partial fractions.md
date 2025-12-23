@@ -10,3 +10,19 @@ However, it is possible to write it in partial fractions, where the partial frac
 
 Find the values of $A$ and $B$ by multiplying both sides and comparing coefficients.
 ![[Pasted image 20251223074546.png]]
+
+## Worked Example 1
+![[Pasted image 20251223074846.png]]
+Start by expressing the rational function as partial fractions, with linear terms for any denominator in the form $(x^{2}+c)$, $c>0$:
+$$
+\frac{1+x}{x(x^{2}+9)} = \frac{A}{x} + \frac{Bx+c}{x^{2}+9}
+$$
+
+Notice that if the denominator is a linear term, you expression the variable numerator as a constant
+
+If the denominator is a quadratic terms that cannot be expressed is a product of linear terms, write the variable numerator as a linear terms:
+$$
+\frac{Bx+c}{}
+$$
+
+if the de
