@@ -80,7 +80,7 @@ $$
 = \frac{1}{9} \int  \frac{1}{x} - \frac{1}{9}\int \frac{x}{x^{2}+9} + \int \frac{1}{x^{2}+9}
 \end{gather*}
 $$
-Now all of these integrals can be either written down:
+Now all of these integrals can be written down:
 $$
 \begin{gather*}
 = \frac{1}{9}\ln x + \frac{1}{18}x\ln|x^{2}+9| + \frac{1}{3}\arctan\left( \frac{x}{3}+ \right) + c
