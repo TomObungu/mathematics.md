@@ -26,3 +26,29 @@ Now it is possible to write down the answer using the formula: $\int \frac{1}{a^
 $$
 = \frac{1}{\sqrt{ 15 }}\arctan\left( \frac{x+1}{\sqrt{ 15 }} \right)+c
 $$
+
+However, below is a formal proof of why this works:
+## Proof
+$$
+\begin{gather*}
+\int \frac{1}{(x+1)^{2}+(\sqrt{ 15 })^{2}} \\ \\
+\text{Let }x+1 = \sqrt{ 15 }\tan\theta \\ 
+\frac{dx}{d\theta} = \sqrt{ 15 }\sec ^{2}\theta \\ 
+dx = \sqrt{ 15 }\sec ^{2}\theta d\theta \\ \\
+\int \frac{1}{15(\tan ^{2}\theta+1)}\sqrt{ 15 }\sec ^{2}\theta d\theta \\ \\
+\int \frac{1}{(\sqrt{ 15 })^{2}(\sec ^{2}d\theta)}\sec ^{2}\theta d\theta \\ \\
+= \int \frac{1}{\sqrt{ 15 } } = \frac{1}{\sqrt{ 15 }}\theta+c \\ \\
+\arctan\left(\frac{x+1}{\sqrt{ 15 }}\right) =x \\ \\
+\therefore \frac{1}{\sqrt{ 15 }}\arctan\left(\frac{x+1}{\sqrt{ 15 }}\right) +c
+\end{gather*} 
+$$
+
+# Example 1
+The same can be done with quadratics that have coefficients on the $x^{2}$ terms:
+$$
+\int \frac{1}{3x^{2}+6x+52}
+$$
+Completing the square:
+$$
+3x^{2}+6x+52 = 3()
+$$
