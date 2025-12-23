@@ -58,9 +58,10 @@ $$
 \frac{Bx+d}{x^{2}+k}
 $$
 
-If the denominator were to be a cubic that cannot be factored into real linear terms:
+## Cubics 
+If the denominator were to be a cubic that cannot be factored into the product of real linear terms:
  
- e.g. $x^{3}+x$,  it can either be factored into the product of a quadratic in the form  $(x^{2}+c), c>0$ 
+ e.g. $x^{3}+x$,  it can either be factored into the product of a linear and an irreducible quadratic in the form  $(x^{2}+c), c>0$ 
  $$
 \frac{1}{x^{3}+x} = \frac{1}{x(x^{2}+1)} = \frac{A}{x} + \frac{Bx+C}{x^{2}+1}
 $$
@@ -69,8 +70,21 @@ $$
 \frac{1}{x^{3}+2x^{2}+5x} = \frac{1}{x(x^{2}+2x+5)}
 $$
 
-You can also see that if the denominator were an unfactorable **quartic** that cannot be written written as the product of linear terms:
-e.g $x^{4}+5$, you would write the numerator as a cubic term:
+## Quartics and higher
+You can also see that if the denominator were a **quartic** that cannot be factored into the product of real linear terms and that is not easily factorable 
+e.g $x^{4}+5$, then you can write the numerator as a cubic term:
 $$
 \frac{1}{x(x^{4}+5)} = \frac{A}{x} + \frac{Bx^{3}+Cx^{2}+Dx+E}{x^{4}+5}
 $$
+NOTE: According to a fundamental rule of algebra, every polynomial with real coefficients can be factored into a product of linear and irreducible quadratic factors. In the example above, it possible to take the approach of factoring $x^{4}+5$ into irreducible quadratics and writing the numerator as linear terms, e.g.:
+$$
+x^{4}+5 = (x^{2}+\sqrt{ 2\sqrt{ 5 } }+\sqrt{ 5 })(x^{2}-\sqrt{ 2\sqrt{ 5 } }+\sqrt{ 5 })
+$$
+Then:
+$$
+\begin{gather*}
+\frac{1}{x(x^{4}+5)} = \frac{1}{x(x^{2}+\sqrt{ 2\sqrt{ 5 } }+\sqrt{ 5 })(x^{2}-\sqrt{ 2\sqrt{ 5 } }+\sqrt{ 5 })} \\ \\ 
+= \frac{A}{x} + \frac{Bx+C}{(x^{2}+\sqrt{ 2\sqrt{ 5 } }+\sqrt{ 5 })} + \frac{Dx+E}{(x^{2}-\sqrt{ 2\sqrt{ 5 } }+\sqrt{ 5 })}
+\end{gather*}
+$$
+Which can then be solved. However this deals with irrational coefficients.
