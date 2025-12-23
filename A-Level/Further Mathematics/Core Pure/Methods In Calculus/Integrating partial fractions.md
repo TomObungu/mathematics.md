@@ -53,9 +53,9 @@ $$
 \frac{A}{x+c}
 $$
 
-If the denominator is a quadratic terms that cannot be expressed is a product of linear terms, write the variable numerator as a linear terms:
+If the denominator is a quadratic terms that cannot be expressed is a product of real linear terms, write the variable numerator as a linear terms:
 $$
 \frac{Bx+d}{x^{2}+k}
 $$
 
-If the denominator were to be 
+If the denominator were to be a cubic that cannot be factored into real linear terms e.g. $x^{3}+x$,  it can either be factored into a quadratic in the form  
