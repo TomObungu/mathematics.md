@@ -13,6 +13,23 @@ $$
 \int \frac{1}{\sqrt{ a^{2}-x^{2} }} = \arcsin\left( \frac{x}{a} \right) + c
 \end{gather*}
 $$
+# Proof of $\int \frac{1}{a^{2}+x^{2}} = \frac{1}{a}\arctan\left( \frac{x}{a} \right) + c$
+
+$$
+\begin{gather*}
+\int \frac{1}{a^{2}+x^{2}} \\ \\  \text{Let } x =a\tan\theta \\
+\frac{dx}{d\theta} = a\sec ^{2}\theta \\
+dx = a\sec ^{2}\theta d\theta \\ \\
+\int \frac{1}{a^{2}+a^{2}\tan ^{2}\theta} a\sec ^{2}d\theta \\ \\
+\int \frac{1}{a^{2}(\sec ^{2}\theta)}a\sec ^{2}d\theta \\ \\
+\int \frac{1}{a} d\theta = \frac{1}{a}\theta + c \\ \\
+\arctan\left(\frac{x}{a}\right)=x \\ \\
+\therefore \frac{1}{a}\arctan\left( \frac{x}{a} \right)+C \\
+QED
+\end{gather*}
+$$
+
+
 
 # Worked Example 1
 $$
