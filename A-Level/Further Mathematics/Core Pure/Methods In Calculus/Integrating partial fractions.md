@@ -45,9 +45,10 @@ Find the values of $A$ and $B$ by multiplying both sides and comparing coefficie
 ![[Pasted image 20251223074846.png]]
 Start by expressing the rational function as partial fractions, with linear terms for any denominator in the form $(x^{2}+c)$, $c>0$:
 $$
-\frac{1+x}{x(x^{2}+9)} = \frac{A}{x} + \frac{Bx+c}{x^{2}+9}
+\frac{1+x}{x(x^{2}+9)} = \frac{A}{x} + \frac{Bx+C}{x^{2}+9}
 $$
 
+---
 Notice that if the denominator is a linear term, you expression the variable numerator as a constant
 $$
 \frac{A}{x+c}
@@ -58,16 +59,36 @@ $$
 \frac{Bx+d}{x^{2}+k}
 $$
 
+---
+
 Multiplying out and equating the coefficients:
 $$
 \begin{gather*}
-1+x= A(x^{2}+9) + (Bx+c)x \\ \\
-1+x = Ax^{2}+9A
+1+x= A(x^{2}+9) + (Bx+C)x \\ \\
+0x^{2}+x+1 = Ax^{2}+9A+Bx^{2}+Cx \\ \\
+0x^{2}+x+1 = x^{2}(A+B)+x(C)+9A \\ \\
+1 = 9A \implies A= \frac{1}{9} \\
+C=1\\
+A+B=0 \implies B = -\frac{1}{9} 
+\end{gather*}
+$$
+Therefore:
+Do not forget to split integrals into their individual components if the numerator is a sum.
+$$
+\begin{gather*}
+\int \frac{1+x}{x(x^{2}+9)}  = \int \frac{\frac{1}{9}}{x} + \frac{-\frac{1}{9}x + 1}{x^{2}+9} \\ \\ 
+= \frac{1}{9} \int  \frac{1}{x} - \frac{1}{9}\int \frac{x}{x^{2}+9} + \int \frac{1}{x^{2}+9}
+\end{gather*}
+$$
+Now all of these integrals can be either written down:
+$$
+\begin{gather*}
+= \frac{1}{9}\ln x + \frac{1}{18}x\ln|x^{2}+9| + \frac{1}{3}\arctan\left( \frac{x}{3}+ \right) + c
 \end{gather*}
 $$
 
-## Cubics denominators
-If the denominator were to be a cubic that cannot be factored into the product of real linear terms:
+## Cubic denominators
+If the denominator were to be a cubic that cannot be easily factored into the product of real linear terms:
  
  e.g. $x^{3}+x$,  it can either be factored into the product of a linear and an irreducible quadratic in the form  $(x^{2}+c), c>0$ 
  $$
