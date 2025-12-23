@@ -4,7 +4,7 @@ The volume of revolution formed by the parametric curve with equations $x=f(t)$ 
 
 is rotated through $2\pi$ radians about the x-axis between $x=a$ and $x=b$ is given by:
 $$
-V = \pi \int_{x=a}^{x=b}x^{2} dx = \pi \int_{x=a}^{x=b}x^{2} \frac{dx}{dt}dt
+V = \pi \int_{x=a}^{x=b}y^{2} dx = \pi \int_{x=a}^{x=b}y^{2} \frac{dx}{dt}dt
 $$
 
 is rotated through $2\pi$ radians about the x-axis between $y=a$ and $y=b$ given by:
@@ -14,3 +14,14 @@ $$
 
 # Worked Example 1
 ![[Pasted image 20251223154052.png]]
+$$
+\begin{gather*}
+x=t(1+t) = t^{2}+t\\ 
+\frac{dx}{dt} = 2t+ 1 \\ \\
+y = \frac{1}{1+t} \qquad y^{2} = \frac{1}{(1+t)^{2}} \\ \\
+x = 0 \implies t = 0 \\ 
+x = 2 \implies t = 1 \\ \\
+V = \pi \int_{0}^{1} \frac{1}{(1+t)^{2}}(1+t)dt = \pi \int_{0}^{1} \frac{1}{1+t}dt =
+
+\end{gather*}
+$$
