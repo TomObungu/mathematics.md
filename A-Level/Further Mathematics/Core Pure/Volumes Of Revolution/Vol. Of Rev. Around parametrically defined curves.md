@@ -9,6 +9,8 @@ $$
 
 is rotated through $2\pi$ radians about the x-axis between $y=a$ and $y=b$ given by:
 $$
-V = \pi \int_{y=a}^{y=b} 
+V = \pi \int_{y=a}^{y=b}x^{2}dy = \pi \int_{y=a}^{y=b}x^{2} \frac{dy}{dt}dt
 $$
+
+
 
