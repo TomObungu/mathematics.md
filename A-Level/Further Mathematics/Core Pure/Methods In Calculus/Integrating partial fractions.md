@@ -64,4 +64,13 @@ If the denominator were to be a cubic that cannot be factored into real linear t
  $$
 \frac{1}{x^{3}+x} = \frac{1}{x(x^{2}+1)} = \frac{A}{x} + \frac{Bx+C}{x^{2}+1}
 $$
-e.g. $$
+e.g $x^{3}+2x^{2}+5x$ , which can be factored in the product of a quadratic and hence be solved using other techniques:
+$$
+\frac{1}{x^{3}+2x^{2}+5x} = \frac{1}{x(x^{2}+2x+5)}
+$$
+
+You can also see that if the denominator were an unfactorable **quartic** that cannot be written written as the product of linear terms:
+e.g $x^{4}+5$, you would write the numerator as a cubic term:
+$$
+\frac{1}{x(x^{4}+5)} = \frac{A}{x} + \frac{Bx^{3}+Cx^{2}+Dx+E}{x^{4}+5}
+$$
