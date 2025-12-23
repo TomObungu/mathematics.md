@@ -88,5 +88,5 @@ As $\tanh x$ is an odd function, $\tanh(-a)=-\tan h(a)$
 # Hyperbolic reciprocal trigonometric functions
 
 $$
-\cosh
+sech(x)
 $$
