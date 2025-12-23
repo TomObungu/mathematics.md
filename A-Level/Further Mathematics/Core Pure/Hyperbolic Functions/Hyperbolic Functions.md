@@ -36,6 +36,22 @@ The same for sine; Consider when $\theta=ix$:
 $$
 \begin{gather*}
 \frac{e^{i \cdot ix}-e^{-i \cdot ix}}{2} = i\sin(ix) \\ \\
-\frac{e^{x}-e^{-x}}{2} = i\sin(ix)
+\therefore \frac{e^{-x}-e^{x}}{2} = i\sin(ix) \\ \\
+\therefore \frac{e^{x}-e^{-x}}{2} = -i\sin(ix)
 \end{gather*}
 $$
+Thus:
+$$
+\boxed{\sinh(x) -i\sin(ix) = \frac{e^{x}-e^{-x}}{2}}
+$$
+
+## Graphs of hyperbolic sine and cosine
+You can sketch the graphs of hyberbolic functions by considering the graphs of $y=e^{x}$ and $y=e^{-x}$. 
+The graph of $\sinh x$ is the 'average' of the graphs of $y=e^{x}$ and $y=e^{-x}$:
+![[Pasted image 20251223171927.png]]
+![[Pasted image 20251223172046.png]]
+
+## Approximations:
+![[Pasted image 20251223172002.png]]
+
+
