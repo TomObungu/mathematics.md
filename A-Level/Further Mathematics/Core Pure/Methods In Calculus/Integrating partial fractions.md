@@ -19,10 +19,13 @@ $$
 $$
 
 Notice that if the denominator is a linear term, you expression the variable numerator as a constant
+$$
+\frac{A}{x+c}
+$$
 
 If the denominator is a quadratic terms that cannot be expressed is a product of linear terms, write the variable numerator as a linear terms:
 $$
-\frac{Bx+c}{}
+\frac{Bx+d}{x^{2}+k}
 $$
 
-if the de
+If the denominator were to be 
