@@ -28,4 +28,14 @@ $$
 \therefore \frac{e^{x}+e^{-x}}{2} = \cos ix
 \end{gather*}
 $$
-Notice that, 
+Notice that, for input $ix$, the input is real, thus we can define $\cos(ix)$ as function called hyperbolic cosine or $\cosh(x)$:
+$$
+\boxed{\cosh(x) = \cos(ix) = \frac{e^{x}+e^{-x}}{2}} 
+$$
+The same for sine; Consider when $\theta=ix$:
+$$
+\begin{gather*}
+\frac{e^{i \cdot ix}-e^{-i \cdot ix}}{2} = i\sin(ix) \\ \\
+\frac{e^{x}-e^{-x}}{2} = i\sin(ix)
+\end{gather*}
+$$
