@@ -24,7 +24,8 @@ $$
 Now let's consider the case for when $\theta=ix$:
 $$
 \begin{gather*}
-\frac{e^{i \cdot i\theta}+e^{- i \cdot i\theta}}{2} = \cos x  \\ \\ 
-e^{\theta}+e^{-\theta}
+\therefore \frac{e^{i \cdot ix}+e^{- i \cdot ix}}{2} = \cos ix \\ \\ 
+\therefore \frac{e^{x}+e^{-x}}{2} = \cos ix
 \end{gather*}
 $$
+Notice that, 
