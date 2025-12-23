@@ -1,0 +1,1 @@
+The volume of revolution formed when $x=f(y)$ is rotaed
