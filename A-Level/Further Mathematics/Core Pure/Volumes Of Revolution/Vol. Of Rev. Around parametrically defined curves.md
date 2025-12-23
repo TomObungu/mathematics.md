@@ -26,7 +26,8 @@ V = \pi \int_{0}^{1} \frac{1}{(1+2t)^{2}}(1+t)dt = \pi \int_{0}^{1} \frac{1+2t}{
 \frac{1+2t}{(1+t)^{2}} = \frac{A}{(1+t)^{2}} + \frac{B}{1+t} \\ \\
 1+2t + A + B(1+t) \\ \\
 A = -1 \qquad B = 2 \\ \\
-V = \pi \int
+V = \pi \left( \int_{0}^{1} \frac{2}{1+t} - \int_{0}^{1} \frac{1}{(1+t)^{2}}  \right)  \\ \\ 
+= \pi([2\ln 1 + t]- )
 
 \end{gather*}
 $$
