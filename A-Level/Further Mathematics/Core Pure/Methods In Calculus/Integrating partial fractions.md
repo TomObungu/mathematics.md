@@ -58,4 +58,10 @@ $$
 \frac{Bx+d}{x^{2}+k}
 $$
 
-If the denominator were to be a cubic that cannot be factored into real linear terms e.g. $x^{3}+x$,  it can either be factored into a quadratic in the form  
+If the denominator were to be a cubic that cannot be factored into real linear terms:
+ 
+ e.g. $x^{3}+x$,  it can either be factored into the product of a quadratic in the form  $(x^{2}+c), c>0$ 
+ $$
+\frac{1}{x^{3}+x} = \frac{1}{x(x^{2}+1)} = \frac{A}{x} + \frac{Bx+C}{x^{2}+1}
+$$
+e.g. $$
