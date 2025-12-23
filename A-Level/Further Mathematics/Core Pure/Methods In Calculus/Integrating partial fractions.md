@@ -58,7 +58,13 @@ $$
 \frac{Bx+d}{x^{2}+k}
 $$
 
-
+Multiplying out and equating the coefficients:
+$$
+\begin{gather*}
+1+x= A(x^{2}+9) + (Bx+c)x \\ \\
+1+x = Ax^{2}+9A
+\end{gather*}
+$$
 
 ## Cubics denominators
 If the denominator were to be a cubic that cannot be factored into the product of real linear terms:
