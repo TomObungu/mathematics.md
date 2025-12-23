@@ -54,8 +54,10 @@ The graph of $\sinh x$ is the 'average' of the graphs of $y=e^{x}$ and $y=e^{-x}
 ![[Pasted image 20251223172704.png]]
 
 ### Approximations:
+As $x$ is very large and positive, $\sinh x \approx \frac{1}{2}e^{x}$
+As $x$ is very large and negative, $\sinh x = - \frac{1}{2}e^{-x}$
+As $\sinh x$ is an odd function, $\sinh(-a)=-\sinh(a)$
 ![[Pasted image 20251223172002.png]]
-
 
 ## Graph of $\cosh(x)$
 As the $\cosh(x) = \frac{e^{x}+e^{-x}}{2}$, then graph of $\cosh(x)$ is just the 'average' of $y=e^{x}$ and $y=e^{-x}$:
@@ -72,4 +74,11 @@ $$
 $$
 
 ## Graph of hyperbolic tangent
-You can sketch the graphs of $\cosh(x)$ and $\sinh(x)$ and see that for very large values of $x$, $e^{-x}\to {0}$ thus $\cosh(x)$
+You can sketch the graphs of $\cosh(x)$ and $\sinh(x)$ and see that for very large values of $x$, $e^{-x}\to {0}$ thus $\tanh(x)\to {1}$:
+![[Pasted image 20251223181003.png]]
+
+### Approximations
+As $x$ is very large and is positive: $\tanh x \approx {1}$
+As $x$ is very large and is negative: $\tanh x\approx -1$
+
+## 
