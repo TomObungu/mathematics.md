@@ -21,7 +21,12 @@ x=t(1+t) = t^{2}+t\\
 y = \frac{1}{1+t} \qquad y^{2} = \frac{1}{(1+t)^{2}} \\ \\
 x = 0 \implies t = 0 \\ 
 x = 2 \implies t = 1 \\ \\
-V = \pi \int_{0}^{1} \frac{1}{(1+t)^{2}}(1+t)dt = \pi \int_{0}^{1} \frac{1}{1+t}dt =
+V = \pi \int_{0}^{1} \frac{1}{(1+2t)^{2}}(1+t)dt = \pi \int_{0}^{1} \frac{1+2t}{(1+t)^{2}}dt \\ \\
+
+\frac{1+2t}{(1+t)^{2}} = \frac{A}{(1+t)^{2}} + \frac{B}{1+t} \\ \\
+1+2t + A + B(1+t) \\ \\
+A = -1 \qquad B = 2 \\ \\
+V = \pi \int
 
 \end{gather*}
 $$
