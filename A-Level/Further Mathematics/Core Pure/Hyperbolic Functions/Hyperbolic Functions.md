@@ -51,7 +51,7 @@ $$
 You can sketch the graphs of hyberbolic functions by considering the graphs of $y=e^{x}$ and $y=-e^{-x}$. 
 The graph of $\sinh x$ is the 'average' of the graphs of $y=e^{x}$ and $y=e^{-x}$:
 ![[Pasted image 20251223171927.png]]
-![[Pasted image 20251223172046.png]]
+![[Pasted image 20251223172704.png]]
 
 ### Approximations:
 ![[Pasted image 20251223172002.png]]
@@ -60,4 +60,13 @@ The graph of $\sinh x$ is the 'average' of the graphs of $y=e^{x}$ and $y=e^{-x}
 ## Graph of $\cosh(x)$
 As the $\cosh(x) = \frac{e^{x}+e^{-x}}{2}$, then graph of $\cosh(x)$ is just the 'average' of $y=e^{x}$ and $y=e^{-x}$:
 ![[Pasted image 20251223172422.png]]
-![[Pasted image 20251223172446.png]]
+![[Pasted image 20251223172755.png]]
+
+# Hyperbolic tangent 
+By using the definitions of $\cosh(x)$ and $\sinh(x)$, it is possible to write $\tanh(x)$ in exponential form:
+$$
+\begin{gather*}
+\tanh(x) = \frac{\sinh x}{\cosh x} = \frac{e^{x}-e^{-x}}{2} \left( \frac{2}{e^{x}+e^{-x}} \right)  \\ \\ 
+= \boxed{ \frac{e^{x}-e^{-x}}{e^{x}+e^{-x}} }
+\end{gather*}
+$$
