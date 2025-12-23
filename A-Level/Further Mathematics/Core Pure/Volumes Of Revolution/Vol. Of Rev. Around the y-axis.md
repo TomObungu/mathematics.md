@@ -12,6 +12,10 @@ $$
 y = 4\ln x -1 \\ \\
 e^{\frac{y+1}{4}} = x \\ \\ 
 x^{2} =e^{\frac{y + 1}{2}} \\ \\
-x^{2} =  e^{\frac{}{}}
+x^{2} =  e^{\frac{y}{2}}e^{\frac{1}{2}} \\ \\ \\
+V = \pi \int_{0}^{4} e^{\frac{y}{2}}e^{\frac{1}{2}} =  \pi e^{\frac{1}{2}} \int_{0}^{4} e^{\frac{y}{2}} \\ \\
+ = 2\pi e^{\frac{1}{2}}\left[ e^{\frac{y}{2}} \right]_{0}^{4} \\ \\
+ = 2\pi e^{\frac{1}{2}}(e^{2}-e^{0}) \\ \\
+ = 2\pi \sqrt{ e }(e^{2}-1)
 \end{gather*}
 $$
