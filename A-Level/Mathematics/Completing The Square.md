@@ -6,7 +6,6 @@ The steps are as follows
 	- $\left( \left( x+\frac{b}{2a} \right)^{2}-\frac{b^{2}}{4a} \right)$ 
 - Multiply $\left( \left( x+\frac{b}{2a} \right)^{2}-\frac{b^{2}}{4a} \right)$ by $a$ and reduce the sum of coefficients:
 
-
 ## Example 1
 Write $3x^{2}-24x+5$ in the form $a(x+p)^{2}+q$:
 
@@ -34,9 +33,27 @@ $$
 \end{gather*}
 $$
 
+
+## Example 3
+Write $y=-3x^{2}+6x+7$, in the form $y=a(x+p)^{2}+q$ and sole for $y=0$:
+$$
+\begin{gather*}
+y =-3(x^{2}-2x)+7 \\ \\
+= -3((x-1)^{2}-1)+7 \\ \\
+= -3(x-1)^{2}+3+7 \\ \\
+=-3(x-1)^{2}+10 \\ \\
+y = 0 \implies -3(x-1)^{2}+10 = 0 \\ \\
+(x-1)^{2}= \frac{10}{3}  \\ \\
+x-1 = \pm\sqrt{ \frac{10}{3} } \\  \\
+\boxed{x =1 \pm \sqrt{ \frac{10}{3} }}
+\end{gather*}
+$$
+
+
 # Method 2
 It can be shown that:
 $$ax^{2} + bx + c = a\left( x+\frac{b^{2}}{2a} \right)^{2}+\left( c-\frac{b^{2}}{4a^{2}} \right)$$
+
 ## Example 1
 *Write $3x^{2}+6x+1$ in the form $p(x+q)^{2} + r$*
 $$

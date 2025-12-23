@@ -50,5 +50,29 @@ $$
 $$
 Completing the square:
 $$
-3x^{2}+6x+52 = 3()
+\begin{gather*}
+3x^{2}+6x+52 \\ \\
+3(x^{2}+2x)+52 \\ \\
+3(x+1)^{2}-3+52 \\ \\
+3(x+1)^{2}+49
+\end{gather*}
+$$
+Rewriting integral:
+$$
+\int \frac{1}{3(x+1)^{2}+49} 
+$$
+Now it is similar to $\int \frac{1}{a^{2}+x^{2}}$, we just need to factor out the 3 like we normally do:
+$$
+\begin{gather*}
+\int \frac{1}{3\left( (x+1)^{2}+\frac{49}{3} \right)}  \\ \\
+ = \frac{1}{3}\int \frac{1}{(x+1)^{2}+\frac{49}{3}} \\ \\
+= \frac{1}{3}\int \frac{1}{(x+1)^{2}+\left( \frac{7}{\sqrt{ 3 }} \right)^{2}}
+\end{gather*}
+$$
+Now in this form we can write down the answer:
+$$
+\begin{gather*}
+= \frac{1}{3} \left( \frac{\sqrt{ 3 }}{7}\arctan\left( \frac{\sqrt{ 3 }(x+1)}{7}+c \right) \right)  \\ \\
+= \boxed{\frac{\sqrt{ 3 }}{21}arctan\left( \frac{\sqrt{ 3 }(x+1)}{7}\right)+c}
+\end{gather*}
 $$
