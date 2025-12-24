@@ -37,14 +37,14 @@ $$
 From here it is now possible to rearrange for $t$ easily:
 $$
 \begin{gather*}
-(t-x)^{2} = x^{2}+1 \\
-t-x = \pm \sqrt{ x^{2}+1 } \\ 
-t = x \pm \sqrt{ x^{2}+1 }
+(t-x)^{2} = x^{2}-1 \\
+t-x = \pm \sqrt{ x^{2}-1 } \\ 
+t = x \pm \sqrt{ x^{2}-1 }
 \end{gather*}
 $$Remember that $t=e^{y}$:
 $$
-e^{y} = x\pm \sqrt{ x^{2}+1 }
+e^{y} = x\pm \sqrt{ x^{2}-1 }
 $$Thus:
 $$
-\boxed{y = \ln(x+)}
+y = \ln(x+\sqrt{ x^{2}-1 })
 $$
