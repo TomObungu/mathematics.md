@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -219,14 +220,14 @@
   },
   "active": "45ec31e6dad69e6a",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Hyperbolic Functions.md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
+    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
+    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Hyperbolic Functions.md",
     "preamble.sty~",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223181508.png",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the y-axis.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the x-axis.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around parametrically defined curves.md",
-    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223181003.png",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223172755.png",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223172704.png",
