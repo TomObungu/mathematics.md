@@ -44,4 +44,7 @@ t = x \pm \sqrt{ x^{2}+1 }
 $$Remember that $t=e^{y}$:
 $$
 e^{y} = x\pm \sqrt{ x^{2}+1 }
+$$Thus:
+$$
+\boxed{y = \ln(x+)}
 $$
