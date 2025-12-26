@@ -180,48 +180,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "d7e3bed6e79602da",
-    "type": "floating",
-    "children": [
-      {
-        "id": "01e2c304424b0e2f",
-        "type": "window",
-        "children": [
-          {
-            "id": "5c83d203dc3d8bbc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b204be3397aa6e79",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b204be3397aa6e79",
+  "active": "45ec31e6dad69e6a",
   "lastOpenFiles": [
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251224160640.png",
-    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Hyperbolic Functions.md",
     "preamble.sty~",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Pasted image 20251223181508.png",
