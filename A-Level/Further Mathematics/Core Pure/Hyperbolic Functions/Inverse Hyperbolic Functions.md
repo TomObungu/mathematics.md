@@ -125,16 +125,16 @@ With type of question, in A level you would put into harmonic form but with the 
 
 $$
 \begin{gather*}
-6\left( \frac{e^{y}-e^{-y}}2{} \right) - 2\left( \frac{e^{y}+e^{-y}}{2} \right) = 7 \\ \\
-6e^{y}-6e^{-y}-2e^{y}-2^{-y} = 14 \\ \\
-4e^{y} - 8e^{-y} = 14 
+6\left( \frac{e^{x}-e^{-x}}2{} \right) - 2\left( \frac{e^{x}+e^{-x}}{2} \right) = 7 \\ \\
+6e^{x}-6e^{-x}-2e^{x}-2^{-x} = 14 \\ \\
+4e^{x} - 8e^{-x} = 14 
 \end{gather*}
 $$
-We take the same approach to solve this by multiplying $e^{y}$:
+We take the same approach to solve this by multiplying $e^{x}$:
 $$
 \begin{gather*}
-4(e^{y})^{2} - 8 = 14e^{y}  \\
-t = e^{y} \\ 
+4(e^{x})^{2} - 8 = 14e^{x}  \\
+t = e^{x} \\ 
 4t^{2}-14t-8 = 0 \\ 
 2t^{2}-7t-4 = 0 \\ 
 (2t+1)(t-4) =0  \\
@@ -142,10 +142,11 @@ t = e^{y} \\
 t= -\frac{1}{2} \qquad t  = 4
 \end{gather*}
 $$
-Thus equating $t=e^{y}$:
+Thus equating $t=e^{x}$:
 $$
 \begin{gather*}
-e^{y} = -\frac{1}{2} \qquad e^{y} = 4 \\ \\
-
+e^{x} = -\frac{1}{2} \qquad e^{x} = 4 \\ 
+\cancel{  x = \ln\left( -\frac{1}{2} \right) } \qquad \boxed{ x = \ln 4 = 2\ln_{2}}
 \end{gather*}
 $$
+
