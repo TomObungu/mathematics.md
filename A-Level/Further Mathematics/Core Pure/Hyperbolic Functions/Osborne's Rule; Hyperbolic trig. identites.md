@@ -59,7 +59,7 @@ Solve $2\cosh ^{2}x-5\sinh x=5$, giving answers in **exact** form:
 
 Here is a direct case to use Osborne's rule:
 $$
-\begin{ather*}
+\begin{gather*}
 
-\end{ather*}
+\end{gather*}
 $$
