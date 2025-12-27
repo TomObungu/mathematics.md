@@ -46,18 +46,17 @@ $$
 e^{y} = x\pm \sqrt{ x^{2}-1 }
 $$Thus:
 $$
-y = \ln(x+\sqrt{ x^{2}-1 })
+\boxed{ar\cosh x = \ln(x \pm \sqrt{ x^{2}-1 })}
 $$
 
 ## Is it $+\sqrt{ x^{2}-1 }$ or $-\sqrt{ x^{2}-1 }$?
 
-
 $\cosh x$ is an even, many-to-one function. This means that two different values of $x$ will give the same value for $\cosh x$.
 ![[Pasted image 20251227140525.png]]
 
-As stated, in order to have an inverse for $\cosh x$, it needs to only take the positive region of $coshx$. Thus using $ar\cosh x$ will only return 1 value or no values. However in order to get the true real values of $x$  when using $ar\cosh x$. You simply negate the answer given from your $ar\cosh x$. 
+As stated, in order to have an inverse for $\cosh x$, it needs to only take the positive region of $coshx$. Thus using $ar\cosh x$ will only return 1 value or no values. However in order to get the all the values of $x$  when using $ar\cosh x$. You simply negate the answer given from your $ar\cosh x$. 
 
-$ar\cosh x$ will give the left hand side of the $\cosh x$ graph. So in order to retrieve you can switch the sign or negate it:
+$ar\cosh x$ will give the positive left hand side of the $\cosh x$ graph. Negating will give the negative right hand side. 
 
 ### Example 1
 Solve $3\cosh x-4=5$
@@ -87,3 +86,39 @@ $$
 \end{gather*}
 
 $$
+# Deriving $ar\sinh x$.
+Taking the same approach:
+$$
+\begin{gather*}
+x = \sinh y \\ \\
+x = \frac{e^{y}-e^{-y}}{2} \\ \\
+2x = e^{y}-e^{-y} \\ \\
+2xe^{y} = (e^{y})^{2} -1 \\ \\
+t = e^{y} \\ 
+2xt = t^{2}-1 \\ 
+t^{2}-2xt-1 = 0 \\ 
+(t-x)^{2} - x^{2} -1 = 0 \\ 
+(t-x)^{2} = x^{2}+1 \\ 
+t - x= \pm \sqrt{ x^{2}+1 } \\ \\
+t = x \pm \sqrt{ x^{2}+1 } \\ 
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{gather*}
+e^{y} = x \pm \sqrt{ x^{2}+1 } \\ \\
+y = \ln (x^{2}\pm \sqrt{ x^{2}+1 })
+\end{gather*}
+$$
+ 
+## Only take $+\sqrt{ x^{2}+1 }$ this time
+$x-\sqrt{ x^{2}+1 }$ can be ignored since $\sqrt{ x^{2}+1 }>x$, and would give a negative value inside a logarithmic function which is not possible as the value will be undefined. Thus we only take the positive value this:
+$$
+\boxed{ ar\sinh x = \ln (x^{2} + \sqrt{ x^{2}+1 }) }
+$$
+
+# Solving hyperbolic equations
+## Example 1
+Solve for $x$, $6\sinh(x)-2\cosh(x)=7$
+
+With type of question, in A level you would put it 
