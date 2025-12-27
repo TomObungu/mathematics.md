@@ -99,6 +99,15 @@ t = \cosh x \\
 t = \frac{3}{2} \quad t = 1
 \end{gather*}
 $$
-Equating $$
+Equating $\sinh x$:
+$$
+\begin{gather*}
+\sinh x = \frac{3}{2} \\
+\boxed{x = \ln\left( \frac{3}{2} \pm \frac{\sqrt{ 5 }}{2} \right)}\\ \\
+\sinh x = 1 \\ \\
+\boxed{x= 0}
+\end{gather*}
+$$
+
 
 
