@@ -65,7 +65,20 @@ $$
 2+2\sinh ^{2} x- 5\sinh x - 5 = 0 \\ \\
 t = \sinh x \\ 
 2t^{2}-5t-3 =0 \\
-(2t+1)(2t-)
+(2t+1)(t-3) = 0 \\ \\
+t = -\frac{1}{2} \qquad t = 3 
 \end{gather*}
 $$
+Equating $\sinh x$ and solving using $\sinh x = \ln(x+\sqrt{ x^{2}+1 })$:
+$$
+\begin{gather*}
+\sinh x = -\frac{1}{2} \\ \\
+x=\ln\left( -\frac{1}{2} \pm \sqrt{ \frac{1}{4} + 1 }  \right) \\ \\ 
+\boxed{x = \ln\left( -\frac{1}{2} + \frac{\sqrt{ 5 }}{2} \right)}
+\end{gather*}
+$$
+
+# Example 2
+Solve
+
 
