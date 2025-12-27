@@ -35,4 +35,4 @@ x^{2} = -y^{4}-2y^{3} \\ \\
 \end{gather*}
 $$
 
-		Always try and rearrange to get t on the LHS and things in terms of $x$ and $y$ on RHS and then try and think of an identity based on the function of t.
+Always try and rearrange to get t on the LHS and things in terms of $x$ and $y$ on RHS and then try and think of an identity based on the function of t.
