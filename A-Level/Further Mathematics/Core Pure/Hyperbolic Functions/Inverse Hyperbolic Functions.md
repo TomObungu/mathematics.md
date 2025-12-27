@@ -125,6 +125,17 @@ With type of question, in A level you would put into harmonic form but with the 
 
 $$
 \begin{gather*}
+6\left( \frac{e^{y}-e^{-y}}2{} \right) - 2\left( \frac{e^{y}+e^{-y}}{2} \right) = 7 \\ \\
+6e^{y}-6e^{-y}-2e^{y}-2^{-y} = 14 \\ \\
+4e^{y} - 8e^{-y} = 14 
+\end{gather*}
+$$
+We take the same approach to solve this by multiplying $e^{y}$:
+$$
+\begin{gather*}
+4(e^{y})^{2} - 8 = 14e^{y}  \\
+t = e^{y} \\ 
+4t^{2}-14t-8 = 0 \\ 
 
 \end{gather*}
 $$
