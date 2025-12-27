@@ -136,6 +136,16 @@ $$
 4(e^{y})^{2} - 8 = 14e^{y}  \\
 t = e^{y} \\ 
 4t^{2}-14t-8 = 0 \\ 
+2t^{2}-7t-4 = 0 \\ 
+(2t+1)(t-4) =0  \\
+\\
+t= -\frac{1}{2} \qquad t  = 4
+\end{gather*}
+$$
+Thus equating $t=e^{y}$:
+$$
+\begin{gather*}
+e^{y} = -\frac{1}{2} \qquad e^{y} = 4 \\ \\
 
 \end{gather*}
 $$
