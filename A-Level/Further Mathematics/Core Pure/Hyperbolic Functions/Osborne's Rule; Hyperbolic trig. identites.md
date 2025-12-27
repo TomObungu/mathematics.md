@@ -45,7 +45,9 @@ Prove that $\cosh 2A \equiv 1 +2\sinh ^{2}A$:
 $$
 \begin{gather*}
 RHS \equiv 1 + 2\left( \frac{e^{A}-e^{-A}}{2} \right)\left( \frac{e^{A}-e^{-A}}{2} \right) \\ \\
-1 + \left( \frac{2e^{2A}-4+e^{-2A}}{4} \right) \\ \\
-1-1 \left( \frac{e^{2A}+e^{-2A}}{} \right)
+ \equiv 1 + \left( \frac{2e^{2A}-4+2e^{-2A}}{4} \right) \\ \\
+ \equiv1-1 +\left( \frac{e^{2A}+e^{-2A}}2{} \right) \\  \\
+ \equiv \cos 2A \equiv LHS \\ 
+ QED
 \end{gather*}
 $$
