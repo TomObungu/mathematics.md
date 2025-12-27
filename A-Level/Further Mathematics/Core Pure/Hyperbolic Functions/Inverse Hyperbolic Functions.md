@@ -121,4 +121,10 @@ $$
 ## Example 1
 Solve for $x$, $6\sinh(x)-2\cosh(x)=7$
 
-With type of question, in A level you would put it 
+With type of question, in A level you would put into harmonic form but with the hyperbolic version, you put it directly into $e^{y}$ and solve it
+
+$$
+\begin{gather*}
+
+\end{gather*}
+$$
