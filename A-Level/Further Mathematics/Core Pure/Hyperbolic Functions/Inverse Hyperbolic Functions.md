@@ -150,3 +150,18 @@ e^{x} = -\frac{1}{2} \qquad e^{x} = 4 \\
 \end{gather*}
 $$
 
+
+# Deriving $ar\tanh x$
+The approach is mostly similar:
+$$
+\begin{gather*}
+y = ar\tanh x  \\ 
+x = \tanh y  \\ \\
+x = \frac{e^{y}-e^{-y}}{e^{y}+e^{-y}}  \\ \\
+2xe^{y} + 2xe^{-y} = e^{y}-e^{-y} 
+\end{gather*}
+$$
+Multiplying by $e^{y}$:
+$$
+2x(e^{y})^{2} + 2x = ()
+$$
