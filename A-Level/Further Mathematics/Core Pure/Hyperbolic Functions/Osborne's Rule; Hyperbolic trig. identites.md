@@ -79,6 +79,26 @@ x=\ln\left( -\frac{1}{2} \pm \sqrt{ \frac{1}{4} + 1 }  \right) \\ \\
 $$
 
 # Example 2
-Solve
+Solve $\cosh 2x - 5\cosh x + 4 = 0$
+
+We can use Osborne's rule with the double angle formula:
+$$
+\cos 2x = 2\cos ^{2} x -1 
+$$
+Thus  the hyperbolic equivalent is:
+$$
+\cosh 2x = 2\cosh ^{2}x - 1
+$$
+Thus:
+$$
+\begin{gather*}
+2\cosh ^{2}x -1 -5\cosh x+4 = 0  \\ \\
+t = \cosh x \\
+2t^{2} -5t+3 = 0 \\
+(2t-3)(t-1) = 0 \\ \\
+t = \frac{3}{2} \quad t = 1
+\end{gather*}
+$$
+Equating $$
 
 
