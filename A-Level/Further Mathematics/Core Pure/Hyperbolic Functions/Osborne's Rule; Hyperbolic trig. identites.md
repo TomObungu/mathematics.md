@@ -60,6 +60,12 @@ Solve $2\cosh ^{2}x-5\sinh x=5$, giving answers in **exact** form:
 Here is a direct case to use Osborne's rule:
 $$
 \begin{gather*}
-
+\cosh ^{2}x = 1+\sinh ^{2}x \\ 
+2\cosh ^{2}x = 2+2\sinh ^{2}x \\ \\
+2+2\sinh ^{2} x- 5\sinh x - 5 = 0 \\ \\
+t = \sinh x \\ 
+2t^{2}-5t-3 =0 \\
+(2t+1)(2t-)
 \end{gather*}
 $$
+
