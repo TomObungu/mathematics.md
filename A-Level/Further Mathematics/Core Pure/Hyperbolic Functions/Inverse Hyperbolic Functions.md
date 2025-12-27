@@ -163,5 +163,24 @@ x = \frac{e^{y}-e^{-y}}{e^{y}+e^{-y}}  \\ \\
 $$
 Multiplying by $e^{y}$:
 $$
-2x(e^{y})^{2} + 2x = ()
+2x(e^{y})^{2} + 2x = (e^{y})^{2} -1 
+$$
+Collecting like terms:
+$$
+\begin{gather*}
+t = e^{y} \\ 
+x(2t^{2}-2)  = t^{2}-1 
+\end{gather*}
+$$
+Thus:
+$$
+\begin{gather*}
+x = \frac{t^{2} - 1}{2t^{2}-2} \\ \\
+e^{y} =  \frac{t^{2}-1}{2t^{2}-2} \\ \\
+y = \ln\left( \frac{t^{2}-1}{2t^{2}-2} \right)
+\end{gather*}
+$$
+However this can be simplified further into log rules. When dealing with limits and hyperbolic functions, it is good to put the logarithm into the form that makes it a fraction using log rules:
+$$
+y = \ln\left( \frac{(t+1)(t-1)}{2(t^{2}-1)} \right)
 $$
