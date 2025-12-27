@@ -51,3 +51,7 @@ RHS \equiv 1 + 2\left( \frac{e^{A}-e^{-A}}{2} \right)\left( \frac{e^{A}-e^{-A}}{
  QED
 \end{gather*}
 $$
+
+## Solving hyperbolic trigonometric identities continued...
+
+## 
