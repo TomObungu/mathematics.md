@@ -169,7 +169,8 @@ Collecting like terms:
 $$
 \begin{gather*}
 t = e^{y} \\ 
-x(t^{2}+1)  = t^{2}-1 
+xt^{2} - t^{2} = -1 -x  \\
+t^{2}(x-1)
 \end{gather*}
 $$
 Thus:
