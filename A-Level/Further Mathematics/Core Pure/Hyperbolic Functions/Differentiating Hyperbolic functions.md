@@ -32,3 +32,12 @@ $$
 $$
 
 
+
+# Differentiating inverse hyperbolic functions
+It is possible to show that:
+$$
+\begin{gather*}
+\frac{d}{dx}arsinh x = \frac{1}{\sqrt{ x^{2} +1 }} \\ \\
+\frac{d}{dx}arco
+\end{gather*}
+$$
