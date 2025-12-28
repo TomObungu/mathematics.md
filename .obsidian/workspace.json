@@ -185,15 +185,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "bc5d494f762bb7e4",
+        "id": "0dd619b2fe55950b",
         "type": "window",
         "children": [
           {
-            "id": "c2ab11346fc91baa",
+            "id": "ba3f4d53ceccab67",
             "type": "tabs",
             "children": [
               {
-                "id": "81c50f3334bcffc2",
+                "id": "3a4c6c1f0cbd8058",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -217,7 +217,7 @@
       }
     ]
   },
-  "active": "81c50f3334bcffc2",
+  "active": "3a4c6c1f0cbd8058",
   "lastOpenFiles": [
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Differentiating Hyperbolic functions.md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",

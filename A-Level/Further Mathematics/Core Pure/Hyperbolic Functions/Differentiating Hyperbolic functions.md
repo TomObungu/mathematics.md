@@ -26,7 +26,9 @@ Start of with:
 $$
 \begin{gather*}
 \sinh x = \frac{e^{x}-e^{-x}}{2} \\ \\
-\frac{d}{dx}\sinh x = 
+\frac{d}{dx}\sinh x = \frac{e^{x}+e^{-x}}{2} \\ \\
+= \cosh x
 \end{gather*}
 $$
+
 
