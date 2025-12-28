@@ -172,18 +172,26 @@ t = e^{y} \\
 xt^{2} - t^{2} = -1 -x  \\
 t^{2}(1-x) = 1+x \\ \\
 t^{2} = \frac{1+x}{1-x} \\ \\
-t =\sqrt{ \frac{1+x}{1-x} }
+t = \pm \sqrt{ \frac{1+x}{1-x} }
 \end{gather*}
 $$
 Thus:
 $$
 \begin{gather*}
-
-e^{y} =  \sqrt{ \frac{1+x}{1-x} } \\ \\
-y = \ln\left( \sqrt{ \frac{1+x}{1-x} }  \right)
+e^{y} =  \pm \sqrt{ \frac{1+x}{1-x} } \\ \\
+y = \ln\left( \pm \sqrt{ \frac{1+x}{1-x} }  \right)
 \end{gather*}
+$$
+However as negative values are not defined for the natural logarithm:
+$$
+y = \ln\left( \sqrt{ \frac{1+x}{1-x} }  \right)
 $$
 However this can be simplified further into log rules. When dealing with limits and hyperbolic functions, it is good to put the logarithm into the form that makes it a fraction using log rules:
 $$
-y = \ln\left( \frac{(t+1)(t-1)}{2(t^{2}+1)} \right)
+y = \frac{1}{2}\ln\left( \frac{1+x}{1-x} \right)
+$$
+
+The domain for this function is $|x|< 1$. If it were to be $|x|\leq_{1}$, the it would not be defined as:
+$$
+\text{For} |x| \geq 1, \frac{1+x}{1-x} \leq 0
 $$
