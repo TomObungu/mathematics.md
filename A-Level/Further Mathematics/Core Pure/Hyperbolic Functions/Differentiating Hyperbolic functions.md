@@ -16,6 +16,17 @@ Taking the derivative of both sides gives:
 $$
 \begin{gather*}
 \frac{d}{dx}\cosh x = \frac{d}{dx} \frac{e^{x}+e^{-x}}{2}\\ \\
- = \frac{e^{x}-e^{x}}{2}
+ = \frac{e^{x}-e^{x}}{2} \\ \\
+ = \sinh x
 \end{gather*}
 $$
+
+# Deriving $\frac{d}{dx} \sinh x$
+Start of with:
+$$
+\begin{gather*}
+\sinh x = \frac{e^{x}-e^{-x}}{2} \\ \\
+\frac{d}{dx}\sinh x = 
+\end{gather*}
+$$
+
