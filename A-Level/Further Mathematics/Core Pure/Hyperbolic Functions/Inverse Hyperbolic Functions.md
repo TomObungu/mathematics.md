@@ -170,15 +170,17 @@ $$
 \begin{gather*}
 t = e^{y} \\ 
 xt^{2} - t^{2} = -1 -x  \\
-t^{2}(x-1)
+t^{2}(1-x) = 1+x \\ \\
+t^{2} = \frac{1+x}{1-x} \\ \\
+t =\sqrt{ \frac{1+x}{1-x} }
 \end{gather*}
 $$
 Thus:
 $$
 \begin{gather*}
-x = \frac{t^{2} - 1}{t^{2}+1} \\ \\
-e^{y} =  \frac{t^{2}-1}{t^{2}+1} \\ \\
-y = \ln\left( \frac{t^{2}-1}{t^{2}+1} \right)
+
+e^{y} =  \sqrt{ \frac{1+x}{1-x} } \\ \\
+y = \ln\left( \sqrt{ \frac{1+x}{1-x} }  \right)
 \end{gather*}
 $$
 However this can be simplified further into log rules. When dealing with limits and hyperbolic functions, it is good to put the logarithm into the form that makes it a fraction using log rules:
