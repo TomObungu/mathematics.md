@@ -38,6 +38,18 @@ It is possible to show that:
 $$
 \begin{gather*}
 \frac{d}{dx}arsinh x = \frac{1}{\sqrt{ x^{2} +1 }} \\ \\
-\frac{d}{dx}arco
+\frac{d}{dx}arcoshx = \frac{1}{\sqrt{ x^{2}-1 }}, x > 1 \\ \\
+\frac{d}{dx}artanhx = \frac{1}{1-x^{2}}, |x| < 1
+\end{gather*}
+$$
+
+# Deriving $\frac{d}{dx} ar\sinh x$:
+$$
+\begin{gather*}
+x = \sinh y \\ \\
+\frac{dx}{dy} = \cosh y \\ \\
+\frac{dy}{dx} = \frac{1}{\cosh y} \\ \\
+\cosh ^{2}x - \sinh ^{2}x = 1 \\ 
+
 \end{gather*}
 $$
