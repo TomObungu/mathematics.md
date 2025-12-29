@@ -65,4 +65,37 @@ $$
 ## Case 2: $b^{2}-4ac=0$
 If the auxiliary equation's discriminant is $0$. We will only get one root.
 
-If $b^{2}-4ac=0$, the solution to the aux 
+If $b^{2}-4ac=0$, the solution to the auxiliary equation will $\alpha$ 
+
+In this scenario, the general solution is given by
+$$
+y = (A+Bx)e^{\alpha x}
+$$
+
+## Case 3: $b^{2}-4ac < 0$
+If the discriminant is less than $0$. The auxiliary equation will have complex roots, forming a conjugate pair. The solutions will be:
+$$
+\alpha = p + qi \qquad \beta = p-qi
+$$
+Substituting into our original solution we get:
+$$
+\begin{gather*}
+y = Ce^{(p+qi)x} + De^{(p-qi)x} \\ \\
+= Ce^{px}e^{qix} + De^{px}e^{-qix} \\ \\
+= e^{px}[Ce^{qix}+De^{-qix}] \\ \\
+= e^{px}[C\cos qx +iC\sin qx + D\cos qx-iD\sin qx] \\ \\
+= e^{px}[(C+D)\cos qx+i(C-D)\sin qx]
+\end{gather*}
+$$
+Let $A = C + D$ and $B = i(C-D)$:
+
+The general solution becomes:
+$$
+y = e^{px}[A\cos qx+B\sin qx]
+$$
+
+## Summary
+![[Pasted image 20251229231114.png]]
+
+# Trivial solution
+It is worth noting that $y=0$ also satisfies $ay''+by'+cy=0$. This the 'trivial solution'. We can add it to the solution by superposition but since it's +0,t does nothing.
