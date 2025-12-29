@@ -54,5 +54,8 @@ Therefore **the Maclaurin series expansion of a function $f(x)$ is given by:
 $$
 \boxed{f(x) = f(0)+f'(0)x + \frac{f''(0)}{2}x^{2} + \frac{f'''(0)}{3!}x^{3}+\dots +\frac{f^{r}(0)}{r!}x^{r}+\dots}
 $$
+**The series is valid provided that $f(0), f'(0), f''(0), \dots,f^{r}(0),\dots$ all have finite values. 
 
 
+
+As well as that the series is only valid for values of $x$ that give rise to a convergent series expansion. For 
