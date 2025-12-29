@@ -51,3 +51,8 @@ The expansion of $(a+bx)^{n}$, where n is a negative or a fraction, is valid for
 $$
 |x| < \frac{a}{b}
 $$
+The reason for this is that in order for the infinite series to have a closed form, it has to be convergent thus $|x|<1$. Without any factors $a$ in the function i.e $(1+bx)^{n}$, the function itself will be convergent and will have domain:
+$$
+|x| < \frac{1}{b}
+$$
+However when the function is multiplied by a factor of $a$. The domain is also multiplied by a factor $a$ due to the laws of transformations. 
