@@ -71,5 +71,5 @@ $$
 $$
 Ignoring all other terms with power greater than $x^{4}$:
 $$
-1+x+\frac{x^{2}}{2} 
+1+x+\frac{x^{2}}{2} - \frac{x^{4}}{8}
 $$
