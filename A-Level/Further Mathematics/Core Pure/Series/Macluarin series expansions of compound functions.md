@@ -39,5 +39,30 @@ $$
 -\ln(1-3x) = -\left(-3x - \frac{(-3x)^{2}}{2} + \frac{(-3x)^{^{3}}}{3}+\dots \right). -1 < -3x \leq 1 \\ \\
 -\ln(1-3x) = 3x + \frac{9}{2}x^{2} + 9x^{3} \\ \\
 \therefore \ln \sqrt{ \frac{1+2x}{1-3x} } \approx x-x^{2}+\frac{4}{3}x^{3} +3x + \frac{9}{2} x^{2}+9x^{3} \\ \\ 
+\approx4x+\frac{7}{2}x^{2}+\frac{31}{3}x^{3}
 \end{gather*}
+$$
+# Worked Example 2
+![[Pasted image 20251229195618.png]]
+Writethe Maclaurin series expansions up to $x^{3}$ for $\sin x$ and $e^{x}$
+$$
+\begin{gather*}
+e^{x} = 1+x+\frac{x^{2}}{2!} + \frac{x^{3}}{3!} \\ \\
+\sin x = x-\frac{x^{3}}{3!}
+\end{gather*}
+$$
+Now substitute the standard result of $\sin x$ as the power of x in  $e^{x}$:
+$$
+e^{\sin x} \approx e^{x- \frac{x^{3}}{3!}}
+$$
+Now evaluate $e^{x-\frac{x^{3}}{3!}}$ with index laws:
+$$
+\begin{gather*}
+e^{x}\left( e^{-\frac{x^{3}}{6}} \right) \\ \\
+
+\end{gather*}
+$$
+Now evaluate $e^{-\frac{x^{3}}{6}}$ using the its Maclaurin expansion but replace $x$ with $-\frac{x^{3}}{6}$. Rewrite $e^{x}$ in it's series expansion aswell and form multiplication of polynomials:
+$$
+(1+x+)
 $$
