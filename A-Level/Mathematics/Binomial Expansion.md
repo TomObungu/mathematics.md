@@ -47,3 +47,7 @@ r
 \end{gather*}
 $$
 
+The expansion of $(a+bx)^{n}$, where n is a negative or a fraction, is valid for:
+$$
+|x| < \frac{a}{b}
+$$
