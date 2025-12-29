@@ -24,4 +24,35 @@ f''(x) = 2(1)a_{2} + 3(2)a_{3}x+ 4(3)a_{4}x^{r-1} + \dots +r(r-1)a_{r}x^{r-2} +\
 f'''(x) = (3)(2)(1)a_{3}+ 4(3)(2)a^{4}x +\dots + r(r-1)(r-2)a_{r}x^{r-3} +\dots
 \end{gather*}
 $$
+By continuing in this way by differentiating $r$ times, we can show that at every term at $x=0$ can be evaluated in the form:
+$$
+f^{r}(0) = r!a_{r}
+$$
+Thus:
+$$
+\begin{gather*}
+f'(0) = a_{1}  \\ \\
+f''(0) = 2!a_{2} \implies a_{2} =  \frac{f''(0)}{2!} \\ \\
+f'''(0) = 3!a_{3} \implies a_{3} = \frac{f'''(0)}{3!} \\ \\
+f^{r}(0) = r!a_{r} \implies a_{r} = \frac{f^{r}(0)}{r!}
+\end{gather*}
+$$
+There evaluating the coefficients in the series expansion for $f(x)$ gives:
+$$
+f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^{2} + \frac{f'''(0)}{3!}x^{3} +\dots +\frac{f^{r}(0)}{r!}x^{r}\dots +
+$$
+In this process, a polynomial of powers of x is being formed step by step. The process focuses on $x=0$. Substituting $x=0$ into successive derivatives increases the power of the polynomial. For example, if you stop  after $f'(0)$, the polynomial is linear - $f(0)+f'(0)x+$. If you stop after $f''(0)$, the polynomial is quadratic - $f(0) + f'(0)x + \frac{f''(0)}{2!}x^{2}$, after $f'''(0)$ it is cubic and so on.
+
+The above argument assumes that function can be written in the given form: $f(x) = a_{0}+a_{1}x+a_{2}x^{2}+a_{3}x^{3}\dots,a_{r}x^{r}\dots ,$ . However this only true if the given series converges. 
+
+The above argument also holds if the function can be differentiated an infinite number of times and the value of $f^{r}(0)$ is always finite - that is it is always defined.
+
+An example of a continuously differentiable function that is not defined at all values of $f^{r}(0)$ is $f(x)=\ln x$  .  When differentiating $f'(x)= \frac{1}{x}$, $f'(0)$ is undefined and does not have a finite value.
+
+Therefore **the Maclaurin series expansion of a function $f(x)$ is given by:
+
+$$
+\boxed{f(x) = f(0)+f'(0)x + \frac{f''(0)}{2}x^{2} + \frac{f'''(0)}{3!}x^{3}+\dots +\frac{f^{r}(0)}{r!}x^{r}+\dots}
+$$
+
 
