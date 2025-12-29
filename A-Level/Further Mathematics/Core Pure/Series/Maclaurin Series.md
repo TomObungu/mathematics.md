@@ -76,9 +76,9 @@ $$
 
 Note that $(-1)^{r}$ can be used to represent an alternating series of positive and negative for $r \in \mathbb{Z}$. When $r$ is even, it is positive. When $r$ is odd, it is negative. This generates sequence $(1,-1,1,-1\dots)$ starting from $r=0$. 
 
-The same for $(-1)^{r-1}$ can be used to represent an alternating series of negative to positive, for $r \in \mathbb{Z}$. When r is odd, it negative. When $r$ is even, it negative.
+The same for $(-1)^{r-1}$ can be used to represent an alternating series of negative to positive, for $r \in \mathbb{Z}$. When r is odd, it is negative. When $r$ is even, it negative.
 
-Thus the Macluarin expansion for $1+x$ is:
+Thus the Maclaurin expansion for $1+x$ is:
 $$
 \begin{gather*}
 f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^{2}+\frac{f'''(0)}{3!}x^{3}+\dots+ \frac{f^{r}(0)}{r!}x^{r} \\ \\
