@@ -65,9 +65,11 @@ $$
 Now evaluate $e^{-\frac{x^{3}}{6}}$ using the its Maclaurin expansion but replace $x$ with $-\frac{x^{3}}{6}$. Rewrite $e^{x}$ in it's series expansion aswell and form multiplication of polynomials:
 $$
 \begin{gather*}
-\left( 1+x+\frac{x^{2}}{2} +\frac{x^{3}}{6}\dots \right)\left( 1+\left( -\frac{x^{3}}{6} + x \dots \right) \right)  \\ \\
-= 1 -\frac{x^{3}}{6}+x-\frac{x^{4}}{6}+\frac{x^{2}}{2}-\frac{x^{5}}{12} + \frac{x^{3}}{6} -\frac{x^{6}}{36}\dots \\ \\
-= 1+x + \frac{x^{2}}{6}
-
+\left( 1+x+\frac{x^{2}}{2} +\frac{x^{3}}{6} +\frac{x^{4}}{24}\dots \right)\left( 1+\left( -\frac{x^{3}}{6} \dots \right) \right)  \\ \\
+= 1-\frac{x^{3}}{6} +x-\frac{x^{4}}{6} +\frac{x^{2}}{2} - \frac{x^{5}}{6} +\frac{x^{3}}{6} -\frac{x^{6}}{12} + \frac{x^{4}}{24} - \frac{x^{7}}{24}
 \end{gather*}
+$$
+Ignoring all other terms with power greater than $x^{4}$:
+$$
+1+x+\frac{x^{2}}{2} 
 $$
