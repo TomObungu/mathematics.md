@@ -74,9 +74,9 @@ f^{r}(x) = (-1)^{r-1}(r-1)!(1+x)^{-r} \qquad f^{r}(0)= (-1)^{r-1}(r - 1)!
 \end{gather*}
 $$
 
-Note that $(-1)^{r}$ can be used to represent an alternating series of positive and negative for $r$. When $r $i
+Note that $(-1)^{r}$ can be used to represent an alternating series of positive and negative for $r \in \mathbb{Z}$. When $r$ is even, it is positive. When $r$ is odd, it is negative. This generates sequence $(1,-1,1,-1\dots)$ starting from $r=0$. 
 
-The same for $(-1)^{r-1}$ can be used to represent an alternating series of positive to negative, for $r \geq 1, r \in \mathbb{Z}$
+The same for $(-1)^{r-1}$ can be used to represent an alternating series of negative to positive, for $r \in \mathbb{Z}$. When r is odd, it negative. When $r$ is even, it negative.
 
 Thus the Macluarin expansion for $1+x$ is:
 $$
