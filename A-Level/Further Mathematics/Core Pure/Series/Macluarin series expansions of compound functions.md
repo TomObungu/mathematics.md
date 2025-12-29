@@ -64,5 +64,10 @@ e^{x}\left( e^{-\frac{x^{3}}{6}} \right) \\ \\
 $$
 Now evaluate $e^{-\frac{x^{3}}{6}}$ using the its Maclaurin expansion but replace $x$ with $-\frac{x^{3}}{6}$. Rewrite $e^{x}$ in it's series expansion aswell and form multiplication of polynomials:
 $$
-(1+x+)
+\begin{gather*}
+\left( 1+x+\frac{x^{2}}{2!}\dots \right)\left( 1+\left( -\frac{x^{3}}{6}\dots \right) \right)  \\ \\
+= 1-\frac{x^{3}}{6}+x-\frac{x^{4}}{6}+\frac{x^{2}}{2}+\dots \\
+= 1+x+\frac{x^{2}}{2} -\frac{x^{3}}{6}
+
+\end{gather*}
 $$
