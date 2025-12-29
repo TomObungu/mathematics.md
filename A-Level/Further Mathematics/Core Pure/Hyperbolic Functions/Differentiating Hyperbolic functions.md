@@ -49,7 +49,33 @@ $$
 x = \sinh y \\ \\
 \frac{dx}{dy} = \cosh y \\ \\
 \frac{dy}{dx} = \frac{1}{\cosh y} \\ \\
-\cosh ^{2}x - \sinh ^{2}x = 1 \\ 
+\cosh y = \sqrt{ 1+\sinh ^{2} y} \\ \\
+\frac{dy}{dx} = \frac{1}{\sqrt{ 1 + \sinh ^{2}y}} \\ \\
+\frac{dy}{dx} = \frac{1}{\sqrt{ x^{2} + 1 }}
+\end{gather*}
+$$
 
+# Deriving $\frac{d}{dx}ar\cosh x$ 
+$$
+\begin{gather*}
+x = \cosh y \\ \\
+\frac{dx}{dy} = \sinh y \\ \\
+\frac{dy}{dx} = \frac{1}{\sinh y} \\ \\
+\sinh y =\sqrt{ -1+\cosh ^{2}y } = \sqrt{ \cosh ^{2}y-1 } \\ \\
+\frac{dy}{dx} = \frac{1}{\sqrt{ \cosh ^{2}y -1 }} \\ \\
+\frac{dy}{dx} = \frac{1}{\sqrt{ x^{2}-1 }}
+\end{gather*}
+$$
+
+# Deriving $\frac{d}{dx} ar\tanh x$
+$$
+\begin{gather*}
+x = \tanh y \\ \\
+\frac{dx}{dy} = sech^{2}x \\ \\
+\frac{dy}{dx} = \frac{1}{sech^{2}x} \\ \\
+1-\tanh ^{2} x = sech^{2}x \\ 
+\sqrt{ 1-\tanh ^{2}x } = sechx \\ \\
+\frac{dy}{dx} = \frac{1}{\sqrt{ 1-\tanh ^{2}x }} \\ \\
+\frac{dy}{dx} = \frac{1}{\sqrt{ x^{2}-1 }}
 \end{gather*}
 $$
