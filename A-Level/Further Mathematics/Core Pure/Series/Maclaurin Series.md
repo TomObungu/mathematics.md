@@ -83,10 +83,28 @@ $$
 \begin{gather*}
 f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^{2}+\frac{f'''(0)}{3!}x^{3}+\dots+ \frac{f^{r}(0)}{r!}x^{r} \\ \\
 f(x) = 0 + x - \frac{1!}{2!}x^{2} + \frac{2!}{3!}x^{3} +\dots+ (-1)^{r-1}\frac{(r-1)!}{r!}x^{r} +\dots\\ \\ 
-f(x) = x-\frac{1}{2}x^{2} + \frac{1}{3}x^{2}-\frac{1}{4}x^{4} +\dots (-1)^{r-1}\frac{1}{r}x^{r}+\dots
+f(x) = \ln(1+x) = x-\frac{1}{2}x^{2} + \frac{1}{3}x^{2}-\frac{1}{4}x^{4} +\dots (-1)^{r-1}\frac{1}{r}x^{r}+\dots
 \end{gather*}
 $$
 
-
-
- 
+# Worked Example 2
+![[Pasted image 20251229104316.png]]
+$$
+\begin{gather*}
+f(x) = \sin x \qquad f(0) = 0 \\ \\
+f'(x) = \cos x \qquad f'(0) = 1 \\ \\
+f''(x) = -\sin x \qquad f''(0) = 0 \\ \\
+f'''(x) = -\cos x \qquad f'''(0) = -1 \\ \\
+f^{4}(x) = \sin x \qquad f^{r4}(0) = 0  \\ \\
+\dots \\
+\qquad f^{r}(0) = (-1)^{r}
+\end{gather*}
+$$
+Using the definition of the Maclaurin series:
+$$
+\begin{gather*}
+f(x) = f(0) + f'(0)x +\frac{f''(0)}{2!}x^{2} + \frac{f'''(0)}{3!}x^{3} +\dots+\frac{f^{r}(0)}{r!}x^{r}+\dots \\ \\
+f(x) = 0 + x+\frac{0}{2!}x^{2}-\frac{1}{3!}x^{3} \\ \\
+\therefore \sin x \approx x -\frac{1}{3!}x^{3}
+\end{gather*}
+$$
