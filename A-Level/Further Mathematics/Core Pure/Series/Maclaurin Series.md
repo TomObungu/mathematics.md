@@ -9,4 +9,5 @@ As well as that, you have known:
 $$
 e^{x} = 1+x+\frac{x^{2}}{2} + \frac{x^{3}}{6}+\frac{x^{4}}{24}+\dots, x \in \mathbb{R}
 $$
-#
+# Derivation of Maclaurin Series 
+Given that a function $f(x)$, 
