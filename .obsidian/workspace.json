@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Series/Maclaurin Series.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Series/Macluarin series expansions of compound functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maclaurin Series"
+              "title": "Macluarin series expansions of compound functions"
             }
           }
         ]
@@ -239,7 +239,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
+        "x": 0,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -250,8 +250,10 @@
   },
   "active": "835b79995b90a751",
   "lastOpenFiles": [
-    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Series/Maclaurin Series.md",
+    "A-Level/Further Mathematics/Core Pure/Series/Macluarin series expansions of compound functions.md",
+    "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Series/attachments/Pasted image 20251229104316.png",
     "A-Level/Further Mathematics/Core Pure/Series/attachments/Pasted image 20251229102613.png",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
