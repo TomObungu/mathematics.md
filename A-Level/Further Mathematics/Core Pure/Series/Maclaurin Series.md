@@ -56,6 +56,8 @@ $$
 $$
 **The series is valid provided that $f(0), f'(0), f''(0), \dots,f^{r}(0),\dots$ all have finite values. 
 
+As well as that the series is only valid for values of $x$ that give rise to a convergent series expansion. 
+
+E.g. The Macluarin series of $\frac{1}{1-x}$ is $1+x+x^{2}+x^{3}+\dots$, but when $x=2$, the series gives $1+2+4+8\dots$ which is divergent. Thus $\frac{1}{1-x}$ only converges when $|x|<1$
 
 
-As well as that the series is only valid for values of $x$ that give rise to a convergent series expansion. For 
