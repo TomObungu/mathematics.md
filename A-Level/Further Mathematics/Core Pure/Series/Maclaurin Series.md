@@ -89,22 +89,38 @@ $$
 
 # Worked Example 2
 ![[Pasted image 20251229104316.png]]
+a
 $$
 \begin{gather*}
 f(x) = \sin x \qquad f(0) = 0 \\ \\
 f'(x) = \cos x \qquad f'(0) = 1 \\ \\
 f''(x) = -\sin x \qquad f''(0) = 0 \\ \\
 f'''(x) = -\cos x \qquad f'''(0) = -1 \\ \\
-f^{4}(x) = \sin x \qquad f^{r4}(0) = 0  \\ \\
+f^{4}(x) = \sin x \qquad f^{4}(0) = 0  \\ \\
 \dots \\
-\qquad f^{r}(0) = (-1)^{r}
 \end{gather*}
 $$
+$f^{n}(0)$ is $0$, when $n$ is even and the cycle of $0,1,0,-1$ repeats itself.
+
 Using the definition of the Maclaurin series:
 $$
 \begin{gather*}
 f(x) = f(0) + f'(0)x +\frac{f''(0)}{2!}x^{2} + \frac{f'''(0)}{3!}x^{3} +\dots+\frac{f^{r}(0)}{r!}x^{r}+\dots \\ \\
-f(x) = 0 + x+\frac{0}{2!}x^{2}-\frac{1}{3!}x^{3} \\ \\
-\therefore \sin x \approx x -\frac{1}{3!}x^{3}
+f(x) = 0 + x+\frac{0}{2!}x^{2}-\frac{1}{3!}x^{3} + \frac{0}{4!}x^{4} + \frac{1}{5!}x^{5} -\frac{0}{6!}x^{6} - \frac{1}{7!}x^{7}\\ \\
+\therefore \sin x \approx x - \frac{1}{3!}x^{3} + \frac{1}{5!}x^{5}-\frac{1}{7!}x^{7}
 \end{gather*}
 $$
+b
+Using the first two terms of the Macluarin expansion of $x$:
+$$
+\sin x \approx = x - \frac{1}{3!}x^{3}
+$$
+Therefore substituting $x=10^{\circ} = \frac{10}{180}\pi rad= \frac{1}{18}\pi rad$:
+$$
+\begin{gather*}
+\sin 10^{\circ} \approx \frac{\pi}{18}-\frac{1}{6}\left( \frac{\pi}{18} \right)^{3} \\ \\
+\approx 0.174532925 - 0.000886096 \\ \\
+\approx 0.173646829
+\end{gather*}
+$$
+Which gives an estimate correct to $5$ decimal places.
