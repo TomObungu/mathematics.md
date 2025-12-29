@@ -61,3 +61,32 @@ As well as that the series is only valid for values of $x$ that give rise to a c
 E.g. The Macluarin series of $\frac{1}{1-x}$ is $1+x+x^{2}+x^{3}+\dots$, but when $x=2$, the series gives $1+2+4+8\dots$ which is divergent. Thus $\frac{1}{1-x}$ only converges when $|x|<1$
 
 
+# Worked Example 1
+![[Pasted image 20251229102613.png]]
+$$
+\begin{gather*}
+f(x) = \ln(1+x) \qquad f(0) = \ln 1 = 0 \\ \\
+f'(x) = (1+x)^{-1} \qquad f'(0) = 1\\ \\
+f''(x)= (-1)(1+x)^{-2} \qquad f''(0) = -1 = -1!\\ \\
+f'''(x = (-1)(-2)(1+x)^{-3} \qquad f'''(0) = 2 = 2!\\ \\
+\dots
+f^{r}(x) = (-1)^{r-1}(r-1)!(1+x)^{-r} \qquad f^{r}(0)= (-1)^{r-1}(r - 1)!
+\end{gather*}
+$$
+
+Note that $(-1)^{r}$ can be used to represent an alternating series of negative to positive, for $r\geq 1, r \in \mathbb{Z}$
+
+The same for $(-1)^{r-1}$ can be used to represent an alternating series of positive to negative, for $r \geq 1, r \in \mathbb{Z}$
+
+Thus the Macluarin expansion for $1+x$ is:
+$$
+\begin{gather*}
+f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^{2}+\frac{f'''(0)}{3!}x^{3}+\dots+ \frac{f^{r}(0)}{r!}x^{r} \\ \\
+f(x) = 0 + x - \frac{1!}{2!}x^{2} + \frac{2!}{3!}x^{3} +\dots+ (-1)^{r-1}\frac{(r-1)!}{r!}x^{r} +\dots\\ \\ 
+f(x) = x-\frac{1}{2}x^{2} + \frac{1}{3}x^{2}-\frac{1}{4}x^{4} +\dots (-1)^{r-1}\frac{1}{r}x^{r}+\dots
+\end{gather*}
+$$
+
+
+
+ 

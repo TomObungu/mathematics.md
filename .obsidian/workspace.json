@@ -185,37 +185,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "4685a7ab9215acab",
-        "type": "window",
-        "children": [
-          {
-            "id": "98f6183748eff844",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fc53d13057cabff7",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "2f680a35dfe36aee",
         "type": "window",
         "children": [
@@ -247,33 +216,33 @@
         "zoom": 0
       },
       {
-        "id": "55d1de61c3a993df",
+        "id": "c632a8ea1b1abb38",
         "type": "window",
         "children": [
           {
-            "id": "77223fb4974e9c40",
+            "id": "c52ff3eac8638982",
             "type": "tabs",
             "children": [
               {
-                "id": "92e467f70353fa6b",
+                "id": "6124e70c8a213a8c",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf"
+                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Edexcel A level Mathematics Pure Mathematics Year 2 Textbook"
+                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 905,
-        "y": 90,
-        "width": 1024,
-        "height": 800,
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
@@ -281,10 +250,11 @@
   },
   "active": "835b79995b90a751",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Series/attachments/Pasted image 20251229102613.png",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
-    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Series/Maclaurin Series.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Mathematics/Binomial Expansion.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Differentiating Hyperbolic functions.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/Q. Harmonic form reminder.md",
