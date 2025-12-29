@@ -37,6 +37,7 @@ $$
 \frac{1}{2}\ln(1+2x) = \frac{1}{2}\left(2x - \frac{(2x)^{2}}{2} + \frac{(2x)^{3}}{3}+\dots\right), -1 < 2x \leq 1 \\ \\
 \frac{1}{2}\ln(1+2x) = x - x^{2} + \frac{4}{3}x^{3}+\dots. -\frac{1}{2} < x \leq 1 \\ \\ \\ 
 -\ln(1-3x) = -\left(-3x - \frac{(-3x)^{2}}{2} + \frac{(-3x)^{^{3}}}{3}+\dots \right). -1 < -3x \leq 1 \\ \\
--\ln(1-3x) = 3x + 
+-\ln(1-3x) = 3x + \frac{9}{2}x^{2} + 9x^{3} \\ \\
+\therefore \ln \sqrt{ \frac{1+2x}{1-3x} } \approx x-x^{2}+\frac{4}{3}x^{3} +3x + \frac{9}{2} x^{2}+9x^{3} \\ \\ 
 \end{gather*}
 $$
