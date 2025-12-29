@@ -74,7 +74,7 @@ f^{r}(x) = (-1)^{r-1}(r-1)!(1+x)^{-r} \qquad f^{r}(0)= (-1)^{r-1}(r - 1)!
 \end{gather*}
 $$
 
-Note that $(-1)^{r}$ can be used to represent an alternating series of negative to positive, for $r\geq 1, r \in \mathbb{Z}$
+Note that $(-1)^{r}$ can be used to represent an alternating series of positive negative to , for $r\geq 0, r \in \mathbb{Z}$
 
 The same for $(-1)^{r-1}$ can be used to represent an alternating series of positive to negative, for $r \geq 1, r \in \mathbb{Z}$
 
