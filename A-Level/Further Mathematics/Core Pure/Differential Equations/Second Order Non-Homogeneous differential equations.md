@@ -76,3 +76,23 @@ Now that some terms are missing in $f(x)$, still try the full form of $y_{p}$.
 E.g. $f(x) = p\cos\omega x$, $y_{p}=\lambda \cos\omega x+\mu \sin\omega x$
 
 # Worked Example 1
+Find the general solution to:
+$$
+\begin{gather*}
+y''-5y'+6y=3x^{2}  \\ \\
+m^{2}-5m+6 = 0 \\ 
+(m-3)(m-2) = 0 \\ \\
+y_{c} = Ae^{3x} + Be^{2x} \\ \\
+y_{p} = \lambda +\mu x + \gamma x^{2} \\ \\
+y_{p}' = \mu+2\gamma x \\ \\
+y_{p}'' = 2\gamma \\ \\
+2\gamma -5(\mu+2\gamma x) + 6(\lambda+\mu x +\gamma x^{2}) = 3x^{2} + 0x + 0 \\ \\
+2\gamma -5\mu-10\gamma x + 6\lambda + 6\mu x + 6\gamma x^{2} = 3x^{2} + 0x + 0 \\ \\
+(6\gamma)x^{2} + (6\mu-10\gamma)x + (2\gamma-5\mu+6\lambda) = 3x^{2} + 0x + 0 \\ \\
+6\gamma = 3 \implies \gamma = \frac{1}{2} \\ \\
+6\mu - 5 = 0 \implies \mu=\frac{5}{6} \\ \\
+1-\frac{25}{6} + 6\lambda \implies \lambda = \frac{19}{36} \\ \\
+y_{p} = \frac{19}{36} + \frac{5}{6}x + \frac{1}{2}x^{2} \\ \\
+\therefore y = Ae^{3x} + Be^{2x} + \frac{19}{36} + \frac{5}{6}x + \frac{1}{2}x^{2}
+\end{gather*}
+$$
