@@ -112,6 +112,24 @@ Now let's try the particular solution again, $y_{p} = \lambda e^{x}$
 
 We have a problem, this already a part of $y_{c}$. This satisfies the homogeneous equation so it cannot also be the solution to the inhomogenous. This would imply $e^{x}=0$. 
 
-Thus:
-![[Pasted image 20251230021634.png]]
-
+We can reduction of order, like before, to find that an additional solution. The additional solution is:
+$$
+\begin{gather*}
+y_{p} = \lambda xe^{x} \\ \\
+\therefore y_{p}' = \lambda xe^{x} + \lambda e^{x} \\ \\
+y_{p}'' = \lambda xe^{x} + 2\lambda e^{x}
+\end{gather*}
+$$
+Therefore substituting back into the equation yeilds:
+$$
+\begin{gather*}
+\lambda(xe^{x}+2e^{x}) - 5(\lambda xe^{x}+\lambda e^{x}) + \lambda xe^{x} = e^{x} \\ \\ 
+\lambda x+2\lambda-5\lambda x-5\lambda+4\lambda x=1 \\ \\
+-3\lambda = 1 \qquad \lambda = -\frac{1}{3} \\ \\
+y_{p} = -\frac{1}{3}xe^{x} 
+\end{gather*}
+$$
+Therefore the solution is now satisfied as:
+$$
+y = Ae^{x} + Be^{4x}- \frac{1}{3}xe^{x}
+$$
