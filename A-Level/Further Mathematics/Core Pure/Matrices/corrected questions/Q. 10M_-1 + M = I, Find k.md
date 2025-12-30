@@ -34,7 +34,19 @@ k & -3 \\
  \frac{30}{k^{2}+3k+12}-3 = 0 \\ \\
  3k^{2}+9k+6=0 \\ \\
  (3k+6)(k+1) = 0 \\ \\
- k = -2 \text{ inadmissible does not give I} \\ \\
- k = -1
+\text{When }k = -2:  \\
+\frac{10}{(-2)^{2}+3(-2)+12}\begin{pmatrix}
+2+3 & 3 \\
+-4 & -4 \\
+\end{pmatrix}+\begin{pmatrix}
+-2 & -3 \\
+4 & -2+3 
+\end{pmatrix} = \begin{pmatrix}
+-1 & 0 \\
+0 & -1 & 
+\end{pmatrix} \neq \mathbf{I}\\ 
+k = 2\text{ inadmissible does not give I} \\
+ \therefore k = -1 \\ 
+ 
  \end{gather*}
-$$#
+$$
