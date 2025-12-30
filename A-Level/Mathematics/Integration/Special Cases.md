@@ -30,7 +30,7 @@ $$
 ## $\int \frac{1}{1+\cos x}$
 
 
-## $\int \frac{\sin x}{\sin x+\cos x}$
+
 
 
 ## $\int \sqrt{ x^{2}+2x }$
