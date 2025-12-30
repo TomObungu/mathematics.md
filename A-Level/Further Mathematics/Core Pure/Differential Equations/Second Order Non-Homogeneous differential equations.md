@@ -103,8 +103,7 @@ $$
 \begin{gather*}
 m^{2}-5m+4 = 0 \\ \\
 (m-1)(m-4) = 0 \\ \\
-y_{c} = Ae^{x} + Be^{4x} \\ \\
-y_{p} = \lambda e^{x}
+y_{c} = Ae^{x} + Be^{4x}
 \end{gather*}
 $$
 
