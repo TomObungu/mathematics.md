@@ -109,3 +109,9 @@ y_{p} = \lambda e^{x}
 $$
 
 Now let's try the particular solution again, $y_{p} = \lambda e^{x}$
+
+We have a problem, this already a part of $y_{c}$. This satisfies the homogeneous equation so it cannot also be the solution to the inhomogenous. This would imply $e^{x}=0$. 
+
+Thus:
+![[Pasted image 20251230021634.png]]
+
