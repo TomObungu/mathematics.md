@@ -34,8 +34,7 @@ k & -3 \\
  \frac{30}{k^{2}+3k+12}-3 = 0 \\ \\
  3k^{2}+9k+6=0 \\ \\
  (3k+6)(k+1) = 0 \\ \\
- k = -2 \text{ inadmiissible does not give I} \\ \\
+ k = -2 \text{ inadmissible does not give I} \\ \\
  k = -1
- 
-\end{gather*}
-$$
+ \end{gather*}
+$$#
