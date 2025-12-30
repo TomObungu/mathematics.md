@@ -63,6 +63,14 @@ $$
 # Forms of particular integrals
 We need to find a solution of the same form as $f(x)$. 
 
+| $f(x)$                        | $y_{p(x)}$                            |
+| ----------------------------- | ------------------------------------- |
+| $p$                           | $\lambda$                             |
+| $p+qx$                        | $\lambda + \mu x$                     |
+| $p+qx+rx^{2}$                 | $\lambda+\mu x+\gamma x^{2}$          |
+| $px^{kx}$                     | $\lambda e^{kx}$                      |
+| $p\cos\omega x+q\sin\omega x$ | $\lambda \cos\omega+\mu \sin\omega x$ |
 
-|$f(x)$ | $y_{p}$ |
---- | ---
+Now that some terms are missing in $f(x)$, still try the full form of $y_{p}$.
+
+E.g. $f(x) = p\cos\omega x$, $y_{p}=\lambda \cos\omega x+\mu \sin\omega x$
