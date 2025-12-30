@@ -96,3 +96,16 @@ y_{p} = \frac{19}{36} + \frac{5}{6}x + \frac{1}{2}x^{2} \\ \\
 \therefore y = Ae^{3x} + Be^{2x} + \frac{19}{36} + \frac{5}{6}x + \frac{1}{2}x^{2}
 \end{gather*}
 $$
+
+# Failure case for exponentials
+Consider $y''-5y'+4y=e^{x}$
+$$
+\begin{gather*}
+m^{2}-5m+4 = 0 \\ \\
+(m-1)(m-4) = 0 \\ \\
+y_{c} = Ae^{x} + Be^{4x} \\ \\
+y_{p} = \lambda e^{x}
+\end{gather*}
+$$
+
+Now let's try the particular solution again, $y_{p} = \lambda e^{x}$
