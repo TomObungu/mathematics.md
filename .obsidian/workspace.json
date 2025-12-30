@@ -11,14 +11,12 @@
             "id": "835b79995b90a751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
-                "mode": "source",
-                "source": false
+                "file": "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Matrix equations practice.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Q. A colony of small mammals is being studied"
+              "icon": "lucide-file-text",
+              "title": "Matrix equations practice"
             }
           }
         ]
@@ -182,6 +180,8 @@
   },
   "active": "835b79995b90a751",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
     "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
     "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
     "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. 10M_-1 + M = I, Find k.md",
@@ -211,8 +211,6 @@
     "A-Level/Further Mathematics/Core Pure/Series/Sum Of Cubes.md",
     "A-Level/Further Mathematics/Core Pure/Series/corrected questions/Q. Slide 13.md",
     "A-Level/Further Mathematics/Core Pure/Series/Sum Of Natural Numbers.md",
-    "A-Level/Further Mathematics/Core Pure/Series/Maclaurin Series.md",
-    "A-Level/Further Mathematics/Core Pure/Series/Macluarin series expansions of compound functions.md",
     "A-Level/Further Mathematics/Core Pure/Series/attachments/Pasted image 20251229195618.png",
     "A-Level/Further Mathematics/Core Pure/Series/attachments/Pasted image 20251229132606.png",
     "A-Level/Further Mathematics/Core Pure/Series/attachments/Pasted image 20251229132400.png",
