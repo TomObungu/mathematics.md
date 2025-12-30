@@ -121,7 +121,7 @@ y_{p} = \lambda xe^{x} \\ \\
 y_{p}'' = \lambda xe^{x} + 2\lambda e^{x}
 \end{gather*}
 $$
-Therefore substituting back into the equation yeilds:
+Therefore substituting back into the equation yields:
 $$
 \begin{gather*}
 \lambda(xe^{x}+2e^{x}) - 5(\lambda xe^{x}+\lambda e^{x}) + \lambda xe^{x} = e^{x} \\ \\ 
@@ -148,6 +148,16 @@ $$
 y_{p} = \lambda x^{2}e^{x}
 $$
 ## Summary
-When there is one root from the auxiliary equation end up having an exponential with the power as $f(x)$, try particular solution $y_{p}=\lambda xe^{x}$
+## Case 1: No matches
+If the value of $k$ from the auxiliary root are distinct and do match the value of the exponent in the forcing function $f(x)$, then try $y_{p}=\lambda e^{x}$
 
-When both roots to the auxiliary equation end up having the same power as $f(x)$, try particular solution $y_{p}=\lambda x^{2}e^{x}$
+## Case 2: Single root match
+If the value of $k$, in the forcing function $f(x)$ is a single root of the auxiliary equation, try $y_{p} = \lambda xe^{kx}$
+
+This occurs when $k$ is one of the two distinct real roots (e.g. roots are $k$ and $m$)
+
+## Case 3: Double root match
+If the value of $k$ is a repeated root of the auxiliary equation and that it matches the value of the power of the exponent, try $y_{p} = \lambda x^{2}e^{x}$.
+
+**Note this all applies only if the forcing function $f(x)$ is an exponential function in the form $y=pe^{x}$**
+![[Pasted image 20251230144407.png]]
