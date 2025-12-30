@@ -154,7 +154,7 @@ $$
 $$
 
 # Worked Example 1
-Find the solution to:7
+Find the solution to:
 ![[Pasted image 20251129230346.png]]
 For questions like this, we want to get get the equation in standard form:
 $$
