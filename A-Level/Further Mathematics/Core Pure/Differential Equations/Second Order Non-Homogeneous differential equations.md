@@ -98,6 +98,8 @@ y_{p} = \frac{19}{36} + \frac{5}{6}x + \frac{1}{2}x^{2} \\ \\
 $$
 
 # Failure case for exponentials
+
+# One root with the same power
 Consider $y''-5y'+4y=e^{x}$
 $$
 \begin{gather*}
@@ -132,7 +134,7 @@ Therefore the solution is now satisfied as:
 $$
 y = Ae^{x} + Be^{4x}- \frac{1}{3}xe^{x}
 $$
-# Failure case with equal roots
+## Both roots  with the same power
 Consider $ay''+by'+cy=pe^{kx}$
 
 Suppose that the auxiliary equation has equal roots with the same value as $k$. This will mean the complimentary solution will be:
@@ -145,3 +147,7 @@ However performing reduction of order gives us the particular solution:
 $$
 y_{p} = \lambda x^{2}e^{x}
 $$
+## Summary
+When there is one root from the auxiliary equation end up having an exponential with the power as $f(x)$, try particular solution $y_{p}=\lambda xe^{x}$
+
+When both roots to the auxiliary equation end up having the same power as $f(x)$, try particular solution $y_{p}=\lambda x^{2}e^{x}$
