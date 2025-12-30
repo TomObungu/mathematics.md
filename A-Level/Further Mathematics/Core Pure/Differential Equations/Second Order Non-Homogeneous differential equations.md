@@ -1,0 +1,68 @@
+Solving a DE in the form:
+$$
+ay'' + by' + cy = f(x)
+$$
+# Particular Integral
+There exists a function, $y_{p}(x)$, that satisfies the DE.  We call this the particular integral.
+
+Consider, $y''-5y'+6y=e^{x}$. 
+
+We need something that looks like it will cancel down we will try a trail solution of the same form as $f(x)$.
+
+Let's try 
+$$
+y_{p} = \lambda e^{x}
+$$
+$$
+\lambda e^{x} - 5\lambda e^{x}+6\lambda e^{x}= e^{x}
+$$
+The terms cancel out and we are left with:
+$$
+y_{p} = \frac{1}{2}e^{x}
+$$
+This is a solution to a second order DE but it has no arbitrary constant. 
+
+$y_{p}$ alone cannot be the general solution.
+
+## Complementary function
+The complementary function, $y_{c}$ is the solution to the corresponding homogeneous equation. 
+
+For  our example:
+$$
+\begin{gather*}
+m^{2}-5m+6 = 0  \\ \\ 
+(m-3)(m-2) = 0 \\ \\
+y_{c} = Ae^{3x} + Be^{2x}
+\end{gather*}
+$$
+
+## General solution
+We know that 
+$$
+\begin{gather*}
+ay_{c}''+by_{c}'+cy_{c} = 0  \\ \\
+ay_{p}''+by_{p}'+cy_{p} = 
+f(x)\end{gather*}
+$$
+from the principle of superposition, we know that:
+$$
+a(y_{c} + y_{p})'' + b(y_{c} + y_{p})' + c(y_{c}+y_{p}) = f(x) + 0
+$$
+Thus $(y_{c}+y_{p})$ is a solution to the inhomogeneous equation.
+
+Since the complementary function contains the arbitrary constants, this is now a general solution:
+$$
+y = y_{c} + y_{p}
+$$
+
+For the example above:
+$$
+y = Ae^{3x} + Be^{2x} + \frac{1}{2}e^{x}
+$$
+
+# Forms of particular integrals
+We need to find a solution of the same form as $f(x)$. 
+
+
+|$f(x)$ | $y_{p}$ |
+--- | ---
