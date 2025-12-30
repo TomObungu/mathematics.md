@@ -132,3 +132,16 @@ Therefore the solution is now satisfied as:
 $$
 y = Ae^{x} + Be^{4x}- \frac{1}{3}xe^{x}
 $$
+# Failure case with equal roots
+Consider $ay''+by'+cy=pe^{kx}$
+
+Suppose that the auxiliary equation has equal roots with the same value as $k$. This will mean the complimentary solution will be:
+$$
+y_{c} = (A+Bx)e^{x}
+$$
+Thus trying out the particular solutions of $y=\lambda e^{x}$ and $y=\lambda xe^{x}$ wont work as both are included so we cannot use either of $y_{p}$. 
+
+However performing reduction of order gives us the particular solution:
+$$
+y_{p} = \lambda x^{2}e^{x}
+$$
