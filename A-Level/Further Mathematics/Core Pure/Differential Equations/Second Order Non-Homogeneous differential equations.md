@@ -74,3 +74,5 @@ We need to find a solution of the same form as $f(x)$.
 Now that some terms are missing in $f(x)$, still try the full form of $y_{p}$.
 
 E.g. $f(x) = p\cos\omega x$, $y_{p}=\lambda \cos\omega x+\mu \sin\omega x$
+
+# Worked Example 1
