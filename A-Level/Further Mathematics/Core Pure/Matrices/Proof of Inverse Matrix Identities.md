@@ -39,4 +39,27 @@ AI = B^{-1}B^{-1} \\ \\
 
 $$
 
+**b**
+$$
+\begin{gather*}
+B = \begin{pmatrix}
+2 & 5 \\
+1 & 3
+\end{pmatrix} \\ \\
+B^{-1} = \begin{pmatrix}
+3 & -5 \\
+1 & 2
+\end{pmatrix} \\ \\
+B^{-1}B^{-1} = \begin{pmatrix}
+3 & -5 \\
+1 & 2
+\end{pmatrix} \begin{pmatrix}
+3 & -5 \\
+1 & 2 
+\end{pmatrix} = \begin{pmatrix}
+4 & -25 \\
+5 & -1
+\end{pmatrix}
+\end{gather*}
+$$
 
