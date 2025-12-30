@@ -89,11 +89,10 @@ c.
 $$
 \begin{gather*}
 k = -6: \begin{vmatrix} 3 & 6 & -6 \\ -6 & 3 & 3 \\ -3 & -1 & 3 \end{vmatrix} = 0 \\ \\
-3x - y - 6z = 1 &(1)\\ 
-x + 3y + 3z = 2  &(2)\\
+3x + 6y - 6z = -6&(1)\\ 
+-6x + 3y + 3z = 2  &(2)\\
 -3x - y + 3z = -2 &(3)\\ \\
-5x - 3z = -8 &(4)\\ 
-15x - 9z = -10 &(5)
+
 \end{gather*}
 $$
 Equations (4) and (5) are inconsistent so the system is inconsistent and has no solutions.
