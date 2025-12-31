@@ -31,7 +31,7 @@ The transformation V, represented by the 2 x 2 matrix B, is a reflection in the 
 
 (b) Write down the matrix B.
 
-Given that U followed by Vis the transformation T, which is represented by the matrix C,
+Given that U followed by V is the transformation T, which is represented by the matrix C,
 
 (c) find the matrix C.
 
