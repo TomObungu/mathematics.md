@@ -141,7 +141,7 @@ $$
 when $m=-1$
 
 # Line of invariant points
-A line of invariant points is when there is a set of invariant points after linear transformation and these set of invariant points form a line.
+A line of invariant points is when there is a set of invariant points after the linear transformation is applied and these set of invariant points form a line.
 
 You can see that for the red point on the green line with the large blue arching arrow, the same point is mapped onto another point on the same green line. This is an invariant line
 
