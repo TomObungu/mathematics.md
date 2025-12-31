@@ -70,11 +70,9 @@ $$
 # Invariant lines
 For an invariant line under a linear transformation, every point must map **to another point on the same line**. For invariant lines, only the overall line equation is considered not the points themselves.
 
-You can see that after the linear transformation has been applied, the the points are mapped onto a another set of points that lie on the same straight line:
+You can see that after the linear transformation has been applied, the points are mapped onto a another set of points that lie on the same straight line:
 
 ![[Pasted image 20251027095648.png]]
-
-You can see that differen
 
 ## Worked Example 1
 ![[Pasted image 20251027100832.png]]
