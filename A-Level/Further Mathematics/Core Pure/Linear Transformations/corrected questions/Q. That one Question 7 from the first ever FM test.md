@@ -19,7 +19,7 @@ $$
 $$
 \begin{gather*}
 \det(M - I) = (1)(-2) - (3)(0) = -2 \neq 0 \\ \\
-\therefore ()M - I) \ \ \ \text{is non-singular}
+\therefore (M - I) \ \ \ \text{is non-singular}
 \end{gather*}
 $$
 b) 
@@ -78,8 +78,8 @@ M^{n-1}\mathbf{x}=\mathbf{x} \\ \\
 \text{The determinant is: } \\ \\
 \det(M^{n-1} - I) \\ = (2^{n-1} - 1) [(-1)^{n-1} - 1] - [2^{n-1} - (-1)^{n-1}](0) \\ = (2^{n-1} - 1)[(-1)^{n-1} - 1] \\ \\
 \text{For a line of invariant points, we need infintley many solutions, so the determinant must be zero.} \\ \\
-2^{n-1} - 1)[(-1)^{n-1} - 1] = 0 \\ \\ 
-2^{n-1} - 1) = 0 \text{ Only when n=1, but we consider } n \in \mathbb{N}. \\ 
+(2^{n-1} - 1)[(-1)^{n-1} - 1] = 0 \\ \\ 
+(2^{n-1} - 1) = 0 \text{ Only when n=1, but we consider } n \in \mathbb{N}. \\ 
 (-1)^{n-1}-1 = 0 \text{ when } (-1)^{n-1} = 1, \text{ i.e when n-1 is even so, n is odd.} \\ \\
 \\det(m^{n - 1} - I)=0  \ if \text{ and only if n is odd. Thus for odd n, there is a line of invariant points.} \\ \\
 \therefore \ \text{T has a line of invariant points if and only if n is odd.}
