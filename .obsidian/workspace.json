@@ -11,12 +11,14 @@
             "id": "835b79995b90a751",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Matrix equations practice.pdf"
+                "file": "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Matrix equations practice"
+              "icon": "lucide-file",
+              "title": "Q. A colony of small mammals is being studied"
             }
           }
         ]
@@ -180,6 +182,8 @@
   },
   "active": "835b79995b90a751",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Matrices/Proof of Inverse Matrix Identities.md",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Matrix equations practice.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Customised Problem Sheet - Matrices.md",
     "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
@@ -190,7 +194,6 @@
     "A-Level/Further Mathematics/Core Pure/Matrices/Matrix Multiplication.md",
     "A-Level/Further Mathematics/Core Pure/Matrices/Inverting a 3 x 3 matrix.md",
     "A-Level/Further Mathematics/Core Pure/Matrices/Determinants.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Proof of Inverse Matrix Identities.md",
     "A-Level/Further Mathematics/Core Pure/Matrices/Inverting a 2 x 2 matrix.md",
     "A-Level/Mathematics/Integration/Special Cases.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Non-Homogeneous differential equations.md",
@@ -225,8 +228,6 @@
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments/Untitled",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/corrected questions/attachments",
     "preamble.sty~",
-    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/attachments",
-    "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/attachments",
     "Untitled.canvas"
   ]
 }
