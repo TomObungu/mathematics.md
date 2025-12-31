@@ -85,7 +85,7 @@ So $\mathbf{M}$ is a rotation anticlockwise, through 135 about (0,0)
 
 ### Enlargements
 [[Determinants]]
-- A transformation represented by the matrix $\begin{pmatrix}a & 0 \\ 0 & b\end{pmatrix}$ is a stretch of scale factor a parallel to the x-axis and a stretch scale factor b parallel to the y-axis
+- A transformation represented by the matrix $\begin{pmatrix}a & 0 \\ 0 & b\end{pmatrix}$ is a stretch of scale factor $a$ parallel to the x-axis and a stretch scale factor $b$ parallel to the y-axis
 	- In the case here a=b, the scale factor is an enlargement with scale factor a
 
 ## Extra : Translations
@@ -111,7 +111,6 @@ $$
 In this case our translation would be $\begin{pmatrix}1 \\ 2\end{pmatrix}$ if we were to take the original starting points of $\begin{pmatrix}0 \\ 0\end{pmatrix}$ and the displacement vector of $\begin{pmatrix}1 \\ 2\end{pmatrix}$
 
 However this isn't ideal. Often we use matrix multiplication to represent a linear transformation and even multiply matrices to  get a single matrix that represents a combination of transformations in succession. 
-
 
 So in order to maintain the consistency of using a matrix to represent linear transformations, we can represent translations in the 2D(2x2) plane with a 3D (3x3) matrix:
 $$
