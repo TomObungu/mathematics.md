@@ -207,6 +207,6 @@ x \\
 \end{pmatrix} \\ \\
 y=-12x \ \ \ \ \ x = -6x \\
 \implies y=2x \\ \\
-\therefore \text{ All points on y=2x map to points on y=2x, hence the line is invariant.}
+\therefore \text{ All points on y=2x map to points on y=2x, hence the line is a line of invariant points.}
 \end{gather*}
 $$
