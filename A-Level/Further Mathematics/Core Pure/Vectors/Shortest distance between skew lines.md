@@ -17,7 +17,7 @@ Where the $a$ is the direction vector of line $l_{1}$ and b is the direction vec
 
 Recall for [[Dot Product (Scalar Product)]] that the scalar product between vector $a$ and $b$ gives the component of a in direction $b$. This is where the scalar product becomes useful. This means that the direction that points towards the perpendicular vector between a point $A$ and a point $B$ on the line from point $A$ is the scalar product of $\vec{AB}$ multiplied by the $\hat{n}$. 
 
-Thus, the short distance between the two skew lines $d$ can be calculated by:
+Thus, the shortest distance between the two skew lines $d$ can be calculated by:
 $$
 d=|\vec{AB}\cdot\hat{n}|
 $$
