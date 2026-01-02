@@ -32,13 +32,13 @@ r = \begin{pmatrix}
 2 \\
 3
 \end{pmatrix} = 4 \\ \\
-9\lambda = 18 \qquad \lambda=2 \\ \\
+9\lambda = -12 \qquad \lambda= -\frac{4}{3} \\ \\
 \therefore r = \begin{pmatrix}
-1 \\
-3 \\
--1
+-\frac{7}{3} \\
+-\frac{1}{3 }\\
+-\frac{7}{3}
 \end{pmatrix} \\ \\
-\text{The point of intersection is at } (1,3,-1)
+\text{The point of intersection is at } \left( -\frac{7}{3},-\frac{1}{3}, \frac{7}{3} \right)
 \end{gather*}
 $$
 
