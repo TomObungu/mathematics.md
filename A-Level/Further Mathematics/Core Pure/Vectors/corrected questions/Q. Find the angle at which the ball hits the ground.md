@@ -34,4 +34,22 @@ Think of it as the equation of a line: the position (s) is the starting position
 
 However recall to find the angle between a line a plane you must use $\sin\theta$ = the dot product of the direction vector and the normal. 
 
-In this case the velocity is the direction vector:
+In this case the velocity is the direction vector and the normal is the vertical plane $\hat{k}$ $\begin{pmatrix}0 \\ 0 \\ 1\end{pmatrix}$
+
+We can use the angle between a line an a plane formula to calculate the angle. Remember to take the positive value of the angle.
+
+$$
+\begin{gather*}
+\sin\theta = \frac{\left( \begin{pmatrix}
+\frac{64}{25} \\
+15 \\
+-2 
+\end{pmatrix} \cdot \begin{pmatrix}
+0 \\
+0 \\
+1
+\end{pmatrix} \right)}{\sqrt{ \frac{64}{25}^{2}+15^{2}+2^{2} }} = -\frac{2}{\sqrt{ \frac{147221}{25} }} = -0.13031221 \\ \\
+\theta = -7.4876\dots \\ \\
+\therefore \text{Acute angle} =7.5
+\end{gather*}
+$$
