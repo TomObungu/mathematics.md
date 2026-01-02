@@ -64,7 +64,7 @@ $$
 $$
 
 
-## Work Example 1
+## Worked Example 1
 $$
 \begin{align*}
 \Pi:\quad \mathbf{r} &= \begin{pmatrix}0\\3\\2\end{pmatrix} + \lambda\begin{pmatrix}5\\1\\-1\end{pmatrix} + \mu\begin{pmatrix}-2\\-1\\-6\end{pmatrix}
