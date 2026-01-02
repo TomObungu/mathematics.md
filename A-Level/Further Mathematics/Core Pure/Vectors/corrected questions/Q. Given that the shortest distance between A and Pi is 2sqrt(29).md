@@ -28,9 +28,21 @@ a = 2 \qquad b= 3 \qquad c= -4 \\
 \\ \\
 \frac{\left| 2(4+t)+3(-5+6t)+(-4)(2-3t)\right|}{\sqrt{ 2^{2}+3^{2}+(-4)^{2} }} = 2\sqrt{ 29 } \\ \\
 \frac{-15+32t}{\sqrt{ 29 }} = \pm2\sqrt{ 29 } \\ \\
--15+32t = 2\sqrt{ 29 } \quad-15+32t=-2\sqrt{ 29 } \\ \\
-t = \qquad t=
+-15+32t = 58 \quad-15+32t=-58 \\ \\
+t = \frac{73}{32} \qquad t= -\frac{43}{32}
 
 \end{gather*} 
 $$
 Do not forget to set the constant of the other side of the equation i.e $2\sqrt{ 29 }$ to $\pm$ to ensure the two correct values of t are found as the equation uses the modulus signs.
+Thus the point $OA$ is:
+$$
+OA = \begin{pmatrix}
+\frac{201}{32} \\
+\frac{139}{16} \\
+-\frac{155}{32}
+\end{pmatrix} \qquad OA= \begin{pmatrix}
+\frac{85}{32} \\
+-\frac{209}{16} \\
+\frac{193}{32}
+\end{pmatrix}
+$$
