@@ -34,4 +34,4 @@ Think of it as the equation of a line: the position (s) is the starting position
 
 However recall to find the angle between a line a plane you must use $\sin\theta$ = the dot product of the direction vector and the normal. 
 
-In this case the velocity is the direction vector.
+In this case the velocity is the direction vector:
