@@ -107,14 +107,14 @@ Therefore:
 $$
 \begin{gather*}
 e^{y} = x \pm \sqrt{ x^{2}+1 } \\ \\
-y = \ln (x^{2}\pm \sqrt{ x^{2}+1 })
+y = \ln (x\pm \sqrt{ x^{2}+1 })
 \end{gather*}
 $$
  
 ## Only take $+\sqrt{ x^{2}+1 }$ this time
 $x-\sqrt{ x^{2}+1 }$ can be ignored since $\sqrt{ x^{2}+1 }>x$, and would give a negative value inside a logarithmic function which is not possible as the value will be undefined. Thus we only take the positive value this:
 $$
-\boxed{ ar\sinh x = \ln (x^{2} + \sqrt{ x^{2}+1 }) }
+\boxed{ ar\sinh x = \ln (x + \sqrt{ x^{2}+1 }) }
 $$
 
 # Solving hyperbolic equations
