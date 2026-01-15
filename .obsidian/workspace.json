@@ -195,8 +195,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e437da641f2fc686",
+  "floating": {
+    "id": "0f6265680ead2cdb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8304224eaa02a7b2",
+        "type": "window",
+        "children": [
+          {
+            "id": "1723ff5f2bb68b9c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77e4cee8cee2a22a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "77e4cee8cee2a22a",
   "lastOpenFiles": [
+    "A-Level/Mathematics/Integration/Special Cases.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Using boundary conditions for second order differentials.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Differentiating Hyperbolic functions.md",
@@ -222,7 +260,6 @@
     "A-Level/Further Mathematics/Core Pure/Vectors/Shortest distance from line to origin.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Shortest distance between skew lines.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Proving a line is parallel to another plane.md",
-    "A-Level/Further Mathematics/Core Pure/Vectors/Planes.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Worksheets/Vector Problem Solving.pdf",
     "A-Level/Further Mathematics/Core Pure/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Matrix equations practice.pdf",
