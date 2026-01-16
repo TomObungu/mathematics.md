@@ -227,13 +227,14 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "77e4cee8cee2a22a",
+  "active": "e437da641f2fc686",
   "lastOpenFiles": [
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Mathematics/Integration/Special Cases.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Using boundary conditions for second order differentials.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
@@ -259,13 +260,11 @@
     "A-Level/Further Mathematics/Core Pure/Vectors/corrected questions/Q. Shortest distance from the origin example.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Shortest distance from line to origin.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Shortest distance between skew lines.md",
-    "A-Level/Further Mathematics/Core Pure/Vectors/Proving a line is parallel to another plane.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Worksheets/Vector Problem Solving.pdf",
     "A-Level/Further Mathematics/Core Pure/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Matrix equations practice.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Worksheets/Customised Problem Sheet - Matrices.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/attachments/Pasted image 20251230144407.png",
-    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/attachments/Pasted image 20251230021634.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/attachments/Pasted image 20251229231114.png",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
