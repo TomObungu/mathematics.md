@@ -195,76 +195,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "0f6265680ead2cdb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6fd81173ae72ba7e",
-        "type": "window",
-        "children": [
-          {
-            "id": "deb1e5f2e3d80da5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e504a60e6f87d0f1",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-10-24 15.14.08.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "0518efa83e89bf97",
-        "type": "window",
-        "children": [
-          {
-            "id": "906c1c342931cbd1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a755c1413a60ce9a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e437da641f2fc686",
+  "active": "7504e1836e7feb25",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Further Mechanics 2",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that tan beta = ((m+M)tan alpha) by (m - eM).md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
@@ -308,7 +241,6 @@
     "A-Level/Mathematics/Integration/Special Cases.md",
     "Untitled.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Using boundary conditions for second order differentials.md",
-    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Worksheets/Vector Problem Solving.pdf",
     "A-Level/Further Mathematics/Core Pure/Vectors/Worksheets/Customised Problem Sheet - Vectors.pdf",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
