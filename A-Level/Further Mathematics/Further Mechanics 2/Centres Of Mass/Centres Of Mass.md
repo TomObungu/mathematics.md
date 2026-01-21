@@ -172,8 +172,48 @@ Now there is multiple approaches to this problem. It is possible to solve it via
 
 ## Optimisation approach:
 Firstly writing out  $\sum_{i=i}^{n}m_{i}\begin{pmatrix}x_{i} y_{i}\end{pmatrix}  = \begin{pmatrix}\bar{x} \\ \bar{y}\end{pmatrix} \sum_{i=1}^{n}m_{i}$:n approach:
-Firstly writing out m k
+Firstly writing out 
 $$
-2m
+\begin{gather*}
+2m\begin{pmatrix}
+3 \\
+2
+\end{pmatrix} + 5m\begin{pmatrix}
+1 \\
+-2
+\end{pmatrix}  + 3m\begin{pmatrix}
+ a \\
+2a
+\end{pmatrix} = 10m\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+11 \\
+-6 
+\end{pmatrix} + \begin{pmatrix}
+3a \\
+6a
+\end{pmatrix} = 10\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} 
+\end{gather*}
 $$
+It is possible to now write $\bar{x}$ and $\bar{y}$ as a system of linear equations that represent and x-coordinate and y-coordinate:
+$$
+\begin{gather*}
+\bar{x} = \frac{1}{10}(11+3a) \\ \\
+\bar{y} = \frac{1}{10}(-6+6a)
+\end{gather*}
+$$
+Now the distance $d$ from the origin is calculated from the distance formula $d = \sqrt{ \bar{x}^{2} + \bar{y}^{2} }$ thus:
+$$
+\begin{gather*}
+d^{2} = \bar{x}^{2}+\bar{y}^{2} \\ \\
+d^{2} = \left( \frac{1}{100} \right)\left((11+3a)^{2} + (-6+6a)^{2})\right)\\ \\
+d^{2} = \frac{1}{100}(45a^{2}-6a+157)
+\end{gather*}
+$$
+
 
