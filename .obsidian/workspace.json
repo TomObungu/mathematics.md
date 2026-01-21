@@ -195,46 +195,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "387683d668a854f1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fb8cb0c2b7b479db",
-        "type": "window",
-        "children": [
-          {
-            "id": "e7209d970797df1e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c7b52008677e97fd",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-10-24 15.14.08.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c7b52008677e97fd",
+  "active": "e437da641f2fc686",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260120124248.png",
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260120122939.png",
+    "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260120122522.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260120122251.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
     "A-Level/Further Mathematics/Further Mechanics 2",
@@ -266,19 +236,13 @@
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/corrected questions",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/attachments/Pasted image 20260119000026.png",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/attachments/Pasted image 20260118235952.png",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260118235911.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/D",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260118235531.png",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260118235449.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Modelling with differential equations.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
-    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Simple Harmonic Motion.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/attachments/Untitled",
     "A-Level/Mathematics/Integration/Special Cases.md",
-    "Untitled.md",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
   ]
