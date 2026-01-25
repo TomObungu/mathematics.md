@@ -217,3 +217,11 @@ d^{2} = \frac{1}{100}(45a^{2}-6a+157)
 $$
 
 
+Now we can differentiate with respect to $d^{2}$ and set to it to 0 to work out a:
+$$
+\begin{gather*}
+\frac{d(d^{2})}{da} = \frac{1}{100}(90a-6) = 0 \\ \\ 
+90a - 6  = 0 \\ \\
+\boxed{a  = \frac{1}{15}}
+\end{gather*}
+$$
