@@ -1,0 +1,1 @@
+Real objects with dimension, the mass is distributed
