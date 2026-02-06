@@ -16,3 +16,4 @@ The centre of mass as the midpoint of both lines
 The centre of mass lies in the centre of the circle
 
 ## Triangles
+Isosceles and equilateral triangles have a line of symmetry (equilateral has 3)
