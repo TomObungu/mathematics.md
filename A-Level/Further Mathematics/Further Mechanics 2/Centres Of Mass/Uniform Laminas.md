@@ -173,3 +173,52 @@ $$
 \end{pmatrix}
 $$
 # Example 4
+![[Pasted image 20260207161022.png]]
+Taking A as origin again. A circle of radius $\frac{a}{2}$ is cut out central at $(2a,a)$. Find the coordinates of the centre of mass of the shape to 3 s.f.
+
+Again set up the table for each component of the lamina and determine the CoM of each individual component from the lamina.
+
+
+
+| Object | Rect. AFG                                        | Square CBD                             | Circ.                                 | Total                                            |
+| ------ | ------------------------------------------------ | -------------------------------------- | ------------------------------------- | ------------------------------------------------ |
+| Area   | $18a^{2}$                                        | $4a^{2}$                               | $-\frac{\pi}{4}a^{2}$                 | $\left( 22 + \frac{\pi}{4} \right)a^{2}$         |
+| CoM    | $\begin{pmatrix}3a \\ \frac{3}{2}a\end{pmatrix}$ | $\begin{pmatrix}5a \\ -a\end{pmatrix}$ | $\begin{pmatrix}2a \\ a\end{pmatrix}$ | $\begin{pmatrix}\bar{x} \\ \bar{y}\end{pmatrix}$ |
+
+Now just summing up the formula for sum of moments and total mass multiplied by unknown position:
+
+$$
+\begin{gather*}
+18a^{2} \begin{pmatrix}
+3a \\
+\frac{3}{2}a
+\end{pmatrix} + 4a^{2} \begin{pmatrix}
+5a \\
+-a
+\end{pmatrix} -\frac{\pi}{4}a^{2} \begin{pmatrix}
+2a \\
+a
+\end{pmatrix} = \left( 22 + \frac{\pi}{4} \right)a^{2} \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+\frac{148-\pi}{2}a  \\
+\frac{92-\pi}{4}a 
+\end{pmatrix} = \left( 22 + \frac{\pi}{4} \right) \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix}
+\end{gather*}
+$$
+Thus
+$$
+\begin{pmatrix}
+\bar{x} \\
+\bar{y} 
+\end{pmatrix} = \begin{pmatrix}
+3.18a \\
+0.975a
+\end{pmatrix}
+$$
+
