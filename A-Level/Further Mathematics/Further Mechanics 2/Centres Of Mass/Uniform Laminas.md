@@ -126,3 +126,12 @@ $$
 \bar{x} = \frac{118a}{3\pi+54} \\ \\ \bar{y} = \frac{3\pi+56}{3\pi + 54}a
 \end{gather*}
 $$
+
+# Example 3
+When we have a lamina with a bit 'cut out' of it. We can regard that piece as having a negative mass. 
+
+![[Pasted image 20260207160200.png]]
+
+Find the distance of the CoM form AG and AF!. Let the origin be A
+
+For this problem, you need to be very careful in making sure your 
