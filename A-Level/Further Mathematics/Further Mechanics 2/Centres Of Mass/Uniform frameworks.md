@@ -4,7 +4,7 @@ The centre of mass of each rod is at its centre. So we can Just treat these as p
 
 Each rod has mass per unit length $\rho$. If the framwork is uniform, these will all cancel and we can just consider length.
 
-# Centres of mass for component framworks
+# Centres of mass for component frameworks
 
 ## Circular arcs
 ![[Pasted image 20260207212838.png]]
