@@ -134,4 +134,42 @@ When we have a lamina with a bit 'cut out' of it. We can regard that piece as ha
 
 Find the distance of the CoM form AG and AF!. Let the origin be A
 
-For this problem, you need to be very careful in making sure your 
+For this problem, you need to be very careful in making sure your positions for the centre of mass are fully correct.
+
+| Object | Tringle GAF                           | Rectangle BCDE                                  | Total                                            |
+| ------ | ------------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
+| Area   | $\frac{27}{2}a^{2}$                   | $-2a^{2}$                                       | $\frac{23}{a}^{2}$                               |
+| CoM    | $\begin{pmatrix}3a \\ a\end{pmatrix}$ | $\begin{pmatrix}3a \\ \frac{a}{2}\end{pmatrix}$ | $\begin{pmatrix}\bar{x} \\ \bar{y}\end{pmatrix}$ |
+Setting up the equation for sum of moments:
+$$
+\begin{gather*}
+\frac{27}{2}a^{2} \begin{pmatrix}
+3a \\
+a
+\end{pmatrix} -2a^{2}\begin{pmatrix}
+3a \\
+\frac{a}{2}
+\end{pmatrix} = \frac{23}{2}a^{2} \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+\frac{69}{2}a \\
+\frac{25}{2}a
+\end{pmatrix} = \frac{23}{2}\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix}
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{pmatrix}
+\bar{x} \\
+\bar{y} 
+\end{pmatrix} = \begin{pmatrix}
+3a \\
+\frac{25}{23}a
+\end{pmatrix}
+$$
+# Example 4
