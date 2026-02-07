@@ -59,3 +59,50 @@ Let's define our origin as $A$. Often define the origin as what is closest resem
 Split the shapes into their component features:
 ![[Pasted image 20260207114136.png]]
 
+Now using the sum of moments and equaling them to the total mass multiplied by the unknown position of the centre of mass, we can solve for the position of the centre of mass:
+$$
+\begin{gather*}
+2a^{2}\rho \begin{pmatrix}
+a \\
+\frac{1}{2}a 
+\end{pmatrix} + \frac{1}{2}a^{2}\rho \begin{pmatrix}
+\frac{7}{5}a \\
+\frac{1}{3}a
+\end{pmatrix} = \frac{5}{2}a^{2}\rho \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+\frac{19}{6}a \\
+\frac{7}{6}a
+\end{pmatrix} = \frac{5}{2}\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\therefore \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} = \begin{pmatrix}
+\frac{19}{15}a \\
+\frac{7}{15}a
+\end{pmatrix}
+\end{gather*}
+$$
+Thus the centre of mass is $\frac{19}{15}a$ from AD and $\frac{7}{15}a$ from AB.
+
+
+# Example 2
+In this problem you must consider the semicircle as a sector with $2\alpha = \pi$ and thus $\alpha=\frac{\pi}{2}$.
+![[Pasted image 20260207124343.png]]
+Furthermore, you must take precaution with calculating the areas of the laminas correctly
+![[Pasted image 20260207124521.png]]
+Using the sum of moments formula:
+$$
+\frac{1}{2}\pi a^{2} \begin{pmatrix}
+-\frac{4}{3\pi} \\
+a
+\end{pmatrix} + 8a^{2}\begin{pmatrix}
+2a \\
+a
+\end{pmatrix}
+$$
