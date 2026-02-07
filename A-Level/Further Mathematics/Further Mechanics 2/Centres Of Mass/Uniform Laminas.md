@@ -98,11 +98,31 @@ Furthermore, you must take precaution with calculating the areas of the laminas 
 ![[Pasted image 20260207124521.png]]
 Using the sum of moments formula:
 $$
+\begin{gather*}
 \frac{1}{2}\pi a^{2} \begin{pmatrix}
 -\frac{4}{3\pi} \\
 a
 \end{pmatrix} + 8a^{2}\begin{pmatrix}
 2a \\
 a
+\end{pmatrix} + a^{2}\begin{pmatrix}
+\frac{13}{3}a \\
+\frac{4}{3}a
+\end{pmatrix} = \left( \frac{1}{2}\pi+9 \right)\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+\frac{59}{3}a \\
+\frac{3\pi+56}{6}a
+\end{pmatrix} = \left( \frac{1}{2}\pi+9 \right)\begin{pmatrix}
+\bar{x} \\
+\bar{y}
 \end{pmatrix}
+\end{gather*}
+$$Therefore:
+$$
+\begin{gather*}
+\bar{x} = \frac{118a}{3\pi+54} \\ \\ \bar{y} = \frac{3\pi+56}{3\pi + 54}a
+\end{gather*}
 $$
