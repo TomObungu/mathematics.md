@@ -124,3 +124,42 @@ Therefore the area of the triangle go from $2a^{2}$ to $2(2a^{2}) = 4a^{2}$
 | ------ | ------------------------------------- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
 | Area   | $8a^{2}$                              | $4a^{2}$                              | $4a^{2}$                                                     | $16a^{2}$                                        |
 | CoM    | $\begin{pmatrix}2a \\ a\end{pmatrix}$ | $\begin{pmatrix}a \\ 3a\end{pmatrix}$ | $\begin{pmatrix}  \frac{8}{3}a \\ \frac{8}{3}a\end{pmatrix}$ | $\begin{pmatrix}\bar{x} \\ \bar{y}\end{pmatrix}$ |
+
+Writing up the formulae:
+$$
+\begin{gather*}
+8a^{2}\begin{pmatrix}
+2a \\
+a
+\end{pmatrix} + 4a^{2}\begin{pmatrix}
+a \\
+3a
+\end{pmatrix} + 4a^{2}\begin{pmatrix}
+\frac{8}{3}a \\
+\frac{8}{3}a
+\end{pmatrix} = 16a^{2}\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+\frac{92}{3}a  \\
+\frac{92}{3}a
+\end{pmatrix} = 16\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix}
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{pmatrix}
+\bar{x} \\
+\bar{y} 
+\end{pmatrix} = 16a^{2} \begin{pmatrix}
+\frac{23}{12}a \\
+\frac{23}{12}a
+\end{pmatrix}
+$$
+Thus the distance of the CoM from AD is $\frac{23}{12}a$ 
+the distance of the CoM AB is $\frac{23}{12}a$
+
