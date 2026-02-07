@@ -112,4 +112,15 @@ d = \sqrt{ \left( \frac{11}{4}a \right)^{2} + \left( \frac{5}{4}a \right)^{2} } 
 $$
 
 # Example 3
-A 
+A square uniform lamina has a corner folded over. 
+Find the distance of the CoM from AD and AB.
+![[Pasted image 20260207190651.png]]
+
+For this question, you need to double area of the triangle as you need to consider the triangle have twice the width of paper as it has been folder over.
+
+Therefore the area of the triangle go from $2a^{2}$ to $2(2a^{2}) = 4a^{2}$
+
+| Object | Rect. AB                              | Sqr. DC                               | Trngl C                                                      | Total                                            |
+| ------ | ------------------------------------- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| Area   | $8a^{2}$                              | $4a^{2}$                              | $4a^{2}$                                                     | $16a^{2}$                                        |
+| CoM    | $\begin{pmatrix}2a \\ a\end{pmatrix}$ | $\begin{pmatrix}a \\ 3a\end{pmatrix}$ | $\begin{pmatrix}  \frac{8}{3}a \\ \frac{8}{3}a\end{pmatrix}$ | $\begin{pmatrix}\bar{x} \\ \bar{y}\end{pmatrix}$ |
