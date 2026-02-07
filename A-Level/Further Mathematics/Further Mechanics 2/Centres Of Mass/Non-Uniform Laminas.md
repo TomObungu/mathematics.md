@@ -63,7 +63,53 @@ Set up the table for each component lamina but consider the mass with the densit
 
 If given varying densities or given the mass only of an object.  Then 
 
-| Object | Sqr. EDAB | Trngl DBC | Total |
-| ------ | --------- | --------- | ----- |
-| Mass   |           |           |       |
-| CoM    |           |           |       |
+| Object | Sqr. EDAB                                                      | Sqr. FAGC                             | Total                                              |
+| ------ | -------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
+| Mass   | $9a^{2}\rho$                                                   | $9a^{2}\rho$                          | $18a^{2}\rho$                                      |
+| CoM    | $\begin{pmatrix}  \frac{3}{2}a  \\ \frac{3}{2}a \end{pmatrix}$ | $\begin{pmatrix}4a \\ a\end{pmatrix}$ | $\begin{pmatrix}\bar{x}  \\  \bar{y}\end{pmatrix}$ |
+
+Forming the equations:
+$$
+\begin{gather*}
+9a^{2}\rho \begin{pmatrix}
+\frac{3}{2}a \\
+\frac{3}{2}a
+\end{pmatrix} + 9a^{2}\rho \begin{pmatrix}
+4a \\
+a
+\end{pmatrix} = 18a^{2} \rho \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+\frac{99}{2}a  \\
+\frac{45}{a}a
+\end{pmatrix} = 18 \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix}
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} = \begin{pmatrix}
+\frac{11}{4}a \\
+\frac{5}{4}a
+\end{pmatrix}
+$$
+
+![[Pasted image 20260207190257.png]]
+The distance is just the magnitude of the centre of mass from the vertex of a.
+
+$$
+\begin{gather*}
+d = \sqrt{ \left( \frac{11}{4}a \right)^{2} + \left( \frac{5}{4}a \right)^{2} } \\ \\
+= \frac{\sqrt{ 146 }}{4}a
+\end{gather*}
+$$
+
+# Example 3
+A 
