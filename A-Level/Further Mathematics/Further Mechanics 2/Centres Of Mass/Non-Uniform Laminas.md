@@ -163,3 +163,27 @@ $$
 Thus the distance of the CoM from AD is $\frac{23}{12}a$ 
 the distance of the CoM AB is $\frac{23}{12}a$
 
+# Example 4
+BCEF has mass per unit area $\rho$. ABF and CDE has mass per unit area $3\rho$. Find the distance of CoM from FE.
+![[Pasted image 20260207200002.png]]
+
+For this problem you must consider the densities and multiply the areas appropriately
+
+| Object      | Sqr. FGBC     | ABF                               | ECD                               | Total     |
+| ----------- | ------------- | --------------------------------- | --------------------------------- | --------- |
+| Area        | $a^{2}$       | $3\left( \frac{a^{2}}{2} \right)$ | $3\left( \frac{a^{2}}{2} \right)$ | $4a^{2}$  |
+| CoM from FE | $\frac{a}{2}$ | $\frac{2}{3}a$                    | $\frac{2}{3}a$                    | $\bar{y}$ |
+Writing the respective formulae and solving for $\bar{y}$
+$$
+\begin{gather*}
+a^{2} \begin{pmatrix}
+\frac{a}{2}
+\end{pmatrix} + \frac{3}{2}a^{2}\begin{pmatrix}
+\frac{2a}{3}
+\end{pmatrix} + \frac{3}{2}a^{2}\begin{pmatrix}
+\frac{2a}{3}
+\end{pmatrix} = 4a^{2}\bar{y} \\ \\ 
+\bar{y} = \frac{5}{8}a
+\end{gather*}
+$$
+The horizontal position of the CoM will be midpoint via symmetry. 
