@@ -49,4 +49,13 @@ For a sector of radius $r$ and angle $2\alpha$,
  $$
 G = \frac{2r\sin\alpha}{3\alpha} \ \ \text{From O}
 $$
-#
+## Composite Laminas
+A composite Lamina is  lamina made up of different shapes. We can split it into its component shapes, then treat each section as a point mass at its centre of mass.
+
+## Example 1
+![[Pasted image 20260207113908.png]]
+Let's define our origin as $A$. Often define the origin as what is closest resemblance to an x-y axis or if the question requires the centre of mass to be a specific algebraic closed form, define the origin in that matter.
+
+Split the shapes into their component features:
+![[Pasted image 20260207114136.png]]
+
