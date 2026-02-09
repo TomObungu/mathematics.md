@@ -39,12 +39,14 @@
             "id": "948e283ace6481ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A-Level/Resources/New Edexcel Further Mechanics 2.pdf"
+                "file": "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "New Edexcel Further Mechanics 2"
+              "icon": "lucide-file",
+              "title": "Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2"
             }
           }
         ],
@@ -209,6 +211,13 @@
   },
   "active": "948e283ace6481ae",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find the range of possible values of e for which there is a second collision.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. Find e between sphere and fixed vertical plane.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/corrected questions/Q. By using Newton's law of show that 7 by 3 <= k <= 3 by 2.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collision 3.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collisions 2.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collisions.md",
+    "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Uniform frameworks.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207212838.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Non-Uniform Laminas.md",
@@ -234,17 +243,12 @@
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 2.md",
-    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collisions.md",
-    "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collision 3.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 2.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 3.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Damped Harmonic Motion.md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Non-Homogeneous differential equations.md",
-    "A-Level/Further Mathematics/Core Pure/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
-    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass",
     "A-Level/Further Mathematics/Further Mechanics 2",
@@ -253,7 +257,6 @@
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/corrected questions",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/D",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
   ]

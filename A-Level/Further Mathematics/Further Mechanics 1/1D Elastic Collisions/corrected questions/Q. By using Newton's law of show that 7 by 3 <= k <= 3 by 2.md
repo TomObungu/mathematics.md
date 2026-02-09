@@ -18,7 +18,7 @@ $$
 \text{Newton's law of restitution} : \\ 
 v_{2} - v_{1} = e \\ \\
 \frac{3}{10}u - u - \frac{3}{10}uk = e\\
-\frac{3}{10}k - \frac{7}{10} \\ \\
+\frac{3}{10}k - \frac{7}{10} = e \\ \\
 \text{When } e = 0: 
 \frac{3}{10}k - \frac{7}{10} = 0 \implies k=\frac{7}{3} \\ \\
 \text{When } e = 1: 
