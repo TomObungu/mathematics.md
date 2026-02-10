@@ -36,7 +36,7 @@ $$
 \begin{gather*}
 v\cos\theta = 5\cos 40 \\
 v\sin\theta = \frac{1}{3}(5\sin 40) \\ \\
-\therefore \tan\theta = \frac{\frac{5}{3}\sin_{4}0}{5\cos 40} \qquad \theta = 15.6 \\ \\
+\therefore \tan\theta = \frac{\frac{5}{3}\sin 40}{5\cos 40} \qquad \theta = 15.6 \\ \\
 v^{2} = (5\cos 40)^{2} + \left( \frac{5}{3}\sin 40 \right)^{2} \\ 
 v = 3.98 ms ^{-1}
 \end{gather*}
