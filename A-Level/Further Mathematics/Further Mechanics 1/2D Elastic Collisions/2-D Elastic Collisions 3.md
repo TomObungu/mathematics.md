@@ -43,7 +43,7 @@ v_{2} = \frac{13}{5}\left( \frac{1}{5}\begin{pmatrix}
 \end{gather*}
 $$
 
-# Worked Example 1
+# Worked Example 1 Continued...
 $$
 \begin{gather*}
 KE_{before} = \frac{1}{2}m(3^{2}+2^{2}) = \frac{13}{2}m \\ \\
