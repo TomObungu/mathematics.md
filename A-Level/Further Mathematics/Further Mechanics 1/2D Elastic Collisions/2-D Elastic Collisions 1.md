@@ -222,7 +222,7 @@ v_{\perp} = \begin{pmatrix}
 \end{pmatrix} \right] = -\frac{4}{\sqrt{ 13 }}
 \end{gather*}
 $$
-Recall that e is the ration between $u_{\perp}$ and $v_{\perp}$:
+Recall that e is the ratio between $u_{\perp}$ and $v_{\perp}$:
 $$
 e= \frac{\left(\frac{4}{\sqrt{ 13 }}\right)}{\left(\frac{9}{\sqrt{ 13 }}\right)} = \frac{4}{9}
 $$
