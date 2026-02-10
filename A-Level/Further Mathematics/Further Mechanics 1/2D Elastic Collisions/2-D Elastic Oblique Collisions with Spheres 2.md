@@ -39,7 +39,7 @@ V_{B} -\begin{pmatrix}
 1 \\
 2
 \end{pmatrix} \\ \\
-V_{b} = \frac{1}{3}\begin{pmatrix}
+V_{B} = \frac{1}{3}\begin{pmatrix}
 1 \\
 2
 \end{pmatrix} = \frac{1}{3}(i+2j)
