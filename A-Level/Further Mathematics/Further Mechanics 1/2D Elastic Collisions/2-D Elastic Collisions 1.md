@@ -63,7 +63,7 @@ Firstly interpret the diagram correctly:
 From the diagram we can deduce:
 $$
 \begin{gather*}
-4\sin\alpha = 6\sin 30 \\ 
+4\cos\alpha = 6\sin 30 \\ 
 4\sin\alpha = 6e\cos 30 \\
 \end{gather*}
 $$
