@@ -60,8 +60,8 @@ $$
 (d) In these types of question, the main approach is to try and find the missing component in terms of $e$. This is done by finding a suitable identity. In this case as it's $\cos ^{2}\alpha$, then the identity we're trying to find is $\tan ^{2}\alpha +1 = \sec ^{2}\alpha$ in terms of $e$. In other cases if it was $\sin ^{2}\alpha$, we would want $\cot ^{2}\alpha+1=\csc ^{2}\alpha$:
 $$
 \begin{gather*}
-v\sin\alpha = eu\cos ^{2}\alpha \\ 
-v\cos\alpha = v\sin\alpha \\ \\
+v\sin\alpha = eu\cos\alpha \\ 
+v\cos\alpha = u\sin\alpha \\ \\
 \tan\alpha = e\cot\alpha \\ 
 \tan ^{2}\alpha = e^{2}\cot ^{2}\alpha \\
 \tan ^{4}\alpha = e^{2} \\ 
