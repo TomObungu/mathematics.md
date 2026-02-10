@@ -30,7 +30,7 @@ Diagrammatically, if we sketched the direction vector of the particle and contin
 
 # Worked Example 1
 ![[Pasted image 20251023175258.png]]
-If e = 1/3. Find $v$ and the angle![[Pasted image 20251023175258.png]] of deflection $\theta$:
+If e = 1/3. Find $v$ and the angle of deflection $\theta$:
 From the diagram we know:
 $$
 \begin{gather*}
