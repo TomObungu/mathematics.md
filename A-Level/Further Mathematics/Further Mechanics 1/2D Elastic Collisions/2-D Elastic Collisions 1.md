@@ -10,12 +10,12 @@ If we do $\frac{2}{(1)}$ we get:
 $$
 \begin{gather*}
 \frac{v\cos\beta}{v\cos \beta} = \frac{eu\sin\alpha}{u\cos\alpha} \\ \\
-\therefore \tan\beta = e \tan \beta
+\therefore \tan\beta = e \tan \alpha
 \end{gather*}
 $$
-Now as $e\leq_{1}$, then:
+Now as $0\leq e\leq 1$, then:
 $$
- \tan\beta < \tan\alpha 
+ \tan\beta \leq \tan\alpha 
 $$
 Therefore:
 $$
