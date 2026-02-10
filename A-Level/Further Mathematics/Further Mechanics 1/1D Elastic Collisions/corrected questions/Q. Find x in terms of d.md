@@ -1,4 +1,5 @@
-![[Pasted image 20251021103733.png]](b)
+![[Pasted image 20251021103733.png]]
+(b)
 If the direction of P is not changed as a result of the collision, then $v_{1}$ is positive. We need to find $v_{1}$ in terms of $u$ and $e$.
 $$
 \begin{gather*}
