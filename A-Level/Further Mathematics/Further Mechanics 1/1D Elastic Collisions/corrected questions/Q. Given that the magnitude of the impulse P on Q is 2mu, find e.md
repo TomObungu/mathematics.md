@@ -32,7 +32,7 @@ $$
 \frac{u}{2}(5-3e) = v_{1}
 \end{gather*}
 $$
-c To show that the direction of change, we know that $0\leq e\leq_{1}$ so we must consider the cases when $e=0$ and $e=1$:
+c To show that the direction of change, we know that $0\leq e\leq{1}$ so we must consider the cases when $e=0$ and $e=1$:
 $$
 \begin{gather*}
 e = 0 \implies \frac{u}{2}(5-3(0)) = \frac{5u}{2} \\ \\
