@@ -178,5 +178,4 @@ $$
 As the change in kinetic energy is negative this means the there has been a loss of kinetic energy in the environement:
 $$
 \therefore 57.5J \text{ loss}
-$$#
-
+$$
