@@ -61,7 +61,7 @@ $$
 Newton's Law Of Restituion:
 $$
 \begin{gather*}
-v_{2}-v_{1} = \frac{3}{4}(5\cos 45^\circ+8\cos_{3}0^\circ) \\ \\
+v_{2}-v_{1} = \frac{3}{4}(5\cos 45^\circ+8\cos 30^\circ) \\ \\
 v_{2}-v_{1} = \frac{24\sqrt{ 3 }-15\sqrt{ 2 }}{8} \\ \\
 v_{1} = 2.568 \qquad v_{2} = 5.279
 \end{gather*}
