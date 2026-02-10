@@ -155,7 +155,7 @@ No we can form equations of restitution using the unit vectors of the incoming v
 $$
 \begin{gather*}
 Vx = Ux = \frac{7\sqrt{ 5 }}{5} \\ \\
-Vy = -eUy = -\frac{1}{3}\left( \frac{9\sqrt{ 5 }}{5} \right)=-\frac{3\sqrt{ 5 }}{5}
+Vy = -eUy = -\frac{1}{3}\left( -\frac{9\sqrt{ 5 }}{5} \right)=\frac{3\sqrt{ 5 }}{5}
 \end{gather*}
 $$
 Now we have the components of $v$ parallel and perpendicular to wall, we can multiply them by their respective direction unit vectors to get $v$.
