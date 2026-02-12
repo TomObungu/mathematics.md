@@ -4,14 +4,14 @@ $$
 F=ma
 $$
 - m represents the inertia mass of a the object. It represents how much an objects changes it velocity when acted on by a force, F
-### What is intertia?
+### What is inertia?
 According to many definitions, Inertia is the natural tendency of an object to resist change in its state of motion. Inertia tells us how strong an object's tendency is to resist in its state of motion.
 
-If you increase an object's mass, you will increase it's tendency to resist motin.
+If you increase an object's mass, you will increase it's tendency to resist motion.
 
 If you have an object made of the same material but one is larger, the larger object will have more mass. If the same force was used to push the two objects at once, the larger object
 
-As we know that $F=\frac{\Delta \rho}{\Delta t}$. However the mathematic derivation for this can be shown as follows:
+As we know that $F=\frac{\Delta \rho}{\Delta t}$. However the mathematical derivation for this can be shown as follows:
 
 We can write $F=ma$ as $F=m\frac{dv}{dt}$. We known that $mv$ is the momentum. Therefore:
 Force = rate of change of momentum.
