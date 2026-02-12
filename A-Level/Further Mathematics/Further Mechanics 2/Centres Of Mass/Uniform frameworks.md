@@ -95,6 +95,12 @@ $$
 \bar{x} \\
 \bar{y}
 \end{pmatrix} \\ \\
-
+\begin{pmatrix}
+\frac{83+12\pi}{28+3\pi} \\
+\frac{51}{28+3\pi} 
+\end{pmatrix} = \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix}
 \end{gather*}
 $$
