@@ -17,4 +17,10 @@ A uniform rod is bent into a uniform triangular framework ABC. Find the distance
 ![[Pasted image 20260212173437.png]]
 
 For this problem, firstly set up the table for the component rods:
-| Object | Length BA | Length BC | 
+
+When 
+
+| Object      | Length BA | Length BC | Length AC |
+| ----------- | --------- | --------- | --------- |
+| Length      | 5a        | 6a        | 5a        |
+| CoM from BC |           |           |           |
