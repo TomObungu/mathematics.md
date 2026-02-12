@@ -76,7 +76,25 @@ $$
 
 For these types of problems, the hardest thing is to ensure that the numbers for the centres of mass a correct. Be sure to read of the diagram correctly and consider additional distance from the origin. As well as that take a little more time to ensure that value calculated is correct and  that what your wrote down is right too. 
 
-Form the equations:
+Form the equations. Ensure that you write down the correct values and do not slip up on rearranging:
 $$
+\begin{gather*}
+7a \begin{pmatrix}
+\frac{7}{2}a \\
+0
+\end{pmatrix} + \frac{3\pi}{2}a\begin{pmatrix}
+\left( 4 + \frac{6}{\pi} \right)a \\
+\frac{6}{\pi}a
+\end{pmatrix} + 4a\begin{pmatrix}
+2a \\
+3a
+\end{pmatrix} + 3a\begin{pmatrix}
+0 \\
+\frac{3}{2}a
+\end{pmatrix} = \frac{3\pi+28}{2} \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
 
+\end{gather*}
 $$
