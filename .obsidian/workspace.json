@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Uniform frameworks.md",
+                "file": "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2/Uniform frameworks.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Non Uniform Frameworks.md",
+                "file": "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 3/Objects Suspended In Equilibrium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non Uniform Frameworks"
+              "title": "Objects Suspended In Equilibrium"
             }
           }
         ],
@@ -262,20 +262,25 @@
   },
   "active": "8c44d847001c6abd",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Non-Uniform Laminas.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2/Non Uniform Frameworks.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 3/Objects Suspended In Equilibrium.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 3",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 1/Centres Of Mass.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 1",
+    "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2/Non-Uniform Laminas.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. Loaded triangular framework with mass given. Calculate CoM. Particle 10kg, 20kg, 30kg at A,B and C respectivley. Mass of unloaded framework is 15kg.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Non Uniform Frameworks.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212194252.png",
-    "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212192442.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Uniform frameworks.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2/Uniform frameworks.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212181339.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212174737.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212174450.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212173437.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Uniform Laminas.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 1/Uniform Laminas.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Calculate the angle before Impulse.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Resolving Impulse with magnitude only.md",
@@ -295,8 +300,6 @@
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that tan beta = ((m+M)tan alpha) by (m - eM).md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
-    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
-    "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/corrected questions/Q. Find missing values of lambda in impulse.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207212838.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207200401.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207200002.png",
@@ -305,9 +308,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass",
     "A-Level/Further Mathematics/Further Mechanics 2",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Untitled",
-    "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/corrected questions/attachments/attachments",
-    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/corrected questions",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
   ]

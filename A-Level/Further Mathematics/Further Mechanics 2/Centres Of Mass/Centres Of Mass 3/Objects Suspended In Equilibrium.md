@@ -1,0 +1,1 @@
+Consider A uniform rod hinged at one and released from 
