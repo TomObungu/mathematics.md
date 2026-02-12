@@ -41,3 +41,42 @@ $$Thus the centre of mass is $\frac{5}{4}a$ from BC.
 # Example 2
 ABCDE is bent out of a uniform rod. Find the position of the centre of mass from the origin, A. Give your answer to 3 significant figures.
 ![[Pasted image 20260212174737.png]]
+
+Firstly in this problem, we need to deal with sector BCD. 
+From the sector we can see that it has angle $\theta= \frac{\pi}{2}$, thus $\alpha= \frac{\pi}{4}$. Therefore the this distance of the centre of mass can be calculated diagonally from origin $B$ using $d = \frac{r\sin\alpha}{\alpha}$
+$$
+d = \frac{r\sin\alpha}{\alpha} = \frac{3a\left( \sin \frac{\pi}{4} \right)}{\frac{\pi}{4}} = \frac{6\sqrt{ 2 }a}{\pi}
+$$
+Now we now that the angle $\alpha$ is $\frac{\pi}{4}$ thus $d\cos\alpha = d\sin\alpha$. Therefore we can solve for $G_{x}$ and $G_{x}$ using $d\sin\alpha$:
+$$
+G_{x} = G_{y} = d\sin \frac{\pi}{4} = \left( \frac{6\sqrt{ 2 }a}{\pi} \right)\sin \frac{\pi}{4} = \frac{6a}{\pi}
+$$
+As the problem does not state to find the centre of mass from a specific side of the framework, it is suitable to give the centre of mass as a coordinate.:
+$$
+\therefore G = \begin{pmatrix}
+\frac{6a}{\pi} \\
+\frac{6a}{\pi}
+\end{pmatrix}
+$$
+
+Now we can commence to find the rest of the centre of masses of the basic uniform lengths:
+
+| Object | Length AC                                         | Arc DC                                                                              | Length ED                              | Length AE                                       | Total                                            |
+| ------ | ------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
+| Length | 7a                                                | $\frac{3\pi}{2}a$                                                                   | 4a                                     | 3a                                              | $\frac{3\pi + 28}{2}a$                           |
+| CoM    | $\begin{pmatrix} \frac{7}{2}a \\ 0 \end{pmatrix}$ | $\begin{pmatrix} \left( 4 + \frac{6}{\pi} \right)a \\ \frac{6}{\pi}a \end{pmatrix}$ | $\begin{pmatrix}2a \\ 3a\end{pmatrix}$ | $\begin{pmatrix}0 \\ \frac{3}{2}a\end{pmatrix}$ | $\begin{pmatrix}\bar{x} \\ \bar{y}\end{pmatrix}$ |
+
+Remember that the length of an arc is given by:
+$$
+\begin{gather*}
+l = r\theta = 3a\left( \frac{\pi}{2} \right)  \\ \\
+\therefore l = \frac{3\pi}{2}a
+\end{gather*}
+$$
+
+For these types of problems, the hardest thing is to ensure that the numbers for the centres of mass a correct. Be sure to read of the diagram correctly and consider additional distance from the origin. As well as that take a little more time to ensure that value calculated is correct and  that what your wrote down is right too. 
+
+Form the equations:
+$$
+
+$$
