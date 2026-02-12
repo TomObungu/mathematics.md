@@ -6,7 +6,7 @@ For this problem, it is much like the previous problems, however you must consid
 
 As well as that although we have been given the specific sides of the components of the centre of mass to be found, the sides can be considered as a 2D coordinate system with a vertical $y$ component and horizontal $x$ component. Thus, it is valid to give the centre of mass as a coordinate again.:
 
-| Object | Length AC                      | Length EC                   | Length EA | Length FD | Length DB | Total               |
-| ------ | ------------------------------ | --------------------------- | --------- | --------- | --------- | ------------------- |
-| Length | 6a                             | $\sqrt{ 72 } = 6\sqrt{ 2 }$ | 6a        | 6a        | 6a        | ($24+6\sqrt{ 2 }$)a |
-| CoM    | $\begin{pmatrix}\end{pmatrix}$ |                             |           |           |           |                     |
+| Object | Length AC                             | Length EC                   | Length EA | Length FD | Length DB | Total               |
+| ------ | ------------------------------------- | --------------------------- | --------- | --------- | --------- | ------------------- |
+| Length | 6a                                    | $\sqrt{ 72 } = 6\sqrt{ 2 }$ | 6a        | 6a        | 6a        | ($24+6\sqrt{ 2 }$)a |
+| CoM    | $\begin{pmatrix}3a \\ 0\end{pmatrix}$ |                             |           |           |           |                     |
