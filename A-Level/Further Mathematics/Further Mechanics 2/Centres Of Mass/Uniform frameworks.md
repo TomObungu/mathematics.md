@@ -12,4 +12,9 @@ A framework arc with radius $r$, and angle $2\alpha$ will have its CoM at:
 $$
 \frac{r\sin\alpha}{\alpha} \ \ \text{From O}
 $$
-# 
+# Example 5
+A uniform rod is bent into a uniform triangular framework ABC. Find the distance of the centre of mass of the framework from BC.
+![[Pasted image 20260212173437.png]]
+
+For this problem, firstly set up the table for the component rods:
+| Object | Length BA | Length BC | 
