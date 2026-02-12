@@ -104,6 +104,23 @@ $$
 \bar{x} \\
 \bar{y}
 \end{pmatrix} \\ \\
-
+\begin{pmatrix}
+30 \\
+-\frac{45}{2}
+\end{pmatrix} = 15\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+2 \\
+-\frac{3}{2}
+\end{pmatrix} = \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix}
 \end{gather*}
 $$
+
+### Considering masses 
+
+Now 
