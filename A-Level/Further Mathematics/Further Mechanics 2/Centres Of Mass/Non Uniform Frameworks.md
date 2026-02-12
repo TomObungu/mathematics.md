@@ -6,7 +6,32 @@ For this problem, it is much like the previous problems, however you must consid
 
 As well as that although we have been given the specific sides of the components of the centre of mass to be found, the sides can be considered as a 2D coordinate system with a vertical $y$ component and horizontal $x$ component. Thus, it is valid to give the centre of mass as a coordinate again.:
 
-| Object | Length AC                             | Length EC                   | Length EA | Length FD | Length DB | Total               |
-| ------ | ------------------------------------- | --------------------------- | --------- | --------- | --------- | ------------------- |
-| Length | 6a                                    | $\sqrt{ 72 } = 6\sqrt{ 2 }$ | 6a        | 6a        | 6a        | ($24+6\sqrt{ 2 }$)a |
-| CoM    | $\begin{pmatrix}3a \\ 0\end{pmatrix}$ |                             |           |           |           |                     |
+| Object | Length AC                             | Length EC                              | Length EA                             | Length FD                                          | Length DB                                        | Total                                            |
+| ------ | ------------------------------------- | -------------------------------------- | ------------------------------------- | -------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| Length | 6a                                    | $\sqrt{ 72 } = 6\sqrt{ 2 }$            | 6a                                    | 6a                                                 | 6a                                               | ($24+6\sqrt{ 2 }$)a                              |
+| CoM    | $\begin{pmatrix}3a \\ 0\end{pmatrix}$ | $\begin{pmatrix}3a \\ 3a\end{pmatrix}$ | $\begin{pmatrix}0 \\ 3a\end{pmatrix}$ | $\begin{pmatrix} \frac{3}{2}a \\ 3a \end{pmatrix}$ | $\begin{pmatrix}3a \\ \frac{5}{2}a\end{pmatrix}$ | $\begin{pmatrix}\bar{x} \\ \bar{y}\end{pmatrix}$ |
+Thus form the equations again:
+$$
+\begin{gather*}
+6a\begin{pmatrix}
+3a \\
+0
+\end{pmatrix} + 6\sqrt{ 2 }\begin{pmatrix}
+3a \\
+3a
+\end{pmatrix} + 6a\begin{pmatrix}
+0 \\
+3a
+\end{pmatrix} + 6a\begin{pmatrix}
+\frac{3}{2}a \\
+3a
+\end{pmatrix} + 6a\begin{pmatrix}
+3a \\
+\frac{3}{2}a
+\end{pmatrix} = (24 + 6\sqrt{ 2 })a\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+
+\end{gather*}
+$$
