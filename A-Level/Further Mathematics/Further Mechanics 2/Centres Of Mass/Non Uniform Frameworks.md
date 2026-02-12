@@ -32,6 +32,25 @@ $$
 \bar{x} \\
 \bar{y}
 \end{pmatrix} \\ \\
-
+\begin{pmatrix}
+45+18\sqrt{ 2 } \\
+45 + 18\sqrt{ 2 }
+\end{pmatrix}a = (24+6\sqrt{ 2 })\begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix} \\ \\
+\begin{pmatrix}
+\frac{12}{7} +\frac{9\sqrt{ 2 }}{28} \\
+\frac{12}{7} +\frac{9\sqrt{ 2 }}{28}
+\end{pmatrix} = \begin{pmatrix}
+\bar{x} \\
+\bar{y}
+\end{pmatrix}
 \end{gather*}
 $$
+
+# Loaded frameworks
+Sometimes, a framework or lamina may be 'loaded' with a point mass. When dealing with this, add the position and mass to the table. For example in the length column, treat the length of the mass as its value for mass.
+![[Pasted image 20260212192442.png]]
+
+

@@ -223,10 +223,48 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8c44d847001c6abd",
+  "floating": {
+    "id": "1add5d16ee0949de",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bcffb70d46a53872",
+        "type": "window",
+        "children": [
+          {
+            "id": "9aa8cf492045abd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "37e6f01e41274a3b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/New Edexcel Further Mechanics 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "New Edexcel Further Mechanics 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "37e6f01e41274a3b",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Uniform frameworks.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Non Uniform Frameworks.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212192442.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Uniform frameworks.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212181339.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Untitled",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260212174737.png",
@@ -261,7 +299,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207200002.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207190651.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207190257.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments/Pasted image 20260207162953.png",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass",
