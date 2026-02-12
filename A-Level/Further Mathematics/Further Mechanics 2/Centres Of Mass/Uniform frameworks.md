@@ -18,7 +18,9 @@ A uniform rod is bent into a uniform triangular framework ABC. Find the distance
 
 For this problem, firstly set up the table for the component rods:
 
-When 
+When dealing with diagonal line frameworks. It is good to treat them as right angle triangles with their respective x and y and components.:
+
+
 
 | Object      | Length BA | Length BC | Length AC |
 | ----------- | --------- | --------- | --------- |
