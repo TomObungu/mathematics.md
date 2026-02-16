@@ -65,4 +65,14 @@ $$
 $$
 
 # Example 3
+The uniform lamina is formed by removing a square PQRE from an isosesles triangle ABC, where AC=BC. The centre of the square is O. PQ=4cm. 
+
+When the lamina is suspended freely from A, it hangs in equilbrium with AB at $25^\circ$ to the downward vertical. 
+
+Find the distance of $O$ from DC.
+
+![[Pasted image 20260216221352.png]]
+
+In this problem, the missing distance can be labelled as an unknown variable $y$. 
+
 
