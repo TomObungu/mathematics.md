@@ -151,3 +151,24 @@ Thus:
 $$
 T_{A} = \frac{193}{368}Mg
 $$
+
+## Example 5
+Framework ABCD is suspended from C. Length AD has 3 times the mass per unit length of AB, BC and CD.
+
+The framework is in equilibrium with AB horizontal when horizontal force $X$ is applied at B. 
+![[Pasted image 20260216233731.png]]
+
+For these types of question, you only need to consider the perpendicular horizontal component as you will deal with moments. Thus you only need to consider $\bar{x}$ for this problem.
+
+Firstly set up the table. Remember that you are dealing with frameworks and set the origin as the edge that the vertex of suspension lies on:
+
+Do not forget that the mass of AD is three times the mass of AB, DC and CB. To account for this, triple the length. 
+
+| Object            | Length AD      | Length DC | Length AB | Length CB | Total                |
+| ----------------- | -------------- | --------- | --------- | --------- | -------------------- |
+| 'Length'          | $3\sqrt{ 13 }$ | $4a$      | $6a$      | $3a$      | ($13 + \sqrt{ 13 }$) |
+| CoM Dist. From BC | 5a             | 2a        | 3a        | 0         | $\bar{x}$            |
+Setting up the equations:
+$$
+5a(3\sqrt{ 13 }) + 4a(2a)+6a(3a)+3a(0) = (13+3\sqrt{ 13 })a\bar{x}
+$$
