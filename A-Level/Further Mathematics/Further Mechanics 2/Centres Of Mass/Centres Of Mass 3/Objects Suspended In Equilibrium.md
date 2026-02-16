@@ -52,5 +52,14 @@ As well as that it is also beneficial to set the downward direction as positive
 
 Using the formula to work out $\bar{x}$ and $\bar{y}$:
 $$
-16a
+\begin{gather*}
+16a^{2}(-2)+6a^{2}\left( \frac{3}{2}a \right)=22a^{2}\bar{x} \\ \\
+\bar{x} = -\frac{23}{22}a \\ \\ \\
+16a^{2}(2a)+6a^{2}(3a) = 22a^{2}\bar{y} \\ \\
+\bar{y} = \frac{25}{11}a
+\end{gather*}
+$$
+Therefore it is possible to work out $\theta$ using $\arctan$:
+$$
+\theta = \arctan\left( \frac{\frac{23}{23}a}{\frac{25}{11}a}\right) = 24.7^\circ
 $$
