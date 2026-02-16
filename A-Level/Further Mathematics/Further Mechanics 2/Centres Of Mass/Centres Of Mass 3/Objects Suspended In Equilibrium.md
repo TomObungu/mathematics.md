@@ -63,3 +63,6 @@ Therefore it is possible to work out $\theta$ using $\arctan$:
 $$
 \theta = \arctan\left( \frac{\frac{23}{23}a}{\frac{25}{11}a}\right) = 24.7^\circ
 $$
+
+# Example 3
+
