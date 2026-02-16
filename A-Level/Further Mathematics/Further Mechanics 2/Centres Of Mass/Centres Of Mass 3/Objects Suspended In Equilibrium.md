@@ -90,7 +90,7 @@ Forming the equations to calculate the centre of mass $\bar{x}$ and $\bar{y}$ co
 $$
 \begin{gather*}
 \frac{8}{3}(48)-2(16) = 32\bar{x} \implies \bar{x}=32 \\ \\
--16y=32\bar{y} \implies \bar{y} = \frac{1}{2}y 
+-16y=32\bar{y} \implies \bar{y} = -\frac{1}{2}y 
 \end{gather*}
 $$
 
@@ -100,5 +100,19 @@ Remember that the side length of the adjacent of the triangle formed by the down
 ![[Pasted image 20260216225843.png]]
 Therefore: 
 $$
-\tan 25 = \frac{3}{6-\bar{y}}
+\begin{gather*}
+\tan 25 = \frac{3}{6-\bar{y}} \\ \\
+\bar{y} = -0.4435
+\end{gather*}
 $$
+Now we can rearrange for $y$:
+$$
+\begin{gather*}
+\frac{1}{2}y =-0.4335 \\ \\ 
+y = 0.867 
+\end{gather*}
+$$
+Thus the distance of $O$ from $DC$ is $0.867$
+
+# 'Two string' problems
+Laminas and framworks can also be suspended 
