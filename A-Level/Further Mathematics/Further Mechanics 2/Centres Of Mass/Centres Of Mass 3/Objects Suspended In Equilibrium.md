@@ -176,5 +176,16 @@ $$
 \bar{x} = \frac{9\sqrt{ 13 }-19}{4}a
 \end{gather*}
 $$
-Now consider this as a moments problem again. Remember that with forces and moments. Always consider the distance perpendicular from force to the pivot. In this case, if we were to draw it as a uniform rod, we can see that the perpendicular distance of the weight force, $Mg$ from the pivot will be $\bar{x}$. For the force $x$, as it acts horizontally, the vertical distance is the perpendicular distance from the pivot and thus the perpendicular distance will be the length of CB which is 3a.
+Now consider this as a moments problem again. Remember that with forces and moments, always consider the distance perpendicular from force to the pivot. In this case, if we were to draw it as a uniform rod, we can see that the perpendicular distance of the weight force, $Mg$ from the pivot will be $\bar{x}$. For the force $x$, as it acts horizontally, the vertical distance is the perpendicular distance from the pivot and thus the perpendicular distance will be the length of CB which is 3a.
 
+![[Pasted image 20260216235130.png]]
+
+Thus only considering the perpendicular distances for the forces, we can set up a moment equation to solve for force X.
+
+Taking moments about C:
+$$
+\begin{gather*}
+3aX = \frac{9\sqrt{ 13 }-19}{4}aMg \\ \\
+X = \frac{9\sqrt{ 13 }-19}{12}Mg
+\end{gather*}
+$$
