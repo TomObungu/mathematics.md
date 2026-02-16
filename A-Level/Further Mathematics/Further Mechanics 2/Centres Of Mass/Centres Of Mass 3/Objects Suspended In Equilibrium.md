@@ -115,4 +115,39 @@ $$
 Thus the distance of $O$ from $DC$ is $0.867$
 
 # 'Two string' problems
-Laminas and framworks can also be suspended 
+Laminas and frameworks can also be suspended from two strings, like we did with uniform rod moment problems with their centres of mass based in the midpoint of the rod. It is no more different with laminas and frameworks except with the centre of mass being in a separate position and dealing with the perpendicular distance of the centre of mass to the pivot.
+
+## Example 4
+Uniform lamina ABCDEGH lays in equilibrium from two light inextensible strings attached to A and D, with BC horizontal.  Find the tension in the string attached to $A$, $T_{A}$ and the tension in the string attached to B, $T_{B}$:
+![[Pasted image 20260216231429.png]]
+
+Firstly, start by calculating the centre of mass of the lamina:
+
+| Object      | Rect. AHB | Rect. GF      | Rect GDC       | Total     |
+| ----------- | --------- | ------------- | -------------- | --------- |
+| Area        | 8         | 6             | 9              | 23        |
+| CoM from AB | 1         | $\frac{7}{2}$ | $\frac{13}{2}$ | $\bar{x}$ |
+Forming the equations:
+$$
+8(1)+6\left( \frac{7}{2} \right) + 9\left( \frac{13}{2} \right) = 23\bar{x} \implies \bar{x} = \frac{175}{46}
+$$
+
+Now we know the perpendicular distance of the centre of mass from string A. The problem can be reduced to a uniform rod problem.
+![[Pasted image 20260216231841.png]]
+
+Taking the same procedure as A level mechanics:
+Setting up the equations of forces:
+$$
+T_{A} + T_{D} = Mg
+$$
+Setting up the moment equations from A:
+$$
+\begin{gather*}
+\frac{175}{46}Mg = 8T_{D} \\ \\
+\therefore T_{D} = \frac{175}{368}Mg
+\end{gather*}
+$$
+Thus:
+$$
+T_{A} = \frac{193}{368}Mg
+$$
