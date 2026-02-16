@@ -87,3 +87,18 @@ Firstly set up the table for the shape. Include the area of the cut out square a
 | CoM dist. from  DC | 0             | $y$       | $\bar{y}$ |
 Forming the equations to calculate the centre of mass $\bar{x}$ and $\bar{y}$ components:
 
+$$
+\begin{gather*}
+\frac{8}{3}(48)-2(16) = 32\bar{x} \implies \bar{x}=32 \\ \\
+-16y=32\bar{y} \implies \bar{y} = \frac{1}{2}y 
+\end{gather*}
+$$
+
+From the question, we know that the angle between the vertical is $25^\circ$ thus we can form an equation of $\tan 25$:
+
+Remember that the side length of the adjacent of the triangle formed by the downward vertical will be $6-\bar{y}$ as it is the length of the long side from the vertex A. 
+![[Pasted image 20260216225843.png]]
+Therefore: 
+$$
+\tan 25 = \frac{3}{6-\bar{y}}
+$$
