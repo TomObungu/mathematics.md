@@ -67,7 +67,7 @@ $$
 # Example 3
 The uniform lamina is formed by removing a square PQRE from an isosesles triangle ABC, where AC=BC. The centre of the square is O. PQ=4cm. 
 
-When the lamina is suspended freely from A, it hangs in equilbrium with AB at $25^\circ$ to the downward vertical. 
+When the lamina is suspended freely from A, it hangs in equilibrium with AB at $25^\circ$ to the downward vertical. 
 
 Find the distance of $O$ from DC.
 
@@ -75,4 +75,15 @@ Find the distance of $O$ from DC.
 
 In this problem, the missing distance can be labelled as an unknown variable $y$. 
 
+For this question, you must find the centre of mass in terms of the missing variable $y$ and rearrange to solve for $y$ when found the actual value of the centre of mass. 
+
+Firstly set up the table for the shape. Include the area of the cut out square as a negative value:
+
+
+| Object             | Trngl. ABC    | Sqr. PQRS | Total     |
+| ------------------ | ------------- | --------- | --------- |
+| Area               | 48            | -16       | 32        |
+| CoM dist. from AB  | $\frac{8}{3}$ | 2         | $\bar{x}$ |
+| CoM dist. from  DC | 0             | $y$       | $\bar{y}$ |
+Forming the equations to calculate the centre of mass $\bar{x}$ and $\bar{y}$ components:
 
