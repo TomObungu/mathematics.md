@@ -44,8 +44,13 @@ Forming the table. In questions like this, it is useful to the origin as the ver
 
 As well as that it is also beneficial to set the downward direction as positive 
 
-| Object            | Sqr. ABF  | Rect. EDC | Total     |
-| ----------------- | --------- | --------- | --------- |
-| Area              | $16a^{2}$ | $6a^{2}$  | $22a^{2}$ |
-| CoM Dist. From EF | $-2a$     |           |           |
-| CoM Dist. From AF | $2a$      |           |           |
+| Object            | Sqr. ABF  | Rect. EDC      | Total     |
+| ----------------- | --------- | -------------- | --------- |
+| Area              | $16a^{2}$ | $6a^{2}$       | $22a^{2}$ |
+| CoM Dist. From EF | $-2a$     | $\frac{3}{2}a$ | $\bar{x}$ |
+| CoM Dist. From AF | $2a$      | $3a$           | $\bar{y}$ |
+
+Using the formula to work out $\bar{x}$ and $\bar{y}$:
+$$
+16a
+$$
