@@ -170,5 +170,11 @@ Do not forget that the mass of AD is three times the mass of AB, DC and CB. To a
 | CoM Dist. From BC | 5a             | 2a        | 3a        | 0         | $\bar{x}$            |
 Setting up the equations:
 $$
-5a(3\sqrt{ 13 }) + 4a(2a)+6a(3a)+3a(0) = (13+3\sqrt{ 13 })a\bar{x}
+\begin{gather*}
+5a(3\sqrt{ 13 }) + 4a(2a)+6a(3a)+3a(0) = (13+3\sqrt{ 13 })a\bar{x} \\ \\
+(15\sqrt{ 13 }+26)a = (13+3\sqrt{ 13 })\bar{x} \\ \\
+\bar{x} = \frac{9\sqrt{ 13 }-19}{4}a
+\end{gather*}
 $$
+Now consider this as a moments problem again. Remember that with forces and moments. Always consider the distance perpendicular from force to the pivot. In this case, if we were to draw it as a uniform rod, we can see that the perpendicular distance of the weight force, $Mg$ from the pivot will be $\bar{x}$. For the force $x$, as it acts horizontally, the vertical distance is the perpendicular distance from the pivot and thus the perpendicular distance will be the length of CB which is 3a.
+
