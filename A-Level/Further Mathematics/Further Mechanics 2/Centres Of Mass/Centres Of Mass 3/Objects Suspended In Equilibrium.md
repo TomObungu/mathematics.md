@@ -35,3 +35,17 @@ $$
 \theta = \arctan\left( \frac{\frac{2}{3}}{\frac{2}{3}} \right) = 45^\circ
 $$
 # Example 2
+Uniform lamina AFEDCB is suspended from vertex F. Find the angle that EF makes with the downward vertical.
+![[Pasted image 20260216213300.png]]
+
+In this problem you must find out the position of the centre of mass using the already learned techniques of splitting the lamina in individual components. Afterwards you must compute the lengths of the triangle formed with the downward vertical as the hypotenuse.
+
+Forming the table. In questions like this, it is useful to the origin as the vertex of suspension and the adjacent lines from the vertex as the x and y component planes. 
+
+As well as that it is also beneficial to set the downward direction as positive 
+
+| Object            | Sqr. ABF  | Rect. EDC | Total     |
+| ----------------- | --------- | --------- | --------- |
+| Area              | $16a^{2}$ | $6a^{2}$  | $22a^{2}$ |
+| CoM Dist. From EF | $-2a$     |           |           |
+| CoM Dist. From AF | $2a$      |           |           |
