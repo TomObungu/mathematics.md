@@ -70,4 +70,13 @@ x\left( 81-\frac{81}{2} \right) = \left(\frac{729}{2}-\frac{729}{3}\right) \\ \\
 \end{gather*}
 $$
 # Example 2
-A uniform solid formed by rotating region $R$ through $360^\circ$
+A uniform solid formed by rotating region $R$ through $360^\circ$ about the y-axis. 
+![[Pasted image 20260218230603.png]]
+Now this is another volume of revolution question with mass elements that are cylinders except the radius is the function $f(y)$, meaning you must rearrange the function $y=f(x)$ to $x=f(y)$ and take the square of it to calculate the area of the cross section of the cylinder. 
+
+
+Find the distance of the centre of mass from the plane face.
+
+$$
+dm = \rho \pi ydy
+$$
