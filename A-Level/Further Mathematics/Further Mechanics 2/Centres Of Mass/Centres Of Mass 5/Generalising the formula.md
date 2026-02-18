@@ -80,3 +80,14 @@ This is the case for deriving the centre of mass of a uniform circular arc frame
 $$
 dm = \rho r d\theta o
 $$
+Since $d\theta$ is infinitesimal, we can model the centre of mass of the mass element as a point mass. Where the x coordinate of the centre of mass of this mass element $x$ is defined as:
+$$
+x = r\cos\theta
+$$
+Therefore we can set up the equation as we now know $x$ and $dm$:
+$$
+\begin{gather*}
+\bar{x}\int_{-\alpha}^{\alpha}\rho r d\theta = \int_{-\alpha}^{\alpha}\rho rr\cos\theta d\theta \\ \\
+\bar{x}\int_{-\alpha}^{\alpha}d\theta = \int_{-\alpha}^{\alpha}r\cos d\theta
+\end{gather*}
+$$
