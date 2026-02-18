@@ -138,4 +138,13 @@ $$
 \therefore \bar{y} = \frac{5}{4}
 \end{gather*}
 $$
-Now considering the triangle formed by the line of suspension as the hypotenuse:
+Now considering the triangle formed by the line of suspension as the hypotenuse:.
+
+When doing this, do not forget to subtract the bounds of the lamina. This is because the centres of mass needed to be treated as positions and need to be offset by the limits:
+![[Pasted image 20260218132106.png]]
+Thus it is then possible to calculate $\theta$ using:
+$$
+\theta = \arctan \left( \frac{\frac{1}{2} - \frac{1}{3}\ln_{2}}{\frac{11}{4}}\right) = 5.59 ^ \circ
+$$
+Remember, it is possible to check definite integrals on the numworks calculator.
+
