@@ -114,6 +114,12 @@ Now $\int x 16e^{-2x}$ is integration by parts:
 $$
 \begin{gather*}
 u = x \qquad  \frac{dv}{dx} = 16e^{-2x}\\ \\
-\frac{du}{dx} = 1 \qquad v = -8e^{-2x}
+\frac{du}{dx} = 1 \qquad v = -8e^{-2x} \\ \\ \\
+\int 16e^{-2x}dx = -8xe^{-2x} - \int-8e^{-2x} \\ \\
+= -8xe^{-2x} - 4e^{-2x} +c
 \end{gather*} 
+$$
+Thus we can substitute the result of the integral back into the brackets but disregarding the constant of integration:
+$$
+\frac{3}{2}\bar{x}  = \left[ -8xe^{-2x} - 4e^{-2x}\right]_{\ln 2}^{\ln 4} = \left(\right)
 $$
