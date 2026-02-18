@@ -38,7 +38,7 @@ Now this yields the same result as before for all continuous mass distribution o
 
 # Deriving previous results
 
-## Uniform Sector
+## Uniform circular sector
 For a uniform sector we will consider it in polar form. Each mass element is a sector of radius $r$, subtending an angle of $d\theta$.
 ![[Pasted image 20260218144618.png]]
 The area of this sector is $\frac{1}{2}r^{2}d\theta$. Thus the mass element $dm$ is:
@@ -65,7 +65,14 @@ Therefore $x = \frac{2}{3}r\cos\theta$.
 With that information it is now possible to use $\bar{x} \int dm = \int x dm$. The bounding limits are between $-\alpha$ and $\alpha$. As well as that $r^{2}$,$\rho$ and $\frac{1}{2}$ are all constant, thus they cancel out. Remember we are integrating with respect to $\theta$
 $$
 \begin{gather*}
-\bar{x} \int_{-\alpha}^{\alpha} \frac{1}{2}\rho r^{2}d\theta =  \frac{1}{2}\int_{-\alpha}^{\alpha}\frac{2}{3}r^{2}\rho \cos\theta d\theta \\ \\
-= \bar{x}\int_{-\alpha}^{\alpha}d\theta = \int_{-\alpha}^{\alpha} \frac{2}{3}\cos\theta d \theta
+\bar{x} \int_{-\alpha}^{\alpha} \frac{1}{2}\rho r^{2}d\theta =  \frac{1}{2}\int_{-\alpha}^{\alpha}\frac{2}{3}r^{2}\rho r\cos\theta d\theta \\ \\
+= \bar{x}\int_{-\alpha}^{\alpha}d\theta = \int_{-\alpha}^{\alpha} \frac{2}{3}r\cos\theta d \theta \\ \\
+= \bar{x}\left[\theta\right]_{-\alpha}^{\alpha} = \frac{2}{3}r\left[\sin \theta\right]_{-\alpha}^{\alpha} \\ \\  \bar{x}\left(\alpha--\alpha\right) = \frac{2}{3}r\left(\sin\alpha - \sin(-\alpha)\right) \implies \bar{x}2\alpha = \frac{4}{3}r\sin\alpha \\ \\
+\therefore \bar{x} = \frac{2r\sin\alpha}{3\alpha}
 \end{gather*}
 $$
+
+As expected.
+
+## Uniform circular arc
+
