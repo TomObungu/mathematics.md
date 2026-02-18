@@ -75,4 +75,8 @@ $$
 As expected.
 
 ## Uniform circular arc
-
+This is the case for deriving the centre of mass of a uniform circular arc framework. As we are dealing with a framework, the lamina has no 'body' and thus we are only considering the arc itself. Therefore each mass element has is an of length $r d\theta$:
+![[Pasted image 20260218151906.png]]
+$$
+dm = \rho r d\theta
+$$
