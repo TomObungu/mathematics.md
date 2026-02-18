@@ -45,3 +45,8 @@ The same applied for $\bar{y}$ except you must consider the general form for the
 $$
 
 $$
+# Example 1
+Find the x-coordinate of the centre of mass of the uniform solid formed by rotating the region under the curve for $x\geq 0$
+
+![[Pasted image 20260218224316.png]]
+
