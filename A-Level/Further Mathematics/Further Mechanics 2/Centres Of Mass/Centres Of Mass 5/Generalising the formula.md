@@ -39,6 +39,15 @@ Now this yields the same result as before for all continuous mass distribution o
 # Deriving previous results
 
 ## Uniform Sector
+For a uniform sector we will consider it in polar form. Each mass element is a sector of radius $r$, subtending an angle of $d\theta$.
+![[Pasted image 20260218144618.png]]
+The area of this sector is $\frac{1}{2}r^{2}d\theta$. Thus the mass element $dm$ is:
+$$
+dm = \frac{1}{2}\rho r^{2}d\theta
+$$
 
+Now since the arc length $r d\theta$ has infinitesimal length, it also has infinitesimal curvature. Hence the arc can can be modelled as a straight line with no curvature. If the arc is modelled as a straight line, then sector can modelled as an isosceles triangle with equal sides $r$, base $r d\theta$ and height $r$.
+
+Since it is an isosceles triangle, the centre of 
 
 
