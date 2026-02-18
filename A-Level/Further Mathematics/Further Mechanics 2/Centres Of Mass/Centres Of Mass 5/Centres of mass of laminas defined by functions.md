@@ -148,3 +148,8 @@ $$
 $$
 Remember, it is possible to check definite integrals on the numworks calculator.
 
+# Symmetry
+When approaching problems, before immediately jumping to the formulae, always check for symmetry. When shapes have clearly defined symmetry, it is possible to deduce the positions of components of the centre of mass of the lamina.
+
+For example, consider the lamina formed by $y=x(x-4)$ that is bounded by the first quadrant. From the diagram alone, we can immediately deduce that $\bar{x}=2$, without doing any integration:
+
