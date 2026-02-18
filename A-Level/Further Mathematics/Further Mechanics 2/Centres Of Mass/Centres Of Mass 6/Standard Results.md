@@ -51,6 +51,9 @@ $$
 \bar{x}\int_{0}^{h}\left( \frac{r^{2}}{h^{2}}x^{2}-\frac{2r^{2}}{h}x+r^{2} \right)dx = \int_{0}^{h}\left( \frac{r^{2}}{h^{2}}x^{3}-\frac{2r^{2}}{h}x^{2}+r^{2}x \right) \\ \\
 \bar{x}\left[ \frac{r^{2}}{3h^{2}}x^{3}-\frac{r^{2}}{h}x^{2}+r^{2}x \right]_{0}^{h} = \left[ \frac{r^{2}}{4h^{2}}x^{4}-\frac{2r^{2}}{3h}x^{3}+\frac{r^{2}}{2}x^{2} \right]_{0}^{h} \\ \\
 \bar{x}\left( \frac{r^{2}}{3\cancel{ h^{2} }}h\cancel{ ^{3} }-\frac{r^{2}}{\cancel{ h }}h\cancel{ ^{2} }+r^{2}h \right) = \left( \frac{r^{2}}{4\cancel{ h^{2} }}h\cancel{ ^{4} }^{2}-\frac{2r^{2}}{3\cancel{ h }}h\cancel{ ^{3} }^{2}+\frac{r^{2}}{2}h^{2} \right) \\ \\
-\bar{x}\left( \frac{r^{2}}{3}h \right) = 
+\bar{x}\left( \frac{r^{2}}{3}h \right) = \left( \frac{r^{2}h^{2}}{12} \right) \\ \\
+\bar{x} = \frac{1}{4}h
 \end{gather*}
 $$
+Therefore the centre of mass of a uniform cone is $\frac{1}{4}h$ from its base. 
+
