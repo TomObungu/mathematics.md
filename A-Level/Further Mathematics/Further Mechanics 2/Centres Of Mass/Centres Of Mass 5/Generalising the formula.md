@@ -22,4 +22,23 @@ $$
 \bar{x} \int dm = \int xdm \\ \\  \bar{y} \int dm = \int ydm
 \end{gather*}
 $$
-Here $x$ and $y$ are the positions of the centres of mass of the 
+Here $x$ and $y$ are the positions of the centres of mass of the **mass elements** and $\bar{x}$ and $\bar{y}$ are components of the coordinates of the continuous mass distribution of course.
+
+Now recall from our previous scenario. $x$ is just $x$ and $y=\frac{1}{2}f(x)$.
+Therefore:
+$$
+\begin{gather*}
+dm = \rho f(x)dx \\ \\ 
+x = x \\ \\
+y = \frac{1}{2}f(x)
+\end{gather*}
+$$
+
+Now this yields the same result as before for all continuous mass distribution over the $xy$ (Cartesian) plane. However in our next example, we will see that  we will not be using $xy$  plane where mass elements are modelled as rectangles, but using the polar plane where mass elements are separate to rectangles
+
+# Deriving previous results
+
+## Uniform Sector
+
+
+
