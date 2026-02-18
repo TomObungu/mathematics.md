@@ -121,5 +121,10 @@ u = x \qquad  \frac{dv}{dx} = 16e^{-2x}\\ \\
 $$
 Thus we can substitute the result of the integral back into the brackets but disregarding the constant of integration:
 $$
-\frac{3}{2}\bar{x}  = \left[ -8xe^{-2x} - 4e^{-2x}\right]_{\ln 2}^{\ln 4} = \left(\right)
+\begin{gather*}
+\frac{3}{2}\bar{x}  = \left[ -8xe^{-2x} - 4e^{-2x}\right]_{\ln 2}^{\ln 4} \\ \\= \left(-8(\ln 4)e^{-2\ln 4}- 4e^{-2\ln 4}\right)  - \left(-8(\ln 2)e^{-2\ln 2}- 4e^{-2\ln 2}\right) \\ \\ =
+\left(  -\frac{1}{2}\ln 4 -\frac{1}{4} \right) - (-2\ln 2 -1 ) \\ \\ 
+= \ln 2 + \frac{3}{4} \\ \\
+\therefore \bar{x} = \frac{2}{3}\ln 2 + \frac{1}{2}
+\end{gather*}
 $$
