@@ -23,5 +23,28 @@ $$
 \end{gather*}
 $$
 
-Now we can treat the problem as a uniform rod moments question:
+Now we can treat the problem as a uniform rod moments question.
 
+Always remember that you consider the perpendicular distance from the force to the pivot. 
+
+Setting up the diagram:
+![[Pasted image 20260218120759.png]]
+
+Now considering the vertical and horizontal force components:
+$$
+\begin{gather*}
+T_{A} = 2T_{D} \\ \\
+T_{A} + T_{D} = \frac{3}{2}Mg \\ \\
+\implies 3T_{D} = \frac{3}{2}Mg \\ 
+T_{D} = \frac{1}{2}Mg
+\end{gather*}
+$$
+
+Now considering moments form A:
+$$
+\begin{gather*}
+\left( \frac{\lambda}{2} + 2a \right)Mg = 5a(T_{D}) \\ \\
+\frac{\lambda}{2}+2a = \frac{5}{2}a \\ \\
+\lambda = a
+\end{gather*}
+$$
