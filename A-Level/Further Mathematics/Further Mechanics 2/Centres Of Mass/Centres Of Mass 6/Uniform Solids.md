@@ -50,3 +50,24 @@ Find the x-coordinate of the centre of mass of the uniform solid formed by rotat
 
 ![[Pasted image 20260218224316.png]]
 
+When considering the shape formed by the revolutions, the mass elements will be cylinders with cross sectional areas equal to area of circles with radius $f(x)$ and heights $dx$
+![[Pasted image 20260218224518.png]]
+
+Therefore the mass element, $dm$ is equal to:
+$$
+dm = \rho\pi(f(x))^{2}dx
+$$
+
+With the mass element found, we can the form the equations.
+$$
+\begin{gather*}
+dm = \rho \pi(9-x)dx \\ \\ 
+\therefore \bar{x}\int_{0}^{9} \rho\pi(9-x)dx = \int_{0}^{9} x\rho \pi(9-x)dx \\ \\
+\bar{x}\int_{0}^{9}(9-x)dx = \int_{0}^{9}9x-x^{2}dx \\ \\
+\bar{x}\left[9x-\frac{1}{2}x^{2}\right]_{0}^{9} = \left[\frac{9}{2}x^{2}-\frac{1}{3}x^{3} \right]_{0}^{9} \\ \\
+x\left( 81-\frac{81}{2} \right) = \left(\frac{729}{2}-\frac{729}{3}\right) \\ \\
+\bar{x} = 3
+\end{gather*}
+$$
+# Example 2
+A uniform solid formed by rotating region $R$ through $360^\circ$
