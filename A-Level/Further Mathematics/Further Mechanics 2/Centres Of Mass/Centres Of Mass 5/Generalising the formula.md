@@ -19,6 +19,7 @@ $$
 Or:
 $$
 \begin{gather*}
-x \int dm = \int xdm \\ \\  y \int dm = \int cdm
+\bar{x} \int dm = \int xdm \\ \\  \bar{y} \int dm = \int ydm
 \end{gather*}
 $$
+Here $x$ and $y$ are the positions of the centres of mass of the 
