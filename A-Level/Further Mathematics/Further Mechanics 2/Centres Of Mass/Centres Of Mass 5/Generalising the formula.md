@@ -88,6 +88,10 @@ Therefore we can set up the equation as we now know $x$ and $dm$:
 $$
 \begin{gather*}
 \bar{x}\int_{-\alpha}^{\alpha}\rho r d\theta = \int_{-\alpha}^{\alpha}\rho rr\cos\theta d\theta \\ \\
-\bar{x}\int_{-\alpha}^{\alpha}d\theta = \int_{-\alpha}^{\alpha}r\cos d\theta
+\bar{x}\int_{-\alpha}^{\alpha}d\theta = \int_{-\alpha}^{\alpha}r\cos d\theta \\ \\
+\bar{x}\left[\theta\right]_{-\alpha}^{\alpha} = r\left[\sin\theta\right]_{-\alpha}^{\alpha} \\ \\
+\bar{x}2\alpha = 2r\sin\alpha \\ \\
+\bar{x} = \frac{r\sin\alpha}{\alpha}
 \end{gather*}
 $$
+As expected. 
