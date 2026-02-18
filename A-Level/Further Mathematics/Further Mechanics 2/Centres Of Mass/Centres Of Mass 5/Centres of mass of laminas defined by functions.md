@@ -128,3 +128,14 @@ $$
 \therefore \bar{x} = \frac{2}{3}\ln 2 + \frac{1}{2}
 \end{gather*}
 $$
+Now considering the process of find $\bar{y}$ by multiplying by $\frac{1}{2}f(x)$:
+$$
+\begin{gather*}
+\frac{3}{2}\bar{y} = \frac{1}{2} \int_{\ln 2}^{\ln 4} 16e^{-2x}(16e^{-2x}) \\ \\
+\frac{3}{2}\bar{y} = \frac{1}{2} \int_{\ln 2}^{\ln 4} 256e^{-4x} = \left[-32e^{-4x}\right]_{\ln 2}^{\ln 4} \\ \\
+= (-32e^{-4\ln 4}) - (-32e^{-4\ln 2})  \\ \\
+= \left( -\frac{1}{8} \right) - \left( -2 \right) = \frac{15}{8} \\ \\
+\therefore \bar{y} = \frac{5}{4}
+\end{gather*}
+$$
+Now considering the triangle formed by the line of suspension as the hypotenuse:
