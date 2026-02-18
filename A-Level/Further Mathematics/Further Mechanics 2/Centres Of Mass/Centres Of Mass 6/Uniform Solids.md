@@ -71,12 +71,34 @@ x\left( 81-\frac{81}{2} \right) = \left(\frac{729}{2}-\frac{729}{3}\right) \\ \\
 $$
 # Example 2
 A uniform solid formed by rotating region $R$ through $360^\circ$ about the y-axis. 
-![[Pasted image 20260218230603.png]]
-Now this is another volume of revolution question with mass elements that are cylinders except the radius is the function $f(y)$, meaning you must rearrange the function $y=f(x)$ to $x=f(y)$ and take the square of it to calculate the area of the cross section of the cylinder. 
-
-
 Find the distance of the centre of mass from the plane face.
 
+
+![[Pasted image 20260218230603.png]]
+Now this is another volume of revolution question with mass elements that are cylinders except the radius is the function $f(y)$, meaning you must rearrange the function $y=f(x)$ to $x=f(y)$ and take the square of it to calculate the area of the cross section of the cylinder. 
+![[Pasted image 20260218231034.png]]
+Rearranging for $x$:
 $$
-dm = \rho \pi ydy
+f(y) = x = \sqrt{ y }
 $$
+Therefore the mass elements are:
+$$
+dm = \rho \pi (f(y))^{2}dy
+$$
+The y position of the centre of mass of the cylindrical mass elements is just $y$ 
+Thus we can form the equations:
+$$
+\begin{gather*}
+\bar{y}\int_{0}^{4}dm = \int_{0}^{4}ydm \\ \\
+\bar{y} \int_{0}^{4}\rho \pi (\sqrt{ y })^{2}dy = \int_{0}^{4}y\rho \pi(\sqrt{ y })^{2}dy \\ \\ 
+\bar{y} \int_{0}^{4}ydy = \int _{0}^{4}y^{2}dy \\ \\
+\bar{y}\left[\frac{1}{2}y^{2}\right]_{0}^{4} = \left[ \frac{1}{3}y^{3}\right]_{0}^{4} \\ \\
+\bar{y}(8) = \frac{64}{3} \\ \\
+\bar{y} = \frac{8}{3}
+\end{gather*}
+$$
+Now this is the crucial step, the question asks us to find the distance from the plane face, thus you must find the difference in the height of the plane and the distance of the centre of mass from the origin of the solid. Therefore:
+$$
+\text{Distance from top plane} = 4 - \frac{8}{3} = \frac{4}{3}
+$$
+
