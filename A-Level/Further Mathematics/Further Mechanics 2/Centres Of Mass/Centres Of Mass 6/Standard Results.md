@@ -82,11 +82,11 @@ dm = \rho(2\pi r\sin\theta)(r d\theta)  = 2\pi \rho r^{2}\sin\theta
 $$
 
 The $x$ coordinate of the centre of mass of each band $r\cos\theta$. Therefore setting up the formula with that:
+
+Furthermore, we can use the surface area of a sphere formula, $4\pi r^{2}$ to the get the total mass $M$, as $2\pi r^{2}$
 $$
 \begin{gather*}
-\bar{x}\int_{0}^{r}dm = \int_{0}^{r}r\cos\theta dm \\ \\
-\bar{x}\int_{0}^{r}2\rho\pi r^{2}\sin\theta dx= \int_{0}^{r}2\rho \pi r^{2}\sin\theta \cos\theta dx \\ \\
-\therefore \bar{x} \int_{0}^{r}d\theta = \int_{0}^{r}\cos\theta d\theta \\ \\
-\bar{x}\left[\theta\right]_{0}^{r} = \left[\sin\theta\right]_{0}^{r}
+\bar{x}2\pi r^{2}= \int_{0}^{r}2\pi r^{2}\sin\theta\cos\theta dm \\  
+\bar{x} = 
 \end{gather*}
 $$
