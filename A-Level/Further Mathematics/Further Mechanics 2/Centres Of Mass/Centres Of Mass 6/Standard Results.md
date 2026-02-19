@@ -86,7 +86,7 @@ $$
 \begin{gather*}
 \bar{x}\int_{0}^{r}dm = \int_{0}^{r}r\cos\theta dm \\ \\
 \bar{x}\int_{0}^{r}2\rho\pi r^{2}\sin\theta dx= \int_{0}^{r}2\rho \pi r^{2}\sin\theta \cos\theta dx \\ \\
-\therefore \bar{x} \int_{0}^{r}\sin\theta dx = \int_{0}^{r}\sin 2\theta dx \\ \\
-\bar{x}\left[-\cos\theta\right]_{0}^{r} = \left[-\frac{1}{2}\cos 2\theta\right]_{0}^{r}
+\therefore \bar{x} \int_{0}^{r}d\theta = \int_{0}^{r}\cos\theta d\theta \\ \\
+\bar{x}\left[\theta\right]_{0}^{r} = \left[\sin\theta\right]_{0}^{r}
 \end{gather*}
 $$
