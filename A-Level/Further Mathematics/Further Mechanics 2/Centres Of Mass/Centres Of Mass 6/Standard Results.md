@@ -84,9 +84,17 @@ $$
 The $x$ coordinate of the centre of mass of each band $r\cos\theta$. Therefore setting up the formula with that:
 
 Furthermore, we can use the surface area of a sphere formula, $4\pi r^{2}$ to the get the total mass $M$, as $2\pi r^{2}$
+
+The limits are from $0$ to $\frac{\pi}{2}$ as that is the angle between the line $y=0$ and the band with the maximum length.
 $$
 \begin{gather*}
-\bar{x}2\pi r^{2}= \int_{0}^{r}2\pi r^{2}\sin\theta\cos\theta dm \\  
-\bar{x} = 
+\bar{x}2\rho\pi r^{2}= \int_{0}^{\frac{\pi}{2}}2\rho\pi r^{2}\sin\theta\cos\theta d\theta \\  
+\bar{x} = \frac{1}{2}r\int_{0}^{\frac{\pi}{2}}\sin 2\theta d\theta \\ \\
+\bar{x} = \frac{1}{2}r \left[-\frac{1}{2}\cos 2\theta\right]_{0}^{\frac{\pi}{2}} \\ \\
+\bar{x} = \frac{1}{4}r\left[\cos 2\theta\right]_{\pi}^{0} \\ \\
+\bar{x} = \frac{1}{4}\left[\cos(0)-\cos(\pi)\right] \ \\ \\  
+\therefore \bar{x} = \frac{1}{2} \text{ From the centre}
 \end{gather*}
 $$
+
+
