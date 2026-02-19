@@ -57,3 +57,36 @@ $$
 $$
 Therefore the centre of mass of a uniform cone is $\frac{1}{4}h$ from its base. 
 
+## Uniform canonical shell
+A canonical shell is like a cone of height $h$ with no inside volume - its made up of its outside surface area. It also has no base.
+![[Pasted image 20260219000003.png]]
+Each mass element is a sector with infinitesimal arc length $dx$. Again since the arc length is infinitesimal, each sector can be modelled as a triangle. 
+
+The of mass of each triangular strip has centre of mass position at $\frac{1}{3}h$ from its base and therefore position $\frac{2}{3}h$ from O.
+
+As each strip has the centre of mass at the same position, the centre of mass of the whole shell is at $\frac{2}{3}h$.
+
+Therefore the centre of mass of the whole canonical shell also has its centre of mass  $\frac{1}{3}h$ from its base. Therefore:
+
+$$
+\bar{x} = \frac{1}{3}h \text{ From base}
+$$
+
+## Uniform hemispherical shell
+Each mass element is a thin band of radius $r\sin\theta$ and thickness $r d\theta$. Thus the mass element is made up of little circumferences that have thickness $r d\theta$. 
+![[Pasted image 20260219000641.png]]
+Remember that the equation for the length of a circumference is $2\pi r$. In this case the circumference length is $2\pi r\sin\theta$
+Therefore:
+$$
+dm = \rho(2\pi r\sin\theta)(r d\theta)  = 2\pi \rho r^{2}\sin\theta
+$$
+
+The $x$ coordinate of the centre of mass of each band $r\cos\theta$. Therefore setting up the formula with that:
+$$
+\begin{gather*}
+\bar{x}\int_{0}^{r}dm = \int_{0}^{r}r\cos\theta dm \\ \\
+\bar{x}\int_{0}^{r}2\rho\pi r^{2}\sin\theta dx= \int_{0}^{r}2\rho \pi r^{2}\sin\theta \cos\theta dx \\ \\
+\therefore \bar{x} \int_{0}^{r}\sin\theta dx = \int_{0}^{r}\sin 2\theta dx \\ \\
+\bar{x}\left[-\cos\theta\right]_{0}^{r} = \left[-\frac{1}{2}\cos 2\theta\right]_{0}^{r}
+\end{gather*}
+$$
