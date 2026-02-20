@@ -210,7 +210,49 @@ x_{p} = \lambda + \mu t \\ \\
 2\mu + \lambda +\mu t = t + 1 \\ \\
 \mu = 1 \\ \\
 2\mu + \lambda = 1 \implies \lambda = -1 \\ \\
-\therefore m
+\therefore x_{p} = t-1 \\ \\
 \end{gather*}
 $$
+Therefore
+$$
+\begin{gather*}
+\therefore x(t) = e^{-t}(A+Bt) + t-1  \\ \\
+\dot{x}(t) = e^{-t}(B)-e^{-t}(A+Bt) + 1 
+\end{gather*}
+$$
+Thus combining to form $y$:
+$$
+\begin{gather*}
+y(t) = \frac{1}{2}[e^{-t}(A+Bt)-Be^{-t}-1 - 3e^{-t}(A+Bt)-3t + 3 -3t] \\ \\
+= e^{-t}\left(-A-\frac{1}{2}B-Bt \right) -3t + 1  \\ \\
+
+\end{gather*}
+$$
+Finding the particular solution:
+$$
+\begin{gather*}
+x(0) = A-1 = 1 \implies 2 \\ \\
+y(0) = -A - \frac{1}{2}B + 1 = 0 \implies B = -2
+\end{gather*}
+$$
+Therefore:
+$$
+\boxed{
+\begin{gather*}
+x(t) = e^{-t}(2-2t) + t - 1 \\ \\
+y(t) = e^{-t}(-1 + 2t) - 3t + 1
+\end{gather*}
+}
+$$
+# Example 3 Continued...
+Determine the behaviour for large values of $t$.
+$$
+\begin{gather*}
+t \to \infty, e^{-t} \to 0 \\ \\
+\therefore x(t) \to t - 1 \\ \\
+y(t) \to -3t + 1
+\end{gather*}
+$$
+
+
 
