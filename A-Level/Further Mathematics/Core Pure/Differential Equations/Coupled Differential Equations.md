@@ -151,5 +151,30 @@ Finding when the wolves die out will require to find when both functions are zer
 
 Finding when wolves die i.e $x(t)=0$:
 $$
-e^{2t}
+\begin{gather*}
+\cancel{ e^{2t} }(100\cos t + 300\sin t) = 0 \\ \\
+\tan t = -\frac{1}{3} \qquad t = \cancel{ -0.321 }, \boxed{2.820} \\ \\
+\therefore t = 28.2 \text{ Years} \\ \\
+\text{After 2.82 decades, the wolves die out in } 2044
+\end{gather*}
 $$
+
+Finding when sheep die i.e $y(t)=0:$
+$$
+\begin{gather*}
+e^{2t}(400\cos t + 200\sin t) = 0 \\ \\ 
+\tan t =  -2 \implies t =\cancel{  -1.107, } \boxed{2.034}  \\ \\
+\therefore t = 20.3 years \\ \\
+\text{After 2.034 decades, the sheep die out 2036}
+\end{gather*}
+$$
+When the sheep die out in 2036, the model is no longer valid, so the year in which the wolves die out is also invalid. 
+# Example 3
+$$
+\begin{gather*}
+\frac{dx}{dt} = -3x -2y -3t \\ \\
+\frac{dy}{dt} = 2x + y + t - 2 \\ \\
+\text{When } x(0)=1, y(0)=0, \text{ find } x(t) \text{ and } y(t).
+\end{gather*}
+$$
+Re
