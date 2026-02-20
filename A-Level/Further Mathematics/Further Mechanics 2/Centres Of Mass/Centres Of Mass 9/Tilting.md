@@ -43,4 +43,32 @@ A uniform solid cone of mass, sits on a rough horizontal surface. A horizontal f
 
 For this problem you need to consider the moments and then consider the horizontal/vertical forces. 
 
-You know that when an object is on the point of titling, the moment produced by the external force will be equal 
+You know that when an object is on the point of titling, the moment produced by the external force will be equal to the weight of the force $mg$. The object will tilt when the moment is greater than than the weight. 
+
+Thus taking moments at $A$:
+$$
+\begin{gather*}
+2rX = rmg \\ \\
+X = \frac{1}{2}mg
+\end{gather*}
+$$
+Therefore:
+$$
+\text{Object will tilt when } X \geq \frac{1}{2}mg
+$$
+
+Now when the object is on the point of sliding, the horizontal force of friction must also equal to the external force applied against it.
+
+Thus equating the horizontal forces:
+$$
+\begin{gather*}
+F_{r} = \frac{1}{2}mg \\ \\
+\mu mg = \frac{1}{2}mg \\ \\
+\mu = \frac{1}{2}
+\end{gather*}
+$$
+Therefore we can see that in order for the object to tilt before sliding:
+$$
+\mu > \frac{1}{2}
+$$
+
