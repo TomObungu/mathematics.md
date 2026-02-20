@@ -99,4 +99,11 @@ $$
 \dot{x} = -4e^{-4t}(A+Bt) + Be^{-4t}
 $$
 
-N
+Now time to use the boundary condition so to find the arbitrary constants:
+$$
+\begin{gather*}
+x(0) = A = 1.5 \\ \\
+\dot{x}(0) = -4A + B = 4 \implies 10 \\ \\
+x(t) = e^{-4t}(1.5 + 10t)
+\end{gather*}
+$$
