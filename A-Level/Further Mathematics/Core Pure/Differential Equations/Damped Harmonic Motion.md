@@ -108,3 +108,61 @@ x(t) = e^{-4t}(1.5 + 10t)
 \end{gather*}
 $$
 
+# Example 2
+A particle moves in a straight line horizontally, its motion is described by: 
+$\ddot{x}+2k\dot{x}+2k^{2}x = 0$
+
+The particle is moved to a positive displacement, d, then released from rest at $t=0$. Find $x(t)$, state the type of damping and find the time, $T$, at which the particle is a instantaneous rest. 
+
+Forming and solving auxiliary equations:
+$$
+\begin{gather*}
+m^{2} + 2km + 2k^{2} = 0  \\ \\
+(m+k)^{2} + k^{2} = 0 \\ \\
+(m+k)^{2} = -k^{2} \\ \\
+m = -k \pm ki
+\end{gather*}
+$$
+Therefore:
+$$
+x = e^{-kt}(A\cos(kt)+B\sin(kt))
+$$
+Thus this system is light damping. 
+Differentiate for use in boundary cases:
+$$
+\begin{gather*}
+\dot{x} = e^{-kt}(-Ak\sin kt+Bk\cos kt)-ke^{-kt}(A\cos kt+B\sin kt)  \\ \\
+= e^{-kt}((Bk-Ak)\cos kt+(-Ak-Bk)\sin t)
+\end{gather*}
+
+$$
+Forming the boundary conditions:
+$$
+\begin{gather*}
+x(0) = A = d \\ \\
+x(0) = -kA + kB = 0 \\ 
+\implies k(-d+B) = 0 \\
+\implies B =d 
+\end{gather*}
+$$
+Therefore:
+$$
+x(t) = e^{-kt}(d\cos(kt)+d\sin(kt))
+$$
+
+To find the time of instantaneous rest, we need to find when $\dot{x} = 0$. Therefore we need to use $\dot{x}(t)$ again:
+$$
+\begin{gather*}
+\therefore \dot{x}(t) = e^{-kt}(dk-dk)\cos kt + (-dk-dk)\sin kt) \\ \\ 
+\dot{x}(t) = e^{-kt}(-2k\sin kt)
+\end{gather*}
+$$
+Equating it to zero. All of the multiplying factors of $\dot{x}(t)$ are constants and since the equation is equal to 0, we can just divide them and consider $\sin kt$ only:
+$$
+\begin{gather*}
+-2ke^{-kt}\sin kt = 0 \\ \\
+\sin kt = 0  \\ \\
+kt = 0, \pi \\ \\
+\boxed{t = \frac{\pi}{k}}
+\end{gather*}
+$$
