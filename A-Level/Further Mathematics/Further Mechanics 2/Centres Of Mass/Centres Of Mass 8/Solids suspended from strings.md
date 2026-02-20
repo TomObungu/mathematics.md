@@ -45,3 +45,41 @@ $$
 Now looking at the side view of the solid and drawing a line from the point of suspension:
 ![[Pasted image 20260220074554.png]]
 
+It is possible to calculate the angle $\theta$ using trigonometry again:
+$$
+\theta = \arctan\left( \frac{1}{4} \right) = 14.0 ^\circ
+$$
+
+Questions may ask for the angle to the horizontal is just $90-\theta$. In this case that is $76.0^\circ$
+
+# Example 3
+ A uniform solid formed from a hemisphere of radius $r$ and a cylinder of radius $\lambda r$. 
+
+When suspended from A, a point on the circumference of the plane face of the hemisphere, $AO$ makes an angle $\theta$ to the downward vertical, where $\tan\theta = \frac{51}{44}$. Find $\lambda$.
+
+![[Pasted image 20260220080936.png]]
+
+For this question, the first part is just calculating the vertical position of the centre of mass, $\bar{y}$:
+
+Taking downwards as positive:
+
+| Object        | Hemisphere             | Cylinder            | Total                                         |
+| ------------- | ---------------------- | ------------------- | --------------------------------------------- |
+| Volume        | $\frac{2}{3}\pi r^{3}$ | $\lambda \pi r^{3}$ | $\left( \frac{2}{3}+\lambda \right)\pi r^{3}$ |
+| Dist below O. | $-\frac{3}{8}r$        | $\frac{1}{2}\pi r$  | $\bar{y}$                                     |
+
+Forming the equations to solve for $\bar{y}$:
+$$
+\begin{gather*}
+\frac{2}{3}\pi r^{3}\left( -\frac{3}{8}r \right) + \lambda \pi r^{3}\left( \frac{1}{2}\lambda r \right) = \left( \frac{2}{3}+\lambda \right)\pi r^{3}\bar{y} \\ \\
+\left( \frac{1}{2}\lambda^{2}-\frac{1}{4} \right)r = \left( \frac{2}{3} + \lambda \right)\bar{y}
+\\ \\
+\left( \frac{2\lambda^{2}-1}{4} \right)r = \left( \frac{2+3\lambda}{3} \right)\bar{y} \\ \\
+
+\end{gather*}
+$$
+Therefore:
+$$
+\bar{y} = \frac{3(2\lambda^{2} - 1)}{4(2+3\lambda)}
+$$
+
