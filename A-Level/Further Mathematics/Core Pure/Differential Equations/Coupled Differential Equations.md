@@ -93,3 +93,15 @@ x(t) = 2e^{-2t} \\ \
 y(t) = -2e^{-2t}
 \end{gather*}}
 $$
+# Example 2
+The population of wolves, $x$ and sheep, $y$, in a field after $t$ decades is modelled by:
+$$
+\begin{gather*}
+\frac{dx}{dt} = x + y  \\ \\
+\frac{dy}{dy} = -2x + 3y
+\end{gather*}
+$$
+At the start of 2016, there are 100 wolves and 400 sheep.
+
+Find $x(t)$ and $y(t)$ and find the years in which both populations die out, commenting on your answer. 
+
