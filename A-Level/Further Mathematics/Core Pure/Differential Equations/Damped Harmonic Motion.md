@@ -81,4 +81,7 @@ $$
 \ddot{x} + 16\dot{x} + 8x = 0
 \end{gather*}
 $$
+Solving the auxiliary equations:
+$$
 
+$$
