@@ -16,7 +16,7 @@ At a certain value of $\theta$, the centre of mass is directly above $A$. The we
 
 Therefore:
 
-**An object is on the point of toppling when the centre of mass is directly above the pivot. **
+**An object is on the point of toppling when the centre of mass is directly above the pivot. 
 
 Therefore the vertical weight force will act directly below and through the pivot. 
 
