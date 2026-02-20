@@ -62,4 +62,6 @@ $$
 \bar{x} = \frac{28}{8\ln 3 - 36}
 \end{gather*}
 $$
-bar
+
+
+# Example 3
