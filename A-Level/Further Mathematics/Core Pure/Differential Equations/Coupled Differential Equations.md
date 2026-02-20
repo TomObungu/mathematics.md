@@ -185,7 +185,32 @@ y = \frac{1}{2}\dot{x} +\frac{3}{2}x + \frac{3}{2}t \\ \\
 \dot{y} = \frac{1}{2}\ddot{x} + \frac{3}{2}\dot{x} +\frac{3}{2}
 \end{gather*}
 $$
-Forming an equation for $\frac{dy}{dt}$:
+Forming an equation for $\frac{dy}{dt}$ and obtaining an ODE from it:
+$$
+\begin{gather*}
+\frac{1}{2}\ddot{x} + \frac{3}{2}\dot{x} + \frac{3}{2} = 2x + \frac{1}{2}\dot{x} + \frac{3}{2}x + \frac{3}{2}t + t - 2 \\ \\
+\ddot{x} +2\dot{x} + x = t + 1 \\ \\
+\end{gather*}
+$$
+Solving the auxiliary equation:
+$$
+\begin{gather*}
+m^{2} + 2m + 1 = 0 \\  \\ 
+(m+1)^{2} = 0 \\ \\
+m = -1 \\ \\
+\therefore x_{c} = e^{-t}(A+Bt) 
+\end{gather*}
+$$
+Trying the particular integral:
+$$
+\begin{gather*}
+x_{p} = \lambda + \mu t \\ \\
+\dot{x}_{p} = \mu \\ \\
+\ddot{x}_{p} 0 \\ \\
+2\mu + \lambda +\mu t = t + 1 \\ \\
+\mu = 1 \\ \\
+2\mu + \lambda = 1 \implies \lambda = -1 \\ \\
+\therefore m
+\end{gather*}
 $$
 
-$$
