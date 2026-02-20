@@ -122,4 +122,28 @@ $$
 M = \int_{0}^{3} 8-2x d x = \left[8x-x^{2}\right]_{0}^{3} = (24-9) = 15
 $$
 
+The x-coordinate of each mass element is also just $x$.
+
+Now we set up the whole $\bar{x}\int dm = \int xdm$ formula:
+
+$$
+\begin{gather*}
+15\bar{x} = \int_{0}^{3} x(8-2x)dx \\ \\
+15\bar{x} = \left[4x^{2}-\frac{2}{3}x^{3}\right]_{0}^{3} \\ \\
+15 \bar{x} = \left( 36 -\frac{54}{3} \right)  \\ \\
+15\bar{x} = 18 \\ \\
+\bar{x} = \frac{6}{5} = 1.2m
+\end{gather*}
+$$
+Now we we know $\bar{x}$ we can just complete the moments problem.
+
+Taking moments at $A$:
+$$
+\begin{gather*}
+T = 1.2(15)(9.8)\sin 60 \\ \\
+T = \frac{441\sqrt{ 3 }}{5} \\ \\
+T = \boxed{153N}
+\end{gather*}
+$$
+
  
