@@ -130,7 +130,16 @@ $$
 Substituting into $y$:
 $$
 \begin{gather*}
-y = e^{2t}((B+2A)\cos t+(-A+2B)\sin t) - e^{2t}(-A\sin t + B\cos t) - 2e^{2t}(A\cos t + B\sin t) \\ \\
-= e^{2t}(())
+y = e^{2t}((B+2A)\cos t+(-A+2B)\sin t) - e^{2t}(A\cos t + B\sin t) \\ \\
+= e^{2t}((B+A)\cos t+(-A+B)\sin t) 
 \end{gather*}
+$$
+Finding the boundary conditions:
+$$
+\begin{gather*}
+x(0) = A = 100 \\ \\
+y(0) = A + B = 400 \implies B = 300 \\ \\
+\therefore
+\end{gather*}
+
 $$
