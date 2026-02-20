@@ -177,4 +177,15 @@ $$
 \text{When } x(0)=1, y(0)=0, \text{ find } x(t) \text{ and } y(t).
 \end{gather*}
 $$
-Re
+Rearranging to find $y$ and $\dot{y}$ to form an equation for $\frac{dy}{dt}$
+$$
+\begin{gather*}
+\dot{x} +3x +3t = 2y \\ \\
+y = \frac{1}{2}\dot{x} +\frac{3}{2}x + \frac{3}{2}t \\ \\
+\dot{y} = \frac{1}{2}\ddot{x} + \frac{3}{2}\dot{x} +\frac{3}{2}
+\end{gather*}
+$$
+Forming an equation for $\frac{dy}{dt}$:
+$$
+
+$$
