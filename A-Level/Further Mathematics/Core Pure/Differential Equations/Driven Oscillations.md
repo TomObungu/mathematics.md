@@ -38,7 +38,7 @@ m = -2 \pm i \\ \\ \\
 \therefore x_{c} = e^{-2t}(A\cos t+B\sin t) 
 \end{gather*}
 $$
-Now solving trying for the particular solution
+Now solving trying for the particular integral
 $$
 \begin{gather*}
 \text{Let } x_{p} = \lambda \cos t + \mu \sin t \\ \\
@@ -46,7 +46,40 @@ $$
 \ddot{x}_{p} = -\lambda \cos t - \mu \sin t
 \end{gather*}
 $$
-Substituting the particular soluton:
+Substituting the particular integral into the ODE and solving for $\lambda$ and $\mu$
+$$
+\begin{gather*}
+1.5(-\lambda \cos t-\mu \sin t) + 6(-\lambda \sin t+\mu \cos t) + 7.5(\lambda \cos t+\mu \sin t) = 12\sin t + 0\cos t \\ \\
+
+(6\lambda + 6\mu)\cos t + (6\mu - 6\lambda)\sin t = 12\sin t + 0\cos t \\ \\
+\therefore (6\lambda+6\mu) = 0 \\ \\
+(6\mu-6\lambda) = 12 \\ \\
+\lambda = -1 \qquad \mu = 1 
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{gather*}
+x(t) = e^{-2t}(A\cos t+B\sin t)-\cos t+\sin t \\ \\
+\end{gather*}
+$$
+Differentiating to find $\dot{x}(t)$ for procedure of finding boundary conditions later:
+$$
+\begin{gather*}
+\dot{x}(t) = e^{-2t}(-A\sin t + B\cos t) -2e^{-2t}(A\cos+B\sin t) + \sin t + \cos t\\ \\
+=  e^{-2t}((B - 2A)\cos t+(-A-2B)\sin t) + \sin t + \cos t
+\end{gather*}
+$$
+Using boundary conditions to find arbitrary constants:
+$$
+\begin{gather*}
+x(0) = A - 1 = 5 \implies A  = 6 \\ \\ 
+\dot{x}(0) =B-2A + 1 = 2 \\ \\
+\implies B - 11 = 2 \implies B = 13
+\end{gather*}
+$$
+Therefore:
+$$
+\boxed{x(t) = e^{-2t}(6\cos t+13\sin t)-\cos t+\sin t}
 $$
 
-$$
