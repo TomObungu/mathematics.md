@@ -7,3 +7,5 @@ A solid cylinder is formed by rotating region R $360^\circ$ around the x-aixs. T
 
 ![[Pasted image 20260220064413.png]]
 
+Now if you consider the volume of revolution formed, you can see that mass elements will again be cylinders of cross sectional area equal to $\pi(f(x))^{2}$ and height $dx$. However this time, in order to find $dm$ you must multiply by $\rho$, which is the density of the solid.
+
