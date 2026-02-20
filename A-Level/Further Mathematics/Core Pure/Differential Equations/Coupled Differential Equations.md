@@ -105,3 +105,13 @@ At the start of 2016, there are 100 wolves and 400 sheep.
 
 Find $x(t)$ and $y(t)$ and find the years in which both populations die out, commenting on your answer. 
 
+$$
+\begin{gather*}
+y = \dot{x} -x  \\ \\
+\therefore \dot{y} = \ddot{x} - \dot{x} \\ \\ \\
+\therefore \ddot{x}-\dot{x} = -2x + 3\dot{x} -3x \\ \\
+\ddot{x}-4\dot{x}+5x = 0  \\ \\
+m^{2} -4m + 5 = 0 \\ \\
+
+\end{gather*}
+$$
