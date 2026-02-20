@@ -83,3 +83,22 @@ $$
 \boxed{x(t) = e^{-2t}(6\cos t+13\sin t)-\cos t+\sin t}
 $$
 
+# Example 1 Continued... 
+The second part of the question asks us to consider what happens for very large values of t.
+$$
+\begin{gather*}
+\text{As } t \to \infty, -e^{-2t} \to 0 \\ \\
+\therefore x(t) \to \sin t -\cos t
+\end{gather*}
+$$
+This can be simplified into harmonic form:
+$$
+\begin{gather*}
+R = \sqrt{ 1^{2} + 1s^{2} } = 1 \\ \\
+\tan\alpha = 1 \implies \alpha = \arctan(1) = \frac{\pi}{4} \\ \\
+\therefore \text{For large t, } x(t) \approx \sqrt{ 2 }\sin\left( t - \frac{\pi}{4} \right)
+\end{gather*}
+$$
+This is SHm with amplitude $\sqrt{ 2 }$ and period $2\pi$. 
+
+
