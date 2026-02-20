@@ -22,6 +22,36 @@ Thus:
 
 Thus, damped harmonic motion is described by:
 $$
-\ddot{x} = -\omega x -k\dot{x}
+\ddot{x} = -\omega^{2} x -k\dot{x}
 $$
 
+Therefore:
+$$
+\ddot{x} +k\dot{x} + \omega^{2}x = 9
+$$
+This a 2nd order homogeneous ODE.
+
+# Types Of Damping 
+There are three possible forms of the solution take based on the number of roots of the auxiliary equation:
+$$
+m^{2} + km +\omega^{2} = 0
+$$
+
+## Case 1 : Light Damping
+Light damping occurs when the discriminant of the auxiliary equation is less than 0, i.e $k^{2} - 4\omega^{2} < 0$. Therefore the auxiliary equation has imaginary roots, in the form $m=p \pm qi$. Therefore:
+$$
+x = e^{\pi}\left[A\cos(qt)+B\sin(qt)\right]
+$$
+Graphically, this would be sinusoidal oscillations inside an exponentially decaying envelope:
+![[Pasted image 20260220104701.png]]
+
+The amplitude decreases with. An example case of this would be a pendulum subject to air resistance. 
+
+# Case 2 : Heavy Damping
+Heavy damping occurs when the discriminant of the auxiliary equation is greater than 0 i.e $k^{2}-4\omega^{2} > 0$. Therefore the auxiliary equation will have two distinct real roots, $\lambda$ and $\mu$. 
+Therefore:
+$$
+x = Ae^{\lambda t} + Be^{\mu t}
+$$
+
+Graphically, this produces no oscillatinos, the 
