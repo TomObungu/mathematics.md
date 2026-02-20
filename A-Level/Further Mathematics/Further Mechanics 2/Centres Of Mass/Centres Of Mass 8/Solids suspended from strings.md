@@ -83,3 +83,21 @@ $$
 \bar{y} = \frac{3(2\lambda^{2} - 1)}{4(2+3\lambda)}
 $$
 
+Now the question says that the angle between the downward vertical is $\theta$ where $\tan\theta = \frac{51}{44}$. If we draw that out diagrammatically, we see that this will correspond to another triangle. 
+![[Pasted image 20260220082009.png]]
+We can then form an equation in $\lambda$ to $\frac{51}{44}$ to work out $\lambda$
+$$
+\begin{gather*}
+\tan \theta = \frac{\bar{y}}{r}
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{gather*}
+\frac{3(2\lambda^{2}-1)}{4(2+3\lambda)}=\frac{51}{44} \\ \\
+11(2\lambda^{2} - 1) =  17(2+3\lambda) \\ \\
+22\lambda^{2}-11 = 34 + 51\lambda \\ \\
+22\lambda^{2} - 51\lambda - 45 = 0 \\ \\ \\ 
+\boxed{\lambda = 3}
+\end{gather*}
+$$
