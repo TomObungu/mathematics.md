@@ -70,7 +70,9 @@ Graphically, this is similar to heavy damping, except with a steeper gradient, s
 ![[Pasted image 20260220105509.png]]
 
 # Example 1
-A particle of mass $0.5kg$ moves in a horizontal straight line. It experiences a restoring force of $8xN$, where $x$ is the displacement from a fixed point, $O$. It experiences a resistive force of $4vN$. The particle has an initial displacement of $1.5m$ and an initial velocity of 4ms. 
+A particle of mass $0.5kg$ moves in a horizontal straight line. It experiences a restoring force of $8xN$, where $x$ is the displacement from a fixed point, $O$. It experiences a resistive force of $4vN$. 
+
+The particle has an initial displacement of $1.5m$ and an initial velocity of 4ms. 
 
 Find $x(t)$ and state the type of damping. 
 
@@ -83,5 +85,18 @@ $$
 $$
 Solving the auxiliary equations:
 $$
-
+\begin{gather*}
+m^{2} + 8m + 16 = 0 \\ \\ 
+m = -4t
+\end{gather*}
 $$
+Therefore, the system is a critical damping system and thus:
+$$
+x = e^{4t}(A+Bt)
+$$
+We need to differentiate once more to use the boundary conditions:
+$$
+\dot{x} = -4e^{-4t}(A+Bt) + Be^{-4t}
+$$
+
+N
