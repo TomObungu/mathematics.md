@@ -29,3 +29,24 @@ Consider two cars.
 For the same angle of tilt, the SUV will topple but the estate will remain stable. Taller vehicles are more susceptible to rolling over. 
 
 # Example 2
+A uniform solid cone of radius $r$ and height $3r$ is planted on a rough plane inclined at $\theta$ to the horizontal. There is sufficient friction to prevent sliding. The cone is on the point of toppling. Find $\theta$. 
+![[Pasted image 20260220095606.png]]
+
+Firstly, we can immediately know that position of the centre of mass of the cone. We are told that the cone has height $3r$. We know that the centre of mass of the cone lies in the centre of cone at a distance of $\frac{1}{4}h$ from its base. 
+
+Therefore we know that the centre of mass of the cone is $\frac{3}{4}r$ above the base of the cone $r$.
+
+Secondly, we know that if the object is on the point of toppling, the centre of mass is directly above the pivot. Therefore the force of weight directly passes through the pivot. 
+
+From the diagram above, we can see that this forms a small triangle, with theta subtending the hypotenuse and the adjacent side. 
+
+From that it is then possible to calculate $\theta$ using trigonometry:
+$$
+\begin{gather*}
+\tan \theta = \frac{r}{\left( \frac{3}{4}r \right)}
+\tan \theta = \frac{4}{3} \\ \\
+\therefore \theta = \arctan\left( \frac{4}{3 } \right) = 53.1^\circ
+\end{gather*}
+$$
+
+ 
