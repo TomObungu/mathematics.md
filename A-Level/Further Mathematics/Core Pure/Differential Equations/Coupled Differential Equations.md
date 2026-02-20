@@ -139,7 +139,17 @@ $$
 \begin{gather*}
 x(0) = A = 100 \\ \\
 y(0) = A + B = 400 \implies B = 300 \\ \\
-\therefore
+\therefore \boxed{\begin{gather*}
+x(t) = e^{2t}(100\cos t + 300\sin t) \\
+y(t) = e^{2t}(400\cos t + 200\sin t)
+\end{gather*}}
 \end{gather*}
+$$
 
+# Example 2 Continued...
+Finding when the wolves die out will require to find when both functions are zero and comparing them. It is important to note that since wolves and the predator and sheep are the prey, if the sheep die out, then wolves will die out in the same year as they will not have any food to live. 
+
+Finding when wolves die i.e $x(t)=0$:
+$$
+e^{2t}
 $$
