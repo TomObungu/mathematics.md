@@ -70,3 +70,15 @@ Graphically, this is similar to heavy damping, except with a steeper gradient, s
 ![[Pasted image 20260220105509.png]]
 
 # Example 1
+A particle of mass $0.5kg$ moves in a horizontal straight line. It experiences a restoring force of $8xN$, where $x$ is the displacement from a fixed point, $O$. It experiences a resistive force of $4vN$. The particle has an initial displacement of $1.5m$ and an initial velocity of 4ms. 
+
+Find $x(t)$ and state the type of damping. 
+
+Setting up the ODE:
+$$
+\begin{gather*}
+\frac{1}{2}\ddot{x}+8\dot{x} +4x = 0 \\ \\
+\ddot{x} + 16\dot{x} + 8x = 0
+\end{gather*}
+$$
+
