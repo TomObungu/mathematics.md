@@ -105,6 +105,7 @@ At the start of 2016, there are 100 wolves and 400 sheep.
 
 Find $x(t)$ and $y(t)$ and find the years in which both populations die out, commenting on your answer. 
 
+Finding the general solution for $x$:
 $$
 \begin{gather*}
 y = \dot{x} -x  \\ \\
@@ -112,6 +113,24 @@ y = \dot{x} -x  \\ \\
 \therefore \ddot{x}-\dot{x} = -2x + 3\dot{x} -3x \\ \\
 \ddot{x}-4\dot{x}+5x = 0  \\ \\
 m^{2} -4m + 5 = 0 \\ \\
-
+m = 2 \pm i \\ \\
+\end{gather*}
+$$
+Therefore:
+$$
+\therefore x = e^{2t}(A\cos t + B\sin t) \\ \\
+$$
+And thus:
+$$
+\begin{gather*}
+\dot{x}=e^{2t}(-A\sin t + B\cos t) + 2e^{2t}(A\cos t+B\sin t) \\ \\
+= e^{2t}((B + 2A)\cos t+(-A+2B)\sin t)
+\end{gather*}
+$$
+Substituting into $y$:
+$$
+\begin{gather*}
+y = e^{2t}((B+2A)\cos t+(-A+2B)\sin t) - e^{2t}(-A\sin t + B\cos t) - 2e^{2t}(A\cos t + B\sin t) \\ \\
+= e^{2t}(())
 \end{gather*}
 $$
