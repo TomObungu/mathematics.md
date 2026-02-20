@@ -47,11 +47,26 @@ Graphically, this would be sinusoidal oscillations inside an exponentially decay
 
 The amplitude decreases with. An example case of this would be a pendulum subject to air resistance. 
 
-# Case 2 : Heavy Damping
+## Case 2 : Heavy Damping
 Heavy damping occurs when the discriminant of the auxiliary equation is greater than 0 i.e $k^{2}-4\omega^{2} > 0$. Therefore the auxiliary equation will have two distinct real roots, $\lambda$ and $\mu$. 
 Therefore:
 $$
 x = Ae^{\lambda t} + Be^{\mu t}
 $$
 
-Graphically, this produces no oscillatinos, the 
+Graphically, this produces no oscillations, the displacement just exponentially decays. An example case of this is an an electromagnetic door closer:
+![[Pasted image 20260220105205.png]]
+
+## Case 3 : Critical Damping
+
+Critical damping occurs when the discriminant of the auxiliary equation is equal to 0 i.e $k^{2} - 4\omega^{2} = 0$. Therefore the auxiliary equation will have equal roots $\lambda$. Therefore:
+$$
+x = e^{\lambda t}(A+Bt)
+$$
+
+The difference between critical damping and heavy damping that critical damping will decay the initial amplitude the fastest without oscillating. 
+
+Graphically, this is similar to heavy damping, except with a steeper gradient, signifying faster decay. An example case of this is a car suspension spring and a shock absorber. 
+![[Pasted image 20260220105509.png]]
+
+# Example 1
