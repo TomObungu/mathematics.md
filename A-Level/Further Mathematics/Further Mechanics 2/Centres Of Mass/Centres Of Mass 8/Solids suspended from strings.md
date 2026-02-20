@@ -101,3 +101,12 @@ $$
 \boxed{\lambda = 3}
 \end{gather*}
 $$
+
+# Example 4
+A non-uniform 3m flagpole is hinged to a vertical wall at $A$. It held at $60^\circ$ to the wall by a wire attached at $90^\circ$, 1m from A.
+![[Pasted image 20260220084703.png]]
+The mass per unit length  of the rod $m=8-2x$, where $x$ is the distance from A. Find the tension in the wire. 
+
+
+For this problem, you need to immediately recognise it is a moments problem. Sketch out the moments diagrammatically gives:
+
