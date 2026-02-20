@@ -24,3 +24,4 @@ Thus, damped harmonic motion is described by:
 $$
 \ddot{x} = -\omega x -k\dot{x}
 $$
+
