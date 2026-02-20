@@ -19,3 +19,34 @@ Examples of driven/forces harmonic motion include:
 - Resonant circuit driven from a signal generator
 - Shattering a glass with singing
 # Example 1
+A particle of mass $1.5kg$ moves in a straight horizontal line. $x$ is its displacement from the origin. It experiences a restoring force of $7.5xN$, resistive force of $6vN$ and a driving force, $12\sin tN$.
+
+It has an initial displacement of $5m$ and initial velocity $2ms ^{-1}$.
+
+Find $x(t)$.
+
+Setting up the DE:
+$$
+1.5\ddot{x} +6\dot{x}+7.5x = 12\sin t
+$$
+Solving complementary DE:
+$$
+\begin{gather*}
+1.5\ddot{x} +6\dot{x}+7.5x  \\ \\
+1.5m^{2} + 6m+7.5 = 0 \\ \\
+m = -2 \pm i \\ \\ \\ 
+\therefore x_{c} = e^{-2t}(A\cos t+B\sin t) 
+\end{gather*}
+$$
+Now solving trying for the particular solution
+$$
+\begin{gather*}
+\text{Let } x_{p} = \lambda \cos t + \mu \sin t \\ \\
+\therefore \dot{x}_{p} = -\lambda \sin t + \mu \cos t \\ \\
+\ddot{x}_{p} = -\lambda \cos t - \mu \sin t
+\end{gather*}
+$$
+Substituting the particular soluton:
+$$
+
+$$
