@@ -99,6 +99,6 @@ R = \sqrt{ 1^{2} + 1s^{2} } = 1 \\ \\
 \therefore \text{For large t, } x(t) \approx \sqrt{ 2 }\sin\left( t - \frac{\pi}{4} \right)
 \end{gather*}
 $$
-This is SHm with amplitude $\sqrt{ 2 }$ and period $2\pi$. 
+This is SHM with amplitude $\sqrt{ 2 }$ and period $2\pi$. 
 
 
