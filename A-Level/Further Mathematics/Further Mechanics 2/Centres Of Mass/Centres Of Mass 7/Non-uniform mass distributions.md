@@ -65,3 +65,29 @@ $$
 
 
 # Example 3
+A uniform lamina defined by a circular sector of radius $r$, subtends an angle $\frac{\pi}{3}.$ The mass per unit area at point $P$ is $\lambda(OP)$. Find the distance of the centre of mass from $O$. Each mass element is a thin arc, length $\frac{1}{3}\pi x$. 
+![[Pasted image 20260220071012.png]]
+
+Therefore the mass elements $dm$ are:
+$$
+dm = \lambda x\left( \frac{1}{3}\pi x \right)dx = \frac{1}{3}\lambda \pi x^{2}dx
+$$
+
+The x-coordinate of each arc can be considered using the circular framework formula, with angle $\alpha = \frac{\pi}{6}$:
+$$
+x = \frac{x \sin\left( \frac{\pi}{6} \right)}{\left( \frac{\pi}{6} \right)} = \frac{3}{\pi}x
+$$
+Therefore combining $dm$ and $x$ in the formula:
+$$
+\begin{gather*}
+\bar{x} \int_{0}^{a}dm = \int_{0}^{a} \frac{3}{\pi}xdm  \\ \\
+\bar{x} \int_{0}^{a} \frac{1}{3}\lambda \pi x^{2}dx = \int_{0}^{a}\left( \frac{3}{\pi}x \right)\left( \frac{1}{3}\lambda \pi x^{2}dx \right) \\ \\
+\bar{x} \int_{0}^{a} x^{2}dx = \int_{0}^{a} \frac{3}{\pi}x^{3} \\ \\
+\bar{x} \left[\frac{1}{3}x^{3}\right]_{0}^{a} = \left[\frac{3}{4\pi}x^{4} \right]_{0}^{a} \\ \\
+\bar{x}\left( \frac{1}{3}a^{3} \right) = \left( \frac{3}{4\pi}a^{4} \right) \\ \\
+\end{gather*} 
+$$
+Therefore:
+$$
+\bar{x} = \frac{9}{4\pi}a \text{ From O}
+$$
