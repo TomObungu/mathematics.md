@@ -223,15 +223,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "28d7f9bbc07115f6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8b15fadcd0e0312d",
+        "type": "window",
+        "children": [
+          {
+            "id": "f60e08eab51edbd4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3eca87076f1d09df",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/New Edexcel Further Mechanics 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "New Edexcel Further Mechanics 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "8c44d847001c6abd",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/attachments/Pasted image 20260220092511.png",
+    "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/Tilting.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/attachments/Pasted image 20260220091825.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/attachments/Pasted image 20260220091648.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/attachments/Pasted image 20260220090943.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/attachments/Pasted image 20260220090329.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 8/Solids suspended from strings.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/Tilting.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 8/attachments/Pasted image 20260220084958.png",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
@@ -241,7 +280,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/attachments/Pasted image 20260220083405.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 8/attachments/Pasted image 20260220082009.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 8/attachments/Pasted image 20260220080936.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 8/attachments/Pasted image 20260220074554.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 8/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 7/Non-uniform rods.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 8",
@@ -258,7 +296,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 6",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 5/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. Show that the distance of G from D is sqrt(2) by 2 a.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 5",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. Loaded triangular framework with mass given. Calculate CoM. Particle 10kg, 20kg, 30kg at A,B and C respectivley. Mass of unloaded framework is 15kg.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. Find, to the nearest degree, the size of angle alpha.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. Find X in terms of W..md",
