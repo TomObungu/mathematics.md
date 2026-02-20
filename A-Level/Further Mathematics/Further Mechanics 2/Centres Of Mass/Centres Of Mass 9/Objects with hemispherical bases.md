@@ -26,5 +26,14 @@ The hemisphere is in equilibrium if $mgd_{1}=mgd_{2}$. This is due to clockwise 
 ![[Pasted image 20260220101031.png]]
 
 
-# Example Question 
-![[Pasted image 20260220101233.png]]
+--- 
+
+Hence a solid has been made from a cone and a hemisphere such that the centre of mass is at the centre of the hemisphere. 
+![[Pasted image 20260220102622.png]]
+As usual, the object is stable with the centre of mass above the point of contact with the plane.
+
+Because the centre of mass is at the centre of rotation, it will always remain above the point of contact as long as we do go past the hemispherical point. 
+
+Therefore, the object is always in equilibrium at any titled position. 
+
+
