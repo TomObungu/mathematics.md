@@ -26,3 +26,5 @@ The hemisphere is in equilibrium if $mgd_{1}=mgd_{2}$. This is due to clockwise 
 ![[Pasted image 20260220101031.png]]
 
 
+# Example Question 
+![[Pasted image 20260220101233.png]]
