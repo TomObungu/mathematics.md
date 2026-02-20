@@ -42,8 +42,54 @@ Equating to equation $(2)$ and forming an ODE for $x(t)$
 $$
 \begin{gather*}
 \frac{1}{4}\ddot{x}-\frac{1}{2}\dot{x} = x - y \\ \\
-\frac{1}{4}\ddot{x}-\frac{1}{2}\dot{x} = x - \frac{1}{4}\dot{x} - \frac{1}{2}x \\ \\
-\frac{1}{4}\ddot{x}-\frac{1}{2}\dot{x} = -\frac{1}{4}\dot{x} +\frac{1}{2}x \\ \\
-\frac{1}{2}\ddot{x} - \frac{1}{2}\dot{x} 
+\frac{1}{4}\ddot{x}-\frac{1}{2}\dot{x} = x - \frac{1}{4}\dot{x} + \frac{1}{2}x \\ \\
+\frac{1}{4}\ddot{x}-\frac{1}{2}\dot{x} = -\frac{1}{4}\dot{x} +\frac{3}{2}x \\ \\
+\frac{1}{4}\ddot{x} - \frac{1}{4}\dot{x} - \frac{3}{2}x = 0 \\ \\ 
+\ddot{x} - \dot{x} -6x = 0 \\ \\ 
 \end{gather*}
+$$
+Solving the auxiliary equation for $x(t)$
+$$
+\begin{gather*}
+m^{2} -m - 6 = 0 \\ \\ 
+m = -2,3 
+\end{gather*}
+$$
+Therefore:
+$$
+\boxed{x = Ae^{-2t} + Be^{3t}}
+$$
+We can find $y$ by substituting this into the equation for $y$:
+Pre-computing $\dot{x}$:
+$$
+\dot{x} = -2Ae^{-2t}+3Be^{3t}
+$$
+Substituting $\dot{x}$ and $x$ into y:
+$$
+\begin{gather*}
+y = \frac{1}{4}(-2Ae^{-2t}+3Be^{3t}) - \frac{1}{2}(Ae^{-2t}+Be^{3t}) \\ \\
+y = \left( -\frac{1}{2}A-\frac{1}{2}A \right)e^{-2t} + \left( \frac{3}{4}B - \frac{1}{2}B \right)e^{3t} \\ \\
+= -Ae^{-2t} + \frac{1}{4}Be^{3t}
+\end{gather*}
+$$
+Thus:
+$$
+y = \boxed{-Ae^{-2t}+\frac{1}{4}Be^{3t}}
+$$
+
+
+Now using the boundary conditions:
+$$
+\begin{gather*}
+x(0) = A + B = 2 \\ \\
+y(0) = -A + \frac{1}{4}B = -2 \\ \\
+A= 2 \qquad B = 0 
+\end{gather*}
+$$
+Therefore:
+$$
+\boxed{\begin{gather*}
+x(t) = 2e^{-2t} \\ \
+y(t) = -2e^{-2t}
+\end{gather*}}
 $$
