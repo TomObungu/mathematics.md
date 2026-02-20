@@ -20,4 +20,4 @@ Therefore:
 
 Therefore the vertical weight force will act directly below and through the pivot. 
 
-# 
+## Stability 
