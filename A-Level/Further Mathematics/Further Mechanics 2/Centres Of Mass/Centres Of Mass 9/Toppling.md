@@ -19,5 +19,13 @@ Therefore:
 **An object is on the point of toppling when the centre of mass is directly above the pivot. 
 
 Therefore the vertical weight force will act directly below and through the pivot. 
-
 ## Stability 
+Objects with a lower  centre of mass are more stable was they need to more before the centre of mass closes the pivot. 
+
+Consider two cars.
+
+![[Pasted image 20260220095222.png]]
+
+For the same angle of tilt, the SUV will topple but the estate will remain stable. Taller vehicles are more susceptible to rolling over. 
+
+# Example 2
