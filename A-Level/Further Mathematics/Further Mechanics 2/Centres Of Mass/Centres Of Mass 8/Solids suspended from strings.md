@@ -109,4 +109,17 @@ The mass per unit length  of the rod $m=8-2x$, where $x$ is the distance from A.
 
 
 For this problem, you need to immediately recognise it is a moments problem. Sketch out the moments diagrammatically gives:
+![[Pasted image 20260220084958.png]]
 
+From the diagram, it becomes obvious that you first need to work out the mass of the rod $M$, then after that use integration to calculate $\bar{x}$ as from previous.
+
+For a uniform rod, the mass elements are just point masses $dx$. Do not forget to consider the density function of the rod. Thus:
+$$
+dm = (8-2x)dx
+$$
+Now the mass $M=\int dm$, therefore we can work out the mass $M$:
+$$
+M = \int_{0}^{3} 8-2x d x = \left[8x-x^{2}\right]_{0}^{3} = (24-9) = 15
+$$
+
+ 
