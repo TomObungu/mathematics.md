@@ -43,3 +43,15 @@ $$
 $$
 By using $\int \frac{f'(x)}{f(x)} = \ln|f(x)| + c$
 
+# Deriving $\int \sinh ^{2}x$
+To integrate $\sinh ^{2}x$, you use the same technique of using the the double angle formulae  however you must also take into consideration of Osborne's rule when dealing with $\sinh x$.
+
+We know that:
+$$
+\cos 2x = 1 - 2\sin ^{2}x
+$$
+Therefore we can find the hyerbolic equivalent by considering Osborne's rule:
+$$
+\therefore \cosh 2x = 1 + \sinh ^{2} x
+$$
+Rearranging to find 
