@@ -41,4 +41,5 @@ Rewriting $\tanh x$ as $\sinh \frac{x}{\cosh x}$ gives:
 $$
 \int \frac{\sinh x}{\cosh x } = \ln \cosh x+ c
 $$
-By using $i$
+By using $\int \frac{f'(x)}{f(x)} = \ln|f(x)| + c$
+
