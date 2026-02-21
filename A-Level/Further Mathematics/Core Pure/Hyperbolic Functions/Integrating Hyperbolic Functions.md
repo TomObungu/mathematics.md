@@ -103,7 +103,11 @@ $$
 \begin{gather*}
  \int \sqrt{ x^{2}-1 } = \int \sqrt{ \cosh ^{2}\theta  - 1 }\sinh\theta d\theta \\ \\
  = \int \sinh ^{2}\theta d\theta \\ \\
- = \int \frac{1}{2}\cosh 2x - \frac{1}{2} \\ \\ 
- = \frac{1}{4}\sin 2x  - \frac{1}{2}
+ = \int \frac{1}{2}\cosh 2\theta - \frac{1}{2} d\theta \\ \\ 
+ = \frac{1}{4}\sin 2\theta  - \frac{1}{2}\theta + c
 \end{gather*}
+$$
+Finding $\theta$ using the definitons of $ar\cosh\theta$:
+$$
+
 $$
