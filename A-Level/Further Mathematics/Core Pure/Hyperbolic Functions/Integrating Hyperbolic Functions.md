@@ -104,10 +104,20 @@ $$
  \int \sqrt{ x^{2}-1 } = \int \sqrt{ \cosh ^{2}\theta  - 1 }\sinh\theta d\theta \\ \\
  = \int \sinh ^{2}\theta d\theta \\ \\
  = \int \frac{1}{2}\cosh 2\theta - \frac{1}{2} d\theta \\ \\ 
- = \frac{1}{4}\sin 2\theta  - \frac{1}{2}\theta + c
+ = \frac{1}{4}\sinh 2\theta  - \frac{1}{2}\theta + c
 \end{gather*}
 $$
 Finding $\theta$ using the definitons of $ar\cosh\theta$:
 $$
-\theta = ar\cosh x = \ln (x^{2} - )
+\theta = ar\cosh x = \ln (x^{2} + \sqrt{ x^{2} - 1 })
 $$
+
+Rewriting in terms of the new found definitions of $\theta$. You can furthermore rewrite $\sinh 2\vartheta$ as $2\cosh \theta \sinh\theta$ - rewriting $\cos\theta$ as just $x$. As well as that, you can write $\sinh x$ as $\sqrt{ x^{2}-1 }$ . 
+$$
+\begin{gather*}
+ = \frac{1}{4}\sinh 2\theta  - \frac{1}{2}\theta + c \\ \\
+ = \frac{1}{4}(2\cosh \theta \sinh\theta) - \frac{1}{2}\theta + c \\ \
+ \frac{1}{2}x\sqrt{ x^{2}-1 } - \frac{1}{2}\ln(x^{2}+\sqrt{ x^{2}-1 }) + c
+\end{gather*}
+$$
+
