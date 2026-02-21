@@ -27,5 +27,8 @@ $$
 = 2ar\sinh +5(x^{2}+1)^{\frac{1}{2}}
 \end{gather*}
 $$
+# Example 3
+Find $\int \cosh^5 2x \sin 2xdx$
+For questions like this, the rule of $\int(f(x)^{nf'(x)dx })$
 
 # Deriving $\int \tanh x$
