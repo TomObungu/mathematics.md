@@ -75,7 +75,7 @@ $$
 $$
 
 
-# Deriving $\int e^{2x}\sinh(x)$
+# Finding $\int e^{2x}\sinh(x)$
 For integrals involving $e^{x}$ and hyperbolic functions, it is possible to directly write the hyperbolic functions in terms of $e^{x}$, multiply them through then integrate:
 $$
 \begin{gather*}
