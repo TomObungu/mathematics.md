@@ -27,3 +27,5 @@ $$
 = 2ar\sinh +5(x^{2}+1)^{\frac{1}{2}}
 \end{gather*}
 $$
+
+# Deriving $\int \tanh x$
