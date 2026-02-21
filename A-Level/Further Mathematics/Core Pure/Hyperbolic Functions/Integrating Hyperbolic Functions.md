@@ -29,6 +29,11 @@ $$
 $$
 # Example 3
 Find $\int \cosh^5 2x \sin 2xdx$
-For questions like this, the rule of $\int(f(x)^{n}f^{'}(x))dx = \frac{f(x)^{n+1}}{n+1} + c$
+For questions like this, the rule of $\int(f(x)^{n}f^{'}(x))dx = \frac{f(x)^{n+1}}{n+1} + c$ still applies:
+$$
+\begin{gather*}
+\int \cosh ^{5}2x\sinh 2x = \frac{1}{2}\int(cos)
+\end{gather*}
+$$
 
 # Deriving $\int \tanh x$
