@@ -109,5 +109,5 @@ $$
 $$
 Finding $\theta$ using the definitons of $ar\cosh\theta$:
 $$
-
+\theta = ar\cosh x = \ln (x^{2} - )
 $$
