@@ -84,3 +84,24 @@ $$
 = \frac{1}{6}e^{3x} - \frac{1}{2}e^{x} + c 
 \end{gather*}
 $$
+
+# Using substitution 
+It is possible to use u substitution and setting variables as hyperbolic functions to simplify integration
+
+# Example 4
+Find $\int \sqrt{ x^{2}-1 }$
+Use the substitution $x= \cosh \theta$ and differentiating:
+$$
+\begin{gather*}
+x = \cosh \theta \\ \\
+\frac{dx}{d\theta} = \sinh \theta \\ \\
+dx = \sinh \theta d\theta
+\end{gather*}
+$$
+Substituting the results:
+$$
+\begin{gather*}
+ \int \sqrt{ x^{2}-1 } = \int \sqrt{ \cosh ^{2}\theta  - 1 } \\ \\
+  = \int 
+\end{gather*}
+$$
