@@ -19,7 +19,7 @@ $$
  = \frac{1}{4}\sinh 2\theta  - \frac{1}{2}\theta + c
 \end{gather*}
 $$
-Finding $\theta$ using the definitons of $ar\cosh\theta$:
+Finding $\theta$ using the definitions of $ar\cosh\theta$:
 $$
 \theta = ar\cosh x = \ln (x^{2} + \sqrt{ x^{2} - 1 })
 $$
@@ -36,3 +36,24 @@ $$
 # Example 2
 Find $\int \frac{x^{3}}{\sqrt{ 9+x^{2} }}$
 For this type of question you need to again using trigonometric substitution except you must consider the coefficients. Substituting, $x = \sinh\theta$ will yield $9+\sinh ^{2}\theta$ which is close to the identity for $\cosh ^{2} \theta$, however in order to make it feasible, we need to substitute with a scaling of 3 in order to make the coefficients the same.
+$$
+\begin{gather*}
+x = 3\sinh \theta \\ \\ 
+\frac{dx}{d\theta} = 3\cosh \theta \\ \\ 
+dx = 3\cosh\theta d\theta
+\\ \\ \\
+
+\therefore I = \int \frac{27\sinh ^{3}\theta}{\sqrt{ 9 + 9\sinh ^{2}\theta }}d\theta \\ \\ 
+= \int \frac{27\sinh ^{3}\theta}{\sqrt{ 9(1 + \sinh ^{2}\theta)}}d\theta \\ \\ 
+= \int \frac{27\cosh ^{3}\theta}{3\cosh\theta} (3\cosh\theta) d\theta \\ \\
+= \int 27\cosh ^{3}\theta \\ \\ 
+= 27\int (\cosh ^{2}\theta)\cosh\theta \\ \\ 
+= 27 \int (\sinh^{2}\theta-1)\cosh \theta \\ \\
+= 27 \int \sinh ^{2}\theta \cosh\theta - \cosh\theta \\ \\
+= 27\left(\frac{1}{3}\cosh ^{3} \theta - \sinh\theta \right)
+\end{gather*}
+$$
+Therefore:
+$$
+I = 9\left(\sqrt{ \frac{x^{2}}{9} - 1 } \right)^{3} - 9x
+$$
