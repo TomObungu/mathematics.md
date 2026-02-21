@@ -32,7 +32,7 @@ Find $\int \cosh^5 2x \sin 2xdx$
 For questions like this, the rule of $\int(f(x)^{n}f^{'}(x))dx = \frac{f(x)^{n+1}}{n+1} + c$ still applies:
 $$
 \begin{gather*}
-\int \cosh ^{5}2x\sinh 2x = \frac{1}{2}\int(cos)
+\int \cosh ^{5}2x\sinh 2x = \frac{1}{2}\int(\cosh 2x)^{5}(2\sinh 2)dx = \frac{1}{12}\cosh ^{6}2x + c
 \end{gather*}
 $$
 
