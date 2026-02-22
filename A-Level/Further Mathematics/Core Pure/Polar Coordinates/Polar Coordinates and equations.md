@@ -1,1 +1,1 @@
-Polar coordinates are an alternative way of describing the position
+Polar coordinates are an alternative way of describing the position of a point $P$ in two-dimensional space. You need two measurements: firstly, the distance the point is from the pole (usually the origin O), $r$ and secondly, the angle measured anticlockwise from the initial line. 
