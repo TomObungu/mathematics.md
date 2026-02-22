@@ -55,5 +55,5 @@ dx = 3\cosh\theta d\theta
 $$
 Therefore:
 $$
-I = 9\left(\sqrt{ \frac{x^{2}}{9} - 1 } \right)^{3} - 9x
+I = 9\left(\frac{x^{2}}{9} - 1\right)^{\frac{3}{2}} - 27x
 $$
