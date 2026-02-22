@@ -55,5 +55,13 @@ dx = 3\cosh\theta d\theta
 $$
 Therefore:
 $$
-I = 9\left( 1+\frac{x^{2}}{9} \right)^{\frac{3}{2}} - 27\left(\right) 
+I = 9\left( 1+\frac{x^{2}}{9} \right)^{\frac{3}{2}} - 27\sqrt{ 1+\frac{x^{2}}{9} } + c 
 $$
+Factoring out the $\frac{1}{9}$ from the $x^{2}$ from inside the brackets will yield a simplified version:
+$$
+I = \frac{1}{3}(9 + x^{2})^{\frac{3}{2}} - 9\sqrt{ 9+x^{2} } + c
+$$
+
+Always remember when factoring out the terms inside the brackets, you must apply whatever function is applied to the entire bracket. For example in the $\left( 1 +\frac{x^{2}}{9} \right)^{\frac{3}{2}}$ bracket, when factoring out $\frac{1}{9}$, you must raise it to $\frac{3}{2}$, which yields $\frac{1}{27}$. Thus you must multiply the out brackets by $\frac{1}{27}$ also. This yields $\frac{9}{27}$ which is $\frac{1}{3}$ accordingly.The same applies for the $\left( \sqrt{ 1 + \frac{x^{2}}{9} } \right)$ term. When factoring out $\frac{1}{9}$, you must raise it to $\frac{1}{2}$ (the same effect as square rooting), which yields multiplying by $\frac{1}{3}$, hence the $27$ term turning $9$. 
+
+# Deriving $\int \frac{1}{\sqrt{ a^{2} + x^{2} }}dx$
