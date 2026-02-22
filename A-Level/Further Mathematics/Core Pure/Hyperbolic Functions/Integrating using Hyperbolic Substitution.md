@@ -55,5 +55,5 @@ dx = 3\cosh\theta d\theta
 $$
 Therefore:
 $$
-I = 9\left( 1-\frac{x^{2}}{9} \right)^{\frac{3}{2}} - 27\left(\right) 
+I = 9\left( 1+\frac{x^{2}}{9} \right)^{\frac{3}{2}} - 27\left(\right) 
 $$
