@@ -120,5 +120,16 @@ $$
 \boxed{\int \frac{1}{\sqrt{ x^{2} - 1 }}dx = ar\cosh\left( \frac{x}{a} \right) + c}  \\ \\ 
 \boxed{\int \frac{1}{\sqrt{ x^{2} - 1 }}d = \ln\left( x + \sqrt{ \frac{x^{2}}{a^{2}} + 1 }  \right)+c}\end{gather*}
 $$
+# Summary 
+Below is summary of the results of integrals involving integrals with square roots in fractions and rational functions, each of which can be integrated using trigonometric substitution or hyperbolic substitution:
+$$
+\begin{gather*}
+\int \frac{1}{\sqrt{ a^{2}-x^{2} }} = \arcsin\left( \frac{x}{a} \right)+c, |x| < a \\ \\
+\int \frac{1}{a^{2}+x^{2}} = \frac{1}{a}\arctan\left( \frac{x}{a} \right) \\ \\
+\int \frac{1}{xs}
+\end{gather*}
+$$
+
 
 # Example 3
+Find
