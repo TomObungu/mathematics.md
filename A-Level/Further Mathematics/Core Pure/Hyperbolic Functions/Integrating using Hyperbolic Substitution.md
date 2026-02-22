@@ -125,11 +125,66 @@ Below is summary of the results of integrals involving integrals with square roo
 $$
 \begin{gather*}
 \int \frac{1}{\sqrt{ a^{2}-x^{2} }} = \arcsin\left( \frac{x}{a} \right)+c, |x| < a \\ \\
-\int \frac{1}{a^{2}+x^{2}} = \frac{1}{a}\arctan\left( \frac{x}{a} \right) \\ \\
-\int \frac{1}{xs}
+\int \frac{1}{a^{2}+x^{2}} = \frac{1}{a}\arctan\left( \frac{x}{a} \right) + c \\ \\
+\int \frac{1}{\sqrt{ x^{2}-a }} = ar\cosh\left( \frac{x}{a}  \right) = \ln\left(x + \sqrt{ x^{2}-a^{2} }\right) + c, x > a \\ \\
+\int \frac{1}{\sqrt{ a^{2}-x^{2} }} = ar\sinh \left( \frac{x}{a} \right) = \ln(x + \sqrt{ x^{2}+a^{2} }) \\ \\
+\int \frac{1}{a^{2}-x^{2}} = \frac{1}{a}ar\tanh\left( \frac{x}{a} \right) = \frac{1}{2a}\ln \left| \frac{a+x}{a-x}\right| + c, |x| < a\\ \\
+\int \frac{1}{x^{2}-a^{2}} = \frac{1}{2a}\ln \left|  \frac{x-a}{x+a}\right| + c
 \end{gather*}
 $$
 
 
+
 # Example 3
-Find
+Find $\int \frac{1}{\sqrt{ 12x+2x^{2} }}dx$
+Completing the square for the denominator:
+$$
+12x+2x^{2} = 2(x+3)^{2} -18
+$$
+Therefore:
+$$
+I = \int \frac{1}{\sqrt{ 12x+2x^{2} }}dx = \int \frac{1}{ \sqrt{ 2(x+3)^{2} -18 }}
+$$
+Now it is possible to get this into a form where we can write down the answer but we need to factor out $2$ and re-write the constant term. 
+
+It is possible to factor out by $2$ from inside the square root terms. However, you must also apply the square rooting function on the $2$. Thus:
+$$
+I = \int \frac{1}{\sqrt{ 2 }\sqrt{ (x+3)^{2}-9 }}
+$$
+We can re-write this function as:
+$$
+ = \frac{1}{\sqrt{ 2 }} \int \frac{1}{(x+3)^{2} -(3)^{2}}
+$$
+Which we can write down using $\int \frac{1}{x^{2} -a^{2}}= ar\cosh\left( \frac{x}{a} \right)+c$, except substituting $x + 3$ instead of $x$:
+$$
+= \frac{1}{\sqrt{ 2 }}ar\cosh\left( \frac{x+3}{3} \right) +c
+$$
+This can be further simplified using the definition of $ar\cosh x$:
+$$
+= \frac{1}{\sqrt{ 2 }} \ln\left(x+3 + \sqrt{ (x+3)^{2}-9 }\right) + c
+$$
+
+# Example 4
+Find $\int \frac{1}{\sqrt{  4x^{2} - 12x -7 }}dx$.
+Completing the square on the denominator:
+$$
+4x^{2} - 12x - 7 = 4\left( x-\frac{3}{2} \right)^{2}  -16 
+$$
+Therefore:
+$$
+\begin{gather*}
+I = \int \frac{1}{\sqrt{  4x^{2} - 12x -7 }}dx = \int \frac{1}{\left( \sqrt{ 4\left(x-\frac{3}{2} \right)^{2} - 16 }\right) } dx
+\end{gather*}
+$$
+Factoring out $4$ and re-writing:
+$$
+\int \frac{1}{2}\left( \frac{1}{\sqrt{ \left( x-\frac{3}{2} \right)^{2} - (4)^{2} }} \right)dx
+$$
+In which we can write the answer down:
+$$
+ = \frac{1}{2}ar\cosh\left( \frac{x-\frac{3}{2}}{4} \right) + c
+$$
+Which can be simplified to:
+$$
+= \frac{1}{2}\ln\left(x-\frac{3}{2} + \sqrt{ \left( x-\frac{3}{2} \right)^{2} - 16 }\right) + c
+$$
