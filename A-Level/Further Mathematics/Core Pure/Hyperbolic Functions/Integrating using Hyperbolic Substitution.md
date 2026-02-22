@@ -65,13 +65,34 @@ $$
 Always remember when factoring out the terms inside the brackets, you must apply whatever function is applied to the entire bracket. For example in the $\left( 1 +\frac{x^{2}}{9} \right)^{\frac{3}{2}}$ bracket, when factoring out $\frac{1}{9}$, you must raise it to $\frac{3}{2}$, which yields $\frac{1}{27}$. Thus you must multiply the out brackets by $\frac{1}{27}$ also. This yields $\frac{9}{27}$ which is $\frac{1}{3}$ accordingly.The same applies for the $\left( \sqrt{ 1 + \frac{x^{2}}{9} } \right)$ term. When factoring out $\frac{1}{9}$, you must raise it to $\frac{1}{2}$ (the same effect as square rooting), which yields multiplying by $\frac{1}{3}$, hence the $27$ term turning $9$. 
 
 # Deriving $\int \frac{1}{\sqrt{ a^{2} + x^{2} }}dx$
-It is is possible to find this result by substituting $x=\sinh\theta$:
+It is is possible to find this result by substituting $x=a\sinh\theta$:
 $$
 \begin{gather*}
 x = a\sinh\theta \\ \\
 \frac{dx}{d\theta} = a\cosh\theta \\ \\
 dx = a\cosh\theta d\theta \\ \\
 
-\therefore I = \int \frac{1}{\sqrt{ a^{2} +a^{2}\sinh ^{2}\theta}}
+\therefore I = \int \frac{1}{\sqrt{ a^{2} +a^{2}\sinh ^{2}\theta}} a cosh \theta d\theta \\ \\
+= \int \frac{1}{ a\cosh\theta } a \cosh\theta d\theta \\ \\
+ = \int 1 d\theta \\ \\
+ = \theta + c \\ \\
 \end{gather*}
 $$
+Now:
+$$
+\theta = ar\sinh(\frac{x}{a}) 
+$$
+Or using the definition of $ar\sinh x$ being $\ln\left(x + \sqrt{ x^{2}-1 }\right)$, we can rewrite $\theta$ as:
+$$
+\theta = \ln\left( x + \sqrt{ \frac{x^{2}}{a^{2}} - 1 } \right)
+$$
+Therefore:
+$$
+\begin{gather*}
+\boxed{\int \frac{1}{\sqrt{ a^{2} + x^{2} }}dx = ar\sinh\left( \frac{x}{a} \right) + c} \\ \\
+\boxed{\int \frac{1}{\sqrt{ a^{2} + x^{2} }}dx = \ln\left( x+ \sqrt{ \frac{x^{2}}{a^{2}} - 1 } \right) + c}
+\end{gather*}
+$$
+# Deriving $\int \frac{1}{\sqrt{ x^{2} -a^{2} }}dx$
+Much like the previous example, it is possible to find out $\int \frac{1}{\sqrt{ x^{2} - 1 }}dx$ by substituting $x=a\cosh\theta$:
+
