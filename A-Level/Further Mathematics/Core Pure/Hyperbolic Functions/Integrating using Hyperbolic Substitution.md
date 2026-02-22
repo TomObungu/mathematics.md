@@ -45,15 +45,15 @@ dx = 3\cosh\theta d\theta
 
 \therefore I = \int \frac{27\sinh ^{3}\theta}{\sqrt{ 9 + 9\sinh ^{2}\theta }}d\theta \\ \\ 
 = \int \frac{27\sinh ^{3}\theta}{\sqrt{ 9(1 + \sinh ^{2}\theta)}}d\theta \\ \\ 
-= \int \frac{27\cosh ^{3}\theta}{3\cosh\theta} (3\cosh\theta) d\theta \\ \\
-= \int 27\cosh ^{3}\theta \\ \\ 
-= 27\int (\cosh ^{2}\theta)\cosh\theta \\ \\ 
-= 27 \int (\sinh^{2}\theta-1)\cosh \theta \\ \\
-= 27 \int \sinh ^{2}\theta \cosh\theta - \cosh\theta \\ \\
-= 27\left(\frac{1}{3}\cosh ^{3} \theta - \sinh\theta \right)
+= \int \frac{27\sinh ^{3}\theta}{3\cosh\theta} (3\cosh\theta) d\theta \\ \\ 
+= 27 \int\sinh ^{3} \theta do\theta \\ \\
+= 27 \int(\cosh ^{2} \theta -1)\sinh\theta d\theta \\ \\
+= 27 \int \cosh ^{2} \theta \sinh\theta - \sinh\theta d\theta \\ \\   
+= 27\left(\frac{1}{3}\cosh ^{3}\theta-\cosh\theta\right) \\ \\
+= 9\cosh ^{3}\theta - 27\cosh\theta \\ \\
 \end{gather*}
 $$
 Therefore:
 $$
-I = 9\left(\frac{x^{2}}{9} - 1\right)^{\frac{3}{2}} - 27x
+I = 9\left( 1-\frac{x^{2}}{9} \right)^{\frac{3}{2}} - 27\left(\right) 
 $$
