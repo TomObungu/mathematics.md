@@ -95,4 +95,30 @@ $$
 $$
 # Deriving $\int \frac{1}{\sqrt{ x^{2} -a^{2} }}dx$
 Much like the previous example, it is possible to find out $\int \frac{1}{\sqrt{ x^{2} - 1 }}dx$ by substituting $x=a\cosh\theta$:
+$$
+\begin{gather*}
+x = a\cosh\theta \\ \\
+\frac{dx}{d\theta} = a\sinh \theta \\ \\
+dx = a\sinh \theta d\theta\\ \\ \\
+I = \int \frac{1}{\sqrt{ a^{2}\cosh ^{2}\theta -a^{2} }}a \sinh\theta d\theta \\ \\
+= \int \frac{1}{a\sinh\theta}a\sinh\theta d\theta \\ \\
+\int 1 d\theta \\ \\ 
+= \theta + c 
+\end{gather*}
+$$
+Now:
+$$
+\theta = ar\cosh\left( \frac{x}{a} \right) + c
+$$
+Using the definition of $ar\cosh x$:
+$$
+\theta = \ln(x + \sqrt{ x^{2} + 1 })
+$$
+Therefore:
+$$
+\begin{gather*}
+\boxed{\int \frac{1}{\sqrt{ x^{2} - 1 }}dx = ar\cosh\left( \frac{x}{a} \right) + c}  \\ \\ 
+\boxed{\int \frac{1}{\sqrt{ x^{2} - 1 }}d = \ln\left( x + \sqrt{ \frac{x^{2}}{a^{2}} + 1 }  \right)+c}\end{gather*}
+$$
 
+# Example 3
