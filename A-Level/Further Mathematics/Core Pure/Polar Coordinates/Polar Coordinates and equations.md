@@ -29,4 +29,13 @@ $$
 Find polar coordinates of the points with the following Cartesian coordinates:
 a(3,4), b (5,-12), c($-\sqrt{ 3 },-1$)
 
-## a
+## a 
+Finding r:
+$$r = \sqrt{ 3^{2} +4^{2} } = 5$$.
+Finding $\theta$:
+$$
+\arctan\left( \frac{4}{3} \right) = 0.927
+$$
+So the polar coordinates are $(5,0.927)$
+
+
