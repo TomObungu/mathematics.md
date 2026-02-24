@@ -95,8 +95,14 @@ m\omega^{2} \left( \frac{5}{4}a  \right) = \left( \frac{13}{12}mg \right)\left( 
 $$
 
 # Example 3
-Consider a looking at the rear view of car moving on an inclined rough plane like the one of a cycling rink. Given that the car is moving a velocity, such that it does not slip up the plane and that the coefficient of restitution between the plane, $\mu$, is $0.2$.
-
+Consider a looking at the rear view of car moving on an inclined rough plane like the one of a cycling rink. The car moves around a an arc on the rough plane, with arc of the circular path  containing a radius of 100m. Given that the car is moving at velocity, $v$, such that it does not slip up the plane and that the coefficient of restitution between the plane, $\mu$, is $0.2$.
+![[Pasted image 20260224214819.png]]
 Find the maximum speed, $v$, the car can move at.  
+
+For this problem, we need to consider the normal reaction force $R$, the force of friction on the car $F_{r}$ and the force of weight from the car, $mg$.  
+
+If the car is moving at maximum speed, the force of friction will act down the plane to prevent the car from slipping up the plane:
+
+     
 
  
