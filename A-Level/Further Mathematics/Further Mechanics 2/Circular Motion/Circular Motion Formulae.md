@@ -33,3 +33,4 @@ T = \frac{2\pi}{\omega} \text{ (Period of revolution )}
 $$
 
 ## Uniform Acceleration
+If we consider the same particle travelling at a uniform speed $v$, around the same circular arc, subtending the angle $d\theta$:
