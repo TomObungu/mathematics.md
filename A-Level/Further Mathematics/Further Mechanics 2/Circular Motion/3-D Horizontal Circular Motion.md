@@ -105,3 +105,8 @@ If the car is moving at maximum speed, the force of friction will act down the p
  ![[Pasted image 20260224215345.png]]
 
 If we resolve the horizontal and vertical forces:
+$$
+\begin{gather*}
+
+\end{gather*}
+$$
