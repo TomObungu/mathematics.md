@@ -1,4 +1,3 @@
-
 ## Uniform Angular Velocity and Speed
 Consider a circle with centre $O$. A particle moves along the arc of the circle from point A to point B. Although the diagram is exaggerated, assume the angle that subtended the arc AB is an infinitesimally small angle $d\theta$
 ![[Pasted image 20260224105426.png]]
@@ -96,19 +95,3 @@ $$
 a = \omega^{2}r \qquad a = \frac{v^{2}}{r}
 $$
 
-# Centripetal Force 
-Circular motion is always acting towards the outer boundary of the circle in terms of acceleration:
-![[Pasted image 20260224114302.png]]
-
-There must be some opposing force that prevents the motion of the particle from going along its tangential path into the wall of the circular path. This force is named as the centripetal force. 
-
-Now centripetal force is not a force generator as a result of circular motion, but the resultant force required to accelerate an object in the circular motion. 
-
-For example, consider swinging a child on a swing. 
-![[Pasted image 20260224114647.png]]
-The centripetal force keeping the child in circular motion is the tension in the chain of the swing. 
-
-Another example is a car moving around a bend:
-
-
- 
