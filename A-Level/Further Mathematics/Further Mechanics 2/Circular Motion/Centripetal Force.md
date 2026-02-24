@@ -66,9 +66,13 @@ $$
 \begin{gather*}
 F_{r} = \mu mg = \frac{mv^{2}}{r} \\ \\
 \mu g = \frac{(4)^{2}}{12} \\ \\
-\mu = \frac{16}{9.8}
+\mu = \frac{16}{12(9.8)} = 0.136
 \end{gather*}
 $$
+
+
+# Example 3
+A gravitron of 
 
 
  
