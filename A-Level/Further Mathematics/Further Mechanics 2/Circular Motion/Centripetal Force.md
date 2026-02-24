@@ -75,6 +75,30 @@ $$
 A gravitron of radius $4m$. Performs 1 revolution every 2 seconds. Calculate the minimum coefficient of friction, $\mu$, required to keep someone 'stuck' to the wall. 
 
 If we bring back our diagrams for the gravitron and take a top down view of the ride: 
+![[Pasted image 20260224122554.png]]
+
+We can see that the centripetal force is again the normal reaction of the wall $R$. As we are given the period of revolution $T$ and radius $r$, it is possible to first find $\omega$, then $R$ by equating it to the centripetal force equation:
+$$
+\begin{gather*}
+T = \frac{2\pi}{\omega} \\ \\  
+2 = \frac{2\pi}{\omega} \implies \omega = \pi s \\ \\ \\
+R = m\omega^{2}r \\ \\
+= m\pi^{2}(4) = 4\pi^{2}m
+\end{gather*}
+$$
+
+Now if we take a look at friction, we can see that the frictional force is equal to the weight force $mg$.:
+$$
+F_{r} = mg
+$$
+Now from the equation of friction, we also know that:
+$$
+F_{r} = \mu R
+$$
+Thus we can now rearrange for $\mu$ using that formula:
+$$
+\mu = \frac{F_{r}}{R} = \frac{mg}{4\pi^{2}m} = \frac{9.8}{4\pi^{2} } = 0.248
+$$
 
 
- 
+

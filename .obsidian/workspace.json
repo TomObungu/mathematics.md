@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -341,14 +340,48 @@
         "height": 1040,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "f55524688fd21b66",
+        "type": "window",
+        "children": [
+          {
+            "id": "1a1eab0aa8a296ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77abb1984c5589ab",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/New Edexcel Further Mechanics 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "New Edexcel Further Mechanics 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
       }
     ]
   },
-  "active": "8c44d847001c6abd",
+  "active": "77abb1984c5589ab",
   "lastOpenFiles": [
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Centripetal Force.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224121833.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224122554.png",
     "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224122458.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224121833.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224121754.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224121316.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224121301.png",
@@ -359,8 +392,6 @@
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224115640.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224115408.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224114909.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224114647.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
@@ -390,7 +421,6 @@
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Untitled",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9/attachments",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 9",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
   ]
