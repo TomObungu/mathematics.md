@@ -61,9 +61,13 @@ From the diagram we can see that $R = Mg$. Therefore:
 $$
 F = \mu mg
 $$
-From this, we can equate the friction equation to the centripetal force equation. We are given, $r$ and $v$. Thus, we should use $F= \frac{v^{2}}{r}$:
+From this, we can equate the friction equation to the centripetal force equation. We are given, $r$ and $v$. Thus, we should use $F= \frac{mv^{2}}{r}$:
 $$
-F_{r} - 
+\begin{gather*}
+F_{r} = \mu mg = \frac{mv^{2}}{r} \\ \\
+\mu g = \frac{(4)^{2}}{12} \\ \\
+\mu = \frac{16}{9.8}
+\end{gather*}
 $$
 
 
