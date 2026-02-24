@@ -94,5 +94,8 @@ m\omega^{2} \left( \frac{5}{4}a  \right) = \left( \frac{13}{12}mg \right)\left( 
 \end{gather*} 
 $$
 
+# Example 3
+Consider a looking at the rear view of car moving on an inclined rough plane like the one of a cycling rink. Given that the car is moving a velocity, such that it does not slip up the plane and that the coefficient of restitution between the plane, $\mu$, is $0.2$.
 
+Find the maximum speed, $v$, the car can move at.  
 
