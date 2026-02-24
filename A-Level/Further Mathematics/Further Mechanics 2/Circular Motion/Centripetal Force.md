@@ -57,7 +57,14 @@ We know that:
 $$
 F_{r} = \mu R
 $$
-From the dia
+From the diagram we can see that $R = Mg$. Therefore:
+$$
+F = \mu mg
+$$
+From this, we can equate the friction equation to the centripetal force equation. We are given, $r$ and $v$. Thus, we should use $F= \frac{v^{2}}{r}$:
+$$
+F_{r} - 
+$$
 
 
  
