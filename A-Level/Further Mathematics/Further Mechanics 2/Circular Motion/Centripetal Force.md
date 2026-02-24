@@ -14,8 +14,5 @@ Another example is a car moving around a bend:
 The centripetal force that keeps the car moving around the circular arc of the road is friction. 
 
 Now consider a theme park ride known as a 'Gravitron' that works by using circular motion to keep riders suspended along the rim of the ride even when the floor support has been removed:
-
-
-
-
- 
+![[Pasted image 20260224115408.png]]
+The forces in action keep the rider 'stuck' to the wall as the ride spins are the force friction and the normal reaction force from the surface of the ride:
