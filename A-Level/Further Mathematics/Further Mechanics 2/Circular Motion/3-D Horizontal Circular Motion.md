@@ -1,0 +1,1 @@
+ It is possible to use the method of resolving forces to solve problems involving objects moving in horizontal circles. 
