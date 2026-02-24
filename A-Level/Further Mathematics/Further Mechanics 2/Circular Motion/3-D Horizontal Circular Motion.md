@@ -102,7 +102,6 @@ Find the maximum speed, $v$, the car can move at.
 For this problem, we need to consider the normal reaction force $R$, the force of friction on the car $F_{r}$ and the force of weight from the car, $mg$.  
 
 If the car is moving at maximum speed, the force of friction will act down the plane to prevent the car from slipping up the plane:
+ ![[Pasted image 20260224215345.png]]
 
-     
-
- 
+If we resolve the horizontal and vertical forces:
