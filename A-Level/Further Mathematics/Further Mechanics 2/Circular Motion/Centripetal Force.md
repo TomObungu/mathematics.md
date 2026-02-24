@@ -16,3 +16,35 @@ The centripetal force that keeps the car moving around the circular arc of the r
 Now consider a theme park ride known as a 'Gravitron' that works by using circular motion to keep riders suspended along the rim of the ride even when the floor support has been removed:
 ![[Pasted image 20260224115408.png]]
 The forces in action keep the rider 'stuck' to the wall as the ride spins are the force friction and the normal reaction force from the surface of the ride:
+![[Pasted image 20260224115640.png]]
+The centripetal force in this case in the normal reaction force from the wall of the ride, $R$. 
+
+Thus, we known that the resultant force $F$, is $F=ma$. In terms of circular motion, the acceleration $a$ is $\omega^{2}r$ or $\frac{v^{2}}{r}$. Therefore we can form equation for centripetal force:
+$$
+F = m\omega^{2}r \qquad F = \frac{mv^{2}}{r}
+$$
+
+Using these equations, you can equate them to the equation for the type of force that produces the centripetal force and use it to solve values. 
+
+
+# Example 1
+A particle of mass $0.2kg$ is attached to a string of length $0.5m$ and moves in circular motion attached to the string. The string will snap if the tension in the string exceeds $8N$. Find the maximum $\omega$. 
+
+Drawing a diagram gives: 
+![[Pasted image 20260224120724.png]]
+
+We can see that the centripetal force in this case is tension. However, we are given $m$ and $r$, meaning we can find $\omega$ using $F = m\omega^{2}r$. We are told the maximum force the string can take is $8N$, thus we can form an equation and solve for $\omega $:
+$$
+\begin{gather*}
+F = m\omega^{2}r \\ \\
+8 = (0.2)\omega^{2}(0.5) \\ \\
+\omega = \sqrt{ \frac{8}{(0.2)(0.5)} } = 8.94 \ rads ^{-1}
+\end{gather*}
+$$
+We can then find the period of revolution as:
+$$
+T = \frac{2\pi}{\omega} = \frac{2\pi}{(8.94)} = 0.702s
+$$
+
+# Example 2
+ A girl is roller skating around a circular rink and travels the path of a circular arc of radius $12m$.  The maximum speed the girl can travel without slipping is $4ms ^{-1}$. Find the coefficient of friction of the floor of the rink, $\mu$. 
