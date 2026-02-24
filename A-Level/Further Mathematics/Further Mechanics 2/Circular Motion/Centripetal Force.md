@@ -74,7 +74,7 @@ $$
 # Example 3
 A gravitron of radius $4m$. Performs 1 revolution every 2 seconds. Calculate the minimum coefficient of friction, $\mu$, required to keep someone 'stuck' to the wall. 
 
-If we bring 
+If we bring back our diagrams for the gravitron and take a top down view of the ride: 
 
 
  
