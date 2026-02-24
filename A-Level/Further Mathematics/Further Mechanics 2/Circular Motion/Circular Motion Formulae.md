@@ -34,11 +34,79 @@ $$
 
 ## Uniform Acceleration
 Consider the same particle travelling at a uniform speed $v$, around the same circular arc, subtending the angle $d\theta$. If We were to bisect the angle $d\theta$, and draw lines to signify the parallel and perpendicular components of the velocity, we would get something like this:
-![[Pasted image 20260224112152.png]]
+![[Pasted image 20260224112542.png]]
 Remember all of this can only work because we are assuming that the angle $d\theta$ is infinitesimally small. By considering the diagram, we can see that at A:
 $$
 \begin{gather*}
 V_{\parallel} = V\sin\left( \frac{d\theta}{2} \right) \text{ Outwards } \\ \\
-V_{\perp} = V
+V_{\perp} = V\cos\left( \frac{d\theta}{2} \right)
 \end{gather*}
 $$
+And we can also see that at B:
+$$
+\begin{gather*}
+V_{\parallel} = V\sin\left( \frac{d\theta}{2} \right) \text{ Inwards }\\ \\
+V_{\perp} = V\cos\left( \frac{d\theta}{2} \right)
+\end{gather*}
+$$
+We can see that only the parallel component has velocity has changed. It has changed direction. Going from moving outwards, to inwards:
+![[Pasted image 20260224112825.png]]
+This reversal or direction results is in a total change in velocity, $\Delta v$ of:
+$$ 
+\Delta V = V\sin\left( \frac{d\theta}{2} \right) --V\sin\left( \frac{d\theta}{2}  \right) = 2V\sin\left( \frac{d\theta}{2} \right)
+$$
+(Assuming we take left as positive to get only the magnitude of change)
+
+Now here is where the assumption of $d\theta$ being infinitesimally small comes to play. Since $d\theta$, is small, we can use the small angle approximations $\sin\left( \frac{d\theta}{2} \right)$:
+$$
+\begin{gather*}
+\therefore \sin\left( \frac{d\theta}{2} \right) = \frac{d\theta}{2}
+\end{gather*}
+$$
+Therefore $\Delta V$ can be written as:
+$$
+\therefore \Delta V = 2V\left( \frac{d\theta}{2} \right) = Vd\theta
+$$
+Now we know from $\frac{d\theta}{dt} = \omega$, that:
+$$
+d\theta = \omega dt
+$$
+And  $v =\omega r$. Therefore:
+$$
+\Delta V = (\omega r)(\omega dt) = \omega^{2}r dt
+$$
+Dividing by $dt$ gives:
+$$
+\frac{\Delta V}{dt} = \omega^{2}r
+$$
+Writing $\frac{\Delta V}{dt}$, properly gives us:
+$$
+\frac{dv}{dt} = \omega^{2}r
+$$
+Now $\frac{dv}{dt}$, is rate of change of velocity, which is the definition of acceleration. Therefore:
+$$
+a = \omega^{2} r
+$$
+From $v = r\omega$, we can further write:
+$$
+a = \left( \frac{v}{r}\right)^{2}r = \frac{v^{2}}{r^{2}}r = \frac{v^{2}}{r}
+$$
+Therefore, the uniform acceleration of a particle travelling in circular motion is given as:
+$$
+a = \omega^{2}r \qquad a = \frac{v^{2}}{r}
+$$
+
+# Centripetal Force 
+Circular motion is always acting towards the outer boundary of the circle in terms of acceleration:
+![[Pasted image 20260224114302.png]]
+
+There must be some opposing force that prevents the motion of the particle from going along its tangential path into the wall of the circular path. This force is named as the centripetal force. 
+
+Now centripetal force is not a force generator as a result of circular motion, but the resultant force required to accelerate an object in the circular motion. 
+
+For example, consider swinging a child on a swing. 
+
+
+The centripetal force keeping the 
+
+ 
