@@ -48,3 +48,6 @@ $$
 
 # Example 2
  A girl is roller skating around a circular rink and travels the path of a circular arc of radius $12m$.  The maximum speed the girl can travel without slipping is $4ms ^{-1}$. Find the coefficient of friction of the floor of the rink, $\mu$. 
+
+Now if draw a top down diagram and side view of the girl as she roller skates:
+ 
