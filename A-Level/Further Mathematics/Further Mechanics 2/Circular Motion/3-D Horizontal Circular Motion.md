@@ -40,3 +40,11 @@ $$
 From this, we know that $\theta < 90$, otherwise there will not be any vertical component force in the string, $T\cos\theta$, to counter the weight force, $mg$.
 
 # Example 2
+Consider a light inextensible string threaded through a smooth ring of mass $mg$. The string has length $l$. One end of the string is attached to a fixed point $A$ and the other end of the string is attached to a fixed point B, such that A is vertically above B and $AB=3a$. 
+
+The ring moves with constant angular speed $\omega$ in a horizontal circle with centre $A$. The string is taut and subtends an angle $\theta$ with downward vertical. 
+
+Find the angular speed $\omega$:
+
+
+ 
