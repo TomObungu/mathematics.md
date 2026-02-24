@@ -33,4 +33,12 @@ T = \frac{2\pi}{\omega} \text{ (Period of revolution )}
 $$
 
 ## Uniform Acceleration
-If we consider the same particle travelling at a uniform speed $v$, around the same circular arc, subtending the angle $d\theta$:
+Consider the same particle travelling at a uniform speed $v$, around the same circular arc, subtending the angle $d\theta$. If We were to bisect the angle $d\theta$, and draw lines to signify the parallel and perpendicular components of the velocity, we would get something like this:
+![[Pasted image 20260224112152.png]]
+Remember all of this can only work because we are assuming that the angle $d\theta$ is infinitesimally small. By considering the diagram, we can see that at A:
+$$
+\begin{gather*}
+V_{\parallel} = V\sin\left( \frac{d\theta}{2} \right) \text{ Outwards } \\ \\
+V_{\perp} = V
+\end{gather*}
+$$
