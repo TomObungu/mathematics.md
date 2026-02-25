@@ -61,3 +61,18 @@ For vertical circular motion, if the particle is instantaneously at rest, the co
 $$
 \therefore r  \dot{\theta}^{2}\hat{r} = 0
 $$
+This means that the acceleration is purely tangential when the particle is instantaneously at rest. 
+
+
+
+### Uniform acceleration
+For vertical circular motion in uniform acceleration. Since the velocity is a constant, it will differentiate to an acceleration of $0$.Therefore the tangential component of acceleration will be 0 and thus acceleration will be purely radial when at instantaneous uniform vertical circular motion.
+
+
+# Solving vertical circular motion problems
+
+It is possible to solve problems involving vertical circular motion using conservation of energy and the centripetal acceleration formulae. It will predominantly involve equating kinetic and gravitational potential energies and solving for velocities. 
+# Example 1
+Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $\sqrt{ 3ag }$. Find the tension when the mass at the lowest point. 
+
+ 
