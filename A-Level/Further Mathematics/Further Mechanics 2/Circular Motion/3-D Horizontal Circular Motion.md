@@ -183,5 +183,16 @@ $$
  r = \frac{3}{2}a
 \end{gather*}
 $$
-We can now substitute the value of $r$ back into the equation for centripetal force. 
+We can now substitute the value of $r$ back into the equation for centripetal force and solve for $\omega$.
+$$
+\begin{gather*}
+\frac{3}{2}a\omega^{2}m = \frac{3}{5}R \\ \\
+a\omega^{2}m = \frac{2}{5}R \\ \\
+a\omega^{2}m = \frac{2}{5}\left( \frac{15}{13}mg \right) \\ \\
+a\omega^{2} = \frac{6g}{13} \\ \\ 
+\omega = \sqrt{ \frac{6g}{13a} }
+\end{gather*}
+$$
 
+# Example 5
+A thin hollow hemisphere, with centre O
