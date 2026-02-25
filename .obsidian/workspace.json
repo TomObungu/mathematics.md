@@ -180,13 +180,50 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "835b79995b90a751",
+  "floating": {
+    "id": "28d7f9bbc07115f6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8d62fa841a91c8da",
+        "type": "window",
+        "children": [
+          {
+            "id": "067d06509634086f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82182c1681164f8e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-25 16.18.48.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "82182c1681164f8e",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/3-D Horizontal Circular Motion.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/3-D Vertical Circular Motion.md",
+    "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/3-D Horizontal Circular Motion.md",
     "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225065315.png",
-    "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225064919.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225064619.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225064547.png",
