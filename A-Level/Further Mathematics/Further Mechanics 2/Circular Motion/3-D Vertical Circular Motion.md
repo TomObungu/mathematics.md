@@ -51,8 +51,13 @@ $$
 
 Therefore, as a whole, acceleration for vertical circular motion is both radial and tangential
 $$
-a = -r  \dot{\theta}^{2}\hat{r} + r  \ddot{\theta}\hat{v}
+a = -r\dot{\theta}^{2}\hat{r} + r  \ddot{\theta}\hat{v}
 $$
 
 **This means that acceleration is not uniform for vertical circular motion**
 
+## Instantaneous rest
+For vertical circular motion, if the particle is instantaneously at rest, the component of $\dot{\theta} = \omega$ is 0. Therefore is no radial acceleration:
+$$
+\therefore r  \dot{\theta}^{2}\hat{r} = 0
+$$
