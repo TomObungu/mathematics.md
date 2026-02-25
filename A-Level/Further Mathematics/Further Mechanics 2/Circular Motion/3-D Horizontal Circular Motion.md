@@ -195,4 +195,8 @@ a\omega^{2} = \frac{6g}{13} \\ \\
 $$
 
 # Example 5
-A thin hollow hemisphere, with centre O and radius $5a$, is fixed with its axis vertical. A particle of mass $m$,
+A thin hollow hemisphere, with centre O and radius $5a$, is fixed with its axis vertical. A particle of mass $m$, moves in a horizontal circle on the inner surface of the hemisphere. This circle has centre C and the point C is vertically below $O$ such that OC is $2a$.
+
+The particle moves with constant angular speed $\omega$. The inner surface of the hemisphere is modelled as being smooth and air resistance is modelled as being negligible.
+
+
