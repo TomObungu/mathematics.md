@@ -198,5 +198,25 @@ $$
 A thin hollow hemisphere, with centre O and radius $5a$, is fixed with its axis vertical. A particle of mass $m$, moves in a horizontal circle on the inner surface of the hemisphere. This circle has centre C and the point C is vertically below $O$ such that OC is $2a$.
 
 The particle moves with constant angular speed $\omega$. The inner surface of the hemisphere is modelled as being smooth and air resistance is modelled as being negligible.
+![[Pasted image 20260225064619.png]]
+For this problem you must recognise that the hypotenuse of the triangle formed from the particle is also $5a$ as it is the radius of the vertical circle formed by the cross section of the particle and the hemisphere. 
+
+From here, we can draw out a triangle and find $r$ and $\tan\theta$:
+![[Pasted image 20260225064919.png]]
+$$
+\begin{gather*}
+ r= \sqrt{ (5a)^{2} - (2a)^{2}} = \sqrt{ 21 }a
+\end{gather*}
+$$
+Therefore $\tan\theta$, can be found out to be:
+$$
+\tan\theta = \frac{2a}{\sqrt{ 21 }a} = \frac{2}{\sqrt{ 21 }}
+$$
+Zooming in again into the particle and examining the force acting on it on the surface of the hemisphere we see:
 
 
+
+Now we can consider the vertical forces:
+$$
+
+$$
