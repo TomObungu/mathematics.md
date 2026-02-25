@@ -118,8 +118,12 @@ $$
 If we look at the horizontal force for centripetal force, we can see that:
 $$
 \begin{gather*}
-m\omega^{2}r = R\sin\theta + F_{r}\cos\theta  \\ \\
-m\omega^{2}r = R(\sin\theta + 0.2\cos\theta) \ (2)
+\frac{mv^{2}}{r} = R\sin\theta + F_{r}\cos\theta  \\ \\
+\frac{mv^{2}}{r} = R(\sin\theta + 0.2\cos\theta) \ (2)
 \end{gather*} 
 $$
-Now it is possible to divide equation $(2)$ 
+Now it is possible to divide equation $(2)$ by equation $(1)$ in order to cancel out the mass of the car in the system:
+$$
+\frac{(2)}{(1)} = \frac{mv^{2}}{r mg} = \frac{\sin\theta+0.2\cos\theta}{\cos 10-0.2\sin 10}
+$$
+ 
