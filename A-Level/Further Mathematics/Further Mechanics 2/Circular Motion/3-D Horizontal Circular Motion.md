@@ -135,4 +135,7 @@ v = \sqrt{ \frac{\sin 10 + 0.2\cos 10}{\cos 10 - 0.2\sin 10}(100(9.8)) } = 19.6m
 $$
 
 # Example 4
-Consider a hollow right circular cone of base diameter $6a$ and height $4a$., with the axis vertical and its vertex pointing downwards. 
+Consider a hollow right circular cone of base diameter $6a$ and height $4a$., with the axis vertical and its vertex pointing downwards.  A particle of mass $m$, moves in a horizontal circle on the rough inner surface of the cone with constant angular speed $\omega$.  The height of the particle is $2a$ above the vertex. Given that the angel between the greatest slope of the cone from the vertex and the horizontal plane is $\theta$ and that $\tan \theta = \frac{4}{3}$ and the coefficient of restitution of the inner surface of the cone, $\mu$, is $\frac{1}{3}$
+
+Find the minimum possible value of $\omega$. 
+
