@@ -152,5 +152,36 @@ Now if we zoom into the particle and view the cross section of particle on the s
 
 Now friction will be acting up the slope. This is because we are trying to find the minimum value of $\omega$ - any value smaller than this and the particle will slip down the slope. Thus friction is actively trying to prevent the particle from slipping down the slope at this value of $\omega$. 
 
+![[Pasted image 20260225060836.png]]
 
+From here, it is then possible to equate the vertical forces and the horizontal centripetal forces. 
+
+Considering the vertical forces only:
+$$
+\begin{gather*}
+R\cos\theta + F_{r}\sin\theta = mg \\ \\
+R\left( \cos\theta + \frac{1}{3}\sin\theta \right) = mg \\ \\
+R\left( \frac{3}{5} + \frac{1}{3}\left( \frac{4}{5} \right) \right) = mg \\ \\
+\frac{13}{15}R = mg \\ \\
+R = \frac{15}{13}mg
+\end{gather*}
+$$
+
+Considering the horizontal centripetal forces only:
+$$
+\begin{gather*}
+m\omega^{2}r = R\sin\theta - F_{r}\cos\theta  \\ \\
+m\omega^{2}r = R\left(\frac{4}{5}-\frac{1}{3}\left( \frac{3}{5} \right) \right) \\ \\
+m\omega^{2}r = \frac{3}{5}R 
+\end{gather*}
+$$
+Now before we can continue using the centripetal force formulae, we must find out $r$. If we go back to our triangle with the opposite side being the height of the particle from the vertex, we know that $\tan\theta = \frac{4}{3}$. If we draw the adjacent side $r$, we can use the law of tangent to find out $r$:
+![[Pasted image 20260225061539.png]]
+$$
+\begin{gather*}
+\frac{2a}{r} = \frac{4}{3} \\ \\
+ r = \frac{3}{2}a
+\end{gather*}
+$$
+We can now substitute the value of $r$ back into the equation for centripetal force. 
 
