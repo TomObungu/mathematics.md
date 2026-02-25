@@ -213,10 +213,35 @@ $$
 \tan\theta = \frac{2a}{\sqrt{ 21 }a} = \frac{2}{\sqrt{ 21 }}
 $$
 Zooming in again into the particle and examining the force acting on it on the surface of the hemisphere we see:
-
-
+![[Pasted image 20260225065315.png]]
 
 Now we can consider the vertical forces:
 $$
-
+R\sin\theta = mg  \ (1)
 $$
+Then consider the horizontal centripetal forces:
+$$
+\begin{gather*}
+m\omega^{2}r = R\cos\theta \\ \\
+m\omega^{2}\sqrt{ 21 }a = R\cos\theta \ (2)
+\end{gather*}
+$$
+Dividing equation $(2)$ by $(1)$ to cancel out the $m$, we get:
+$$
+\begin{gather*}
+\frac{(2)}{(1)} =   \frac{\sqrt{ 21 }a\omega^{2} m}{mg} = \cot\theta
+\end{gather*}
+$$
+We know that $\tan \theta = \frac{2}{\sqrt{ 21 }}$, therefore $\cot\theta = \frac{\sqrt{ 21 }}{2}$, which we can equate:
+$$
+\frac{\sqrt{ 21 }a\omega^{2}}{g} = \frac{\sqrt{ 21 }}{2}
+$$
+The $\sqrt{ 21 }$ cancel out and we are left with:
+$$
+\begin{gather*}
+\frac{\omega^{2}a}{g} = \frac{1}{2}  \\ \\
+\omega^{2} = \frac{g}{2a} \\ \\
+\omega = \sqrt{ \frac{g}{2a} }
+\end{gather*}
+$$
+
