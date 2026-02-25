@@ -74,5 +74,19 @@ For vertical circular motion in uniform acceleration. Since the velocity is a co
 It is possible to solve problems involving vertical circular motion using conservation of energy and the centripetal acceleration formulae. It will predominantly involve equating kinetic and gravitational potential energies and solving for velocities. 
 # Example 1
 Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $\sqrt{ 3ag }$. Find the tension when the mass at the lowest point. 
+![[Pasted image 20260225203831.png]]
 
- 
+Using conservation of energy, we can equate initial kinetic energy and gravitational energy to the final kinetic energy:
+$$
+\begin{gather*}
+E_{\text{start}} = E_{end} \\ \\
+KE+GPE = KE \\ \\
+ \frac{1}{2}m(3ag) + mga += \frac{1}{2}mv^{2} \\ \\
+ 5ag =v^{2} \\\
+\end{gather*}
+$$
+Therefore the final velocity $v$ is:
+$$
+v = \sqrt{ 5ag }
+$$
+
