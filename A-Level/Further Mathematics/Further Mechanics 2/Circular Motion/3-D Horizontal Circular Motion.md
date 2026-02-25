@@ -104,9 +104,22 @@ For this problem, we need to consider the normal reaction force $R$, the force o
 If the car is moving at maximum speed, the force of friction will act down the plane to prevent the car from slipping up the plane:
  ![[Pasted image 20260224215345.png]]
 
-If we resolve the horizontal and vertical forces:
+If we resolve the vertical forces:
 $$
 \begin{gather*}
-
+R\cos\theta - F_{r}\sin\theta = mg
 \end{gather*}
 $$
+We know that $F_{r} = \mu R\sin\theta$, thus we can write the equation in terms of $R$ on the left side:
+$$
+R(\cos\theta - 0.2\sin \theta) = mg \ (1)
+$$
+
+If we look at the horizontal force for centripetal force, we can see that:
+$$
+\begin{gather*}
+m\omega^{2}r = R\sin\theta + F_{r}\cos\theta  \\ \\
+m\omega^{2}r = R(\sin\theta + 0.2\cos\theta) \ (2)
+\end{gather*} 
+$$
+Now it is possible to divide equation $(2)$ 
