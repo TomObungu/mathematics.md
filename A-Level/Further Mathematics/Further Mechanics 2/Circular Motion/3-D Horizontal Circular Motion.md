@@ -95,7 +95,7 @@ m\omega^{2} \left( \frac{5}{4}a  \right) = \left( \frac{13}{12}mg \right)\left( 
 $$
 
 # Example 3
-Consider a looking at the rear view of car moving on an inclined rough plane like the one of a cycling rink. The car moves around a an arc on the rough plane, with arc of the circular path  containing a radius of 100m. Given that the car is moving at velocity, $v$, such that it does not slip up the plane and that the coefficient of restitution between the plane, $\mu$, is $0.2$.
+Consider a looking at the rear view of car moving on an inclined rough plane like the one of a cycling rink. The car is inclined at $\theta = 10 ^\circ$ The car moves around a an arc on the rough plane, with arc of the circular path  containing a radius of 100m. Given that the car is moving at velocity, $v$, such that it does not slip up the plane and that the coefficient of restitution between the plane, $\mu$, is $0.2$.
 ![[Pasted image 20260224214819.png]]
 Find the maximum speed, $v$, the car can move at.  
 
@@ -107,23 +107,30 @@ If the car is moving at maximum speed, the force of friction will act down the p
 If we resolve the vertical forces:
 $$
 \begin{gather*}
-R\cos\theta - F_{r}\sin\theta = mg
+R\cos10 - F_{r}\sin10 = mg
 \end{gather*}
 $$
-We know that $F_{r} = \mu R\sin\theta$, thus we can write the equation in terms of $R$ on the left side:
+We know that $F_{r} = \mu R\sin10$, thus we can write the equation in terms of $R$ on the left side:
 $$
-R(\cos\theta - 0.2\sin \theta) = mg \ (1)
+R(\cos10 - 0.2\sin 10) = mg \ (1)
 $$
 
 If we look at the horizontal force for centripetal force, we can see that:
 $$
 \begin{gather*}
-\frac{mv^{2}}{r} = R\sin\theta + F_{r}\cos\theta  \\ \\
-\frac{mv^{2}}{r} = R(\sin\theta + 0.2\cos\theta) \ (2)
+\frac{mv^{2}}{r} = R\sin10 + F_{r}\cos10  \\ \\
+\frac{mv^{2}}{r} = R(\sin10 + 0.2\cos10) \ (2)
 \end{gather*} 
 $$
 Now it is possible to divide equation $(2)$ by equation $(1)$ in order to cancel out the mass of the car in the system:
 $$
-\frac{(2)}{(1)} = \frac{mv^{2}}{r mg} = \frac{\sin\theta+0.2\cos\theta}{\cos 10-0.2\sin 10}
+\frac{(2)}{(1)} = \frac{mv^{2}}{r mg} = \frac{R(\sin10+0.2\cos10)}{R(\cos 10-0.2\sin 10)}
 $$
- 
+Therefore:
+$$
+\begin{gather*}
+\frac{v^{2}}{100g} = \frac{\sin 10 + 0.2\cos 10}{\cos 10 - 0.2\sin 10} \\ \\
+v = \sqrt{ \frac{\sin 10 + 0.2\cos 10}{\cos 10 - 0.2\sin 10}(100(9.8)) } = 19.6ms ^{-1}
+\end{gather*}
+$$
+
