@@ -10,5 +10,5 @@ v(t) =  \dot{r}(t) = (-r\dot{\theta}\sin\theta )i + (r \dot{\theta}\cos\theta)j
 $$
 If we take the dot product between $v$ and $r$, $v \cdot r$:
 $$
-v \cdot r = (-r^{2}\dot{\theta}\sin ^{2}\theta)
+v \cdot r = (-r^{2}\dot{\theta}\sin\theta \cos\theta)i
 $$
