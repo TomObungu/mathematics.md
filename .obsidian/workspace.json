@@ -243,32 +243,63 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "0d9cb30646bfdf9c",
+        "type": "window",
+        "children": [
+          {
+            "id": "81f54fdf5dc45110",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "098cc167b73ef17b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-25 16.18.48.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "0531efcdfc4ddc91",
+  "active": "098cc167b73ef17b",
   "lastOpenFiles": [
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/3-D Horizontal Circular Motion.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224215345.png",
     "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225060119.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225060056.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225055943.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225055922.png",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225055739.png",
+    "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224215345.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224214819.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224214745.png",
-    "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224182103.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Uniform Circular Motion Formulae.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224181654.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224181437.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224175628.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260224175154.png",
     "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collision 3.md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Centripetal Force.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/Q. Given that the particle does not slide across the surface of the disc, find the maximum possible value of omega.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/attachments/Pasted image 20260224123905.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/attachments/Pasted image 20260224123411.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2/Uniform frameworks.md",

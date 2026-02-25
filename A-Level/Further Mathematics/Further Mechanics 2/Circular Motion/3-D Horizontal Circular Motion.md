@@ -135,7 +135,22 @@ v = \sqrt{ \frac{\sin 10 + 0.2\cos 10}{\cos 10 - 0.2\sin 10}(100(9.8)) } = 19.6m
 $$
 
 # Example 4
-Consider a hollow right circular cone of base diameter $6a$ and height $4a$., with the axis vertical and its vertex pointing downwards.  A particle of mass $m$, moves in a horizontal circle on the rough inner surface of the cone with constant angular speed $\omega$.  The height of the particle is $2a$ above the vertex. Given that the angel between the greatest slope of the cone from the vertex and the horizontal plane is $\theta$ and that $\tan \theta = \frac{4}{3}$ and the coefficient of restitution of the inner surface of the cone, $\mu$, is $\frac{1}{3}$
-
+Consider a hollow right circular cone of base diameter $6a$ and height $4a$., with the axis vertical and its vertex pointing downwards.  A particle of mass $m$, moves in a horizontal circle on the rough inner surface of the cone with constant angular speed $\omega$.  The height of the particle is $2a$ above the vertex. Given that the angel between the greatest slope of the cone from the vertex and the horizontal plane is $\theta$ and the coefficient of restitution of the inner surface of the cone, $\mu$, is $\frac{1}{3}$
+![[Pasted image 20260225055739.png]]
 Find the minimum possible value of $\omega$. 
+
+For this problem we will need to find out the angle $\theta$. From the diagram we can see that $\theta$ will subtend a right angle triangle with opposite side $4a$ and adjacent side $3a$ from the radius of the cone:
+![[Pasted image 20260225055943.png]]
+
+Therefore $\tan\theta = \frac{4}{3}$. With $\tan\theta$, it is the possible to find out rational definitions of $\sin\theta$ and $\cos\theta$:
+![[Pasted image 20260225060119.png]]
+Therefore:
+$$
+\sin\theta = \frac{4}{5} \qquad \cos\theta = \frac{3}{5}
+$$
+Now if we zoom into the particle and view the cross section of particle on the surface of the cone at a side view, we can see that the particle will again experience a reaction force $R$, a frictional force $F_{r}$ and the weight of the particle $mg$.
+
+Now friction will be acting up the slope. This is because we are trying to find the minimum value of $\omega$ - any value smaller than this and the particle will slip down the slope. Thus friction is actively trying to prevent the particle from slipping down the slope at this value of $\omega$. 
+
+
 
