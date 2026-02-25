@@ -14,3 +14,11 @@ v \cdot r = -r^{2}\dot{\theta}\sin\theta \cos\theta + r^{2}\dot{\theta}\sin\thet
 $$
 We can see that their dot product is zero. This confirms that the velocity and radial vector and perpendicular as expected. 
 
+If we want to find the acceleration of the particle, we must implicitly differentiate again:
+$$
+a(t) = \dot{v}(t) = \left[-r \dot{\theta}^{2}\cos\theta-r \ddot{\theta}\sin\theta \right]i + \left[-r\dot{\theta}^{2}\sin\theta+r \ddot{\theta}\cos \theta  \right]j
+$$
+If we factorise and group in terms of $\dot{\theta}$ and $\ddot{\theta}$, we get an expression for $a(t)$:
+$$
+
+$$
