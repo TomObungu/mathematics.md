@@ -134,3 +134,5 @@ v = \sqrt{ \frac{\sin 10 + 0.2\cos 10}{\cos 10 - 0.2\sin 10}(100(9.8)) } = 19.6m
 \end{gather*}
 $$
 
+# Example 4
+Consider a hollow right circular cone of base diameter $6a$ and height $4a$., with the axis vertical and its vertex pointing downwards. 
