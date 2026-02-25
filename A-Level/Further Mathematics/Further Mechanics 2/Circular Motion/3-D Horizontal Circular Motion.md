@@ -195,4 +195,4 @@ a\omega^{2} = \frac{6g}{13} \\ \\
 $$
 
 # Example 5
-A thin hollow hemisphere, with centre O
+A thin hollow hemisphere, with centre O and radius $5a$, is fixed with its axis vertical. A particle of mass $m$,
