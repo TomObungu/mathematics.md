@@ -89,13 +89,34 @@ Therefore the final velocity $v$ is:
 $$
 v = \sqrt{ 5ag }
 $$
-To find the tension, we need to use the centripetal force formula. We need to equate the centripetal force equation to the Tension in string at the top most in the vertical circular path:
+To find the tension, we need to use the centripetal force formula. We need to equate the centripetal force equation to the Tension in string at the bottom most in the vertical circular path:![[Pasted image 20260227162514.png]]
+
+The total resultant force is $T-mg$. This is the centripetal force. We can equate this to the equation $F = \frac{mv^{2}}{r}$ and solve for $T$: Remember since the circle is still at the lowest point, we can use the velocity calculated in the previous part of the problem:
+$$
+\begin{gather*}
+\frac{m(5ag)}{a} = T -mg \\ \\ 
+5mg = T -mg \\ \\
+\boxed{T = 6mg}
+\end{gather*} 
+$$
 
 ## Example 1 Continued...
 Determine whether the particle P performs a full circular revolution around the circular path. 
 
 For this problem you need to consider the forcing acting on the particle when it is as the top most vertical region of the circle. 
 
-For questions like this the particle will continue its circular path if, the velocity, $v$, is greater than $0$. 
+For questions like this the particle will continue its circular path if, the velocity, $v$, is greater than $0$ at the top. 
+![[Pasted image 20260227162927.png]]
+You can again use conservation of energy to calculate the velocity at the top by considering the energy at the bottom of the circle and at the top:
+$$
+\begin{gather*}
+E_{\text{bottom}} = E_{\text{top}} \\ \\ 
+KE = KE + GPE \\ \\ 
+\frac{1}{2}m(5ag) = \frac{1}{2}mv^{2} + 2mga \\ \\
+5ag = v^{2} + 4ag \\ \\
+v = \sqrt{ 4ag }
+\end{gather*}
+$$
+
 # Example 2
 Consider a 
