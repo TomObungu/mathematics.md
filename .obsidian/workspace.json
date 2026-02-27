@@ -185,37 +185,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "8d62fa841a91c8da",
-        "type": "window",
-        "children": [
-          {
-            "id": "067d06509634086f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "82182c1681164f8e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-10-25 16.18.48.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "3afb84302eaa599d",
         "type": "window",
         "children": [
@@ -265,8 +234,21 @@
                   "icon": "lucide-file-text",
                   "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
                 }
+              },
+              {
+                "id": "53b5d066b2413625",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.12.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.12.4"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -279,12 +261,12 @@
       }
     ]
   },
-  "active": "835b79995b90a751",
+  "active": "53b5d066b2413625",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225203831.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Uniform Circular Motion Formulae.md",

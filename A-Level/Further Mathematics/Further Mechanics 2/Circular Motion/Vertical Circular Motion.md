@@ -89,6 +89,8 @@ Therefore the final velocity $v$ is:
 $$
 v = \sqrt{ 5ag }
 $$
+To find the tension, we need to use the centripetal force formula. We need to equate the centripetal force equation to the Tension in string at the top most in the vertical circular path:
+
 ## Example 1 Continued...
 Determine whether the particle P performs a full circular revolution around the circular path. 
 
