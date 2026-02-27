@@ -89,6 +89,12 @@ Therefore the final velocity $v$ is:
 $$
 v = \sqrt{ 5ag }
 $$
+## Example 1 Continued...
+Determine whether the particle P performs a full circular revolution around the circular path. 
 
+For this problem you need to consider the forcing acting on the particle when it is as the top most vertical region of the circle. 
+
+For questions like this the particle will continue its circular path if:
+- The velocity 
 # Example 2
 Consider a 
