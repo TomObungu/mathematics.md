@@ -94,7 +94,6 @@ Determine whether the particle P performs a full circular revolution around the 
 
 For this problem you need to consider the forcing acting on the particle when it is as the top most vertical region of the circle. 
 
-For questions like this the particle will continue its circular path if:
-- The velocity 
+For questions like this the particle will continue its circular path if, the velocity, $v$, is greater than $0$. 
 # Example 2
 Consider a 
