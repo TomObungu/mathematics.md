@@ -295,6 +295,13 @@ $$
 \begin{gather*}
 T > 0, \ \theta =\pi \\ \\
 \implies \frac{mu^{2}}{a} + mg(3\cos \pi -2) > 0 \\ \\
-\frac{u^{2}}{a} = -g
+\frac{u^{2}}{a} > -g(-3-2 ) \\ \\
+u^{2} > 5ag \\ \\
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{gather*}
+\boxed{u > \sqrt{ 5ag }}
 \end{gather*}
 $$
