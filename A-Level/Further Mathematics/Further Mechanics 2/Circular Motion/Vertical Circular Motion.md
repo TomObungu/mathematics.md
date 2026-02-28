@@ -200,11 +200,26 @@ $$
 $$
 
 # Example 3
-Consider a bead, $P$, threaded through a light wire. The bead is projected upwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
+Consider a bead, $P$, threaded through a light circular wire of radius $R$. The bead is projected upwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
 
 Show that at angle $\theta$,  $v^{2} = \frac{3}{2}ga -2ga\cos\theta$:
-![[Pasted image 20260228150703.png]]
+![[Pasted image 20260228151356.png|363]]
 
 For this scenario, the centripetal force is provided by the normal reaction between the wire and the bead. 
 
-However we can first find the velocity of the bead at angle $\theta$, 
+However we can first find the velocity of the bead at angle $\theta$ using conservation of energy. As well as that we need to consider the change in height: 
+![[Pasted image 20260228151332.png]]
+$$
+\begin{gather*}
+E_{\text{start}} = E_{end} \\ \\
+KE = KE +GPE \\ \\
+\frac{1}{2}m\left( \frac{5}{2}ag \right) = \frac{1}{2}mv^{2} + mgR\cos\theta \\ \\
+\frac{5}{2}ag = v^{2} + 2gR\cos\theta \\ \\
+v^{2} = \frac{5}{2}ag - 2gR\cos\theta \\ \\
+QED
+\end{gather*} 
+$$
+## Example 3 Continued...
+Find the position at which the motion of the particle is 0. 
+
+ 
