@@ -181,4 +181,6 @@ $$
 \end{gather*}
 $$
 This can give us an inclination of what $\alpha$ would look like diagrammatically:
+![[Pasted image 20260228144909.png]]
+From this we can work the acute angle $\beta$. From the properties of angles, this acute angle $\beta$ will just be negation for $\sin\beta$. From that if we draw a triangle using the fact that $\sin \beta = \frac{3}{4}$, we can find out $\cos\beta$
   
