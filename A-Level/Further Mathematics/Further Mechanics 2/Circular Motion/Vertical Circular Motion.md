@@ -183,4 +183,21 @@ $$
 This can give us an inclination of what $\alpha$ would look like diagrammatically:
 ![[Pasted image 20260228144909.png]]
 From this we can work the acute angle $\beta$. From the properties of angles, this acute angle $\beta$ will just be negation for $\sin\beta$. From that if we draw a triangle using the fact that $\sin \beta = \frac{3}{4}$, we can find out $\cos\beta$
-  
+![[Pasted image 20260228145430.png]]
+Therefore:
+$$
+\sin \beta = \frac{3}{4} \qquad \cos\beta = \frac{\sqrt{ 7 }}{4}
+$$
+  Now recall for vertical circular motion, when an object is at rest, its acceleration is purely tangential:
+  ![[Pasted image 20260228145617.png]]
+  Thus magnitude of acceleration the particle is purely $mg\cos\beta$.:
+  $$
+\left| a \right| = mg\cos\beta = \frac{\sqrt{ 7 }}{4}mg
+$$
+The direction that the particle is travelling will be just be $\beta$, which can be worked out using $\arcsin$:
+$$
+\beta = \arcsin\left( \frac{3}{4} \right) = 48.6 ^\circ \text{ To the downard vertical}
+$$
+
+
+
