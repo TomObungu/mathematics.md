@@ -251,7 +251,7 @@ Show that at angle $\theta$, the tension in the string $T$, is $\frac{mu^{2}}{a}
 ![[Pasted image 20260228163222.png]]
 
 The thing you need to notice in this question is the difference in height for the change in angle $\theta$. 
-![[Pasted image 20260228163651.png]]
+![[Pasted image 20260228165725.png]]
 The change in height $h$ will be:
 $$
 \begin{gather*}
@@ -264,9 +264,13 @@ From then we can find out $v^{2}$ using conservation of energy:
 $$
 \begin{gather*}
 E_{\text{start}} = E_{\text{end}} \\ \\
-KE  
+KE  = KE + GPE \\ \\
+\frac{1}{2}mu^{2} = \frac{1}{2}mv^{2} + mga(1-\cos\theta) \\ \\
+u^{2} = v^{2} +2ga(1-\cos\theta) \\ \\
+v^{2} = u^{2}+2ga(\cos\theta-1)
 \end{gather*}
 $$
+
  
 
  
