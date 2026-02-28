@@ -239,10 +239,17 @@ $$
 Substituting $\cos\theta$ into $v^{2}$:
 $$
 \begin{gather*}
-v^{2} = \frac{5}{2}ga - 2ga\left( \frac{5}{6} \right) = \frac{5}{6}ga \\ \\ a
+v^{2} = \frac{5}{2}ga - 2ga\left( \frac{5}{6} \right) = \frac{5}{6}ga \\ \\ 
 v = \boxed{\sqrt{ \frac{5ga}{6} }}
 \end{gather*}
 $$
+
+# Example 4
+Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $u$. 
+
+Show that at angle $\theta$, the tension in the string $T$, is $\frac{mu^{2}}{a}+mg(3\cos\theta-2)$
+
+
 
 
 
