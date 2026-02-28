@@ -168,7 +168,8 @@ Find the magnitude and direction of the particle when it is at rest.
 When a particle is at rest, its velocity $v$ is at 0. Therefore we also know that $v^{2}$ will also be equal to 0. Equating $v^{2}$ to 0 gives us:
 $$
 \begin{gather*}
-2ga\sin\alpha + \frac{3}{2}mg = 0 \\ \\ 
+2ga\sin\alpha + \frac{3}{2}ag = 0 \\ \\ 
+2\sin\alpha +\frac{3}{2} = 0 \\ \\
 \sin\alpha = -\frac{3}{4}
 \end{gather*}
 $$
