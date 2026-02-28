@@ -137,13 +137,38 @@ E_{\text{start}} = E_{end} \\ \\
 KE + GPE = KE \\ \\
 \frac{1}{2}m\left( \frac{3}{2}ag \right) + mga\sin\alpha= \frac{1}{2}mv^{2} \\ \\
 3a + 4ag\sin\alpha = 2v^{2} \\ \\
-v^{2} = 2ag + \frac{3}{2}ag
+v^{2} = 2ag\sin\alpha + \frac{3}{2}ag
 \end{gather*}
 $$
 Notice we do not need to take the square root as we will use $v^{2}$ for the following centripetal force formula. 
 
 From the diagram we can see that the centripetal force is $T-mg\sin\alpha$
-
+![[Pasted image 20260228143003.png]]
 
 
 Now equating the centripetal force formula.
+$$
+\begin{gather*}
+\frac{mv^{2}}{r} = T -mg\sin\alpha \\ \\
+\frac{m\left( 2ag\sin\alpha + \frac{3}{2}ag \right)}{a} = T -mg\sin\alpha 
+\end{gather*}
+$$
+Solving for $T$:
+$$
+\begin{gather*}
+2mg\sin\alpha + \frac{3}{2}mg=T - mg\sin\alpha \\ \\ 
+T = 3mg\sin\alpha + \frac{3}{2}mg \\ \\
+QED
+\end{gather*}
+$$
+
+## Example 2 Continued...
+Find the magnitude and direction of the particle when it is at rest. 
+
+When a particle is at rest, its velocity $v$ is at 0. Therefore we also know that $v^{2}$ will also be equal to 0. Equating $v^{2}$ to 0 gives us:
+$$
+\begin{gather*}
+2ga\sin\alpha + \frac{3}{2}mg = 0 \\ \\ 
+\sin\alpha = -\frac{3}{4}
+\end{gather*}
+$$
