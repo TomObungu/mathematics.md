@@ -220,6 +220,31 @@ $$
 ## Example 3 Continued...
 Find the velocity of the bead when the reaction force of the bead is 0.  
 
+Remember that $\theta$ is the angle at any arbitrary point on the circle. If we a draw a diagram of the component forces acting on the particle at the angle $\theta$, we can form equations for centripetal force:
+![[Pasted image 20260228161101.png]]
+As we have, $v$, we can form the equation for centripetal force using $v^{2}$:
+$$
+\begin{gather*}
+\frac{mv^{2}}{r} = R +mg \cos\theta \\ \\
+\frac{m\left( \frac{5}{2}ga - 2ga\cos\theta \right)}{a} = R + mg\cos\theta \\ \\
+\end{gather*}
+$$
+Now since the reaction force is $0$, we can rearrange and solve for $\cos\theta$:
+$$
+\begin{gather*}
+\frac{5}{2} -2\cos\theta = \cos\theta \\ \\
+\cos\theta = \frac{5}{6}
+\end{gather*}
+$$
+Substituting $\cos\theta$ into $v^{2}$:
+$$
+\begin{gather*}
+v^{2} = \frac{5}{2}ga - 2ga\left( \frac{5}{6} \right) = \frac{5}{6}ga \\ \\ a
+v = \boxed{\sqrt{ \frac{5ga}{6} }}
+\end{gather*}
+$$
+
+
 
  
 
