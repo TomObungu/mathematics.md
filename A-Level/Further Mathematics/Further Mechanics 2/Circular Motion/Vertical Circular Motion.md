@@ -293,8 +293,8 @@ Considering the circle, the particle will be at the top of the circle when $\the
 Therefore we can now demand $T >0$ when $\theta$. From then we can find the inequality for $u$:
 $$
 \begin{gather*}
-
-\end{gather*}
 T > 0, \ \theta =\pi \\ \\
-\implies \frac{mu^{2}}{a} + mg(3\cos \pi -2) > 0
+\implies \frac{mu^{2}}{a} + mg(3\cos \pi -2) > 0 \\ \\
+\frac{u^{2}}{a} = -g
+\end{gather*}
 $$
