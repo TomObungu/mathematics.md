@@ -271,8 +271,9 @@ v^{2} = u^{2}+2ga(\cos\theta-1)
 \end{gather*}
 $$
 We can now use the centripetal force formula to find $T$:
-
+![[Pasted image 20260228170321.png]]
  
- 
+ $$
 
+$$
  
