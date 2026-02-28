@@ -203,4 +203,8 @@ $$
 Consider a bead, $P$, threaded through a light wire. The bead is projected upwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
 
 Show that at angle $\theta$,  $v^{2} = \frac{3}{2}ga -2ga\cos\theta$:
+![[Pasted image 20260228150703.png]]
 
+For this scenario, the centripetal force is provided by the normal reaction between the wire and the bead. 
+
+However we can first find the velocity of the bead at angle $\theta$, 
