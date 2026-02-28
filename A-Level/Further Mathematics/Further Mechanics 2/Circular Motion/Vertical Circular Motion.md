@@ -249,7 +249,7 @@ Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attac
 
 Show that at angle $\theta$, the tension in the string $T$, is $\frac{mu^{2}}{a}+mg(3\cos\theta-2)$
 
-
+ 
 
 
 
