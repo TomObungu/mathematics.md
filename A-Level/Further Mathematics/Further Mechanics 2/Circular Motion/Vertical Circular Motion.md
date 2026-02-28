@@ -114,9 +114,12 @@ E_{\text{bottom}} = E_{\text{top}} \\ \\
 KE = KE + GPE \\ \\ 
 \frac{1}{2}m(5ag) = \frac{1}{2}mv^{2} + 2mga \\ \\
 5ag = v^{2} + 4ag \\ \\
-v = \sqrt{ 4ag }
+v = \sqrt{ ag }
 \end{gather*}
 $$
 
 # Example 2
-Consider a 
+Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
+
+Show that at angle $\alpha$, the tension in the rod, $T$, is equal to $3mg\sin\alpha + \frac{3}{2}mg$.
+

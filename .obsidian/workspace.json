@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "835b79995b90a751",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-25 16.18.48.excalidraw"
-            }
-          },
-          {
             "id": "49d10d1783e27a07",
             "type": "leaf",
             "state": {
@@ -33,8 +21,7 @@
               "title": "Vertical Circular Motion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,15 +245,46 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "2bc794cef91b12df",
+        "type": "window",
+        "children": [
+          {
+            "id": "6337c205505a4ab0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "835b79995b90a751",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-25 16.18.48.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "49d10d1783e27a07",
+  "active": "835b79995b90a751",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260227162927.png",
     "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260227162927.png",
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260227162514.png",
@@ -283,7 +301,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225064547.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225061539.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225061531.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260225060836.png",
     "A-Level/Further Mathematics/Further Mechanics 1/1D Elastic Collisions/1D Elastic Collision 3.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Centripetal Force.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Momentum and Impulse/Momemtum and Impulse.md",
