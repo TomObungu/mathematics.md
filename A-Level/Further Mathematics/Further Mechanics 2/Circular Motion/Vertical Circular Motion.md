@@ -173,3 +173,12 @@ $$
 \sin\alpha = -\frac{3}{4}
 \end{gather*}
 $$
+We know that (from taking $\arcsin$)
+$$
+\begin{gather*}
+\alpha = -48.4903\dots ^\circ \\ \\
+= 311.4096\dots ^\circ
+\end{gather*}
+$$
+This can give us an inclination of what $\alpha$ would look like diagrammatically:
+  
