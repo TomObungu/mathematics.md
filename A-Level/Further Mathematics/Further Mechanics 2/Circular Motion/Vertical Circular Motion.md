@@ -218,9 +218,9 @@ QED
 \end{gather*} 
 $$
 ## Example 3 Continued...
-Find the position at which the motion of the particle is 0.  
+Find the velocity of the bead when the reaction force of the bead is 0.  
 
-When the motion of the paricle is 0, the acceleration of the particle is purely tangential. If we sketch a diagram:
+
  
 
  
