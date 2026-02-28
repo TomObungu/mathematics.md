@@ -248,6 +248,10 @@ $$
 Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $u$. 
 
 Show that at angle $\theta$, the tension in the string $T$, is $\frac{mu^{2}}{a}+mg(3\cos\theta-2)$
+![[Pasted image 20260228163222.png]]
+
+The thing you need to notice in this question is the difference in height for the change in angle $\theta$. 
+
 
  
 
