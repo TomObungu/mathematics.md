@@ -127,14 +127,23 @@ Show that at angle $\alpha$, the tension in the rod, $T$, is equal to $3mg\sin\a
 For this question we take the same approach of finding the velocity using conservation of energy and then equating the centripetal force formula to find $T$.
 
 When considering conservation of energy, you need to correctly consider the change in height using the change in angle:
-
-
+![[Pasted image 20260228142531.png]]
+Now we have the change in height, we can then use conservation of energy:
 
 
 $$
 \begin{gather*}
 E_{\text{start}} = E_{end} \\ \\
 KE + GPE = KE \\ \\
-\frac{1}{2}m\left( \frac{3}{2}ag \right) +  =
+\frac{1}{2}m\left( \frac{3}{2}ag \right) + mga\sin\alpha= \frac{1}{2}mv^{2} \\ \\
+3a + 4ag\sin\alpha = 2v^{2} \\ \\
+v^{2} = 2ag + \frac{3}{2}ag
 \end{gather*}
 $$
+Notice we do not need to take the square root as we will use $v^{2}$ for the following centripetal force formula. 
+
+From the diagram we can see that the centripetal force is $T-mg\sin\alpha$
+
+
+
+Now equating the centripetal force formula.
