@@ -290,4 +290,11 @@ For this part of the problem, the particle will continue to do a full revolution
 Considering the circle, the particle will be at the top of the circle when $\theta = \pi$:
 ![[Pasted image 20260228171251.png]]
 
-Therefore we can now say $T >0$
+Therefore we can now demand $T >0$ when $\theta$. From then we can find the inequality for $u$:
+$$
+\begin{gather*}
+
+\end{gather*}
+T > 0, \ \theta =\pi \\ \\
+\implies \frac{mu^{2}}{a} + mg(3\cos \pi -2) > 0
+$$
