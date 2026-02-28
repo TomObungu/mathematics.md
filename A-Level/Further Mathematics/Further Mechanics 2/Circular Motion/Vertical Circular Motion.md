@@ -285,4 +285,4 @@ $$
 ## Exampel 4 Continued...
 Find $u$ for which the particles performs a complete circular revolution from its starting point. 
 
-For thi
+For this part of the problem, the particle will continue to do a full revolution if at the top most part of the circle, the tension in the string is greater than 0. We cannot say ve
