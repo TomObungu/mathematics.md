@@ -1,4 +1,4 @@
-Consider a particle moving in a vertical circular orbit of radius $r$,around a point $O$, with velocity $v$.
+ Consider a particle moving in a vertical circular orbit of radius $r$,around a point $O$, with velocity $v$.
  ![[Pasted image 20260225190852.png]]
 If we represent the the position of the particle in $i$ and $j$ vector notation, we can see that the function for the radius at time $t$ is defined by:
 $$
@@ -251,12 +251,22 @@ Show that at angle $\theta$, the tension in the string $T$, is $\frac{mu^{2}}{a}
 ![[Pasted image 20260228163222.png]]
 
 The thing you need to notice in this question is the difference in height for the change in angle $\theta$. 
+![[Pasted image 20260228163651.png]]
+The change in height $h$ will be:
+$$
+\begin{gather*}
+h = a -a\cos\theta \\ \\
+h = a(1-\cos\theta)
+\end{gather*}
+$$
 
-
- 
-
-
-
+From then we can find out $v^{2}$ using conservation of energy:
+$$
+\begin{gather*}
+E_{\text{start}} = E_{\text{end}} \\ \\
+KE
+\end{gather*}
+$$
  
 
  
