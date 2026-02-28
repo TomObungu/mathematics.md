@@ -264,7 +264,7 @@ From then we can find out $v^{2}$ using conservation of energy:
 $$
 \begin{gather*}
 E_{\text{start}} = E_{\text{end}} \\ \\
-KE
+KE  
 \end{gather*}
 $$
  
