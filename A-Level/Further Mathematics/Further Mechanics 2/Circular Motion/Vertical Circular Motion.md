@@ -271,9 +271,18 @@ v^{2} = u^{2}+2ga(\cos\theta-1)
 \end{gather*}
 $$
 We can now use the centripetal force formula to find $T$:
-![[Pasted image 20260228170321.png]]
+![[Pasted image 20260228170741.png]]
  
  $$
-
+ \begin{gather*}
+\frac{mv^{2}}{r} = T - mg\sin\theta \\ \\ 
+\frac{m(u^{2} + 2ga(\cos\theta-1))}{a} = T - mg\cos\theta \\ \\
+\frac{mu^{2}}{a} + 2mg(\cos \theta -1) = T -mg\cos\theta \\ \\
+T = \frac{mus^{2}}{a} +mg(3\cos\theta -2) \\ \\
+QED
+\end{gather*}
 $$
- 
+## Exampel 4 Continued...
+Find $u$ for which the particles performs a complete circular revolution from its starting point. 
+
+For thi
