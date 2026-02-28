@@ -124,4 +124,17 @@ Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attac
 Show that at angle $\alpha$, the tension in the rod, $T$, is equal to $3mg\sin\alpha + \frac{3}{2}mg$.
 ![[Pasted image 20260228141628.png]]
 
-For this question we take the same approach of findi
+For this question we take the same approach of finding the velocity using conservation of energy and then equating the centripetal force formula to find $T$.
+
+When considering conservation of energy, you need to correctly consider the change in height using the change in angle:
+
+
+
+
+$$
+\begin{gather*}
+E_{\text{start}} = E_{end} \\ \\
+KE + GPE = KE \\ \\
+\frac{1}{2}m\left( \frac{3}{2}ag \right) +  =
+\end{gather*}
+$$
