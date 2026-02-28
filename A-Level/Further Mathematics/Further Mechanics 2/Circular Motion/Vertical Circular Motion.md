@@ -122,4 +122,6 @@ $$
 Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
 
 Show that at angle $\alpha$, the tension in the rod, $T$, is equal to $3mg\sin\alpha + \frac{3}{2}mg$.
+![[Pasted image 20260228141628.png]]
 
+For this question we take the same approach of findi
