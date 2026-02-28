@@ -199,5 +199,8 @@ $$
 \beta = \arcsin\left( \frac{3}{4} \right) = 48.6 ^\circ \text{ To the downard vertical}
 $$
 
+# Example 3
+Consider a bead, $P$, threaded through a light wire. The bead is projected upwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
 
+Show that at angle $\theta$,  $v^{2} = \frac{3}{2}ga -2ga\cos\theta$:
 
