@@ -25,17 +25,54 @@ r^{2} = x^{2} + y^{2} \\ \\
 \theta = \arctan\left( \frac{y}{x} \right)
 \end{gather*}
 $$
+Always draw a diagram to check in which quadrant the point lies. Always measure the polar angle from the positive x-axis. 
 # Example 1
-Find polar coordinates of the points with the following Cartesian coordinates:
-a(3,4), b (5,-12), c($-\sqrt{ 3 },-1$)
+Find polar coordinate of the point with the following Cartesian coordinate
+($-\sqrt{ 3 },-1$)
 
 ## 
 Finding r:
-$$r = \sqrt{ 3^{2} +4^{2} } = 5$$.
+$$r = \sqrt{ \sqrt{ 3 }^{2} + (-1)^{2} } = 2$$.
 Finding $\theta$:
+![[Pasted image 20260301074444.png]]
 $$
-\arctan\left( \frac{4}{3} \right) = 0.927
+\alpha = \arctan\left( \frac{1}{\sqrt{ 3 }} \right) = \frac{\pi}{6}
 $$
-So the polar coordinates are $(5,0.927)$
+The point is in the third quadrant and we want to measure from the positive x-axis. Therefore we must add $\pi$ to correct it.:
+$$
+\therefore \theta = \pi + \frac{\pi}{6} = \frac{7\pi}{6}
+$$
+So the polar coordinates are:
+$$
+\left( 2, \frac{7\pi}{6} \right)
+$$
+# Example 2
+Convert the following polar coordinate into Cartesian form. The angles are in radians and are measured form the positive x-axis
+$$
+\left( 10, \frac{4\pi}{3} \right)
+$$
+Finding $x$:
+$$
+x = r\cos\theta = 10\cos \frac{4\pi}{3} = -5
+$$
+Finding $y$:
+$$
+y = r\sin\theta = 10 \sin \frac{4\pi}{3} = -5\sqrt{ 3 }
+$$
 
 
+So the Cartesian coordinates are:
+$$
+(-5, -5\sqrt{ 3 })
+$$
+
+
+# Example 3
+Find the Cartesian coordinate of the following polar curve:
+## a $r=5$
+You need to replace $r$ with an equation in $x$ and $y$. Use $x^{2}+y^{2}=r^{2}$. So the equation $r=5$ represents an circle with centre $O$, with radius $5$. So a Cartesian equation is:
+$$
+x^{2} + y^{2} = 5
+$$
+## b $r = 2+\cos 2\theta$
+It is possible to simplify polar equations use trigonometric identities
