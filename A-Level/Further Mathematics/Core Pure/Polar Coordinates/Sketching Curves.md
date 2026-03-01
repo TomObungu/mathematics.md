@@ -6,3 +6,7 @@ $\theta = \alpha$ is a half-life through $O$ and making an angle $\alpha$ with t
 ![[Pasted image 20260301205748.png]]
 $r=a\theta$ is a spiral starting at $O$
 ![[Pasted image 20260301205807.png]]
+
+You can also sketch curves by drawing up a table of values of $r$ for particular values of $\theta$. It is common to choose 
+
+# Example 
