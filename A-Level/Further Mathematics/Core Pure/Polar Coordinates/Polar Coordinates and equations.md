@@ -116,5 +116,63 @@ $$
 ## b $r = 2+\cos 2\theta$
 It is possible to simplify polar equations use trigonometric identities
 $$
+\begin{gather*}
 r = 2 + \cos 2\theta \\ \\ 
+r = 1 + 2\cos ^{2}\theta \\ \\
+\end{gather*}
+$$
+It is convenient to multiply by $r^{2}$ for $r^{2} = x^{2}+y^{2}$:
+$$
+\begin{gather*}
+r^{3} = r^{2} + 2r^{2}\cos ^{2}\theta \\ \\
+r^{3} = x^{2} + y^{2} + 2x^{2} \\ \\
+(x^{2}+y^{2})^{\frac{3}{2}} =  3x^{2} + y^{2}
+\end{gather*}
+$$
+## c $r^{2} = \sin 2\theta$ 
+Using the trigonometric identity for $\sin 2\theta$ again:
+$$
+\begin{gather*}
+r^{2} = 2\sin\theta \cos\theta \\ \\
+\end{gather*}
+$$
+Multiplying by $r^{2}$:
+$$
+\begin{gather*}
+r^{4} = 2r^{2}\sin\theta \cos\theta \\ \\
+r^{4} = 2r\sin\theta r\cos\theta \\ \\
+r^{4} = 2xy \\ \\
+r^{2} = \sqrt{ 2xy }
+\end{gather*}
+$$
+
+# Example 4
+It is possible to handle converting from Cartesian to polar by using $x = r\cos\theta$ and $y=r\sin\theta$.
+Find the polar equations for the following:
+## a $y^{2}=4x$
+For questions like this you need to rearrange for $r$:
+$$
+\begin{gather*}
+r^{2}\sin ^{2}\theta = 4r\cos\theta \\ \\
+r\sin ^{2}\theta = 4\cos\theta \\ \\
+r = \frac{4\cos\theta}{\sin ^{2}\theta} = 4\cot\theta \csc\theta
+\end{gather*}
+$$
+## b $x^{2}-y^{2} = 5$
+$$
+\begin{gather*}
+r^{2}\cos ^{2}\theta - r^{2}\sin ^{2}\theta = 5 \\ \\
+r^{2}(\cos ^{2}\theta -\sin ^{2}\theta) = 5 \\ \\
+r^{2}\cos 2\theta = 5 \\ \\
+r^{2} = 5\sec 2\theta
+\end{gather*}
+$$
+
+## c  $y \sqrt{ 3 } = x + 4$
+$$
+\begin{gather*}
+r\sqrt{ 3 } \sin\theta = r\cos\theta + 4 \\ \\
+r(\sqrt{ 3 }\sin\theta - \cos\theta) = 4 \\ \\
+r\left(  \frac{\sqrt{ 3 }}{2}\sin\theta- \frac{1}{2}\cos\theta \right)
+\end{gather*}
 $$
