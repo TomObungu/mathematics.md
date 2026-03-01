@@ -29,7 +29,7 @@ $$
 Find polar coordinates of the points with the following Cartesian coordinates:
 a(3,4), b (5,-12), c($-\sqrt{ 3 },-1$)
 
-## a 
+## 
 Finding r:
 $$r = \sqrt{ 3^{2} +4^{2} } = 5$$.
 Finding $\theta$:
