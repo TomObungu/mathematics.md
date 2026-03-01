@@ -115,3 +115,6 @@ x^{2} + y^{2} = 5
 $$
 ## b $r = 2+\cos 2\theta$
 It is possible to simplify polar equations use trigonometric identities
+$$
+r = 2 + \cos 2\theta \\ \\ 
+$$
