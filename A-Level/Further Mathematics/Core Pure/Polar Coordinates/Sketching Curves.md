@@ -32,6 +32,12 @@ $$
 $$
 Drawing the table with this consideration:
 
-| $\theta$ | 0   | $\frac{\pi}{6}$ |     |
-| -------- | --- | --------------- | --- |
-|          |     |                 |     |
+| $\theta$ | 0   | $\frac{\pi}{6}$ | $\frac{\pi}{3}$ |
+| -------- | --- | --------------- | --------------- |
+| r        | 0   | $a$             | 0               |
+
+The pattern gives by $r=a\sin k\theta$ is typical of the patterns that arise in polar curves for equations of the form $r=a\cos n\theta$ or $r=a\sin n\theta$. They will have loops symmetrically arranged around $O$. 
+
+![[Pasted image 20260302070743.png]]
+
+The graph of $a\sin n\theta$, will have the same 'petal' shaped structure however 
