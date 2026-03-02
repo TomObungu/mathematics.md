@@ -25,8 +25,13 @@ This curve is 'heart' shaped and is known as a cardiod.
 
 ## b $r=a\sin 3\theta$
 Since we only draw the graph when $r\geq 0$, you need to determine the values of $\theta$ required. 
-
+![[Pasted image 20260302070225.png]]
 Therefore we need to consider:
 $$
-
+0 \leq \theta \leq \frac{\pi}{3}, \ \frac{2\pi}{3} \leq \theta \leq \pi, \ \frac{4\pi}{3} \leq \theta \leq \frac{5\pi}{3}
 $$
+Drawing the table with this consideration:
+
+| $\theta$ | 0   | $\frac{\pi}{6}$ |     |
+| -------- | --- | --------------- | --- |
+|          |     |                 |     |
