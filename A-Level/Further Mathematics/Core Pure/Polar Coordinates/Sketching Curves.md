@@ -58,3 +58,8 @@ The graph of $a\cos\theta$ is similar except the first petal always starts on th
 For example, the graph of $\sin 3\theta$, there are again 3 petals and the  midpoints of the petals align at  $0,  \frac{2\pi}{n}, \frac{4\pi}{2n}, \frac{2k\pi}{n}\dots, \ n \in \mathbb{Z}^{+},\ k =  1, 2, 3.. n$ radians from the horizontal x axis. 
 
 ![[Pasted image 20260302074806.png]]
+
+
+# Curves in form $r = a(p + q\cos\theta)$ 
+These curves are defined for all values of $\theta$ if $p \geq q$.  These curbes fall into three types, the cardiod as seen in example 1, the 'egg' shape (i.e a convex curve) and those with a 'dimple' (i.e the curve is concave at $\theta = \pi$). The conditions for each type are given below:
+![[Pasted image 20260302080534.png]]
