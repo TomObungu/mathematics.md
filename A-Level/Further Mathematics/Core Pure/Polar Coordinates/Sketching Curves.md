@@ -36,7 +36,7 @@ Drawing the table with this consideration:
 | -------- | --- | --------------- | --------------- |
 | r        | 0   | $a$             | 0               |
 
-The pattern gives by $r=a\sin k\theta$ is typical of the patterns that arise in polar curves for equations of the form $r=a\cos n\theta$ or $r=a\sin n\theta$. They will have loops symmetrically arranged around $O$. 
+The pattern gives by $r=a\sin k\theta$ is typical of the patterns that arise in polar curves for equations of the form $r=a\cos n\theta$ or $r=a\sin n\theta$, $n \in \mathbb{Z}$. They will have loops symmetrically arranged around $O$. 
 
 ![[Pasted image 20260302070743.png]]
 
