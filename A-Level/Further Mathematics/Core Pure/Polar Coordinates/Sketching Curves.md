@@ -62,4 +62,5 @@ For example, the graph of $\sin 3\theta$, there are again 3 petals and the  midp
 
 # Curves in form $r = a(p + q\cos\theta)$ 
 These curves are defined for all values of $\theta$ if $p \geq q$.  These curbes fall into three types, the cardiod as seen in example 1, the 'egg' shape (i.e a convex curve) and those with a 'dimple' (i.e the curve is concave at $\theta = \pi$). The conditions for each type are given below:
+![[Pasted image 20260302080738.png|174]]
 ![[Pasted image 20260302080534.png]]
