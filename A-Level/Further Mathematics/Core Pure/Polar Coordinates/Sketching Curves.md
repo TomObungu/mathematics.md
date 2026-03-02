@@ -47,3 +47,5 @@ For Edexcel, the plotting restriction for all of these graphs is that $r \geq 0$
 
 The graph of $a\sin n\theta$, will have the same 'petal' shaped structure. For the plotting restriction $r \geq 0$, there are usually $n$ petals. The perpendicular line cutting through the midpoint of first 'petal' aligns with the angle of $\theta$ of $\frac{\pi}{2n}$. After that each subsequent petal is separated by angle angle $\frac{2\pi}{n}$ from the perpendicular midpoint line of the last 'petal'.
 
+For example on the graph of $\sin 4\theta$, the perpendicular midpoint line aligns with $\frac{\pi}{8}$ then each subsequent line aligns at $\frac{\pi}{2n} + \frac{2\pi}{n}, \frac{\pi}{2n} + \frac{4\pi}{n}, \frac{\pi}{2n} + \frac{2k\pi}{n}\dots, \ n \in \mathbb{Z}^{+},\ k \in \{ 1, 2, 3.. n\}$
+![[Pasted image 20260302073331.png]]
