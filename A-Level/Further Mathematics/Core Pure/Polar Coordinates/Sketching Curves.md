@@ -40,4 +40,9 @@ The pattern gives by $r=a\sin k\theta$ is typical of the patterns that arise in 
 
 ![[Pasted image 20260302070743.png]]
 
-The graph of $a\sin n\theta$, will have the same 'petal' shaped structure however 
+## $r=a\cos n\theta$ and $r=a\sin n\theta$, $n \in \mathbb{Z}$
+
+For Edexcel, the plotting restriction for all of these graphs is that $r \geq 0$.  If you were to plot these graphs normally, you would see different patterned graphs with additional reflections of patterns. 
+
+
+The graph of $a\sin n\theta$, will have the same 'petal' shaped structure. For the plotting restriction $r \geq 0$, there are usually $n$ petals. 
