@@ -45,4 +45,5 @@ The pattern gives by $r=a\sin k\theta$ is typical of the patterns that arise in 
 For Edexcel, the plotting restriction for all of these graphs is that $r \geq 0$.  If you were to plot these graphs normally, you would see different patterned graphs with additional reflections of patterns. 
 
 
-The graph of $a\sin n\theta$, will have the same 'petal' shaped structure. For the plotting restriction $r \geq 0$, there are usually $n$ petals. 
+The graph of $a\sin n\theta$, will have the same 'petal' shaped structure. For the plotting restriction $r \geq 0$, there are usually $n$ petals. The perpendicular line cutting through the midpoint of first 'petal' aligns with the angle of $\theta$ of $\frac{\pi}{2n}$. After that each subsequent petal is separated by angle angle $\frac{2\pi}{n}$ from the perpendicular midpoint line of the last 'petal'.
+
