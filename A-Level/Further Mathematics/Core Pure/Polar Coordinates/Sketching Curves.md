@@ -49,9 +49,12 @@ The graph of $a\sin n\theta$, will have the same 'petal' shaped structure. For t
 
 The perpendicular line cutting through the midpoint of first petal aligns with the angle of $\theta$ of $\frac{\pi}{2n}$ from the horizontal x-axis. After that each subsequent petal is separated by angle angle $\frac{2\pi}{n}$ from the perpendicular midpoint line of the last petal.
 
-For example on the graph of $\sin 4\theta$, the perpendicular midpoint line aligns with $\frac{\pi}{8}$ then each subsequent line aligns at $\frac{\pi}{2n} + \frac{2\pi}{n}, \frac{\pi}{2n} + \frac{4\pi}{n}, \frac{\pi}{2n} + \frac{2k\pi}{n}\dots, \ n \in \mathbb{Z}^{+},\ k =  1, 2, 3.. n$
+For example on the graph of $\sin 4\theta$, the perpendicular midpoint line aligns with $\frac{\pi}{8}$ then each subsequent line aligns at $\frac{\pi}{2n}, \frac{\pi}{2n} + \frac{2\pi}{n}, \frac{\pi}{2n} + \frac{4\pi}{n}, \frac{\pi}{2n} + \frac{2k\pi}{n}\dots, \ n \in \mathbb{Z}^{+},\ k =  1, 2, 3.. n$ from the horizontal x axis.
 ![[Pasted image 20260302073331.png]]
 
 ## $a\cos\theta$
 The graph of $a\cos\theta$ is similar except the first petal always starts on the horizontal x-axis. In this case, each petal is separated by the angle $\frac{2\pi}{n}$. 
 
+For example, the graph of $\sin 3\theta$, there are again 3 petals and the  midpoints of the petals align at  $0,  \frac{2\pi}{n}, \frac{4\pi}{2n}, \frac{2k\pi}{n}\dots, \ n \in \mathbb{Z}^{+},\ k =  1, 2, 3.. n$ radians from the horizontal x axis. 
+
+![[Pasted image 20260302074806.png]]
