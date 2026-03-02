@@ -20,3 +20,13 @@ When sketching polar curves, it is useful to plot points for key values of $\the
 | r        | $2a$ | $a$             | $0$   | $a$              | $2a$   |
 ![[Pasted image 20260301210605.png]]
 
+This curve is 'heart' shaped and is known as a cardiod.
+
+
+## b $r=a\sin 3\theta$
+Since we only draw the graph when $r\geq 0$, you need to determine the values of $\theta$ required. 
+
+Therefore we need to consider:
+$$
+
+$$

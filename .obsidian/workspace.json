@@ -208,7 +208,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -248,11 +248,11 @@
       }
     ]
   },
-  "active": "585ddd221253d214",
+  "active": "49d10d1783e27a07",
   "lastOpenFiles": [
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Sketching Curves.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260301210605.png",
-    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260301210553.png",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260301205807.png",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260301205748.png",
