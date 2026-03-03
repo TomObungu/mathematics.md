@@ -146,8 +146,33 @@ Find the magnitude and direction of the velocity as the sphere hits the ground.
 
 We need to find the horizontal and vertical components of the initial velocity and then use suvat with $a=g$ to find the final velocity in the vertical plane. Horizontal stays the same in free fall. 
 
-From previously we know that $\cos\theta = \frac{2}{3}$. Thus we can construct a triangle and find $\sin\theta$
- 
+From previously we know that $\cos\theta = \frac{2}{3}$. Thus we can construct a triangle and find $\sin\theta$.  We can label the initial vertical velocity as $V_{g}$ again and find $V_{g}$. 
+ ![[Pasted image 20260303103623.png]]
+$$
+\begin{gather*}
+\cos\theta = \frac{2}{3} \qquad \sin\theta = \frac{\sqrt{ 5 }}{3} \\ \\
+V_{g} = v\sin\theta = \sqrt{ \frac{g}{3} }\left( \frac{\sqrt{ 5 }}{3} \right) = \sqrt{ \frac{5g}{27} }
+\end{gather*}
+$$
 
-
+We also need to find find the horizontal component $v\cos\theta$ but not to use in suvat but in pythagoras for the final velocity before it hits the ground:
+$$
+v\cos\theta = \sqrt{ \frac{g}{3} }\left( \frac{2}{3} = \sqrt{ \frac{4g}{27} } \right) \\ \\
+$$
+For suvat the particle travels a vertical height equal to the radius. We have $a=g$, the initial speed $u = V_{g}$ and $s$ as $0.5$. Thus we can use $v^{2} = u^{2} + 2as$ to find the vertical speed as it hits the ground:
+$$
+\begin{gather*}
+v^{2} = \left( \frac{5g}{27} \right) + 2g(0.5) \\ \\
+v^{2} = \frac{32g}{27} \\ \\
+V_{g} = \sqrt{ \frac{32g}{27} }
+\end{gather*}
+$$
+Using pythagoras to find the final velocity with $v\cos\theta$:
+$$
+\begin{gather*}
+V = (V_{g})^{2} + (v\cos\theta)^{2}  \\ \\
+= \left( \frac{32g}{27} \right) +\left( \frac{4g}{27}  \right) \\ \\ 
+= \boxed{\frac{36g}{27}}
+\end{gather*}
+$$
 
