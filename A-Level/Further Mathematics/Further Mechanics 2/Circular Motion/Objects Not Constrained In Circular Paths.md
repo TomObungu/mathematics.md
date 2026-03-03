@@ -86,7 +86,30 @@ Finding the velocity, $v$, of the particle after it has travelled an angle $\the
 $$
 \begin{gather*}
 E_{\text{start}} = E_{end} \\ \\
-\frac{1}{2}m(gl) + mgl(1-\cos\alpha) = \frac{1}{2}mv^{2} \\ \\
-
+\frac{1}{2}m(gl) + mgl(1-\cos\theta) = \frac{1}{2}mv^{2} \\ \\
+gl + 2gl(1-\cos\theta) = v^{2} \\ \\
+gl(3-2\cos\theta) = v^{2}
 \end{gather*}
 $$
+Using centripetal force to calculate tension:
+$$
+\begin{gather*}
+\frac{mgl(3-2\cos\theta)}{l} = T + mg\cos\theta \\ \\
+T = mg(3-3\cos\theta)
+\end{gather*}
+$$
+Equating the tension to $4mg$ and solving for $\theta$:
+$$\begin{gather*}
+mg(3-3\cos\theta) = 4mg \\ \\
+\cos\theta = -\frac{1}{3} \\ \\
+\theta = 109.47127\dots \\ \\
+\theta = 109^{\circ}
+\end{gather*}
+$$
+
+# Example 3
+A particle of mass $mg$ moves from rest on a hemisphere of radius $0.5$. The particle travels angle $\theta$ around an arc of the hemisphere before losing contact with the hemisphere and moving as particle freely under gravity. Find the velocity, $v$, of the particle when it loses contact with the hemisphere. 
+
+ 
+This time we will not be dealing with tension but normal reaction force as the centripetal force. 
+
