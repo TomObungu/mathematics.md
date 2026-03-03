@@ -9,3 +9,42 @@ If an object is not considered to stay on its circular path then as soon as the 
 # Example 1
 Consider a light inextensible string of length $a$, with a particle, $P$, of mass $m$ attached to it. The other end of the string is attached to a fixed point. The particle is projected at horizontal speed $\sqrt{ 3ag }$ such that the particle will move in vertical circular motion. Find the speed of the particle $v$, when the string becomes slack.
 
+The string becomes once the particle has travelled some angle $\alpha$ and moves at that velocity $v$.
+![[Pasted image 20260303091622.png]]
+
+Finding the velocity $v$ using conservation of energy:
+$$
+\begin{gather*}
+E_{\text{start}} = E_{\text{end}} \\ \\
+KE = KE + GPE \\ \\
+\frac{1}{2}m(3ag)  = \frac{1}{2}mv^{2} + mga(1 -\cos\alpha) \\ \\
+3ag + 2ag(\cos\alpha -1) = v^{2} \\ \\
+v^{2} = ag(2\cos\alpha + 1)
+\end{gather*}
+$$
+Finding tension using centripetal:
+$$
+\begin{gather*}
+\frac{mag(2\cos\alpha +1)}{a} = T - mg\cos\alpha \\ \\
+T = mg(3\cos\alpha +1)
+\end{gather*}
+$$
+The string is slack when Tension, $T$ is 0, thus we equate the equation above to 0:
+$$
+\begin{gather*}
+T = mg(3\cos\alpha + 1 ) = 0 \\ \\
+3\cos\alpha + 1 = 0 \\ \\
+\cos \alpha = -\frac{1}{3}
+\end{gather*}
+$$
+We now have an expression for $\cos\alpha$ which we can substitute back into $v$ to find the value of $v$ when string is slack:
+$$
+\begin{gather*}
+v^{2} = ag(2\cos\alpha + 1) \\ \\
+= ag\left( 2\left( -\frac{1}{3} \right) + 1 \right) \\ \\
+= \frac{ag}{3} \\ \\ \\
+v = \boxed{\sqrt{ \frac{ag}{3} }}
+\end{gather*} 
+$$
+
+## Examp
