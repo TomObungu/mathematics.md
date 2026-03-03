@@ -23,6 +23,23 @@ $$
 y=r\sin\theta = a(1+\cos\theta)\sin\theta \\ \\
 \frac{dy}{d\theta} = a(\cos\theta +\cos 2\theta) = 0 \\ \\
 2\cos ^{2}\theta +\cos\theta -1 = 0 \\ \\
-()
+(\cos\theta + 1)(2\cos\theta - 1) \\ \\
+\cos\theta = \frac{1}{2} \implies \theta = \pm \frac{\pi}{3}
 \end{gather*}
 $$
+Therefore:
+$$
+\begin{gather*}
+r = a\left( 1 +\frac{1}{2} \right) = \frac{3a}{2} \\ \\
+\cos\theta = -1 \implies \theta = \pi \implies r = 0 \\ \\
+
+\end{gather*}
+$$
+So the tangents are at $\left( \frac{3a}{2}, \pm \frac{\pi}{3} \right)$ and $(0,\pi)$
+
+
+# Proving the curves for $r=(p+q\cos\theta)$
+
+The curve $C$ has equation $r=(p+q\cos\theta)$, where $p$ and $q$ are positive constants and $p > q$. Prove that the curve is convex for $p \geq 2q$, and has a dimple for $p < 2q$.
+
+If the curve is not convex then then there will be more than two tangents to the curve that are perpendicular to the initial line. 
