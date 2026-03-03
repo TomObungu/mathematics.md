@@ -60,9 +60,10 @@ In this case it is $0$ to $\frac{\pi}{3}$ for $r =2 +\cos\theta$ and $\frac{\pi}
 $$
 \begin{gather*}
 A = 2\left( \frac{1}{2} \int_{0}^{\pi/3} (2+\cos\theta)^{2}+ \frac{1}{2}\int_{\frac{\pi}{3}}^{\pi/2}(5\cos\theta)^{2} \right) \\ \\
-= \int_{0}^{\pi/3}(4+2\cos\theta + \cos ^{2}\theta) + 25\int_{\frac{\pi}{3}}^{\pi/2} \cos ^{2}\theta \\ \\
-= \left[ 4\theta + 2\sin\theta + \frac{1}{4}\sin 2\theta + \frac{1}{2}\theta \right]_{0}^{\pi/3} + 25\left[ \frac{1}{4}\sin 2\theta + \frac{1}{2}\theta \right]_{\frac{\pi}{3}}^{\pi/2} \\ \\
-= \left( \frac{3\pi}{2} + \frac{2\sqrt{ 3 }}{2} -\frac{2\sqrt{ 3 }}{8}\right) + \left( \frac{5\pi}{4}\right) \\ \\
-= 
+= \int_{0}^{\pi/3}(4+4\cos\theta + \cos ^{2}\theta) + 25\int_{\frac{\pi}{3}}^{\pi/2} \cos ^{2}\theta \\ \\
+= \left[ 4\theta + 4\sin\theta + \frac{1}{4}\sin 2\theta + \frac{1}{2}\theta \right]_{0}^{\pi/3} + 25\left[ \frac{1}{4}\sin 2\theta + \frac{1}{2}\theta \right]_{\frac{\pi}{3}}^{\pi/2} \\ \\
+= \left( \frac{3\pi}{2} + \frac{4\sqrt{ 3 }}{2} +\frac{\sqrt{ 3 }}{8}\right) + \left( \frac{25\pi}{4}\right) - \left( \frac{25\sqrt{ 3 }}{8} + \frac{25\pi}{6} \right) \\ \\
+= \frac{43\pi}{12} - \sqrt{ 3 }
 \end{gather*} 
 $$
+
