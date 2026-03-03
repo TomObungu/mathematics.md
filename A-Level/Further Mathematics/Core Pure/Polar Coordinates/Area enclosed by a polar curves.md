@@ -18,10 +18,23 @@ $$
 \text{Area} = \frac{2a^{2}}{2} \int_{0}^{\pi} (a(1+\cos\theta))^{2}d\theta \\ \\
  = a^{2} \int_{0}^{\pi}(1+2\cos\theta+\cos ^{2}\theta)d\theta \\ \\
  = a^{2}\int_{0}^{\pi}\left( 1 +2\cos\theta + \frac{1}{2}\cos 2\theta  + \frac{1}{2}\right) \\ \\
- = a^{2}\left[ \theta + 2\cos\theta -\frac{1}{4}\sin 2\theta +\frac{1}{2}\theta\right]_{0}^{\pi} \\ \\
-  = a^{2} \left[ \frac{3}{2}\theta +2\cos\theta -\frac{1}{4}\sin 2\theta\right]_{0}^{\pi} \\ \\
-  =a^{2}\left( \frac{3}{2}\pi -2\ \right)
+ = a^{2}\left[ \theta + 2\sin\theta -\frac{1}{4}\sin 2\theta +\frac{1}{2}\theta\right]_{0}^{\pi} \\ \\
+  = a^{2} \left[ \frac{3}{2}\theta +2\sin\theta -\frac{1}{4}\sin 2\theta\right]_{0}^{\pi} \\ \\
+  =a^{2}\left( \frac{3}{2}\pi \ \right) \\ \\
+  = \frac{3a^{2}\pi}{2}
 \end{gather*}
 $$
+# Example 2
+Find the area of one loop of the curve with equation $r=a\sin 4\theta$
 
-
+Remember that edexcel only consider the positive loops of $r$. Drawing a graph of $a\sin 4\theta$, we can see that first positive region will be for $0 \leq \theta \leq \frac{\pi}{4}$. 
+![[Pasted image 20260303111927.png]]
+Therefore we only need to integrate between that region:
+$$
+\begin{gather*}
+\text{area of one loop} = \frac{a^{2}}{2} \int_{0}^{\frac{\pi}{4}} (\sin 4\theta)^{2} d\theta \\ \\
+= \frac{a^{2}}{2} \int_{0}^{\frac{\pi}{4}} -\frac{1}{2} \cos 8\theta + \frac{1}{2} d\theta \\ \\ 
+= \frac{a^{2}}{2} \left[ -\frac{1}{16}\sin 8\theta +\frac{1}{2}\theta \right]_{0}^{\frac{\pi}{4}} \\ \\
+= \frac{a^{2}}{2}\left( \frac{\pi}{4} \right)
+\end{gather*}
+$$
