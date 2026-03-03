@@ -21,6 +21,8 @@ Finding $\frac{dy}{d\theta}$:
 $$
 \begin{gather*}
 y=r\sin\theta = a(1+\cos\theta)\sin\theta \\ \\
-\frac{dy}{d\theta} = a(\cos\theta +\cos 2\theta)
+\frac{dy}{d\theta} = a(\cos\theta +\cos 2\theta) = 0 \\ \\
+2\cos ^{2}\theta +\cos\theta -1 = 0 \\ \\
+()
 \end{gather*}
 $$
