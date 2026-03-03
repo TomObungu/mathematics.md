@@ -43,3 +43,5 @@ So the tangents are at $\left( \frac{3a}{2}, \pm \frac{\pi}{3} \right)$ and $(0,
 The curve $C$ has equation $r=(p+q\cos\theta)$, where $p$ and $q$ are positive constants and $p > q$. Prove that the curve is convex for $p \geq 2q$, and has a dimple for $p < 2q$.
 
 If the curve is not convex then then there will be more than two tangents to the curve that are perpendicular to the initial line. 
+
+
