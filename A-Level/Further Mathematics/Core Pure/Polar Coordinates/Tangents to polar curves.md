@@ -44,4 +44,22 @@ The curve $C$ has equation $r=(p+q\cos\theta)$, where $p$ and $q$ are positive c
 
 If the curve is not convex then then there will be more than two tangents to the curve that are perpendicular to the initial line. 
 
+![[Pasted image 20260303200533.png]]
+
+Finding $\frac{dx}{d\theta}$:
+$$
+\begin{gather*}
+x = r\cos\theta = p\cos\theta + q\cos ^{2}\theta \\ \\
+\frac{dx}{d\theta} = -q\sin\theta + -2q\cos\theta \sin\theta  \\ \\ 
+-\sin\theta(p+2q\cos\theta) = 0 \\ \\
+-\sin\theta = 0  \implies 0, \pi \\ \\
+\cos\theta = -\frac{p}{2q} \\ \\ 
+\end{gather*}
+$$
+If $p < 2q$, then there will be two solutions to this equation in the second and third quadrants. In this case the curve is not convex and has a dimple. This brings the total solution count 4 solutions meaning there is 4 tangents as expected for a dimple.
+
+If $p=2q$ then the solution is $\theta = \pi$ and so there are only two tangents. In this case the curve is convex. In this case there is only two solutions as $\pi$ is a repeated solution as expected for the convex curve.
+
+If $p > 2q$. Then there is no solution and again leaving the solutions as $0$ and $\pi$. Hence the curve is convex for $p \geq 2q$ and has a dimple for $p < 2q$. 
+
 
