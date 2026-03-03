@@ -35,6 +35,20 @@ $$
 \text{area of one loop} = \frac{a^{2}}{2} \int_{0}^{\frac{\pi}{4}} (\sin 4\theta)^{2} d\theta \\ \\
 = \frac{a^{2}}{2} \int_{0}^{\frac{\pi}{4}} -\frac{1}{2} \cos 8\theta + \frac{1}{2} d\theta \\ \\ 
 = \frac{a^{2}}{2} \left[ -\frac{1}{16}\sin 8\theta +\frac{1}{2}\theta \right]_{0}^{\frac{\pi}{4}} \\ \\
-= \frac{a^{2}}{2}\left( \frac{\pi}{4} \right)
+= \frac{a^{2}}{2}\left( \frac{\pi}{8} \right) \\ \\
+= \boxed{\frac{a^{2}\pi}{16}}
+\end{gather*}
+$$
+
+# Example 3
+Find the exact area of the region that lies between the curves $r = 2+\cos\theta$ and $r=5\cos\theta$
+
+Firstly sketch out the graphs:
+![[Pasted image 20260303112659.png]]
+
+Secondly we need to find the intersections of the graph. We do this by equating the graphs:
+$$
+\begin{gather*}
+2+\cos\theta = 
 \end{gather*}
 $$
