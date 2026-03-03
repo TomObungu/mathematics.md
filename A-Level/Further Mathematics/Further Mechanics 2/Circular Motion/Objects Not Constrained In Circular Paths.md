@@ -51,3 +51,15 @@ $$
 Find the height above the centre of the circle $O$ reached by the particle 
 
 We know that angle travelled $\alpha$ is obtuse from $\cos\alpha = -\frac{1}{3}$. We can label the acute version of the angle as $\beta$. Using this information we model the particle as moving freely under gravity and find the initial vertical component of velocity. 
+![[Pasted image 20260303094031.png]]
+It is possible to show the acute angle $\cos\beta$ for $\cos\alpha$ will just be the negation of $\cos\alpha$ due to properties of angles. From which we can construct a triangle and find $\sin\beta$.:
+$$
+\cos\beta = \frac{1}{3} \qquad \sin\beta = \frac{2\sqrt{ 2 }}{3}
+$$
+We can then find the initial vertical component of the projectile as it enters free fall, $V_{g}$. We know from the previous question, $v = \sqrt{ \frac{ag}{3} }$
+$$
+\begin{gather*}
+V_{g} = V\sin\beta \\ \\
+= \sqrt{ \frac{ag}{3} }\left( \frac{2\sqrt{ 2 }}{3} \right) = 
+\end{gather*}
+$$
