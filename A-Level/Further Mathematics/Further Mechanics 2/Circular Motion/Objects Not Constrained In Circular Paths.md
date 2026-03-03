@@ -60,6 +60,25 @@ We can then find the initial vertical component of the projectile as it enters f
 $$
 \begin{gather*}
 V_{g} = V\sin\beta \\ \\
-= \sqrt{ \frac{ag}{3} }\left( \frac{2\sqrt{ 2 }}{3} \right) = 
+= \sqrt{ \frac{ag}{3} }\left( \frac{2\sqrt{ 2 }}{3} \right) = \sqrt{ \frac{8ag}{27} }
 \end{gather*}
 $$
+Now we have the initial vertical velocity, we can use conservation of energy to find the final height with the initial velocity:
+$$
+\begin{gather*}
+E_{\text{start}} = E_{end} \\ \\
+KE = GPE \\ \\
+\frac{1}{2}m\left( \frac{8ag}{27} \right) = mgh \\ \\
+h = \frac{4a}{27}
+\end{gather*}
+$$
+As the particle has move an obtuse angle $\alpha$, it has also moved a change in height. We can express the change in height in terms of the acute angle $a\cos\beta$.:
+$$
+\text{Max Height} = a\cos\beta + \frac{4a}{27} = \frac{a}{3} + \frac{4a}{27} = \boxed{\frac{13a}{27}}
+$$
+
+
+# Example 2
+Consider a light inextensible string of length $l$, with a particle, $P$, of mass $m$ attached to it. The other end of the string is attached to a fixed point. The particle is projected from the top of the circle, at horizontal speed $\sqrt{ gl }$ such that the particle will move in vertical circular motion. The string will break if tension in the string exceeds $4mg$. Find the angle $\theta$ when this happens.
+
+
