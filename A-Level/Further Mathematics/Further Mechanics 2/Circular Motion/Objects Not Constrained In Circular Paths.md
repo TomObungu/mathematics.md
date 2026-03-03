@@ -108,7 +108,7 @@ mg(3-3\cos\theta) = 4mg \\ \\
 $$
 
 # Example 3
-A particle of mass $mg$ moves from rest on a hemisphere of radius $0.5$. The particle travels angle $\theta$ around an arc of the hemisphere before losing contact with the hemisphere and moving as particle freely under gravity. Find the velocity, $v$, of the particle when it loses contact with the hemisphere. 
+A particle of mass $2g$ moves from rest on a hemisphere of radius $0.5$. The particle travels angle $\theta$ around an arc of the hemisphere before losing contact with the hemisphere and moving as particle freely under gravity. Find the velocity, $v$, of the particle when it loses contact with the hemisphere. 
 
  
 This time we will not be dealing with tension but normal reaction force as the centripetal force. 
