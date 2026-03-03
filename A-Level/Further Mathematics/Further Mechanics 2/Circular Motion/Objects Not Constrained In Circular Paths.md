@@ -47,4 +47,5 @@ v = \boxed{\sqrt{ \frac{ag}{3} }}
 \end{gather*} 
 $$
 
-## Examp
+## Example 1 Continued...
+Find the height above the centre of the circle $O$ reached by the particle 
