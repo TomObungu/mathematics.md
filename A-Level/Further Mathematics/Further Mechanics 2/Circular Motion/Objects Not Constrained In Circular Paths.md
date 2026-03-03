@@ -50,4 +50,4 @@ $$
 ## Example 1 Continued...
 Find the height above the centre of the circle $O$ reached by the particle 
 
-We know that angle travelled $\alpha$ is obtuse from $\cos\alpha = -\frac{1}{3}$. We can label the acute version of the angle as $\beta$. Using this information we model the particle as moving freely under gravity and find the initial 
+We know that angle travelled $\alpha$ is obtuse from $\cos\alpha = -\frac{1}{3}$. We can label the acute version of the angle as $\beta$. Using this information we model the particle as moving freely under gravity and find the initial vertical component of velocity. 
