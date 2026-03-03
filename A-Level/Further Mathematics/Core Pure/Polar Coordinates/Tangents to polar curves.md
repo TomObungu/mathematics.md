@@ -6,4 +6,11 @@ x = r\cos\theta = f(\theta)\cos\theta \\ \\
 y = r\sin\theta = f(\theta)\sin\theta
 \end{gather*}
 $$
-By differentiating parametrically, we can find the gradient of the curve at any point and use that to find the tangent equation. 
+By differentiating parametrically, we can find the gradient of the curve at any point and use that to find the tangent equation.:
+$$
+\frac{dy}{dx} = \frac{\frac{dy}{d\theta}}{\frac{dx}{d\theta}}
+$$
+To find a tangent parallel to the initial line $\frac{dy}{d\theta}=0$
+
+To find a tangent perpendicular to the initial line $\frac{dx}{d\theta} = 0$.
+
