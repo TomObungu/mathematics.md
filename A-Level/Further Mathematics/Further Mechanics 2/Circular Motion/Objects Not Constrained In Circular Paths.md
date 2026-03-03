@@ -112,4 +112,22 @@ A particle of mass $2g$ moves from rest on a hemisphere of radius $0.5$. The par
 
  
 This time we will not be dealing with tension but normal reaction force as the centripetal force. 
+![[Pasted image 20260303102032.png]]
 
+Finding the velocity using conservation of energy:
+$$
+\begin{gather*}
+E_{\text{start}} = E_{end}  \\ \\
+GPE = KE \\ \\
+2g 0.5(1-\cos\theta) = \frac{1}{2}2v^{2} \\ \\
+v^{2} = g(1-\cos\theta)
+\end{gather*}
+$$
+Finding the normal reaction using centripetal force:
+$$
+\begin{gather*}
+\frac{2g(1-\cos\theta)}{0.5} = R - 2g\cos\theta \\ \\
+4g(1-\cos\theta) = R - 2g\cos\theta \\ \\
+R = g(4 +)
+\end{gather*}
+$$
