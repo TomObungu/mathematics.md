@@ -18,8 +18,9 @@ $$
 \text{Area} = \frac{2a^{2}}{2} \int_{0}^{\pi} (a(1+\cos\theta))^{2}d\theta \\ \\
  = a^{2} \int_{0}^{\pi}(1+2\cos\theta+\cos ^{2}\theta)d\theta \\ \\
  = a^{2}\int_{0}^{\pi}\left( 1 +2\cos\theta + \frac{1}{2}\cos 2\theta  + \frac{1}{2}\right) \\ \\
- = a^{2}\left[ \theta + 2\cos -\frac{1}{4}\sin 2\theta +\frac{1}{2}\theta\right]_{0}^{\pi} \\ \\
-  = 
+ = a^{2}\left[ \theta + 2\cos\theta -\frac{1}{4}\sin 2\theta +\frac{1}{2}\theta\right]_{0}^{\pi} \\ \\
+  = a^{2} \left[ \frac{3}{2}\theta +2\cos\theta -\frac{1}{4}\sin 2\theta\right]_{0}^{\pi} \\ \\
+  =a^{2}\left( \frac{3}{2}\pi -2\ \right)
 \end{gather*}
 $$
 
