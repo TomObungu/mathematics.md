@@ -123,11 +123,11 @@ GPE = KE \\ \\
 v^{2} = g(1-\cos\theta)
 \end{gather*}
 $$
-Finding the normal reaction using centripetal force:
+Finding the normal reaction using centripetal force. Remember that the normal reaction $R$ is just the component of weight acting on the surface. In this case it's $R = 2g\cos\theta$
 $$
 \begin{gather*}
 \frac{2g(1-\cos\theta)}{0.5} = R - 2g\cos\theta \\ \\
-4g(1-\cos\theta) = R - 2g\cos\theta \\ \\
+4g(1-\cos\theta) = 2g\cos\theta \\ \\
 R = g(4 +)
 \end{gather*}
 $$
