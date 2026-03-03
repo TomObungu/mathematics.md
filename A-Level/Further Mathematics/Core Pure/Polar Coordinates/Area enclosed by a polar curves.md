@@ -49,6 +49,9 @@ Firstly sketch out the graphs:
 Secondly we need to find the intersections of the graph. We do this by equating the graphs:
 $$
 \begin{gather*}
-2+\cos\theta = 
+2+\cos\theta = 5\cos\theta \\ \
+\cos\theta = \frac{1}{2} \\ \\
+\theta = \pm \frac{\pi}{3}
 \end{gather*}
 $$
+Since the graph is symmetrical, we can find the area above that axis and double the result. We approach this problem by finding the area for each graph up to the point of intersection:
