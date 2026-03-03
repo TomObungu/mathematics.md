@@ -55,3 +55,14 @@ $$
 \end{gather*}
 $$
 Since the graph is symmetrical, we can find the area above that axis and double the result. We approach this problem by finding the area for each graph up to the point of intersection:
+![[Pasted image 20260303115003.png]]
+In this case it is $0$ to $\frac{\pi}{3}$ for $r =2 +\cos\theta$ and $\frac{\pi}{3}$ to $\frac{\pi}{2}$ for $r=5\cos\theta$:
+$$
+\begin{gather*}
+A = 2\left( \frac{1}{2} \int_{0}^{\pi/3} (2+\cos\theta)^{2}+ \frac{1}{2}\int_{\frac{\pi}{3}}^{\pi/2}(5\cos\theta)^{2} \right) \\ \\
+= \int_{0}^{\pi/3}(4+2\cos\theta + \cos ^{2}\theta) + 5\int_{\frac{\pi}{3}}^{\pi/2} \cos ^{2}\theta \\ \\
+= \left[ 4\theta + 2\sin\theta + \frac{1}{4}\sin 2\theta + \frac{1}{2}\theta \right]_{0}^{\pi/3} + 5\left[ \frac{1}{4}\sin 2\theta + \frac{1}{2}\theta \right]_{\frac{\pi}{3}}^{\pi/2} \\ \\
+= \left( \frac{3\pi}{2} + \frac{2\sqrt{ 3 }}{2} -\frac{2\sqrt{ 3 }}{8}\right) + \left( \frac{5\pi}{4}\right) \\ \\
+= 
+\end{gather*} 
+$$
