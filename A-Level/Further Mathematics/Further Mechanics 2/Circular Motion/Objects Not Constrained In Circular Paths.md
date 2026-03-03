@@ -147,7 +147,7 @@ Find the magnitude and direction of the velocity as the sphere hits the ground.
 We need to find the horizontal and vertical components of the initial velocity and then use suvat with $a=g$ to find the final velocity in the vertical plane. Horizontal stays the same in free fall. 
 
 From previously we know that $\cos\theta = \frac{2}{3}$. Thus we can construct a triangle and find $\sin\theta$.  We can label the initial vertical velocity as $V_{g}$ again and find $V_{g}$. 
- ![[Pasted image 20260303103623.png]]
+ ![[Pasted image 20260303105144.png]]
 $$
 \begin{gather*}
 \cos\theta = \frac{2}{3} \qquad \sin\theta = \frac{\sqrt{ 5 }}{3} \\ \\
