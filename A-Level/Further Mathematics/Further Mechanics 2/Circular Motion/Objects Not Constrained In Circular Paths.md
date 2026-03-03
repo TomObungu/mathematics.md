@@ -49,3 +49,5 @@ $$
 
 ## Example 1 Continued...
 Find the height above the centre of the circle $O$ reached by the particle 
+
+We know that angle travelled $\alpha$ is obtuse from $\cos\alpha = -\frac{1}{2}$
