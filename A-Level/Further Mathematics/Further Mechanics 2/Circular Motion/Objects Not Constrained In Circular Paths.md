@@ -81,4 +81,12 @@ $$
 # Example 2
 Consider a light inextensible string of length $l$, with a particle, $P$, of mass $m$ attached to it. The other end of the string is attached to a fixed point. The particle is projected from the top of the circle, at horizontal speed $\sqrt{ gl }$ such that the particle will move in vertical circular motion. The string will break if tension in the string exceeds $4mg$. Find the angle $\theta$ when this happens.
 
+![[Pasted image 20260303095912.png]]
+Finding the velocity, $v$, of the particle after it has travelled an angle $\theta$:
+$$
+\begin{gather*}
+E_{\text{start}} = E_{end} \\ \\
+\frac{1}{2}m(gl) + mgl(1-\cos\alpha) = \frac{1}{2}mv^{2} \\ \\
 
+\end{gather*}
+$$
