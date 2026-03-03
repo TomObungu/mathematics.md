@@ -127,7 +127,27 @@ Finding the normal reaction using centripetal force. Remember that the normal re
 $$
 \begin{gather*}
 \frac{2g(1-\cos\theta)}{0.5} = R - 2g\cos\theta \\ \\
-4g(1-\cos\theta) = 2g\cos\theta \\ \\
-R = g(4 +)
+4g(1-\cos\theta) = 2g\cos\theta = R\\ \\
+R = g(4 - 6\cos\theta)
 \end{gather*}
 $$
+It loses contact when $R=0$. We can find an expression for $\cos\theta$ and substitute it back into $v^{2}$:
+$$
+\begin{gather*}
+0 = g(4-6\cos\theta) \\ \\
+\cos\theta = \frac{2}{3} \\ \\ \\ 
+v^{2} = g\left( 1 - \frac{2}{3} \right) \\ \\
+v = \boxed{\sqrt{ \frac{1}{3}g }}
+\end{gather*}
+$$
+
+## Example 3 continued
+Find the magnitude and direction of the velocity as the sphere hits the ground. 
+
+We need to find the horizontal and vertical components of the initial velocity and then use suvat with $a=g$ to find the final velocity in the vertical plane. Horizontal stays the same in free fall. 
+
+From previously we know that $\cos\theta = \frac{2}{3}$. Thus we can construct a triangle and find $\sin\theta$
+ 
+
+
+
