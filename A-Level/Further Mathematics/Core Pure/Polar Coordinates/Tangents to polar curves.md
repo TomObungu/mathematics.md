@@ -17,14 +17,3 @@ To find a tangent perpendicular to the initial line $\frac{dx}{d\theta} = 0$.
 # Example 12 
 Find the coordinates of the points $r=a(1+\cos\theta)$ where the tangents are parallel to the initial line $\theta=0$. 
 
-Finding $\frac{dy}{dx}$:
-$$
-\begin{gather*}
-x=r\cos\theta = a(1+\cos\theta)\cos\theta \\ \\
-y=r\sin\theta = a(1+\sin\theta)\sin\theta \\ \\ \\
-\frac{dx}{d\theta} = a(-\sin\theta-2\sin \cos\theta)
-= -a(\sin 2\theta+\cos\theta)\\ \\ 
-\frac{dy}{d\theta} = a (\cos\theta + 2\sin\theta \cos\theta) = a(\sin 2\theta + \cos\theta) \\ \\
-\frac{dy}{dx} = -a
-\end{gather*}
-$$
