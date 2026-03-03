@@ -159,20 +159,25 @@ We also need to find find the horizontal component $v\cos\theta$ but not to use 
 $$
 v\cos\theta = \sqrt{ \frac{g}{3} }\left( \frac{2}{3} = \sqrt{ \frac{4g}{27} } \right) \\ \\
 $$
-For suvat the particle travels a vertical height equal to the radius. We have $a=g$, the initial speed $u = V_{g}$ and $s$ as $0.5$. Thus we can use $v^{2} = u^{2} + 2as$ to find the vertical speed as it hits the ground:
+For suvat the particle travels a vertical height equal to $r\cos\theta$. We have $a=g$, the initial speed $u = V_{g}$ and $s$ as $0.5\cos\theta$. Thus we can use $v^{2} = u^{2} + 2as$ to find the vertical speed as it hits the ground:
 $$
 \begin{gather*}
-v^{2} = \left( \frac{5g}{27} \right) + 2g(0.5) \\ \\
-v^{2} = \frac{32g}{27} \\ \\
-V_{g} = \sqrt{ \frac{32g}{27} }
+v^{2} = \left( \frac{5g}{27} \right) + 2g(0.5)\cos\theta \\ \\
+v^{2} = \frac{23g}{27} \\ \\
+V_{g} = \sqrt{ \frac{23g}{27} }
 \end{gather*}
 $$
 Using pythagoras to find the final velocity with $v\cos\theta$:
 $$
 \begin{gather*}
 V = (V_{g})^{2} + (v\cos\theta)^{2}  \\ \\
-= \left( \frac{32g}{27} \right) +\left( \frac{4g}{27}  \right) \\ \\ 
-= \boxed{\frac{36g}{27}}
+= \left( \frac{23g}{27} \right) +\left( \frac{4g}{27}  \right) \\ \\ 
+= \boxed{g}
 \end{gather*}
 $$
+Using arctan to find the angle from the component velocities:
+$$
+\text{direction} = \alpha = \arctan\left( \frac{v\cos\theta}{v_{g}} \right) = \arctan\left( \frac{\sqrt{ \frac{23g}{27} }}{ \sqrt{ \frac{4g}{27} }} \right)
+$$
+ 
 
