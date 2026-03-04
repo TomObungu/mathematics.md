@@ -62,4 +62,3 @@ If $p=2q$ then the solution is $\theta = \pi$ and so there are only two tangents
 
 If $p > 2q$. Then there is no solution and again leaving the solutions as $0$ and $\pi$. Hence the curve is convex for $p \geq 2q$ and has a dimple for $p < 2q$. 
 
-
