@@ -185,37 +185,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "3afb84302eaa599d",
-        "type": "window",
-        "children": [
-          {
-            "id": "2defdaf1d9f9e8f9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "585ddd221253d214",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "5abe8679854f2379",
         "type": "window",
         "children": [
@@ -245,42 +214,12 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "5c4d131adef0b4a3",
-        "type": "window",
-        "children": [
-          {
-            "id": "3a82bc0d1330da70",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "35b5444d60f69340",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/New Edexcel Further Mechanics 2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "New Edexcel Further Mechanics 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
   "active": "62cf80fde09171d7",
   "lastOpenFiles": [
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
@@ -300,7 +239,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260303102032.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260303102025.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "Excalidraw/Drawing 2025-10-26 20.51.21.excalidraw.md",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
