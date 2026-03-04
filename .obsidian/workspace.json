@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f65fd98c11317f5",
+        "id": "d291ac94fbbf1411",
         "type": "tabs",
         "children": [
           {
-            "id": "49d10d1783e27a07",
+            "id": "81febf19a96beeef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tangents to polar curves"
+              "title": "Determining if a linear system is Consistent Or Inconsistent"
             }
           }
         ]
@@ -212,14 +212,19 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "62cf80fde09171d7",
+  "active": "81febf19a96beeef",
   "lastOpenFiles": [
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Inverting a 2 x 2 matrix.md",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Proof of Inverse Matrix Identities.md",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Solving Systems Of Equations Using Matrices.md",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Inverting a 3 x 3 matrix.md",
+    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/Q. Harmonic form reminder.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
     "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
@@ -258,11 +263,6 @@
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Integrating Hyperbolic Functions.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/Coupled Differential Equations.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/Driven Oscillations.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/First Order Differential Equations.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/Simple Harmonic Motion.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
