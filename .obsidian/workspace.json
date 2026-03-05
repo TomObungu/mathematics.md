@@ -180,47 +180,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "28d7f9bbc07115f6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5abe8679854f2379",
-        "type": "window",
-        "children": [
-          {
-            "id": "5ae9ace35e5f7274",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "62cf80fde09171d7",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "62cf80fde09171d7",
+  "active": "81febf19a96beeef",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
     "A-Level/Resources/Applied Year 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials",
