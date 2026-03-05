@@ -11,14 +11,12 @@
             "id": "81febf19a96beeef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
-                "mode": "source",
-                "source": false
+                "file": "A-Level/Resources/Applied Year 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Roots of a quadratic equation"
+              "icon": "lucide-file-text",
+              "title": "Applied Year 2"
             }
           }
         ]
@@ -217,10 +215,10 @@
       }
     ]
   },
-  "active": "81febf19a96beeef",
+  "active": "62cf80fde09171d7",
   "lastOpenFiles": [
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials",
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics",
