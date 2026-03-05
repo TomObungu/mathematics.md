@@ -11,4 +11,4 @@ $$
 $$
 
 # Example 1
-The roots of a quadratic equation are $2x^{2}-5x-4=0$ are $\alpha$ and $\beta$. Without solving the equation, find the 
+The roots of a quadratic equation are $2x^{2}-5x-4=0$ are $\alpha$ and $\beta$. Without solving the equation, find the values of 

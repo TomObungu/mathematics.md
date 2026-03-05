@@ -11,12 +11,14 @@
             "id": "81febf19a96beeef",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A-Level/Resources/Applied Year 2.pdf"
+                "file": "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Applied Year 2"
+              "icon": "lucide-file",
+              "title": "Roots of a quadratic equation"
             }
           }
         ]
@@ -218,6 +220,7 @@
   "active": "62cf80fde09171d7",
   "lastOpenFiles": [
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
+    "A-Level/Resources/Applied Year 2.pdf",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials",
@@ -260,7 +263,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2/Uniform frameworks.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Figure.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Integrating using Hyperbolic Substitution.md",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
