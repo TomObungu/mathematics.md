@@ -1,4 +1,4 @@
-A cubic equation of the form $ax^{3}+bx^{2}+cx+d=0$, $x \in \mathbb{C}$. The cubic will always have at least one real root. 
+,kk,,k,A cubic equation of the form $ax^{3}+bx^{2}+cx+d=0$, $x \in \mathbb{C}$. The cubic will always have at least one real root. 
 
 If $\alpha$, $\beta$ and $\gamma$ are roots of the equation $ax^{3}+bx^{2}+cx+d=0$, then:
 $$
