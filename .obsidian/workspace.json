@@ -180,10 +180,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81febf19a96beeef",
+  "floating": {
+    "id": "e7eb096a68ea3a68",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ab9bc6d1d7dcf923",
+        "type": "window",
+        "children": [
+          {
+            "id": "fba9cc49dc80349f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb135ca75cee5eb8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cb135ca75cee5eb8",
   "lastOpenFiles": [
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Resources/Applied Year 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials",
