@@ -42,7 +42,7 @@ $$
 \alpha\beta = -\frac{15}{8} = \frac{c}{a} \\ \\
 \end{gather*}
 $$
-Notice that each term is the coeficients divided by $a$. Substitute them back into the quadratic:
+Notice that each term is the coefficients divided by $a$. Substitute them back into the quadratic:
 $$
 \begin{gather*}
 x^{2} + \frac{1}{4}-\frac{15}{8} = 0  \\ \\
