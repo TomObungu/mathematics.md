@@ -29,5 +29,24 @@ $$
 $$
 d
 $$
-a^{2} + \beta^{2}  = (\alpha+ )
+\begin{gather*}
+a^{2} + \beta^{2}  = (\alpha+\beta)^{2} - 2\alpha\beta  \\ \\ 
+= \left( \frac{5}{2} \right)^{2} -2(-2) = \frac{41}{4} 
+\end{gather*}
+$$
+# Example 2 
+The roots of a quadratic equation $ax^{2}+bx+c=0$ are $\alpha = -\frac{3}{2}$ and $\beta = \frac{5}{4}$. Find integer values for $a$,$b$ and $c$. :
+$$
+\begin{gather*}
+\alpha + \beta = -\frac{1}{4} = -\frac{b}{a} \\ \\
+\alpha\beta = -\frac{15}{8} = \frac{c}{a} \\ \\
+\end{gather*}
+$$
+Notice that each term is the coeficients divided by $a$. Substitute them back into the quadratic:
+$$
+\begin{gather*}
+x^{2} + \frac{1}{4}-\frac{15}{8} = 0  \\ \\
+8x^{2}+2x-15 = 0 \\ \\
+a = 8, b =2, c = -15
+\end{gather*}
 $$
