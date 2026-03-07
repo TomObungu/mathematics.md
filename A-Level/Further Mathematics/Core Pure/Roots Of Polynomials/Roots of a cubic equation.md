@@ -9,10 +9,21 @@ $$
 \end{gather*}
 $$
 
-# Example 3
+# Example 1
 $\alpha$, $\beta$ and $\gamma$ are the roots of the cubic equation $2x^{3}+3x^{2}-4x^{2}+2=0$. Without solving the equation, find the values of:
 a $\alpha+\beta+\gamma$ 
 $$
 \alpha + \beta + \gamma = -\frac{3}{2}
 $$
-b$\alpha\beta  + \alpha\gamma$
+b $\alpha\beta  + \alpha\gamma  + \beta\gamma$
+$$
+\alpha\beta  + \alpha\gamma  + \beta\gamma = -2
+$$
+c $\alpha\beta\gamma$
+$$
+\alpha\beta\gamma = -1
+$$
+d $\frac{1}{\alpha} + \frac{1}{\beta} + \frac{1}{\gamma}$
+$$
+\frac{1}{\alpha} + \frac{1}{\beta} + \frac{1}{\gamma} = \frac{\alpha\beta+\alpha\gamma+\beta\gamma}{\alpha\beta\gamma} = -\frac{2}{-1} = 2
+$$

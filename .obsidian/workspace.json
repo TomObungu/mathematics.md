@@ -212,16 +212,16 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "cb135ca75cee5eb8",
   "lastOpenFiles": [
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a cubic equation.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Resources/Applied Year 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials",
