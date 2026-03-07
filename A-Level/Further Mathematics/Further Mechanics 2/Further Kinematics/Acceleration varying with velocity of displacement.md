@@ -77,3 +77,9 @@ The acceleration, $a$, of a particle is modelled as $a = \frac{1}{2}(3-v)$. Give
 
 Find $v(t)$ and state its limiting value.  
 
+We are given $a$ and asked to find $v(t)$. Therefore we use $\frac{dv}{dt}$:
+$$
+\begin{gather*}
+
+\end{gather*}
+$$
