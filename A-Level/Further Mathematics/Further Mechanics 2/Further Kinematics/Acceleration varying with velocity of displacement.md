@@ -80,6 +80,18 @@ Find $v(t)$ and state its limiting value.
 We are given $a$ and asked to find $v(t)$. Therefore we use $\frac{dv}{dt}$:
 $$
 \begin{gather*}
-
+\frac{dv}{dt} = \frac{1}{2}(3-v)
 \end{gather*}
 $$
+Integrating:
+$$
+\begin{gather*}
+\int \frac{1}{(3-v)}dv = \int \frac{1}{2} dt  \\ \\
+-\ln(3-v) = \frac{1}{2}t +c
+\end{gather*}
+$$
+Using the conditions of the question to find the constant of integration:
+$$
+-\ln(3-(0)) = \frac{1}{2}(0) + c \implies c = -\ln 3
+$$
+
