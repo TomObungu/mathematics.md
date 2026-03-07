@@ -27,3 +27,13 @@ d $\frac{1}{\alpha} + \frac{1}{\beta} + \frac{1}{\gamma}$
 $$
 \frac{1}{\alpha} + \frac{1}{\beta} + \frac{1}{\gamma} = \frac{\alpha\beta+\alpha\gamma+\beta\gamma}{\alpha\beta\gamma} = -\frac{2}{-1} = 2
 $$
+
+
+# Example 2
+The roots of a cubic equation $ax^{3}+bx^{2}+cx+d=0$ are $\alpha=1-2i$, $\beta=1+2i$ and $\gamma=2$. Find the integers for $a$,$b$,$c$ and $d$. 
+$$
+\begin{gather*}
+\alpha + \beta + \gamma = (1-2i) + (1+2i) + 2 = 4 = -\frac{b}{a} \\ \\
+\alpha\beta+\alpha\beta+\beta \gamma = (1-2i)(1+2i)+2(1+2i) + 
+\end{gather*}
+$$
