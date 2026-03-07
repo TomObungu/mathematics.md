@@ -50,3 +50,8 @@ v-1 = \sqrt{ 4t+9 } \\ \\
 \therefore \boxed{v(t) = \sqrt{ 4t+9 } + 1}
 \end{gather*}
 $$
+
+# Example 2
+The particle passes point $B$ with velocity $8ms ^{-1}$. Find the distance $AB$, $d$.
+
+Now our variables are $v$ and $x$. W
