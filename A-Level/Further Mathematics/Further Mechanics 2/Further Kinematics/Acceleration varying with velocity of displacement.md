@@ -94,4 +94,9 @@ Using the conditions of the question to find the constant of integration:
 $$
 -\ln(3-(0)) = \frac{1}{2}(0) + c \implies c = -\ln 3
 $$
-
+Rearranging to get in terms of $v=\dots$:
+$$
+\begin{gather*}
+-\ln(3-v) = \frac{1}{2}t -\ln 3 \\ \\
+\end{gather*}
+$$
