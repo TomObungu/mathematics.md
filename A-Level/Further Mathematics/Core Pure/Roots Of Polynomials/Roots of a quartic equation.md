@@ -18,8 +18,11 @@ a $$
 \alpha + \beta -4 = -2 \\ \\  
 \alpha + \beta -2 = 0 \\ 
 QED \\ \\
-\alpha\beta(-2+4i)(-2)
+\alpha\beta(-2+4i)(-2-4i) = -60 \\ \\
+20\alpha\beta = -60 \\ \\
+a\beta = -3 \\ \\ 
+\alpha\beta +3 = 0 \\ 
+QED
 \end{gather*}
-
-
 $$
+b
