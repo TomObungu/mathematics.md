@@ -109,4 +109,7 @@ $$
 $$
 Therefore the limiting value is $3$.
 
-# Example 
+# Example 2 Continued...
+The particle passes $A$ with velocity $2ms ^{-1}.$ Find the distance $OA$. 
+
+For this par 
