@@ -24,5 +24,4 @@ a\beta = -3 \\ \\
 \alpha\beta +3 = 0 \\ 
 QED
 \end{gather*}
-$$
-b
+$$b
