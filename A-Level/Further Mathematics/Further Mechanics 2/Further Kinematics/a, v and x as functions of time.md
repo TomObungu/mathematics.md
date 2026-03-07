@@ -25,3 +25,20 @@ $$
 v = 3t^{2}-18t+24
 $$
 
+Now we have velocity, $v$, we need to integrate it to find $s$. **However**, we need to be careful and consider the negative regions the velocity function. Graphing it we see that it has a negative region at $[2,4]$ for $t$. 
+![[Pasted image 20260307211749.png]]
+The question states that we also need to find the displacement $s$ for up to $t=3$. Therefore we need to integrate the positive regions and subtract the negative regions. In this case the positive limits are $t_{1} = 0$ and $t_{2} = 2$ and the negative $t_{1} = 2$ and $t_{2} = 3$. Start of with writing velocity as the derivative of displacement $x$:
+$$
+v = \frac{dx}{dt} = 3t-18t+24
+$$
+Now integrate with the limits. For the displacement integral, since we are trying to find some distance $x$, leave the upper limit as the variable $d$ or $x$ we are trying to find from the question.
+$$
+\begin{gather*}
+ \int_{0}^{x} dx = \int_{0}^{2} 3t^{2}-18t+24dt- \int_{2}^{3} 3t^{2} - 18t + 24 dt  \\ \\
+ x = [t^{3}-9t^{2}+24t]_{0}^{2} - [t^{3}-9t+24t]_{2}^{3} \\ \\
+ x = [20] - [18-20] = 22m
+\end{gather*}
+$$
+Through all of this, we formed a differential equation where the two variables were the desired variable and the limits i.e 'find the distance, $x$, between the limits, $t$ led us to use $\frac{dx}{dt}$ in our DE.'
+
+ 
