@@ -100,6 +100,8 @@ $$
 -\ln(3-v) = \frac{1}{2}t -\ln 3 \\ 
 \ln(3-v) = \ln 3 - \frac{1}{2}t \\ 
 3-v = 3e^{-\frac{1}{2}t} \\ \\
-
+3 -\frac{3}{e^{\frac{1}{2}t}} = v \\ \\
+\therefore \boxed{v(t) = 3e^{ \frac{1}{2}t} - 3}
 \end{gather*} 
 $$
+
