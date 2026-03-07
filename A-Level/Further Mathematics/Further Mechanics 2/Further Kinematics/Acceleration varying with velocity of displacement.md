@@ -112,7 +112,7 @@ Therefore the limiting value is $3$.
 # Example 2 Continued...
 The particle passes $A$ with velocity $2ms ^{-1}.$ Find the distance $OA$. 
 
-For this part, wneed to use $v \frac{dv}{dx}$ and consider the limits. The initial velocity was $0$ and now its at $2$. The initial position from $O$, was $0$,now we are trying to find it - $d$.:
+For this part, need to use $v \frac{dv}{dx}$ and consider the limits. The initial velocity was $0$ and now its at $2$. The initial position from $O$, was $0$,now we are trying to find it - $d$.:
 $$
 \begin{gather*}
 v \frac{dv}{dx} = \frac{1}{2}(3-v) \\ \\
@@ -142,4 +142,25 @@ d= -4+6\ln 3 \\ \\
 $$
 
 # Example 3
-$a =-\frac{1}{2}e^{-x}$, $v(0) = 1$, $x(0)$
+$a =-\frac{1}{2}e^{-x}$, $v(0) = 1$, $x(0)=0$. Find $v(x)$ and $x(t)$. 
+
+We are given $a$ and want to find $v(x)$, so we use $v \frac{dv}{dx}$:
+$$
+\begin{gather*}
+v \frac{dv}{dx} = -\frac{1}{2}e^{-x} \\ \\ 
+\int vdv = \int - \frac{1}{2}e^{-x} dx \\ \\
+\frac{1}{2}v^{2} = \frac{1}{2}e^{-x} + c
+\end{gather*}
+$$
+Using the given conditions to find constant of integration:
+$$
+\frac{1}{2}(1)^{2}= \frac{1}{2}e^{-0} + c \implies c = 0
+$$Using $c$ and rearranging for $v(t)$:
+$$
+\begin{gather*}
+\frac{1}{2}v^{2} = \frac{1}{2}e^{-x} \\ \\
+v^{2} = e^{-x} \\ \\
+v = e^{-\frac{x}{2}}
+\end{gather*}
+$$
+Now, $\frac{dx}{dt}$
