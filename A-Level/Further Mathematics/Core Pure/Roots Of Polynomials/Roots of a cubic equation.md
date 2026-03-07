@@ -34,6 +34,12 @@ The roots of a cubic equation $ax^{3}+bx^{2}+cx+d=0$ are $\alpha=1-2i$, $\beta=1
 $$
 \begin{gather*}
 \alpha + \beta + \gamma = (1-2i) + (1+2i) + 2 = 4 = -\frac{b}{a} \\ \\
-\alpha\beta+\alpha\beta+\beta \gamma = (1-2i)(1+2i)+2(1+2i) + 
+\alpha\beta+\alpha\beta+\beta \gamma = (1-2i)(1+2i)+2(1+2i) + 2(1-2i) = 9 \\ \\ 
+= \frac{c}{a} \\ \\
+\alpha\beta\gamma = (1-2i)(1+2i)2 = 10 = -\frac{d}{a} \\ \\
+\therefore \frac{b}{a} = -4 \qquad \frac{c}{a} = 9 \qquad \frac{d}{a} = -10 \\ \\
+\boxed{x^{3} -4x^{2}+9x-10 = 0 } \\ \\
+a = 1, b = -4, c = 9, d = -10
 \end{gather*}
 $$
+
