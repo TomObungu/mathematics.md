@@ -163,4 +163,4 @@ v^{2} = e^{-x} \\ \\
 v = e^{-\frac{x}{2}}
 \end{gather*}
 $$
-Now, $\frac{dx}{dt}$
+Now, $\frac{dx}{dt}$ 
