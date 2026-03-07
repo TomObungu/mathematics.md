@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
+                "file": "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/a, v and x as functions of time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roots of a quartic equation"
+              "title": "a, v and x as functions of time"
             }
           }
         ]
@@ -180,46 +180,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "e7eb096a68ea3a68",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3c930da66822002c",
-        "type": "window",
-        "children": [
-          {
-            "id": "db2b06cc7cf3256e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cd71cb726456cd2f",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "cd71cb726456cd2f",
+  "active": "81febf19a96beeef",
   "lastOpenFiles": [
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/a, v and x as functions of time.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Untitled",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a cubic equation.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
@@ -263,7 +228,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/attachments",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/Centres Of Mass 2/Uniform frameworks.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
   ]
