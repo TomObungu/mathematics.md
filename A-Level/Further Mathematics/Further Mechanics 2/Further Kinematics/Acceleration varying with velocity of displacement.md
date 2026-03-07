@@ -97,6 +97,9 @@ $$
 Rearranging to get in terms of $v=\dots$:
 $$
 \begin{gather*}
--\ln(3-v) = \frac{1}{2}t -\ln 3 \\ \\
-\end{gather*}
+-\ln(3-v) = \frac{1}{2}t -\ln 3 \\ 
+\ln(3-v) = \ln 3 - \frac{1}{2}t \\ 
+3-v = 3e^{-\frac{1}{2}t} \\ \\
+
+\end{gather*} 
 $$
