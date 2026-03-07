@@ -112,4 +112,32 @@ Therefore the limiting value is $3$.
 # Example 2 Continued...
 The particle passes $A$ with velocity $2ms ^{-1}.$ Find the distance $OA$. 
 
-For this par 
+For this part, wneed to use $v \frac{dv}{dx}$ and consider the limits. The initial velocity was $0$ and now its at $2$. The initial position from $O$, was $0$,now we are trying to find it - $d$.:
+$$
+\begin{gather*}
+v \frac{dv}{dx} = \frac{1}{2}(3-v) \\ \\
+\int_{0}^{2} \frac{v}{3-v} dv = \int_{0}^{d} \frac{1}{2} dx \\ \\
+\end{gather*}
+$$
+To integrate $\frac{v}{3-v}$, we can use algebraic manipulation:
+$$
+\begin{gather*}
+\int \frac{v}{3-v}  = -\int \frac{-v}{3-v} \\
+\\
+= -\int \frac{3-v-3}{3-v} = -\int 1 - \frac{3}{3-v} \\ \\
+= \int\frac{3}{3-v} - 1 = -3\ln(3-v) -v
+\end{gather*}
+$$
+We could have also used algebraic division too. 
+
+Therefore:
+$$
+\begin{gather*}
+\left[ -3\ln(3-v)-v \right]_{0}^{2} = \frac{1}{2}d \\ \\ 
+d = 2[-3\ln(3-v)-v]_{0}^{2} \\ \\
+d = 2(-3\ln(3-2)-2) - 2(-3\ln 3 - 0) \\ \\
+d= -4+6\ln 3 \\ \\
+\boxed{d = 6\ln 3 - 4}
+\end{gather*}
+$$
+
