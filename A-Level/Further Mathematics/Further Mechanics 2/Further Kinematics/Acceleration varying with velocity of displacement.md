@@ -51,7 +51,29 @@ v-1 = \sqrt{ 4t+9 } \\ \\
 \end{gather*}
 $$
 
-# Example 2
+## Example 1 Continued... 
 The particle passes point $B$ with velocity $8ms ^{-1}$. Find the distance $AB$, $d$.
 
-Now our variables are $v$ and $x$. W
+Now our variables are $v$ and $x$. Therefore we use $v \frac{dv}{dx}$:
+$$
+\begin{gather*}
+v \frac{dv}{dx} = \frac{2}{v-1}
+\end{gather*}
+$$
+For this part of the problem we are told that velocity of he particle is now $8$. Initially it was $4$. Since we have $v(t)$ now, we can use these values as our limits for integration when integrating $v$. Furthermore the limits of displacement will be the initial displacement and the final displacement at $B$, $d$:
+$$
+\begin{gather*}
+\int_{4}^{8}v(v-1)dv = \int_{0}^{d} 2 dx \\ \\
+\left[\frac{1}{2}v^{3}-v^{2}\right]_{4}^{8} = [2x]_{0}^{d} \\ \\
+d = \frac{1}{2}\left[ \frac{1}{3}v^{3}-\frac{1}{2}v^{2} \right]_{4}^{8} \\ \\
+= \frac{1}{2} \left[ \frac{416}{3} - \frac{40}{3} \right]_{4}^{8} \\ \\
+= \frac{188}{3}m
+\end{gather*}
+$$
+Note how we formed two different DEs from the same expression for acceleration, based on what we need. 
+
+# Example 2
+The acceleration, $a$, of a particle is modelled as $a = \frac{1}{2}(3-v)$. Given that the particle is at rest at the origin, $O$, at $t=0.$
+
+Find $v(t)$ and state its limiting value.  
+
