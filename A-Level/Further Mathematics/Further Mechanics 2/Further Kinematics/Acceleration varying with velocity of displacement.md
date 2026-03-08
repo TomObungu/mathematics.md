@@ -162,5 +162,23 @@ $$
 v^{2} = e^{-x} \\ \\
 v = e^{-\frac{x}{2}}
 \end{gather*}
+$$Remember that velocity is the derivative of displacement, therefore:
 $$
-Now, $\frac{dx}{dt}$ 
+\begin{gather*}
+\frac{dx}{dt} = e^{- \frac{x}{2}} \\ \\
+\int e^{\frac{x}{2}}dx = \int dt \\ \\
+2e^{\frac{x}{2}} = t + c \\ \\
+ \end{gather*}
+$$
+Using the boundary conditions of $x(0)=0$, we can find the constant of integration:
+$$
+2e^{\frac{0}{2}} = 0 + c \implies c = 2
+$$
+Using $c$ and rearranging to get $x(t)$:
+$$
+\begin{gather*}
+\therefore 2e^{\frac{x}{2}} = t + 2 \\ \\
+\frac{x}{2} = \ln\left( \frac{1}{2}t + 1\right) \\ \\
+x = 2\ln\left( \frac{1}{2}t + 1\right)
+\end{gather*}
+$$
