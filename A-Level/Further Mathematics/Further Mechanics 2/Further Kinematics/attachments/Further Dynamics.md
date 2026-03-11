@@ -38,4 +38,4 @@ $$
 # Example 2
 At time $t=0$, a $5kg$ ball is released from rest from $O$. It experiences a resistive force of $2v$N.  
 
-Show that $v(t)$
+Show that $v(t) = \frac{5}{2}g\left( 1-e^{-\frac{2}{5}} \right)$
