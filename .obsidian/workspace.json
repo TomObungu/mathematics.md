@@ -180,10 +180,79 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81febf19a96beeef",
+  "floating": {
+    "id": "eea0665bd71c73a3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6ff2ef5c5e695f3a",
+        "type": "window",
+        "children": [
+          {
+            "id": "1471e77d44aa47da",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8746032aeaf90322",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "36b811e658ddbbdc",
+        "type": "window",
+        "children": [
+          {
+            "id": "ad2a2a315cd5fa17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2734d987d9a81e5e",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2734d987d9a81e5e",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Horizontal Circular Motion.md",
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Centripetal Force.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
     "A-Level/Mathematics/Integration/corrected questions/Q. Integral of 3x multiplied by sqrt(2x squared -4).md",
@@ -210,7 +279,6 @@
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/Q. Harmonic form reminder.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
     "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
-    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303200533.png",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Area enclosed by a polar curves.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303115003.png",
@@ -225,7 +293,6 @@
     "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260303103623.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260303102032.png",
-    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/attachments",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
