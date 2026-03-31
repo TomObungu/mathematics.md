@@ -19,3 +19,9 @@
 	- Vectors 
 	- Volumes Of Revolution
 	- Polar coordinates
+	- Series
+		- Maclaurin Series
+		- Maclaurin series expansions
+
+Practice:
+- Roots of Polynomials
