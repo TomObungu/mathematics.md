@@ -22,6 +22,6 @@
 	- Series
 		- Maclaurin Series
 		- Maclaurin series expansions
-
-Practice:
-- Roots of Polynomials
+	- Roots of Polynomials
+	- Methods in Calculus
+		- Mean value of a function
