@@ -25,3 +25,4 @@
 	- Roots of Polynomials
 	- Methods in Calculus
 		- Mean value of a function
+	- Proof By Induction
