@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List Of Weak Topics.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Determine the smallest positive value of x for which y = 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List Of Weak Topics"
+              "title": "Q. Determine the smallest positive value of x for which y = 0"
             }
           }
         ],
@@ -195,10 +195,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "7024c5f2458380bf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5784e6711b937f57",
+        "type": "window",
+        "children": [
+          {
+            "id": "e7f463a5abb811fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7eb16a086e3b52ed",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260118235531.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20260118235531"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "4b2d4cd56c280062",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Horizontal Circular Motion.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. A pond initially contains 1000 litres of unpolluted water. Show that the situation can be modelled by DE dx by dt = 5 0 = 4x by 200 + t.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Determine the smallest positive value of x for which y = 0.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/First Order Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260118235531.png",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Modelling with differential equations.md",
     "List Of Weak Topics.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Horizontal Circular Motion.md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Universal Gravitaiton",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion",
@@ -235,13 +277,8 @@
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303111927.png",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303110418.png",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303110110.png",
-    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Sketching Curves.md",
-    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Polar Coordinates and equations.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Objects Not Constrained In Circular Paths.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260303105144.png",
-    "Excalidraw/Drawing 2025-10-25 16.18.48.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260303103623.png",
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/attachments/Pasted image 20260303102032.png",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
