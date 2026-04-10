@@ -18,4 +18,16 @@ $$
 y = \frac{1}{2}\cos xe^{2x} + \cos x c 
 \end{gather*}
 $$
-(b) Using the boundary conditions 
+(b) 
+Y
+Solve the equation for which $y=0$:
+$$
+\begin{gather*}
+y = \frac{1}{2}\cos xe^{2x}+\cos x c  = 0\\ \\
+\cos x\left( \frac{1}{2}e^{2x} + c \right) = 0 \\ \\
+\cos x = 0 \\ \\
+x = \frac{\pi}{2} \\ \\
+\text{Solving for } \left( \frac{1}{2}e^{2x} + c  \right) = 0 \\
+\text{Gives } x = \ln(-4)
+\end{gather*}
+$$
