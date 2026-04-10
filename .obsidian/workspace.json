@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Show that the equation of motion of P is.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/Coupled Differential Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Show that the equation of motion of P is"
+              "title": "Coupled Differential Equations"
             }
           }
         ],
@@ -260,42 +260,20 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "5630880437ea7a07",
-        "type": "window",
-        "children": [
-          {
-            "id": "c41cfbdf79803291",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "718ed4c32cee826b",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20260119004534"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
       }
     ]
   },
-  "active": "718ed4c32cee826b",
+  "active": "4b2d4cd56c280062",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Modelling with differential equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Using boundary conditions for second order differentials.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Coupled Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/First Order Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Non-Homogeneous differential equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Homogeneous Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Driven Oscillations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Damped Harmonic Motion.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Simple Harmonic Motion.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Show that the equation of motion of P is.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Find, the vertical distance of the top of the capsule from its initial position, 9 seconds after it it released.md",
@@ -305,8 +283,6 @@
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Determine the smallest positive value of x for which y = 0.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260118235531.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. A pond initially contains 1000 litres of unpolluted water. Show that the situation can be modelled by DE dx by dt = 5 0 = 4x by 200 + t.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/First Order Differential Equations.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/Modelling with differential equations.md",
     "List Of Weak Topics.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Horizontal Circular Motion.md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
@@ -325,15 +301,9 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/attachments/Pasted image 20260307211749.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/attachments",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a cubic equation.md",
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
     "A-Level/Resources/Applied Year 2.pdf",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials",
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Inverting a 2 x 2 matrix.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Proof of Inverse Matrix Identities.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Solving Systems Of Equations Using Matrices.md",
     "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303200533.png",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303115003.png",

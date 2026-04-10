@@ -1,4 +1,4 @@
-	Since we have two arbitrary constants, we need two boundary conditions for a second order differential equation.
+Since we have two arbitrary constants, we need two boundary conditions for a second order differential equation.
 
 # Worked Example 1
 Find the particular solution for $y''+3y'+2y= 10\cos x$, when $y(0)=1$ and when $y'(0)=0$.
