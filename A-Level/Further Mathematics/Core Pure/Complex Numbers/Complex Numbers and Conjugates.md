@@ -115,7 +115,7 @@ For a complex number $z=x+iy$ with conjugate $z^{*}=x-iy$:
 $$
 \begin{gather*}
 \boxed{z+z^{*} = 2x} \\ \\
-\boxed{z-z = -2iy} \\ \\
+\boxed{z-z^{*} = -2iy} \\ \\
 \boxed{zz^{*}=x^{2}+y^{2} = |z|^{2}} \\ \\
 \boxed{\frac{z}{z^{*}} = \frac{x^{2}-y^{2}+2ixy}{x^{2}+y^{2}}}
 \end{gather*}
