@@ -195,10 +195,49 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b2d4cd56c280062",
+  "floating": {
+    "id": "7024c5f2458380bf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "404347019615e0bd",
+        "type": "window",
+        "children": [
+          {
+            "id": "beb197ad94423bfc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35abdb19f4f7cb1b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "List Of Weak Topics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "List Of Weak Topics"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "35abdb19f4f7cb1b",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Coupled Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004349.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Modelling with differential equations.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Using boundary conditions for second order differentials.md",

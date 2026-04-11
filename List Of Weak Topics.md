@@ -10,8 +10,8 @@
 	- 2D Elastic Collisions 
 	- Work Energy Power
 - Core Pure:
-	- Differential Equations
-		- Coupled Differential Equations
+	- ~~Differential Equations~~
+		- ~~Coupled Differential Equations~~
 	- Complex Numbers
 		- Roots Of Polynomials
 	- Matrices
