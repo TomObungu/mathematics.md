@@ -20,7 +20,7 @@ $f(t)$ and $g(t)$ are time-dependant functions whose rate of change do not depen
 # Example 1
 $$
 \begin{gather*}
-\frac{dx}{dt} = 2\dot{x} + 4y \ \ (1) \\ \\
+\frac{dx}{dt} = 2x + 4y \ \ (1) \\ \\
 \frac{dy}{dt} = x - y  \ \ (2) \\ \\
 \end{gather*}
 $$
