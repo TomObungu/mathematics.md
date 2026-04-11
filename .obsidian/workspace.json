@@ -195,77 +195,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "7024c5f2458380bf",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0057a782b0de78f5",
-        "type": "window",
-        "children": [
-          {
-            "id": "625f71f57bb87455",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c9026089bff12caa",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004349.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20260119004349"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "049538f12d86d675",
-        "type": "window",
-        "children": [
-          {
-            "id": "b8bda293b953de27",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8252cdaa9a906894",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20260119004534"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8252cdaa9a906894",
+  "active": "4b2d4cd56c280062",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Coupled Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004349.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Modelling with differential equations.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Using boundary conditions for second order differentials.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/First Order Differential Equations.md",
@@ -275,9 +209,7 @@
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Damped Harmonic Motion.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Simple Harmonic Motion.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Show that the equation of motion of P is.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Find, the vertical distance of the top of the capsule from its initial position, 9 seconds after it it released.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004349.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Determine, according to the model, the number of bacteria in the container 8 hours after the study.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260118235449.png",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/Q. Determine the smallest positive value of x for which y = 0.md",
@@ -300,7 +232,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/a, v and x as functions of time.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/attachments/Pasted image 20260307211749.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/attachments",
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
     "A-Level/Resources/Applied Year 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials",
     "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics",

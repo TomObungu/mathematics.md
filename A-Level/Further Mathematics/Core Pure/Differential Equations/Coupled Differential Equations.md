@@ -7,7 +7,7 @@ In a predator-prey scenario, the predators eat the prey. The more predators, the
 For two quantities, $x$ and $y$, coupled differential equations take the form:
 $$
 \begin{gather*}
-\frac{dx}{dy} = ax+by +f(t)  \\ \\
+\frac{dx}{dt} = ax+by +f(t)  \\ \\
 \frac{dy}{dt} = cx + dy + g(t)
 \end{gather*}
 $$
