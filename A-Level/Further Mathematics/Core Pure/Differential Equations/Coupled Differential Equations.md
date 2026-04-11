@@ -21,7 +21,7 @@ $f(t)$ and $g(t)$ are time-dependant functions whose rate of change do not depen
 $$
 \begin{gather*}
 \frac{dx}{dt} = 2\dot{x} + 4y \ \ (1) \\ \\
-\frac{dy}{dy} = x - y  \ \ (2) \\ \\
+\frac{dy}{dt} = x - y  \ \ (2) \\ \\
 \end{gather*}
 $$
 Given that $x(0)=2$, $y(0)=-2$, find $x(t)$ and $y(t)$.  
