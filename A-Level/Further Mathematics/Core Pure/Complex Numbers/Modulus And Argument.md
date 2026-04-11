@@ -50,7 +50,7 @@ We representing $|z+w|$, represent the diagrammatically by adding them tail to t
 From then onwards, we can use the cosine rule:
 $$
 \begin{gather*}
-10^{2}=6^{2}|w|^{2}-2(6)w\cos\left( \frac{7}{8}\pi\right)  \\
+10^{2}=6^{2}+|w|^{2}-2(6)w\cos\left( \frac{7}{8}\pi\right)  \\
 |w|^{2} -12\cos\left( \frac{7}{8}\pi \right) - 64 = 0\\
 |w| = 4.19 
 \end{gather*}
