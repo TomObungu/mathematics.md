@@ -64,7 +64,7 @@ $$
 Applying the rules for modulus argument division and multiplication. We see that the normal rules for exponentiation apply:
 $$
 \begin{gather*}
-z_{1}=r_{1}e^{i\theta_{1}}, \ r_{2}e^{i\theta_{2}} \\ \\
+z_{1}=r_{1}e^{i\theta_{1}}, \ z_{2} = r_{2}e^{i\theta_{2}} \\ \\
 z_{1}z_{2} = r_{1}r_{2}e^{i\theta_{1}}e^{i\theta_{2}} = r_{1}r_{2}e^{i(\theta_{1}+\theta_{2})} \\ \\
 \frac{z_{1}}{z_{2}} = \frac{r_{1}e^{i\theta_{1}}}{r_{2}e^{i\theta_{2}}} = \frac{r_{1}}{r_{2}}e^{i(\theta_{1}-@2)}
 \end{gather*}
