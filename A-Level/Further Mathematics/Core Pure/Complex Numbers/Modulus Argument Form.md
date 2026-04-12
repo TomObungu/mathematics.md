@@ -55,7 +55,7 @@ Now consider $z\in \mathbb{C}$, $|z|=r$, $arg(z)=\theta$. Consider when raising 
 ![[Pasted image 20251118101653.png]]
 Each time we multiply by $z$, the angle $\theta$ is increase by the number of times we multiply by $\theta$ each time. So in this case $arg(z^{2})=2\theta$ and $arg(z^{3})=3\theta$ and so on.
 
-It will get to a point that if the number is fractional multiple of $\pi$ e.g. $\frac{\pi}{6}$, Raising $z^{6}$ will yield $\pi$ and the number will be on the part of the Argand diagram only - $z^{6} \in \mathbb{R}$: 
+It will get to a point that if the complex number's argument is a rational fractional multiple of $\pi$ e.g. $\frac{\pi}{6}$, Raising it to the denominator e.g  $z^{6}$ will yield $\pi$ and the number will be on the real part of the Argand diagram only - $z^{6} \in \mathbb{R}$: 
 ![[Pasted image 20251118102326.png]]
 
 # Worked Example 2
