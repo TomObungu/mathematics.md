@@ -56,7 +56,7 @@ $$
 $$
 Expanding it all out will give:
 $$
-x=\boxed{\frac{8}{5}}, \frac{32}{5} \qquad y = \frac{3}{4}\left( \frac{8}{5} \right) = \frac{6}{6}
+x=\boxed{\frac{8}{5}}, \frac{32}{5} \qquad y = \frac{3}{4}\left( \frac{8}{5} \right) = \frac{6}{5}
 $$
 This will give $z$ to be:
 $$
