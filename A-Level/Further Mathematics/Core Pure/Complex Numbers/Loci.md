@@ -27,7 +27,7 @@ Drawing out the circle in the Argand diagram you can see that the largest angle 
 $$
 \begin{gather*}
 \alpha = \arcsin\left( \frac{3}{5} \right) = 0.644 \\
-arg(z) = 2\alpha = 1.29 \\ \\=
+arg(z) = 2\alpha = 1.29 \\ \\
 \end{gather*}
 $$
 In order to work out the minimum value of $|z|$, we can see that, the minimum value will be the shortest distance to the circle. Drawing this out we can see that this will be the length of the triangle minus the radius:
