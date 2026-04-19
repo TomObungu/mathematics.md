@@ -1,6 +1,6 @@
-The area of a sector bounded by a poalr curve and the half lines $\theta = \alpha$ and $\theta = \beta$, where $\theta$ is in radians is given by:
+The area of a sector bounded by a polar curve and the half lines $\theta = \alpha$ and $\theta = \beta$, where $\theta$ is in radians is given by:
 $$
-a = \frac{1}{2}\int_{\alpha}^{B} r^{2}d\theta
+a = \frac{1}{2}\int_{\alpha}^{\beta} r^{2}d\theta
 $$
 ![[Pasted image 20260303110110.png]]
 
