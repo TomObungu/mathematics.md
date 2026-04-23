@@ -222,7 +222,7 @@ $$
 $$
 For it is possible to deduce a $a$ and $c$. We know $a$ will be:
 $$
-az^{4} = z^{2}
+az^{4} = z^{4}
 $$
 Therefore $a=1$. As well as that we know that $-180$ will be a result of:
 $$
