@@ -63,7 +63,7 @@ $$
 ## Worked Example 2
 Solve:
 $$
-z^{n}+1 = 0, z \in \mathbb{C}
+z^{5}+1 = 0, z \in \mathbb{C}
 $$
 From this we know that $z^{5}=-1$. If we take the same steps as before and calculate the modulus and argument of $z^{5}$:
 $$
@@ -73,7 +73,7 @@ Again, taking $z=re^{i\theta}$:
 $$
 \begin{gather*}
 z=re^{i\theta} \\ 
-r^{3}e^{5i\theta} = e^{\pi+2k\pi} \\ \\
+r^{5}e^{5i\theta} = e^{\pi+2k\pi} \\ \\
 r^{5} = 1 \implies r = 1 \\ \\
 5\theta = \pi + 2k\pi
 \end{gather*}
@@ -166,7 +166,7 @@ $$
 $$
 
 ## Relating this back to general roots
-Consider $z^{n}=w$. Doing the same process yeilds:
+Consider $z^{n}=w$. Doing the same process yields:
 $$
 |z^{n}| = |w| \qquad arg(z^{n}) = arg(w)
 $$
