@@ -81,7 +81,7 @@ $2nk\pi$ is always a multiple of $2\pi$ . This  means:
 $$
 e^{2nk\pi i} =1 
 $$
-The solution is always unique.x`
+The solution is always unique.`
 ![[Pasted image 20251118113111.png]]
 
 Let's consider $n\in \mathbb{Q} \setminus \mathbb{Z}$:
