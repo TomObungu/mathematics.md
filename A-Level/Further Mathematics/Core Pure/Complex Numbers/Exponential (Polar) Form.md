@@ -118,7 +118,7 @@ From all of this we can see that we will only get one unique solution for $Z^{n}
 Consider $re^{i\theta}=r(\cos\theta+i\sin\theta)$,
 If we do $re^{-i\theta} =r(cos(-\theta)+i\sin(-\theta))$ we know that $\cos(-\theta)=\cos\theta$ and $\sin(-\theta)=-\sin\theta$, therefore:
 $$
-re^{i\theta}= r(\cos\theta-i\sin\theta)
+re^{-i\theta}= r(\cos\theta-i\sin\theta)
 $$
 This is just the conjugated form for $re^{i\theta}$. Therefore:
 $$\begin{gather*}
