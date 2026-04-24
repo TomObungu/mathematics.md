@@ -32,7 +32,7 @@ d = 2
 $$
 This gives us the linear factor being $(z-2)$ and thus the other root being:
 $$
-z_{3} = -2
+z_{3} = 2
 $$
 
 (d) For this question we must take the factorised forms of the functions $f(z)$ and $g(z)$ and equate them.  Since we know all the roots to $f(z)$ and $g(z)$ we write them in factorised form. 
