@@ -248,7 +248,7 @@ Consider $(z-\alpha)^{n}=w$
 
 The roots of $(z-\alpha)^{n}$ form a regular n-gon centred around the orign.
 
-To find the values of $z$, we should add $\alpha$ to each of our toots. This will shift the centre from the origin to $\alpha$.
+To find the values of $z$, we should add $\alpha$ to each of our roots. This will shift the centre from the origin to $\alpha$.
 
 The solutions for $z$ of $(z-a)^{n}=w$ form a regular n-gon centred of $\alpha$.
 
