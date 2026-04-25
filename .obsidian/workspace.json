@@ -53,18 +53,16 @@
             "id": "7fda4fef1aed5570",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-04-25 09.01.46.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r."
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-25 09.01.46.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -293,16 +292,19 @@
       }
     ]
   },
-  "active": "7fda4fef1aed5570",
+  "active": "28600663fb7e43e5",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425090344.png",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425111729.png",
     "Excalidraw/Drawing 2026-04-25 09.01.46.excalidraw.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425111619.png",
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425090344.png",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Solve completely f(z)=0. Show that all the roots of the equation f(z)=0 on a single Argand diagram.md",
     "A-Level/Mathematics/Integration/Special Cases.md",
-    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Mathematics/Integration/Reverse chain rule.md",
     "A-Level/Mathematics/Integration/Standard Functions.md",
     "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
@@ -322,7 +324,6 @@
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The triangle OAB in argand daigram is equilateral. O is the origin and A corresponds to complex number sqrt(3)(1-i). B is represented by complex number b. Find the two possibilities for b..md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Viteils Formula.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The midpoints of the sides of ABCD represents the 4th roots of a complex number w. Find w.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/attachments/Pasted image 20260413233217.png",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",
@@ -339,8 +340,6 @@
     "A-Level/Resources/New Edexcel Further Mechanics 2.pdf",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303200533.png",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303115003.png",
-    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303112659.png",
-    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/attachments/Pasted image 20260303111927.png",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
   ]

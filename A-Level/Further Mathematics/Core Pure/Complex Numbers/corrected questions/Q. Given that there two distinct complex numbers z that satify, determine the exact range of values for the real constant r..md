@@ -21,5 +21,27 @@ x^{2}-6x+9 +x^{2} +6x+9 = 4r^{2} \\ \\
 r > \frac{3\sqrt{ 2 }}{2}
 \end{gather*}
 $$
+However there is an upper bound for $r$. Past a certain value of r, the circle no longer has two intersections due to the nature of the half line being 'cut off':
+![[Pasted image 20260425111619.png]]
+To find the upper bound, we must find the value of $r$ when one of the solution to the quadratic is equal to $2$ and take that as the upper bound of the inequality.
+![[Pasted image 20260425111729.png]]
+The general form for the solution to the quadratic is:
+$$
+\begin{gather*}
+2x^{2} + 18 - 4r^{2} = 0  \\ 
+x^{2} = 2r^{2} - 9 \\ \\
+x = \pm \sqrt{ 2r^{2} - 9 }
+\end{gather*}
+$$
+Taking the positive square root only as $2$ is positive and equating it to 2 gives:
+$$
+\begin{gather*}
+\sqrt{ 2r^{2} - 9 } = 2 \\ 
+2r^{2} - 9 = 4 \\
+2r^{2} = 13  \\ \\ 
+r
+\end{gather*}
+$$
+$$
 
-
+$$
