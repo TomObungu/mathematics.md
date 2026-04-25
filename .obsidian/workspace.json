@@ -11,10 +11,14 @@
             "id": "975232d841c0b0a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "A-Level/Further Mathematics/Core Pure/Complex Numbers/Loci.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Loci"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -177,86 +180,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "7024c5f2458380bf",
-    "type": "floating",
-    "children": [
-      {
-        "id": "404347019615e0bd",
-        "type": "window",
-        "children": [
-          {
-            "id": "beb197ad94423bfc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "35abdb19f4f7cb1b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "List Of Weak Topics.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "List Of Weak Topics"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "32aeb79c420faa58",
-        "type": "window",
-        "children": [
-          {
-            "id": "352369f319022e0b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "35526ea7e6978770",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "35526ea7e6978770",
+  "active": "975232d841c0b0a4",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
+    "List Of Weak Topics.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
+    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Horizontal Circular Motion.md",
     "Excalidraw/Drawing 2026-04-25 09.01.46.excalidraw.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425111729.png",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425111619.png",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
-    "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425090344.png",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. When plotted on an Argand diagram, the points form the vertices of a triangle of area 35. Given z1 = 3, find p and q..md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Hence solve the equation f(z)=g(z).md",
@@ -276,10 +211,8 @@
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Hence determine the minimum distance of w from the locus arg(z+10i) = pi by 3.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the maximum value of arg w in the interval ( -pi, pi).md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The circle D, with equation (z-2-3i) = 2, intersects C at the points representing the complex numbers z1 and z2. Find complex numbers z1 and z2..md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The triangle OAB in argand daigram is equilateral. O is the origin and A corresponds to complex number sqrt(3)(1-i). B is represented by complex number b. Find the two possibilities for b..md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that on an Argand diagram the locus of points defined by (z+5-12i)=10 is a circle. Determine the area of the region defined by A, giving your answer to 3 significant figures.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/attachments/Pasted image 20260413233217.png",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",

@@ -136,7 +136,7 @@ Consider $\{z\in \mathbb{C}:|z-z_{1}|\leq r\}$
 ![[Pasted image 20251112010416.png]]
 
 # Bisectors
-Consider $\{z\in \mathbb{C}:|z-z_{1}|\geq|z-z_{1}|\}$
+Consider $\{z\in \mathbb{C}:|z-z_{2}|\geq|z-z_{1}|\}$
 
 The distance from $z$ to $z_{2}$ is less than the distance from $z$ to $z_{1}$. The points that satisfy this are closer to $z_{2}$ than $z_{1}$:
 ![[Pasted image 20251112010550.png]]
