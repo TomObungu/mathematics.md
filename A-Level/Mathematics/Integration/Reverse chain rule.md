@@ -33,12 +33,9 @@ y = (x^{2}+5)^{4} \\ \\
 \end{gather*}
 $$
 E.g $\int \frac{\csc ^{2}x}{(2+\cot x)^{3}}$:
+The derivative of $\cot x$ is $\csc ^{2}x$. Thus we can use $\int \frac{f'(x)}{g(x)} = \ln |g(x)|$ and adjust for a constant:
 $$
-\begin{gather*}
-= \int \csc ^{2}x(2+\cot x)^{-3} \\ \\
-y = (2+\cot x)^{-2} \\ \\
-\frac{dy}{dx} = 2\csc ^{2}x(2+\cot x)^{-2} \\ \
-\therefore I = \frac{1}{2}(2+\cot x)^{-2}
-\end{gather*}
+-\ln|2 + \cot x| + c
 $$
 E.g. $\int x^{2}e^{x^{3}}$
+

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Complex Numbers/Loci.md",
+                "file": "A-Level/Mathematics/Integration/Special Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loci"
+              "title": "Special Cases"
             }
           }
         ],
@@ -279,8 +279,13 @@
       }
     ]
   },
-  "active": "28600663fb7e43e5",
+  "active": "35526ea7e6978770",
   "lastOpenFiles": [
+    "A-Level/Mathematics/Integration/Reverse chain rule.md",
+    "A-Level/Mathematics/Integration/Standard Functions.md",
+    "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
+    "A-Level/Mathematics/Integration/Integrating f(ax+b).md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Loci.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Q = {z in C ;a <= (z+b+ci) <=d } and {z in c; (z-i) <= (z-3i)} determine the exact area of the region defined by Q, giving your answer in simplest form.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
@@ -304,11 +309,6 @@
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Complex Geometric Series.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Complex Numbers and Conjugates.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Modulus Argument Form.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/De Moivre's Theorem.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Roots of polynomials.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Exponential (Polar) Form.md",
-    "List Of Weak Topics.md",
-    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Area enclosed by a polar curves.md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/attachments/Pasted image 20260413233217.png",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",

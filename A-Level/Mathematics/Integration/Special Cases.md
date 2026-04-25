@@ -7,7 +7,7 @@ Therefore:
 $$
 \int x^{2}e^{x^{3}} = \frac{1}{3}e^{x^{3}}
 $$
-In general if you ever see something in the form $x^{n}e^{n+1}$ always try $e^{n+1}$
+In general if you ever see something in the form $x^{n}e^{x^{n+1}}$ always try $e^{n}$
 
 ## $\int x^{5}e^{x^{3}}$
 This problem is much like the previous problem, instead you must split the components into a polynomial factor and $e^{x^{3}}$ multiplied by a polynomial factor with one less power than the $x^{2}$ terms. Reduce the $x^{5}$ until you have $x^{3}(x^{2}e^{x^{3}})$, the integrate by parts with $u=x^{3}$:
