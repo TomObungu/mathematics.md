@@ -9,5 +9,11 @@ For the half life, since the angle is $\frac{3}{4}\pi$, the gradient will be $-\
 $$
 y-0=-1(x-2) \implies y = -x+2
 $$
-
+In order for there to be two distinct solutions to the loci, there needs to be two intersections between the line and the circle. It is possible to find this algebraically by substituting the Cartesian line equation into the circle equation. This will yield a quadratic with an intercept in terms of $r$. To determine if there are two intersections, demand that the determinant is $>0$ and find the value of $r$ for such.
+$$
+\begin{gather*}
+(x-3)^{2}+(-x+2-5)^{2} = 4r^{2}  \\ \\
+x^{2}-6x+9 +x^{2} -5
+\end{gather*}
+$$
 
