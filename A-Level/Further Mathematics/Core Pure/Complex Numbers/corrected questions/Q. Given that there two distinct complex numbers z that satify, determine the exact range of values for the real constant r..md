@@ -13,7 +13,13 @@ In order for there to be two distinct solutions to the loci, there needs to be t
 $$
 \begin{gather*}
 (x-3)^{2}+(-x+2-5)^{2} = 4r^{2}  \\ \\
-x^{2}-6x+9 +x^{2} -5
+x^{2}-6x+9 +x^{2} +6x+9 = 4r^{2} \\ \\
+2x^{2} + 18 = 4r^{2} \\ 
+2x^{2} + 18 - 4r^{2} \\
+\Delta = -4(2)(18-4r^{2}) > 0 \\ 
+\implies 9-2r^{2} > 0 \\ \\
+r > \frac{3\sqrt{ 2 }}{2}
 \end{gather*}
 $$
+
 
