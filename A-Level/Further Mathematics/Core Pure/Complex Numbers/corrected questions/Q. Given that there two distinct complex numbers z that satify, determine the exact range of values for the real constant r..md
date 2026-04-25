@@ -39,9 +39,14 @@ $$
 \sqrt{ 2r^{2} - 9 } = 2 \\ 
 2r^{2} - 9 = 4 \\
 2r^{2} = 13  \\ \\ 
-r
+r = \sqrt{ \frac{13}{2} } = \frac{\sqrt{ 26 }}{2}
 \end{gather*}
 $$
+Thus the upper bound of $r$ is $\frac{\sqrt{ 26 }}{2}$, therefore:
+$$
+\frac{3\sqrt{ 2 }}{2} < r < \frac{\sqrt{ 26 }}{2}
+$$
+
 $$
 
 $$
