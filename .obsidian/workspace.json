@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the roots of the equation (z+1) raised to 3  = -1.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Series/Macluarin series expansions of compound functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Find the roots of the equation (z+1) raised to 3  = -1"
+              "title": "Macluarin series expansions of compound functions"
             }
           }
         ]
@@ -180,15 +180,61 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "ef0d400fa9c6dce0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7ea35d873d3cef1d",
+        "type": "window",
+        "children": [
+          {
+            "id": "a388204e743b7d63",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "99dc67ce483c8195",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "List Of Weak Topics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "List Of Weak Topics"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "975232d841c0b0a4",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Series/Maclaurin Series.md",
+    "A-Level/Further Mathematics/Core Pure/Series/Macluarin series expansions of compound functions.md",
+    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Linear Transformations in Two Dimensions.md",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Matrix Multiplication.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
+    "List Of Weak Topics.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the roots of the equation (z+1) raised to 3  = -1.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Series C and S are defined as C = 1 + nCrcos theta + nCrcos 2theta ... Show that C  = (2cos(theta by 2))  raised to n ( (cos n theta) by 2).md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Hence determine the minimum distance of w from the locus arg(z+10i) = pi by 3.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the maximum value of arg w in the interval ( -pi, pi).md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Determine in the form a + bi, z1 by z2.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Loci.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Show that arg((z2-z1) by (z3-z1)) = pi by 4.md",
-    "List Of Weak Topics.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Given that there two distinct complex numbers z that satify, determine the exact range of values for the real constant r..md",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Horizontal Circular Motion.md",
@@ -205,14 +251,7 @@
     "A-Level/Mathematics/Integration/Reverse chain rule.md",
     "A-Level/Mathematics/Integration/Standard Functions.md",
     "A-Level/Mathematics/Integration/Integrating using Trigonometric Identities.md",
-    "A-Level/Mathematics/Integration/Integrating f(ax+b).md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Q = {z in C ;a <= (z+b+ci) <=d } and {z in c; (z-i) <= (z-3i)} determine the exact area of the region defined by Q, giving your answer in simplest form.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The points representing the complex numbers z1 = 35 – 25i and z2 = –29 + 39i are opposite vertices of a regular hexagon, H, in the complex plane. Show that a = 3 + 7i.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the coordinates of the vertices of an equilateral triangle with centre (2,3) and one vertex at (3,-2).md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Find the roots of the equation (z+1) raised to 3  = -1.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Nth roots Of Complex Numbers.md",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. The circle D, with equation (z-2-3i) = 2, intersects C at the points representing the complex numbers z1 and z2. Find complex numbers z1 and z2..md",
     "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/corrected questions/attachments/Pasted image 20260413233217.png",
     "A-Level/Resources/Edexcel A level Mathematics Pure Mathematics Year 2 Textbook.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/corrected questions/attachments/Pasted image 20260119004534.png",
