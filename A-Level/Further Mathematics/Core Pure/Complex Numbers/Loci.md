@@ -5,7 +5,7 @@ There are three types of loci that are to be known:
 # Circles
 Consider $\{z\in \mathbb{C}:|z|=r\}$
 
-The points that satisfy this lie at a distance r from the origin.
+The points that satisfy this loci at a distance r from the origin.
 Since there are in infinite number of points, these points form a circle with equation $x^{2}+y^{2}=r$:
 ![[Pasted image 20251112000557.png]]
 
