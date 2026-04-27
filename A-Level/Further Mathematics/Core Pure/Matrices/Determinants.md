@@ -1,7 +1,7 @@
 [[Completing The Square]]
 You can calculate the determinant of a square ($n \times n$) matrix. The determinant is the scalar value associated with that matrix.
 
-For a $2 \times 2\text{ matrix } M = \begin{pmatrix}a & d \\ c & d\end{pmatrix}, \text{the determinant is } ab-bc$
+For a $2 \times 2\text{ matrix } M = \begin{pmatrix}a & d \\ c & d\end{pmatrix}, \text{the determinant is } ad-bc$
 If $\det M = 0$ then $M$ is a singular matrix - It does not have an inverse then $\det M \neq 0$ then matrix $M$ is a non-singular matrix.
 
 - For a linear transformation represented by matrix $\mathbf{M}$, det$\mathbf{M}$ represents the scale factor for the change in area. 
