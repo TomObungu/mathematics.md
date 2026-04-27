@@ -14,9 +14,10 @@
 		- ~~Coupled Differential Equations~~
 	- ~~Complex Numbers~~
 		- ~~Roots Of Polynomials~~
-	- Matrices
-	- Linear Transformations
-	- Vectors 
+	- ~~Matrices~~
+	- ~~Linear Transformations~~
+	- ~~Vectors~~ 
+	- Roots Of Polynomials
 	- Volumes Of Revolution
 	- Polar coordinates
 	- Series
