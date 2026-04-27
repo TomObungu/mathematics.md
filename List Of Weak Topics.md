@@ -1,4 +1,4 @@
-		- Further Mechanics 2
+- Further Mechanics 2
 	- Further Kinematics
 	- Centres Of Mass 
 	- Circular Motion
@@ -12,8 +12,8 @@
 - Core Pure:
 	- ~~Differential Equations~~
 		- ~~Coupled Differential Equations~~
-	- Complex Numbers
-		- Roots Of Polynomials
+	- ~~Complex Numbers~~
+		- ~~Roots Of Polynomials~~
 	- Matrices
 	- Linear Transformations
 	- Vectors 
