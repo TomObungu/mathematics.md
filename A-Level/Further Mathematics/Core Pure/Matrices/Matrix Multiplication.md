@@ -1,4 +1,4 @@
-Matrices can be multiplied together if the number of **columns in the first matrix is equal to the number of columns in the second matrix**
+Matrices can be multiplied together if the number of **columns in the first matrix is equal to the number of rows in the second matrix**
 
 The product matrix will have the same number of rows as the first matrix and the same number of columns as the second matrix.
 
