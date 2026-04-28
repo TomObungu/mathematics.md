@@ -1,0 +1,2 @@
+![[Pasted image 20260428113959.png]]
+For this question my mistake was taking an odd number to be $2n+1$. This is true for $r$ starting at $r=0$, however since the question specifically states, first **positive** integers, it implies $r$ starts at $1$. Thus for $r$ starting at $1$, the general form for an odd number is $2n-1$. 
