@@ -26,4 +26,9 @@ $$
 \alpha^{3} + \beta^{3} = (\alpha+\beta)^{3} - 3\alpha\beta(\alpha +\beta)
 $$
 ## Cubic
-The sum of cube of the roots is the sum of roots cubed 
+The sum of cube of the roots is the sum of roots cubed subtract 3 multiplied by $\left( \sum \alpha \right)\left( \sum\alpha\beta \right)$ plus $\alpha\beta\gamma$
+$$
+\alpha^{3} + \beta^{3} + \gamma^{3} = (\alpha+\beta+\gamma)^{3} - 3(\alpha + \beta + \gamma)(\alpha\beta+\alpha\gamma + \beta\gamma) + 3\alpha\beta\gamma
+$$
+## Quartic 
+Edexcel doesn't really do quartics I guess... 

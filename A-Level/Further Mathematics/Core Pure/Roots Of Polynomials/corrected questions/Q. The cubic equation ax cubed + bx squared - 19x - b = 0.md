@@ -1,1 +1,2 @@
 ![[Pasted image 20260427190955.png]]
+For this equation you must do $w = 4x -1$, rearrange to get $x = \frac{w+1}{4}$ and substitute into the cubic with variable coefficients. Expand it all out, multiply out to remove fractions and compare coefficients with the cubic equation with $w$.   

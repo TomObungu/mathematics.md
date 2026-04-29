@@ -17,7 +17,7 @@
 	- ~~Matrices~~
 	- ~~Linear Transformations~~
 	- ~~Vectors~~ 
-	- Roots Of Polynomials
+	- ~~Roots Of Polynomials~~
 	- Volumes Of Revolution
 	- Polar coordinates
 	- Series
