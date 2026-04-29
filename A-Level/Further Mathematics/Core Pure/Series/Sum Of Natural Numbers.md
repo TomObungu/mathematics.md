@@ -1,14 +1,39 @@
-## Sum of a constant $k$
-To find the sum of a series of a constant number $k$ you can use the formula:
-$$
-\sum_{r=1}^n k = nk
-$$
-## Sum of all n up to n
+# Sum of all n up to n
 To find the sum of a the natural numbers from $1$ to $r$ you can use the formula:
 $$
 \sum_{r=1}^nr=\frac{n(n+1)}{2}
 $$
 This evaluated equation is also the formula for the $nth$ triangular number
+## Proof
+This is what Gauss did when he was 7 years old in his head.
+
+Let $S$ be the sum of every natural number up to $n$. Therefore:
+$$
+S = 1 + 2 + 3 + \dots + n - 2 + n - 1 + n
+$$
+Now take S but backwards:
+$$
+S = n  + n - 1 + n - 2 + \dots + 3 + 2 + 1
+$$
+Adding them gives:
+$$
+\begin{gather*}
+2S = \underbrace{ (n+1) + (n+1) + (n+1)  }_{ \text{n times} }+ \dots. 
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{gather*}
+2S = n(n+1) \\ \\
+S = \frac{n(n+1)}{2} \\ \\
+QED
+\end{gather*}
+$$
+## Sum of a constant $k$
+To find the sum of a series of a constant number $k$ you can use the formula:
+$$
+\sum_{r=1}^n k = nk
+$$
 
 # Summation Of a series that does not start with $r=1$
 
