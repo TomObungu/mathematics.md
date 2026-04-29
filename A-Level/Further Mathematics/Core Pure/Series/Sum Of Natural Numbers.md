@@ -29,7 +29,7 @@ $$
 $$
 
 # Summation with the sum of two or more expressions
-It possible to individually evaluation each distinct expression in a summation: 
+It possible to individually evaluate each distinct expression in a summation. Can be used when forming telescoping sum
 $$
 \begin{gather*}
 \sum_{r=1}^n f(r) + g(r) \\ \\
