@@ -39,7 +39,7 @@ $$
 $$
 
 # Worked example 2
-*Find in terms of $n$ $\sum_{r=1}^n  \frac{1}{r(r+1)(r+2)}$ giving your answer in the form $\frac{n(n+A)}{B(n+1)(n+2)}$, where $A$ and $B$ are constants to be found*
+*Find in terms of $n$ $\sum_{r=1}^n  \frac{2}{r(r+1)(r+2)}$ giving your answer in the form $\frac{n(n+A)}{B(n+1)(n+2)}$, where $A$ and $B$ are constants to be found*
 
 $$
 \begin{gather*}
