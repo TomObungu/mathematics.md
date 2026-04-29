@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Polar question.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Expressions relating to the roots of a polynomial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Polar question"
+              "title": "Expressions relating to the roots of a polynomial"
             }
           }
         ]
@@ -214,7 +214,7 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -247,16 +247,51 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "41b72dd79023b894",
+        "type": "window",
+        "children": [
+          {
+            "id": "e70a9ebbb0b50b98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cde423a090e93a69",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "c773ef43ce15b483",
+  "active": "975232d841c0b0a4",
   "lastOpenFiles": [
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Expressions relating to the roots of a polynomial.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a cubic equation.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Polar question.md",
     "List Of Weak Topics.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260428123652.png",
     "A-Level/Further Mathematics/Core Pure/Series/Sum Of Natural Numbers.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/Q. Polar question.md",
     "A-Level/Further Mathematics/Core Pure/Series/Method Of Differences with Telescoping Series.md",
     "A-Level/Further Mathematics/Core Pure/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
     "A-Level/Further Mathematics/Core Pure/Series/Sum Of Squares.md",
@@ -280,13 +315,9 @@
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Untitled",
     "A-Level/Further Mathematics/Core Pure/Vectors/Planes.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Shortest distance from line to origin.md",
-    "A-Level/Further Mathematics/Core Pure/Vectors/Shortest distance between skew lines.md",
-    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Q. Explain how this model could be refined.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/attachments/Pasted image 20260428080434.png",
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions/Q. The cubic equation ax cubed + bx squared - 19x - b = 0.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions/attachments/Pasted image 20260427190955.png",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions/attachments",
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions",
     "A-Level/Resources/707052499-Edexcel-A-level-Further-Mathematics-Core-Pure-Mathematics-Book-2.pdf",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260425111729.png",
