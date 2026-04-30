@@ -5,3 +5,4 @@ $$
 \frac{d}{dx}\arctan x = \frac{1}{1+x^{2}}
 \end{gather*}
 $$
+
