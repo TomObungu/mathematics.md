@@ -18,12 +18,12 @@
 	- ~~Linear Transformations~~
 	- ~~Vectors~~ 
 	- ~~Roots Of Polynomials~~
-	- Volumes Of Revolution
+	- ~~Volumes Of Revolution~~
 	- Polar coordinates
 	- ~~Series~~
 		- ~~Maclaurin Series~~
 		- ~~Maclaurin series expansions~~
-	- Methods in Calculus
-		- Mean value of a function
+	- ~~Methods in Calculus~~
+		- ~~Mean value of a function~~
 	- Proof By Induction
 	- Hyperbolic functions
