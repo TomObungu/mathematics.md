@@ -43,7 +43,7 @@ dx = \sqrt{ 15 }\sec ^{2}\theta d\theta \\ \\
 \end{gather*} 
 $$
 
-# Example 1
+# Example 2
 The same can be done with quadratics that have coefficients on the $x^{2}$ terms:
 $$
 \int \frac{1}{3x^{2}+6x+52}
