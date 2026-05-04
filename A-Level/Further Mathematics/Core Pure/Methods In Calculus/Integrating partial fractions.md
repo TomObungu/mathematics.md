@@ -83,7 +83,7 @@ $$
 Now all of these integrals can be written down:
 $$
 \begin{gather*}
-= \frac{1}{9}\ln x + \frac{1}{18}x\ln|x^{2}+9| + \frac{1}{3}\arctan\left( \frac{x}{3}+ \right) + c
+= \frac{1}{9}\ln x - \frac{1}{18}\ln|x^{2}+9| + \frac{1}{3}\arctan\left( \frac{x}{3}+ \right) + c
 \end{gather*}
 $$
 
