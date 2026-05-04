@@ -1,8 +1,13 @@
-The volume of revolution formed when $x=f(y)$ is rotated through $2\pi$ radians about the y-axis between $y=a$ and $y=b$ given by volume:
+The volume of revolution formed when $x=f(y)$ is rotated through $\theta$ radians about the y-axis between $y=a$ and $y=b$ given by volume:
 $$
-\pi \int_{a}^{b}x^{2}dy
+V = \frac{1}{2}\theta \int_{a}^{b}x^{2}dy
 $$
-In problem like this, the difference is that you must
+When this is a full rotation around the x-axis. The value of $\theta$ is $2\pi$. Therefore:
+$$
+V = \pi \int_{a}^{b}x^{2}dy
+$$
+
+n problem like this, the difference is that you must
 - Rearrange to get in terms of $y$, then integrate the square of that function
 - If given any bounds of x, convert them into bounds of $y$
 

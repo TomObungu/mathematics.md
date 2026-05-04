@@ -1,9 +1,13 @@
-The volume of revolution formed when $y=f(x)$ is rotated $2\pi$ radians about the x-axis between $x=a$ and $x=b$ is given by volume:
+The volume of revolution formed when $y=f(x)$ is rotated $\theta$ radians about the x-axis between $x=a$ and $x=b$ is given by volume:
 $$
-\pi \int y^{2}dx
+V = \frac{1}{2}\theta \int_{a}^{b} y^{2}dx
 $$
 
 Most of the time this is regular integration except you deal with the square of a function. 
+When the questions explicitly states that the rotation is a full rotation around the x-axis. $\theta=2\pi$. Therefore the expression for the volume of revolution is given by:
+$$
+V = \pi \int_{a}^{b} y^{2}dx
+$$
 
 # Worked Example 1
 ![[Pasted image 20251223145333.png]]

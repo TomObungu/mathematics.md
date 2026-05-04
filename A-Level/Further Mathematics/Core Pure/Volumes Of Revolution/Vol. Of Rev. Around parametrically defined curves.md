@@ -2,14 +2,14 @@ When equations of curves are given parametrically, you can adjust the formulae f
 
 The volume of revolution formed by the parametric curve with equations $x=f(t)$ and $y=g(t)$ 
 
-is rotated through $2\pi$ radians about the x-axis between $x=a$ and $x=b$ is given by:
+is rotated through $\theta$ radians about the x-axis between $x=a$ and $x=b$ is given by:
 $$
-V = \pi \int_{x=a}^{x=b}y^{2} dx = \pi \int_{x=a}^{x=b}y^{2} \frac{dx}{dt}dt
+V = \frac{1}{2} \theta\int_{x=a}^{x=b}y^{2} dx = \frac{1}{2}\theta \int_{x=a}^{x=b}y^{2} \frac{dx}{dt}dt
 $$
 
-is rotated through $2\pi$ radians about the x-axis between $y=a$ and $y=b$ given by:
+is rotated through $\theta$ radians about the x-axis between $y=a$ and $y=b$ given by:
 $$
-V = \pi \int_{y=a}^{y=b}x^{2}dy = \pi \int_{y=a}^{y=b}x^{2} \frac{dy}{dt}dt
+V = \frac{1}{2} \theta \int_{y=a}^{y=b}x^{2}dy = \frac{1}{2}\theta \int_{y=a}^{y=b}x^{2} \frac{dy}{dt}dt
 $$
 
 # Worked Example 1
