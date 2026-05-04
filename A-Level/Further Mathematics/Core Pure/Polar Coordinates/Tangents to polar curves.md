@@ -14,7 +14,7 @@ To find a tangent parallel to the initial line $\frac{dy}{d\theta}=0$
 
 To find a tangent perpendicular to the initial line $\frac{dx}{d\theta} = 0$.
 
-# Example 12 
+# Example 1
 Find the coordinates of the points $r=a(1+\cos\theta)$ where the tangents are parallel to the initial line $\theta=0$. 
 
 Finding $\frac{dy}{d\theta}$:
