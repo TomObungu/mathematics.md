@@ -1,5 +1,7 @@
 Polar coordinates are an alternative way of describing the position of a point $P$ in two-dimensional space. You need two measurements: firstly, the distance the point is from the pole (usually the origin O), $r$ and secondly, the angle measured anticlockwise from the initial line (usually the positive x-axis), $\theta$. 
 
+Polar coordinates can be to simplify integrating when finding the area of a function that otherwise has a complicated Cartesian form. Polar coordinates can also be used to model Loci when investigating areas in the complex plane with Argand diagrams. 
+
 Polar coordinates are written as $(r,\theta)$.
 
 ![[Pasted image 20260222221204.png]]
