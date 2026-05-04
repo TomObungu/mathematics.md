@@ -35,6 +35,6 @@ $$
 If the function $f(x)$ has a mean value $\bar{f}$ over the interval $[a,b]$ and k is a real constant, then:
 
 - $f(x)+k$ has mean value $\bar{f}+k$ over the interval $[a,b]$
-- $kf(x)$ has mean value $\bar{f}$ $k\bar{f}$ over the interval $[a,b]$
+- $kf(x)$ has mean value  $k\bar{f}$ over the interval $[a,b]$
 - $-f(x)$ has mean value $-\bar{f}$ over the interval $[a,b]$
 
