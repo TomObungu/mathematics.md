@@ -18,10 +18,10 @@ B = \frac{1}{2a} \\ \\
 \frac{1}{a^{2}-x^{2}} = \frac{\frac{1}{2a}}{a+x}+\frac{\frac{1}{2a}}{a-x}
 \end{gather*}
 $$
-Thus writing the form and integrating:
+Thus writing the form and integrating. Do forget that the fraction on the right becomes negative due to reverse chain rule for the $-x$ term. 
 $$
 \begin{gather*}
-\int \frac{1}{a^{2}-x^{2}} = \int \frac{\frac{1}{2a}}{a+x}-\frac{\frac{1}{2a}}{a-x} \\ \\
+\int \frac{1}{a^{2}-x^{2}} = \int \frac{\frac{1}{2a}}{a+x}+\frac{\frac{1}{2a}}{a-x} \\ \\
 = \frac{1}{2a}\ln|a+x| - \frac{1}{2a}\ln|a-x| + c
 \end{gather*}
 $$
