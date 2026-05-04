@@ -13,9 +13,9 @@ $$\begin{gather*}
 1 = 2aA  \\
 A = \frac{1}{2a} \\ \\
 \text{Let } x = a: \\ \\
-1 = -2aB \\ 
-B = -\frac{1}{2a} \\ \\
-\frac{1}{a^{2}-x^{2}} = \frac{\frac{1}{2a}}{a+x}-\frac{\frac{1}{2a}}{a-x}
+1 = 2aB \\ 
+B = \frac{1}{2a} \\ \\
+\frac{1}{a^{2}-x^{2}} = \frac{\frac{1}{2a}}{a+x}+\frac{\frac{1}{2a}}{a-x}
 \end{gather*}
 $$
 Thus writing the form and integrating:
