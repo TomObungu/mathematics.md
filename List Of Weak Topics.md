@@ -19,7 +19,7 @@
 	- ~~Vectors~~ 
 	- ~~Roots Of Polynomials~~
 	- ~~Volumes Of Revolution~~
-	- Polar coordinates
+	- ~~Polar coordinates~~
 	- ~~Series~~
 		- ~~Maclaurin Series~~
 		- ~~Maclaurin series expansions~~
