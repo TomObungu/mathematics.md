@@ -1,1 +1,0 @@
-![[Pasted image 20260118235952.png]]https://www.edufax.co.uk/problemsheets/15_integration.pdf
