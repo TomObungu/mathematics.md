@@ -83,10 +83,18 @@ $$
 Now all of these integrals can be written down:
 $$
 \begin{gather*}
-= \frac{1}{9}\ln x - \frac{1}{18}\ln|x^{2}+9| + \frac{1}{3}\arctan\left( \frac{x}{3}+ \right) + c
+= \frac{1}{9}\ln x - \frac{1}{18}\ln|x^{2}+9| + \frac{1}{3}\arctan\left( \frac{x}{3} \right) + c
 \end{gather*}
 $$
-
+However the question asks us to have a term of $A\ln\left( \frac{x^{2}}{x^{2}+9} \right)$. Thus we must werite $\frac{1}{9}\ln x$ to get it in terms of the same fraction:
+$$
+\frac{1}{9}\ln  = \frac{1}{18}(2)\ln x = \frac{1}{18}\ln x^{2}
+$$
+Thus we finally have it our form:
+$$
+\frac{1}{18}\ln\left( \frac{x^{2}}{x^{2}+9} \right) + \frac{1}{3}\arctan\left( \frac{x}{3} \right)+c
+$$
+  
 ## Cubic denominators
 If the denominator were to be a cubic that cannot be easily factored into the product of real linear terms:
  
