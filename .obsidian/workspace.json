@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Non-Homogeneous differential equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tangents to polar curves"
+              "title": "Second Order Non-Homogeneous differential equations"
             }
           }
         ]
@@ -185,68 +185,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "c9992df5a03c07dd",
-        "type": "window",
-        "children": [
-          {
-            "id": "2d37153187bfc907",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c773ef43ce15b483",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "41b72dd79023b894",
-        "type": "window",
-        "children": [
-          {
-            "id": "e70a9ebbb0b50b98",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cde423a090e93a69",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "aec3b700497c268a",
         "type": "window",
         "children": [
@@ -281,9 +219,16 @@
       }
     ]
   },
-  "active": "975232d841c0b0a4",
+  "active": "0d3c727b8252f5fa",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Homogeneous Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Differential Equations/First Order Differential Equations.md",
+    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Divisbility Proof By Induction.md",
     "List Of Weak Topics.md",
+    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
+    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Matrix Proof by Induction.md",
+    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Proof By Induction.md",
+    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Area enclosed by a polar curves.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Sketching Curves.md",
@@ -292,7 +237,6 @@
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the x-axis.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/corrected questions/Q. Hence, using the model, find, in cm3, the volume of the pendant.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/corrected questions/Q. The curve C has parametric equations x=cos(t)+12*sin(2t) and y =-(1+sin(t)) for 0<=t<=2π. Find a Cartesian equation for C. Find the volume of the solid of revolution of C about the y-axis..md",
-    "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around parametrically defined curves.md",
     "A-Level/Further Mathematics/Core Pure/Volumes Of Revolution/Vol. Of Rev. Around the y-axis.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/corrected questions/Q. Find the angle through which the region is rotated.md",
@@ -304,12 +248,6 @@
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Differentiating inverse trigonometric functions.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/The mean value of a function.md",
     "A-Level/Further Mathematics/Core Pure/Series/corrected questions/Q. Odd telescoping sum with 3 terms.md",
-    "A-Level/Further Mathematics/Core Pure/Series/Maclaurin Series.md",
-    "A-Level/Further Mathematics/Core Pure/Series/corrected questions/Q. Determine the first two non-zero terms, in ascending powers of x, of the Maclaurin series for f(x), giving each coefficeint in its simplest form..md",
-    "A-Level/Further Mathematics/Core Pure/Series/corrected questions/Q. Show that sum of the cubes of the first n positive odd numbers is n squared ( 2n squared - 1).md",
-    "A-Level/Further Mathematics/Core Pure/Series/Macluarin series expansions of compound functions.md",
-    "A-Level/Mathematics/Completing The Square.md",
-    "A-Level/Mathematics/Differentiation.md",
     "A-Level/Further Mathematics/Core Pure/Series/corrected questions/attachments/Pasted image 20260429204844.png",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/corrected questions/attachments/Pasted image 20260428123652.png",
     "A-Level/Further Mathematics/Core Pure/Series/corrected questions/attachments/Pasted image 20260428113959.png",
