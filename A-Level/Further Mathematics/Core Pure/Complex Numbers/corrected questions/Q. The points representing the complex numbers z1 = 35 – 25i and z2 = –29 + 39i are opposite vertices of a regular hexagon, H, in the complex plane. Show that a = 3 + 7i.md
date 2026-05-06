@@ -6,4 +6,3 @@ r^{6} = 1 \implies r = 1  \\ \\
 6\theta = 2k\pi \implies \theta = \frac{2k\pi}{6}
 \end{gather*}
 $$
-x

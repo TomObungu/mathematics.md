@@ -1,4 +1,3 @@
-## Relating this back to general roots
 Consider $z^{n}=w$. Doing the same process yields:
 $$
 |z^{n}| = |w| \qquad arg(z^{n}) = arg(w)
@@ -85,7 +84,7 @@ The roots of $(z-\alpha)^{n}$ form a regular n-gon centred around the orign.
 
 To find the values of $z$, we should add $\alpha$ to each of our roots. This will shift the centre from the origin to $\alpha$.
 
-The solutions for $z$ of $(z-a)^{n}=w$ form a regular n-gon centred of $\alpha$.
+The solutions for $z$ of $(z-\alpha)^{n}=w$ form a regular n-gon centred of $\alpha$.
 
 They lie on a circle with radius $\sqrt[n]{ |w| }$ and centre, $\alpha$.
 
