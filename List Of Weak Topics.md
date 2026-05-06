@@ -25,5 +25,5 @@
 		- ~~Maclaurin series expansions~~
 	- ~~Methods in Calculus~~
 		- ~~Mean value of a function~~
-	- Proof By Induction
+	- ~~Proof By Induction~~
 	- Hyperbolic functions
