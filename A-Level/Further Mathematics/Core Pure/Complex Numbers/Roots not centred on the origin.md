@@ -18,26 +18,21 @@ After wards go through the same process of equating coefficients of $U ^{n} =z^{
 $$
 U_{1} = (|w|)^{\frac{1}{n}}e^{\frac{arg(w)+2k\pi}{n}}
 $$
-
-The corresponding roots will then be $U_{1}\omega$, $U_{1}\omega^{2}$, $U_{1}\omega^{3}$, ... $U_{1}\omega^{n-1}$
-
-
-Substituting $\beta(z-\alpha)$ for $U$ gives:
-$$
-\beta(z-\alpha) = (|w|)^{\frac{1}{n}}e^{\frac{arg(w)+2k\pi}{n}}
-$$
-Therefore:
-$$
-z_{1} = \frac{\left( (|w|)^{\frac{1}{h}}e^{\frac{arg(w)+2k\pi}{m}}\right)}{\beta} + \alpha
-$$
 While any consecutive value of $k$ work (e.g., $k = 0, 1, \dots, n -1$), exam boards usually require the argument to be in the range $(-\pi, \pi]$.  
 
 To ensure the first root lands within or near this range immediately, set $k$ to $\left\lfloor  \frac{n}{2}  \right\rfloor$. 
 
 Alternatively, set $k = 0$, or $k=1$, to find a "base" root and then use the roots of unity to find the rest. 
 
-Once the first root $z_{1}$ is found, you do not need re-calculate the entire formula for every $k$. 
+The corresponding roots will then be $U_{2} = U_{1}\omega$, $U_{3} = U_{1}\omega^{2}$, $U_{4} =U_{1}\omega^{3}$, ... $U_{n} = U_{1}\omega^{n-1}$
 
-
+Substituting $\beta(z-\alpha)$ for $U$ gives:
+$$
+\beta(z-\alpha) = U_{1}, U_{2}, U_{3}, .., U_{n}
+$$
+Therefore:
+$$
+z_{1} = \frac{ U_{n}}{\beta} + \alpha
+$$
 ## Geometric Interpretation
 These roots will form a regular $n$-gon centered around $\alpha$. 
