@@ -1,0 +1,1 @@
+Raising the roots of a complex equation to the $m$-th power follows De Moivre's Theorem, which states that for any complex number $z=re^{i\theta}$, raising it to the power m
