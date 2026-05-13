@@ -61,7 +61,7 @@ It is possible to visualise addition and subtraction of numbers in the complex p
 Just compute the multiplication as if you were expanding brackets but always being careful as $i\times i=-1$:
 $$
 \begin{gather*}
-(2+i)(3+4i) = 6 +8i+3i-4 = 2+ii \\
+(2+i)(3+4i) = 6 +8i+3i-4 = 2+i \\
 (3-i)(-2+2i) = -6+6i+2i+2 = -4+8i
 \end{gather*}
 $$
