@@ -1,3 +1,3 @@
 For vertices that are centred around the origin. If you are given a vertex and the degree of number of sides of polygon is told, multiply the vertex by the roots of unity of the polygon to find the remaining vertices.
 
-If you are given sides a shape that is not centred around the origin but centred around a centre $\alpha$. You must subtract the $\alpha$. 
+If you are given sides a shape that is not centred around the origin but centred around a centre $\alpha$. You must take $(z -\alpha)^{n}$ as the vertex and solve for $(z-a)^{n}$. You can also take it as a variable again as $U = (z-a)$ and solve for $U^{n}$. 
