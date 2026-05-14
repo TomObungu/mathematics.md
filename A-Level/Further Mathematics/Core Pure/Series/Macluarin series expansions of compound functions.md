@@ -44,7 +44,7 @@ $$
 $$
 # Worked Example 2
 ![[Pasted image 20251229195618.png]]
-Writethe Maclaurin series expansions up to $x^{3}$ for $\sin x$ and $e^{x}$
+Write the Maclaurin series expansions up to $x^{3}$ for $\sin x$ and $e^{x}$
 $$
 \begin{gather*}
 e^{x} = 1+x+\frac{x^{2}}{2!} + \frac{x^{3}}{3!} \\ \\
