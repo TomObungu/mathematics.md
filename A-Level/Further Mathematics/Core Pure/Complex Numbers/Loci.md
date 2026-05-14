@@ -37,7 +37,8 @@ $$
 |z|_{min} = 5 - 3 = 2
 $$
 The same logic can applied to the maximum value too:![[Pasted image 20251112002447.png]]
-$|z|_{max=5+3 = 8}$
+
+$$|z|_{max=5+3 = 8}$$
 
 ![[Pasted image 20251112002243.png]]
 For this question, you must find the cartesian equations of the circle and the line. For many more questions involving the complex plane, it possible to treat the circles as their cartesian equivalents. You can see that the value of $|z|_{min}$ will be one of the intersections of the line and circle:
