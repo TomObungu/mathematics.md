@@ -10,7 +10,7 @@ Remember, the inverse of a function is only defined if the function is one-to-on
 Let's take the same process that would take when finding the inverse of a function by switching $x$ and $y$ around and rearranging to get $y$. 
 $$
 \begin{gather*}
-y = \cosh x \\
+y = arcosh x \\
 x = \cosh y \\ \\
 x = \frac{e^{y}+e^{-y}}{2} \\ \\
 2x = e^{y}+e^{-y}
