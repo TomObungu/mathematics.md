@@ -177,3 +177,17 @@ A &= (2,3,2), \ \ B = (5,1,1)\\
 &d \;:=\; \overrightarrow{AB}\cdot \hat{c} \;=\; \frac{1}{\sqrt{14}}\,(1,2,-3)\cdot(3,4,1) \;=\; \frac{14}{\sqrt{14}} \;=\; \sqrt{14}
 \end{align*}
 $$
+
+
+## Cosine Rules:
+To calculate an angle when given three sides $a$, $b$ and $c$. The angle is angle that subtends the sides $a$ and $b$ and $c$ is the side opposite this angle. 
+$$
+\theta = ar\cos \left(\frac{a^{2}+b^{2}-c^{2}}{2ab}\right)
+$$
+To calculate the opposite side $a$ when given a triangle with the sides $b$ and $c$ and the angle $A$ subtends between $b$ and $c$:
+$$
+a^{2} = b^{2} + c^{2} - 2bc\cos A
+$$
+
+# Sine Rules:
+When given the an
