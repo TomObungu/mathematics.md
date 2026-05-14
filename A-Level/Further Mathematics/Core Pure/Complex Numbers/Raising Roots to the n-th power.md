@@ -9,4 +9,5 @@ The number of unique points becomes exactly $\frac{n}{gcd(n,m)}$ points.  Thus s
 
 Each of the new points is the image of exactly $gcd(n,m)$ original vertices. 
 
-# Example 1
+
+
