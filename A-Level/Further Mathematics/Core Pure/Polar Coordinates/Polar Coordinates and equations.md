@@ -144,9 +144,11 @@ $$
 r^{4} = 2r^{2}\sin\theta \cos\theta \\ \\
 r^{4} = 2r\sin\theta r\cos\theta \\ \\
 r^{4} = 2xy \\ \\
-r^{2} = \sqrt{ 2xy }
+r^{2} = \sqrt{ 2xy } \\ \\
+(x^{2}+y^{2}) = \sqrt{ 2xy } 
 \end{gather*}
 $$
+
 
 # Example 4
 It is possible to handle converting from Cartesian to polar by using $x = r\cos\theta$ and $y=r\sin\theta$.
