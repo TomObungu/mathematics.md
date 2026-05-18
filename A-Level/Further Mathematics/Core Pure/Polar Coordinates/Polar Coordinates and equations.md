@@ -177,7 +177,7 @@ $$
 \begin{gather*}
 r\sqrt{ 3 } \sin\theta = r\cos\theta + 4 \\ \\
 r(\sqrt{ 3 }\sin\theta - \cos\theta) = 4 \\ \\
-r\left(  \frac{\sqrt{ 3 }}{2}\sin\theta- \frac{1}{2}\cos\theta \right)
+r\left(  2\sin\left( \theta - \frac{\pi}{6} \right)\right) = 4 
 \end{gather*}
 $$
 From this point onwards we can use the angle addition formula for $\sin A-B$:
