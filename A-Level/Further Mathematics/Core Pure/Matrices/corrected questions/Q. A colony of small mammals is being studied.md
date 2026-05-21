@@ -124,7 +124,7 @@ e) In such a question that presents you with new variables, try and think of way
 $$
 \begin{gather*}
 \text{Let } N_{F} \text{ be the numnber of newborn females} \\ \\
-\text{Let } N_{M} \text{ be the numerb of newborn males} \\ \\
+\text{Let } N_{M} \text{ be the number of newborn males} \\ \\
 \begin{pmatrix}
 N_{F_{n}+1} \\
 N_{M_{n}+1} \\
@@ -137,3 +137,4 @@ a  & b  & 0 \\
 \end{pmatrix}
 \end{gather*}
 $$
+![[Pasted image 20260521104838.png]]
