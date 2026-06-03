@@ -37,7 +37,7 @@ Once the box starts tiling, the reaction force continues to act at a, with frict
 ![[Pasted image 20260220091825.png]]
 
 # Example 1
-A uniform solid cone of mass, sits on a rough horizontal surface. A horizontal force is applied at the vertex of the cone. Find the range of values of $\mu$ for which the cone will tilt before it slides. 
+A uniform solid cone of mass $m$, sits on a rough horizontal surface. A horizontal force is applied at the vertex of the cone. Find the range of values of $\mu$ for which the cone will tilt before it slides. 
 
 ![[Pasted image 20260220092511.png]]
 
