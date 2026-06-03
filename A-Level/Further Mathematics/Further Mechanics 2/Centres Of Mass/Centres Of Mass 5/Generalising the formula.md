@@ -1,4 +1,4 @@
-we can now up with a more general formula for finding centres of mass that will help us when we extend it to different scenarios.
+ we can now up with a more general formula for finding centres of mass that will help us when we extend it to different scenarios.
 
 For a discrete mass distribution, we have:
 $$
