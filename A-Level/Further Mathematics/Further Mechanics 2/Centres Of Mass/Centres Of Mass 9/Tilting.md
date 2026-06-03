@@ -11,7 +11,7 @@ Since $R=mg$, $R$ must be acting at the same perpendicular distance from $A$ as 
 
 Now consider a horizontal force $X$ applied at $B$. Assume that that $\mu$ is sufficient enough such that the box does not slide. There is now an additional anti-clockwise moment due to $X$. 
 
-The moment due to $mg$ remains the same, so in order fro the box to remain in equilibrium, the other anti-clockwise moment due to $R$ must have decreased.
+The moment due to $mg$ remains the same, so in order for the box to remain in equilibrium, the other anti-clockwise moment due to $R$ must have decreased.
 
 Since $R$ is still equal to $mg$, the point at which it acts must have moved closer to the pivot $A$. So the moments are still balanced. 
 
@@ -28,9 +28,9 @@ Since there is no moment from $R$, the moment produced by $X$ is now equal to th
 
 Therefore:
 
-**An object is on the point of tilting when the moment due to the applied force equals that due to the weight. **
+**An object is on the point of tilting when the moment due to the applied force equals that due to the weight. 
 
-**On the point of tilting, the reaction force acts at the pivot. **
+**On the point of tilting, the reaction force acts at the pivot. 
 
 Once the box starts tiling, the reaction force continues to act at a, with friction also acting a  this point:
 
