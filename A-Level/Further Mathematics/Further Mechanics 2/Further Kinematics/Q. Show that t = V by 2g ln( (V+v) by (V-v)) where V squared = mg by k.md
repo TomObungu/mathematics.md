@@ -18,7 +18,6 @@ This can be manipulated to form the standard result for the integral of $\frac{1
 $$
 \begin{gather*}
 \int dt = m \int \frac{1}{(\sqrt{ mg })^{2}-(\sqrt{ k }v)^{2}} \\ \\
-
-\int
+\int dt = \frac{m}{k}\int \frac{1}{\sqrt{ (\frac{mg}{k})^{2} - (v)^{2} }}
 \end{gather*}
 $$
