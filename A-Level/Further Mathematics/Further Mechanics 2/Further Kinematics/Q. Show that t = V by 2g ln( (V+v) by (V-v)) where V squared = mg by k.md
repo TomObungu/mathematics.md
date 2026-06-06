@@ -45,6 +45,22 @@ $$
 mg - kv^{2} = \frac{mvdv}{dx} \\ \\
 mg-kv^{2} = mv \frac{dv}{ds} \\ \\
 \int ds = m \int \frac{v}{mg-kv^{2}} \\ \\
-\int ds = \frac{m}{-2k} = \ln |mg - kv^{2}|
+\int ds = \frac{m}{-2k} = \ln |mg - kv^{2}| + C
 \end{gather*}
 $$
+When $x = 0$, $v = 0$. Finding $C$ gives:
+$$
+C = \frac{m}{2k}\ln(mg)
+$$
+Substituting $C$ back into the equation gives:
+$$
+\begin{gather*}
+s = \frac{m}{2k}\ln(mg)-  \frac{m}{2k}  \ln |mg - kv^{2}|  \\ \\
+\frac{m}{2k}\ln\left(  \frac{\frac{mg}{k}}{\frac{mg}{k} - v^{2}} \right)
+\end{gather*} 
+$$
+Substituting $V^{2} = \frac{mg}{k}$, gives:
+$$
+\frac{m}{2k} \ln \left( \frac{V^{2}}{V^{2}-v^{2}} \right)
+$$
+
