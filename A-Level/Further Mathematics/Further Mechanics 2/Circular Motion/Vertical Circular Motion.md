@@ -63,8 +63,6 @@ $$
 $$
 This means that the acceleration is purely tangential when the particle is instantaneously at rest. 
 
-
-
 ### Uniform acceleration
 For vertical circular motion in uniform acceleration. Since the velocity is a constant, it will differentiate to an acceleration of $0$.Therefore the tangential component of acceleration will be 0 and thus acceleration will be purely radial when at instantaneous uniform vertical circular motion.
 
