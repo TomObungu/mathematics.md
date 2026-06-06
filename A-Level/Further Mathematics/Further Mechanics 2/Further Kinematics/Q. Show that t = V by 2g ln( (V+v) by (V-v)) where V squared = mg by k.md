@@ -39,4 +39,11 @@ t =
 QED
 \end{gather*}
 $$
-
+(c) For part (c) you take a similar approach but this time show $a$ as $v \frac{dv}{dx}$:
+$$
+\begin{gather*}
+mg - kv^{2} = \frac{mvdv}{dx} \\ \\
+mg-kv^{2} = mv \frac{dv}{ds} \\ \\
+\int ds = m \int \frac{v}{mg-kv^{2}}
+\end{gather*}
+$$
