@@ -44,6 +44,7 @@ $$
 \begin{gather*}
 mg - kv^{2} = \frac{mvdv}{dx} \\ \\
 mg-kv^{2} = mv \frac{dv}{ds} \\ \\
-\int ds = m \int \frac{v}{mg-kv^{2}}
+\int ds = m \int \frac{v}{mg-kv^{2}} \\ \\
+\int ds = \frac{m}{-2k} = \ln |mg - kv^{2}|
 \end{gather*}
 $$
