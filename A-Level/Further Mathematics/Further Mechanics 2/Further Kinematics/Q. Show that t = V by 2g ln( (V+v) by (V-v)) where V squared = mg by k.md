@@ -39,4 +39,4 @@ t =
 QED
 \end{gather*}
 $$
-For part 
+
