@@ -17,7 +17,8 @@ $$
 This can be manipulated to form the standard result for the integral of $\frac{1}{a^{2}-x^{2}}$. Remember when factoring out terms within a rational function, always apply the function that that term is nested in. For example if the term is inside a 
 $$
 \begin{gather*}
-\int dt = m \int \frac{1}{(\sqrt{ mg })^{2}-(\sqrt{ k }v)^{2}} \\ \\
-\int dt = \frac{m}{k}\int \frac{1}{\sqrt{ (\frac{mg}{k})^{2} - (v)^{2} }}
+\int dt = m \int \frac{1}{mg-kv^{2}}\\ \\
+\int dt = \frac{m}{k} \int \frac{1}{\frac{mg}{k}-v^{2}} \\ \\
+\int dt =  \frac{m}{k} \int\frac{1}{V^{2}-v^{2}}
 \end{gather*}
 $$
