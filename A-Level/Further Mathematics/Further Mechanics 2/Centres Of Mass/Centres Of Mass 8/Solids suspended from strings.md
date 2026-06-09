@@ -53,7 +53,7 @@ $$
 Questions may ask for the angle to the horizontal is just $90-\theta$. In this case that is $76.0^\circ$
 
 # Example 3
- A uniform solid formed from a hemisphere of radius $r$ and a cylinder of radius $\lambda r$. 
+ A uniform solid formed from a hemisphere of radius $r$ and a cylinder of height $\lambda r$. 
 
 When suspended from A, a point on the circumference of the plane face of the hemisphere, $AO$ makes an angle $\theta$ to the downward vertical, where $\tan\theta = \frac{51}{44}$. Find $\lambda$.
 
