@@ -18,7 +18,7 @@ Writing this fully gives:
 $$
 \begin{gather*}
 \bar{x} \int_{a}^{b} \rho \pi \left(f(x)\right)^{2}dx = \int_{a}^{b} x\rho \pi \left(f(x)\right)^{2}dx \\ \\
-\bar{x} \int_{a}^{b}f(x))^{2}dx = \int_{a}^{b} x(f(x))s^{2}dx
+\bar{x} \int_{a}^{b}f(x))^{2}dx = \int_{a}^{b} x(f(x))dx
 \end{gather*}
 $$
 Or better:
