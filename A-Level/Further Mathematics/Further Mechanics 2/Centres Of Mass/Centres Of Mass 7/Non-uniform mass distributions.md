@@ -65,7 +65,8 @@ $$
 
 
 # Example 3
-A uniform lamina defined by a circular sector of radius $r$, subtends an angle $\frac{\pi}{3}.$ The mass per unit area at point $P$ is $\lambda(OP)$. Find the distance of the centre of mass from $O$. Each mass element is a thin arc, length $\frac{1}{3}\pi x$. 
+A uniform lamina defined by a circular sector of radius $r$, subtends an angle $\frac{\pi}{3}.$ The mass per unit area at point $P$ is $\lambda(OP)$. Find the distance of the centre of mass from $O$. 
+Each mass element is a thin arc, length $\frac{1}{3}\pi x$. 
 ![[Pasted image 20260220071012.png]]
 
 Therefore the mass elements $dm$ are:
