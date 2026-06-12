@@ -115,14 +115,7 @@ KE = KE + GPE \\ \\
 v = \sqrt{ ag }
 \end{gather*}
 $$
-Substituting into Centripetal Force:
-$$
-\begin{gather*}
-\frac{mv^{2}}{r} = T + mg \\ \\
-\frac{m(ag)}{a} = T + mg \\ \\
-T = 
-\end{gather*}
-$$
+
 # Example 2
 Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
 
