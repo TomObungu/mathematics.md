@@ -161,7 +161,7 @@ QED
 $$
 
 ## Example 2 Continued...
-Find the magnitude and direction of the particle when it is at rest. 
+Find the magnitude and direction  of the particle's acceleration when it is at rest. 
 
 When a particle is at rest, its velocity $v$ is at 0. Therefore we also know that $v^{2}$ will also be equal to 0. Equating $v^{2}$ to 0 gives us:
 $$
