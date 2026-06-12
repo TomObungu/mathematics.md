@@ -103,7 +103,7 @@ Determine whether the particle P performs a full circular revolution around the 
 
 For this problem you need to consider the forcing acting on the particle when it is as the top most vertical region of the circle. 
 
-For questions like this the particle will continue its circular path if, the velocity, $v$, is greater than $0$ at the top. 
+For questions like this the particle will continue its circular path if, the tension, T is greater than $0$ at the top. To do this you must also find the velocity and substitute it into the equation for tension. 
 ![[Pasted image 20260227162927.png]]
 You can again use conservation of energy to calculate the velocity at the top by considering the energy at the bottom of the circle and at the top:
 $$
@@ -115,7 +115,14 @@ KE = KE + GPE \\ \\
 v = \sqrt{ ag }
 \end{gather*}
 $$
-
+Substituting into Centripetal Force:
+$$
+\begin{gather*}
+\frac{mv^{2}}{r} = T + mg \\ \\
+\frac{m(ag)}{a} = T + mg \\ \\
+T = 
+\end{gather*}
+$$
 # Example 2
 Consider a light rod of length $a$. The rod has a particle $P$ of mass $m$ attached to one end and the other end attached to a fixed point that allows pivotal rotation. The particle is projected downwards initially at speed $\sqrt{ \frac{3}{2}ag }$.  
 
