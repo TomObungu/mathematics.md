@@ -95,3 +95,13 @@ $$
 T = \frac{2\pi}{4} =\frac{1}{2}\pi
 $$
 
+## Example 1 Continued... 
+Find the time during one complete oscillation for which $P$ is more than 0.3m from O. 
+
+For this question, we must use the trigonometric equations of motion for the particle. As the particle is released from maximum displacement. We will use the equation of motion. $x = A\cos\omega t$. This gives the equation of motion of the particle to be:
+$$
+0.4\cos 4t
+$$
+To find the the time during which P is 0.3 from O, we must find the times at which the graph of $x=0.4\cos 4t$, intersects with the line equation $y = 0.3$:
+![[Pasted image 20260613092155.png]]
+
