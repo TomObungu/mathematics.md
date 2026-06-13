@@ -158,4 +158,6 @@ T = \frac{2\pi}{5} - 4 \times 0.1855 = 0.515
 $$
 
 # Strings
-With a spring, the particle perform complete oscillation as the spring can compress as well as extend. with a string, it only moves wit
+With a spring, the particle perform complete oscillation as the spring can compress as well as extend. With a string, it only moves with SHM whilst the string is taut. Once the string foes slack, it moves at constant velocity, assuming a smooth surface. 
+
+P(0.6) rests on a smooth horionztal surface. It is attached to an elastic string of nautral length $0.8m$ and modulus $16N$, the other end of which attached to a fixed point $A$. The string extended to 
