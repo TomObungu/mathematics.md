@@ -23,3 +23,10 @@ P is moved towards $B$, then released. Show that $P$ moves with SHM about $O$.
 By forming another diagram, it possible to see that particle now has an amplitude of $x$ from equilibrium position. 
 ![[Pasted image 20260613105224.png]]
 
+The resultant force on the particle will be the differences in the tensions of the strings. With this information we can set up an equation for SHM:
+$$
+\begin{gather*}
+0.5\ddot{x} = T_{B} - T_{A} \\ \\
+\end{gather*}
+$$
+
