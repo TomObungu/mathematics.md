@@ -61,5 +61,37 @@ The particle is now displaced to position $x_{0}$ from $O$, then released. Origi
 
 Forming an equation of motion for the particle:
 $$
-
+\begin{gather*}
+m\ddot{x} = -T \\ 
+\ddot{x} = -\frac{\lambda x}{l} \\ \\ 
+\ddot{x} = -\frac{\lambda x}{ml}
+\end{gather*}
 $$
+This is in the form $\ddot{x} = -\omega^{2}x$, where $\omega = \sqrt{ \frac{\lambda}{ml} }$. The particle mass with moves with SHM about $O$. The particle oscillates with amplitude $a=x_{0}$. Hence:
+$$
+x = x_{0}\cos \sqrt{ \frac{\lambda}{ml}t }
+$$
+
+# Example 1
+Particle P is attached to one end of an elastic spring of natural length $1.5m$ and modulus $12N$. P rests on a smooth horizontal surface and the other end of the spring is attached to a point $A$ on the same surface. The spring is extended to a length of $1.9m$, the released. 
+
+Show that $P$ oscillates with SHM about its equilibrium position and state its period. 
+
+Diagrammatically this can be represented as:
+![[Pasted image 20260613091350.png]]
+In the diagram, acceleration is defined acceleration in the positive right direction. 
+
+From this, we can form an equation for SHM:
+$$
+\begin{gather*}
+\frac{1}{2} \ddot{x} = - T \\ \\ 
+\ddot{x} = -\frac{12x}{1.5} \ \\
+\ddot{x} = -16 \\ \\
+\therefore \omega = 4
+\end{gather*}
+$$
+Thus the period can be found using $T = \frac{2\pi}{\omega}$:
+$$
+T = \frac{2\pi}{4} =\frac{1}{2}\pi
+$$
+
