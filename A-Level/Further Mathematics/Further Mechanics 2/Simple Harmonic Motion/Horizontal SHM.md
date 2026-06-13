@@ -139,5 +139,9 @@ a_{max} = a\omega^{2} = 0.5 \times 25 = 12.5 ms ^{-1}
 $$
 (c) For part, c as the particle has been released from maximum displacement, the equation of it's motion can be given by:
 $$
-x = 
+\begin{gather*}
+x = 0.5\cos 5t  \\ \
+\dot{x} = -2.5\sin 5t
+\end{gather*}
 $$
+![[Pasted image 20260613094935.png]]
