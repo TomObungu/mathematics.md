@@ -170,4 +170,23 @@ $$
 
 (c) Find the time taken for the particle to return to its stationary position, from when it is released. 
 
-For this question, referring back to the diagram is useful. You must first use the equation
+For this question, referring back to the diagram is useful. You must first use the equation of motion for particle and equate this to when the displacement is $-0.75$. This is to calculate the time taken for the particle to cause the string to become slack:
+$$
+\begin{gather*}
+1.5\cos \sqrt{ \frac{4g}{3} }t = -0.75 \\ \\
+\cos \sqrt{ \frac{4g}{3} }t = -0.5 \\ \\
+t = \frac{\pi}{\sqrt{ 3g }}
+\end{gather*}
+$$
+
+We must then calculate the time the particle is freely under gravity after it moves past the string being slack. This is possible through s.u.v.a.t or conservation of energy. 
+$$
+\begin{gather*}
+s = vt = \frac{1}{2}at^{2} \\ \\
+1.125 = \frac{g}{2}t^{2} \implies t = \sqrt{ \frac{9}{4g}  } = \frac{3}{2\sqrt{ g }}
+\end{gather*} 
+$$
+The total time take for a round trip of reach the point at which the string is slack and its maximum height and back is two times the sum of the times:
+$$
+\text{Total time} = 2\left[ \frac{\pi}{\sqrt{ 3g } } + \frac{3}{2\sqrt{ g }} \right]
+$$
