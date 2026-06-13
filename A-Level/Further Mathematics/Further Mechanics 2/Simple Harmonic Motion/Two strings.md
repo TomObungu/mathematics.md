@@ -48,6 +48,7 @@ A and B are 4m apart of a smooth horizontal surface. A light elastic string, $l=
 (a) Show that $P$ moves with SHM about C
 (b) Find the taken from when P is released to when it first moving with speed $2ms ^{-1}$
 
+The most important step in these problems is setting up an accurate diagram. From the diagram it is possible to determine the configuration of the tensions in each string:
+![[Pasted image 20260613182352.png]]
 
-
-
+From the diagram we can the set up an equation from the equilibriums of the tensions of the strings:
