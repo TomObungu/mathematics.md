@@ -145,3 +145,14 @@ x = 0.5\cos 5t  \\ \
 \end{gather*}
 $$
 ![[Pasted image 20260613094935.png]]
+
+$$
+\begin{gather*}
+-2.5\sin 5t = -2  \\ \\
+t = 0.1855 \\ \\
+\end{gather*}
+$$
+Thus the total time during a complete oscillation in which the particle is above 2 is the period minus the 4 multiplied by the time above $2$ meters:
+$$
+T = \frac{2\pi}{5} - 4 \times 0.1855 = 0.515
+$$
