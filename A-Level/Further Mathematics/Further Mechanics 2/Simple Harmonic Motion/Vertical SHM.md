@@ -111,3 +111,61 @@ T = 2\pi \sqrt{ \frac{l}{3g} } - 4\left( \frac{\pi}{6} \right)\sqrt{ \frac{l}{3g
 = \frac{4}{3}\pi \sqrt{ \frac{l}{3g} }
 \end{gather*}
 $$
+# Strings
+Consider the scenario:
+![[Pasted image 20260613194608.png]]
+
+An elastic string has natural length $l$.  The extension is $\frac{3}{2}l$. The particle is displaced to $l$ below equilibrium, then released. 
+
+The particle moves with SHM about the equilibrium position with amplitude $l$.
+
+At it highest point, the string still has extension $\frac{l}{2}$ so remains taut. 
+Hence, the particle performs complete oscillations. 
+
+In vertical SHM, a particle will perform complete oscillation if the amplitude is less than the extension at equilibrium and hence the string is taut. 
+
+If the amplitude is greater than the extension at equilibrium, the particle will move with SHM while the string remains taut. 
+
+When the string reaches its natural length, its goes slack and the particle moves freely under gravity until the string goes taut again. 
+
+# Example 3
+A light elastic string of natural length $1.5m$ and modulus of elasticity $4g$, has one end attached to a fixed point, $A$. A $2kg$ particle is attached to the other end moved to position $B$, vertically below $A$, with $AB = 3.75$, then released.
+
+Show that particle moves with SHm about its equilibrium and state its period 
+
+Firstly set up a diagram for the system. Afterwards find the equilibrium extension, then set up an equation for $F=ma$ using $x_0$:
+![[Pasted image 20260613195345.png]]
+1. Finding equilibrium extension:
+ $$
+\frac{4ge}{1.5} = 2g \implies e = 0.75
+$$
+2. Setting up an equation for $F=ma$ to prove SHM:
+3. $$
+\begin{gather*}
+2\ddot{x} = 2g - \frac{4g(x + 0.75)}{1.5} \\ \\
+2\ddot{ x} = 2g -\frac{4gx}{1.5} - \frac{4g(0.75)}{1.5} \\ \\
+2\ddot{x} = 2g - \frac{4gx}{1.5} -2g \\ \\ 
+\ddot{x} =\frac{2gx}{1.5}x
+\end{gather*}
+$$
+Thus the particle is in SHM with $\omega = \sqrt{ \frac{4g}{3} }$.  Thus, the period of oscillation can be calculated to be:
+$$
+T = 2\pi \sqrt{ \frac{3}{4g} }
+$$
+
+## Example 3 Continued... 
+(b) The particle first comes to instantaneous rest at $C$. Find the distance BC.
+
+For this problem the height can be found using conservation of energy. This through equation elastic potential energy when released from the bottom of the string to the gravitational potential energy gained when the particle first comes to rest.
+
+Recall from the diagram that the total extension of the particle is length it was pulled down to, plus its extension from equilibrium position. This is 1.5 + 0. 75 = 2.25:
+$$
+\begin{gather*}
+E_{\text{start}} = E_{\text{end}} \\ 
+EPE = GPE \\ 
+\frac{4g(2.25)^{2}}{2l} = 2gh \\ \\
+h = 3.375
+\end{gather*}
+$$
+
+(c) Find the time taken for the particle to return to its stationary position, from when it is released. 
