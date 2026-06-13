@@ -41,3 +41,11 @@ $$
 \end{gather*}
 $$
 This in the form $\ddot{x} = -\omega^{2}x$. Thus the particle moves in SHM
+
+## Example 2
+A and B are 4m apart of a smooth horizontal surface. A light elastic string, $l=0.8m$, $\lambda = 15n$ has one end attached to $A$. Another string $l=0.8$, has one end attached at $B$. Particle $P$ of $0.2kg$ is attached to the free end of each string. The particle rests in equilibrium at point $C$. It is then held at $D$, where $AD = 2.16m$ and released. 
+
+(a) Show that $P$ moves with SHM about C
+(b) Find the taken from when P is released to when it first moving with speed $2ms ^{-1}$
+
+
