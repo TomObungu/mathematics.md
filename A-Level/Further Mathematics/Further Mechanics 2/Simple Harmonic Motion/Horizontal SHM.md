@@ -175,9 +175,15 @@ $$
 $$
 
 ### Example 1 continued
-Find the speed of $P$ when the string returns to its natural length. 
+(b) Find the speed of $P$ when the string returns to its natural length. 
 
 Recall that the the maximum velocity occurs when it returns to equilibrium position and that the maximum velocity is given by $v_{max} = a\omega$.
 
+$$
+v_{max} = a\omega = 0.4 \sqrt{ \frac{100}{3} } = \frac{4\sqrt{ 3 }}{3}
+$$
 
 
+(c) Find the time taken from when the string goes slack to when it becomes taut again. 
+
+We know that the particle oves at $v=\frac{4\sqrt{ 3 }}{3}$ when slack. 
