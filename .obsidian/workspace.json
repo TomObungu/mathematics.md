@@ -208,8 +208,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
+        "x": 194,
+        "y": 145,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -217,8 +217,9 @@
       }
     ]
   },
-  "active": "3f3036d38dd4b0de",
+  "active": "9d159ef3e979b994",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/Two strings.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/attachments/Pasted image 20260613105224.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/attachments/Pasted image 20260613104653.png",

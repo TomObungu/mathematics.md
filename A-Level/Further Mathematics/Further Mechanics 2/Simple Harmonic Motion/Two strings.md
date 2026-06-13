@@ -30,3 +30,14 @@ $$
 \end{gather*}
 $$
 
+For the tension in the string $T_{A}$, the extension from equilibrium position is 5 + x minus the natural length of the stirng. For the tension and of string at $B$, the tension is 3 - x  minus it natural length. Which this tensions, we can form an equation force for the system:
+$$
+\begin{gather*}
+0.5\ddot{x} = T_{B} - T_{A}  \\ \\
+\ddot{x} = \frac{30(3-x-2)}{2} - \frac{10(5+x-2)}{2} \\ \\
+\ddot{x} = 30(1-x) - 10(3 + x) \\ \\
+\ddot{x} = 30 - 30x - 30 - 10x  \\ \\
+\ddot{x} = -40x
+\end{gather*}
+$$
+This in the form $\ddot{x} = -\omega^{2}x$. Thus the particle moves in SHM
