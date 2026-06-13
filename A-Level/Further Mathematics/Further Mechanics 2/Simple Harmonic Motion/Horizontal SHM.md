@@ -115,3 +115,29 @@ Thus by symmetry, $T = 4 \times 0.1807 = 0.723$.
 # Example 2
 A light elastic spring of natural length $2$ and modulus $15N$, lies on a smooth horizontal surface. One end is attached to a particle $P$ of mass $0.3kg$ and the other to a fixed point $A$. The spring is extended to $2.5$m then released. 
 
+a) Show that $P$ moves with SHM and state its period
+b) State the maximum speed and maximum acceleration of $P$. 
+c) Find the during a complete oscillation for which the speed of $P$ is greater than $2ms ^{-1}$.
+
+(a) Drawing a diagram for part a:
+![[Pasted image 20260613093809.png]]
+$$
+\begin{gather*}
+0.3 \ddot{x} = -T \\ \\
+0.3\ddot{x} = -\frac{15}{2} x \\ \\
+\ddot{x} = -25x 
+\end{gather*}
+$$
+Therefore it is in the form $\ddot{x} = -\omega^{2}x$, thus the particle is in SHM with $T = \frac{2\pi}{5}$.
+
+(b) For part b, recall that $a\omega = V_{max}$ and that $a_{max} = \omega^{2}$ :
+$$
+\begin{gather*}
+v_{max} = a\omega = 0.5 \times 5 = 2.5 ms ^{-1} \\ \\
+a_{max} = a\omega^{2} = 0.5 \times 25 = 12.5 ms ^{-1}
+\end{gather*}
+$$
+(c) For part, c as the particle has been released from maximum displacement, the equation of it's motion can be given by:
+$$
+x = 
+$$
