@@ -156,3 +156,6 @@ Thus the total time during a complete oscillation in which the particle is above
 $$
 T = \frac{2\pi}{5} - 4 \times 0.1855 = 0.515
 $$
+
+# Strings
+With a spring, the particle perform complete oscillation as the spring can compress as well as extend. with a string, it only moves wit
