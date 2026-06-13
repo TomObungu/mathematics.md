@@ -195,8 +195,28 @@ $$
 
 (d) Find the taken from when P is released to when it returns to its stationary point.
 
-P performs four quater cycles of SHM, plus the costant velociity in the middle. 
+P performs four quarter cycles of SHM, plus the constant velocity in the middle. 
 
 $$
 \text{Total time} = \frac{2\pi}{\sqrt{ \frac{100}{3} }} + 2\left( \frac{2\sqrt{ 3 }}{5} \right) = 2.47s
 $$
+
+# Example 4
+P(0.8kg) rests on a smooth horizontal surface. It attached on an elastic string, natural length $1.6m$, modulus $20N$ the other end of which is attached to fixed point $A$. The string is extended to 2.6m then released. Find the time for P to return to its stationary point. 
+
+Drawing out a diagram gives:
+![[Pasted image 20260613102713.png]]
+
+Firstly proving the particle is in SHM and finding $\omega$
+$$
+\begin{gather*}
+0.8\ddot{x} = -\frac{20}{1.6}x \\ \\
+\ddot{x} = -\frac{125}{8}x \implies \omega = \sqrt{ \frac{125}{8} }\\ \\
+\therefore v_{max} = \sqrt{ \frac{125}{8} }
+\end{gather*}
+$$
+For the particle for to be taut again, it will require two rounds of the natural length of the string. This gives a length of $3.2$, in which the total time can be calculated from $s=\frac{d}{t}$:
+$$
+t = \frac{3.2}{\sqrt{ \frac{125}{8} }} = 0.8095
+$$
+Thus the total time taken for the particle to return to its stationary point. 
