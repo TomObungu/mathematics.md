@@ -1,1 +1,1 @@
-We 
+We can have full oscillations with elastic strings if there are two strings attached to the particle, on on each side, or if the particle is attached to a point along a string that is stretched between. 
