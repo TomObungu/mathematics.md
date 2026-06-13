@@ -2,9 +2,9 @@ It is possible to solve dynamic problems with variable forces by knowing the equ
 
 Resistive forces will be negative. 
 # Example 1
-A 2k particle moves along the positive x axis in the direction of x increasing. It has velocity $v$  at the time $t$. It is displaced $x$ meters from the origin $O$. It experiences a resistive force of magntiude $3v^{2}$. 
+A 2kg particle moves along the positive x axis in the direction of x increasing. It has velocity $v$  at the time $t$. It is displaced $x$ meters from the origin $O$. It experiences a resistive force of magnitude $3v^{2}$. 
 
-FInd the distance, $D$, the particle travels as its velocity decreases from $10ms ^{-1}$ to $8ms ^{-1}$. 
+Find the distance, $D$, the particle travels as its velocity decreases from $10ms ^{-1}$ to $8ms ^{-1}$. 
 
 For these questions, you need to form an appropriate $F=ma$ equation. As we given $x$, we use the acceleration in the form $a = v \frac{dv}{dx}$ and $m$ as given which is $2kg$:
 
@@ -38,8 +38,33 @@ $$
 \begin{gather*}
 5 \frac{dv}{dt} = 5g -2v \\ \\
 5\int \frac{dv}{5g - 2v} = \int dt \\ \\
--\frac{5}{2}\ln| 5g - 2v| = t + c \
+-\frac{5}{2}\ln| 5g - 2v| = t + c \\ \\
 
+
+\text{Finding c :} \\ \\
+v(0) = 0 \implies c = -\frac{5}{2}\ln(5g) \\ \\
+\therefore -\frac{5}{2}\ln|5g - 2v| + \frac{5}{2}\ln(5g) = t
 \end{gather*}
 $$
- 
+From this point forward, we can rearrange to find $v$:
+$$
+\begin{gather*}
+t = \frac{5}{2}\ln\left( \frac{5g}{5g-2v}  \right) \\ \\ 
+e^{ \frac{2}{5}t} = \frac{5g}{5g-2v} \\ \\
+5g-2v = 5ge^{- \frac{2}{5}t} \\ \\
+2v = 5g -5ge^{-\frac{2}{5}t} \\ \\
+v = \frac{5}{2}g\left(  1 - e^{ -\frac{2}{5}t} \right)
+\end{gather*} 
+
+$$
+## Example 2 continued...
+Show that the distance ,$D$, that the ball falls as the the speed increases from $g$ to $2g$ is :
+$$
+\begin{gather*}
+D = \frac{5}{2}g\left[ \frac{5}{2}\ln 3 - 1 \right] \\ \\
+\end{gather*}
+$$
+For this problem use $a = \frac{vdv}{dx}$:
+$$
+
+$$
