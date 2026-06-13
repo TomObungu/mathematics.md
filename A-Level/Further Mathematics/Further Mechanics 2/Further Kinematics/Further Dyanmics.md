@@ -66,5 +66,8 @@ D = \frac{5}{2}g\left[ \frac{5}{2}\ln 3 - 1 \right] \\ \\
 $$
 For this problem use $a = \frac{vdv}{dx}$:
 $$
+\begin{gather*}
+5v \frac{dv}{dx} = 5g -2v  \\ \\
 
+\end{gather*}
 $$
