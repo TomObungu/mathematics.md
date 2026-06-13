@@ -169,3 +169,5 @@ h = 3.375
 $$
 
 (c) Find the time taken for the particle to return to its stationary position, from when it is released. 
+
+For this question, referring back to the diagram is useful. You must first use the equation
