@@ -68,6 +68,41 @@ For this problem use $a = \frac{vdv}{dx}$:
 $$
 \begin{gather*}
 5v \frac{dv}{dx} = 5g -2v  \\ \\
-
+\int \frac{5v}{5g - 2v} dv \ = \int dx \\ \\
+\int 1 - \frac{5g}{5g - 2v}dv = D \\ \\
+-\frac{5}{2} \left[  v + \frac{5g}{2}\ln|5g-2v| \right]_{g}^{2g} = D  \\ \\
+-\frac{5}{2}\left[ (2g+ 5g\ln g )-\left( g + \frac{5g}{2}\ln(3g) \right) \right] = D \\ \\
+D = -\frac{5}{2}\left[ g + \frac{5g}{2}\ln\left(  \frac{1}{3} \right) \right] \\ \\
+D = \frac{5}{2}g\left[  \frac{5}{2}\ln (3) - 1 \right]
 \end{gather*}
+$$
+
+# Example 3
+A girl 50kg rollerblading along a straight horizontal promenade. She working at a constant rate of 150W and experiences a resistive force of magnitude $2v^{2}$.  Find the distance she travels as her speed increses from $1ms ^{-1}$ to $4ms ^{-1}$. 
+
+$$
+\begin{gather*}
+50v \frac{dv}{dx} = \frac{150}{v} -2v^{2}  \\ \\
+50\int \frac{v^{2}}{150-2v^{3}} dv = \int_{0}^{D} dx \\ \\
+-\frac{50}{6}[\ln|150-2v^{3}|]_{1}^{4} = D \\ \\
+-\frac{25}{3}[\ln 22 - \ln 148] = D \\ \
+\therefore D = \frac{25}{3} \ln \left(  \frac{74}{11} \right)
+\end{gather*}
+$$
+
+# Example 4
+A $750kg$ car drives a long straight horizontal road. Its engine is working at $2000W$ and it experiences a resistive force of magntiude $5v$. 
+
+Find the distance it travels as its speed increases from $15ms ^{-1}$ to $18ms ^{-1}$.
+
+$$
+\begin{gather*}
+750v \frac{dv}{dx} = \frac{2000}{v} - 5v \\  \\
+750 \int \frac{v^{2}}{2000-5v^{2}} dv = \int dx \\ \\
+-\frac{750}{5} \int_{15}^{18} \frac{400-v^{2}-400}{400-v^{2}}dv = D \\ \\
+-150 \int_{15}^{18} 1-\frac{400}{400-v^{2}} dv = D \\ \\
+-150 \left[ v - \frac{400}{2(20)}\ln| \frac{20+v}{20-v} \right]_{15}^{18} = D \\ \\
+D = 1500\ln\left( \frac{19}{7} \right) - 450
+\end{gather*}
+
 $$
