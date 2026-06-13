@@ -187,3 +187,16 @@ $$
 (c) Find the time taken from when the string goes slack to when it becomes taut again. 
 
 We know that the particle moves at $v=\frac{4\sqrt{ 3 }}{3}$ when slack.  The total distance until is taut again is when it has travelled two round of the natural length is another $2 (0.8) = 1.6m$. 
+
+From $s = \frac{d}{t}$
+$$
+t = \frac{1.6}{\frac{4\sqrt{ 3 }}{3}} = \frac{2\sqrt{ 3 }}{5}
+$$
+
+(d) Find the taken from when P is released to when it returns to its stationary point.
+
+P performs four quater cycles of SHM, plus the costant velociity in the middle. 
+
+$$
+\text{Total time} = \frac{2\pi}{\sqrt{ \frac{100}{3} }} + 2\left( \frac{2\sqrt{ 3 }}{5} \right) = 2.47s
+$$
