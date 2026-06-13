@@ -1,0 +1,1 @@
+The heliocentric model of the solar system was prop
