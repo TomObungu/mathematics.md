@@ -186,4 +186,4 @@ $$
 
 (c) Find the time taken from when the string goes slack to when it becomes taut again. 
 
-We know that the particle oves at $v=\frac{4\sqrt{ 3 }}{3}$ when slack. 
+We know that the particle moves at $v=\frac{4\sqrt{ 3 }}{3}$ when slack.  The total distance until is taut again is when it has travelled two round of the natural length is another $2 (0.8) = 1.6m$. 
