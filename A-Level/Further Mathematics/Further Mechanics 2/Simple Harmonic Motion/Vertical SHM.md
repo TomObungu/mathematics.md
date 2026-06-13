@@ -40,7 +40,7 @@ A light elastic string has natural length $l$ and modulus 3mg. A particle $P$ of
 
 a) Show that P moves with SHM with period $2\pi \sqrt{ \frac{l}{3g} }$
 b) Find the maximum kinetic energy of $P$
-c) Find the time during one full osicalltion for which the speed of $P$ is more than half its maximum natural length. 
+c) Find the time during one full osicalltion for which the speed of $P$ is more than half its maximum.
 
 For spring/string style SHM questions that ask about showing that the particle moves in SHM, the questions always start with finding the equilibrium position particle then considering the $F=ma$ equation with  additional extension moved by the particle as a variable of extension $x_{0}$:
 
@@ -76,4 +76,38 @@ T = \frac{2\pi}{\omega} = \frac{2\pi}{\sqrt{ \frac{3g}{l} }} \\ \\
 = 2\pi \sqrt{ \frac{l}{3g} }
 \end{gather*}
 $$
-b) For the second part of this question, recall that $v_{max}=a\omega$. As the value of $x_{0}$ from the question was given as an additional extension of $\frac{l}{3}$, in this question we take $a$ to be $\frac{l}{3}$/
+b) For the second part of this question, recall that $v_{max}=a\omega$. As the value of $x_{0}$ from the question was given as an additional extension of $\frac{l}{3}$, in this question we take $a$ to be $\frac{l}{3}$ 
+$$
+v_{max} = a\omega = \frac{l}{3}\sqrt{ \frac{3g}{l} } \sqrt{ \frac{gl}{3} }
+$$
+The maximum kinetic energy occurs when the velocity is at at $v_{max}$, thus we can substitute $v_{max}$ into an the equation for kinetic energy:
+$$
+KE_{max} = \frac{1}{2}m\left( \sqrt{ \frac{gl}{3} } \right)^{2} = \frac{mgl}{6}
+$$
+
+c) For this part of the question, as the particle is released from maximum displacement, the equation of motion is modelled as:
+$$
+x = \frac{l}{3}\cos \sqrt{ \frac{3g}{l} }t
+$$
+In order to find the velocity, we must differentiate:
+$$
+\begin{gather*}
+\dot{x} = - \frac{l}{3}\sqrt{ \frac{3g}{l} } \sin \sqrt{ \frac{3g}{l} }t \\ \\ 
+\dot{x} = -\sqrt{  \frac{gl}{3} }\sin \sqrt{ \frac{3g}{l} t }
+\end{gather*}
+$$
+From this, diagram the graph of motion and find the intersection between the $\dot{x}$ and  $\frac{1}{2}\sqrt{ \frac{gl}{3} }$:
+![[Pasted image 20260613192950.png]]
+$$
+\begin{gather*}
+-\sqrt{ \frac{gl}{3} }\sin \sqrt{ \frac{3g}{l}t }  = -\frac{1}{2}\sqrt{ \frac{gl}{3} } \\ \\
+\sqrt{ \frac{3g}{l} }t = \frac{\pi}{6} \therefore t = \frac{\pi}{6} \sqrt{ \frac{l}{3g} }
+\end{gather*}
+$$
+Thus, the total time the velocity is greater than half its maximum velocity can be calculated by symmetry:
+$$
+\begin{gather*}
+T = 2\pi \sqrt{ \frac{l}{3g} } - 4\left( \frac{\pi}{6} \right)\sqrt{ \frac{l}{3g} } \\ \\ 
+= \frac{4}{3}\pi \sqrt{ \frac{l}{3g} }
+\end{gather*}
+$$
