@@ -48,7 +48,52 @@ A and B are 4m apart of a smooth horizontal surface. A light elastic string, $l=
 (a) Show that $P$ moves with SHM about C
 (b) Find the taken from when P is released to when it first moving with speed $2ms ^{-1}$
 
+The first step in this problem is to determine the extension of the particle when it is in equilibrium. 
+
 The most important step in these problems is setting up an accurate diagram. From the diagram it is possible to determine the configuration of the tensions in each string:
 ![[Pasted image 20260613182352.png]]
 
-From the diagram we can the set up an equation from the equilibriums of the tensions of the strings:
+From the diagram we can the set up an equation from the equilibrium equation of the tensions of the strings. 
+
+$$
+\begin{gather*}
+T_{A} = T_{B} \\ \\ 
+\frac{15(x - 0.8)}{0.8} = \frac{10(4-x-0.8)}{0.8} \\ \\
+15x - 12 = 32 - 10x \\ \\ 
+24x = 44 \\ \\
+x = 1.76m
+\end{gather*}
+$$
+
+We are told that particle is then stretched another $0.4$ meters to $2.16m$ and released. We can treat this extension as variable $x_{0}$ and set up an equation of $F=ma$ with tensions with the new $x$ position:
+![[Pasted image 20260613183401.png]]
+
+$$
+\begin{gather*}
+F =ma \implies 0.2a = T_{B} - T_{A} \\ \\
+0.2\ddot{x} = \frac{10(2.24 - x_{0} - 0.8)}{0.8} - \frac{15(1.76+x_{0}-0.8)}{0.8} \\ \\
+\ddot{x} = 62.5(1.44 - x_{0}) - 93.75(0.96 + x_{0}) \\ \\
+\ddot{x} = -\frac{625}{4}x_{0}
+\end{gather*}
+$$
+This is in the form $\ddot{x} = -\omega^{2}x$, thus the particle is in SHM.
+
+b) The second part of the question involves another trigonometric equation of motion. However, this time we must differentiate to get the velocity of the particle.
+
+The equation of motion of the particle can be given by:
+$$
+\begin{gather*}
+x = 0.4\cos \frac{25}{2}t \\ \\
+\dot{x} = -5\sin \frac{25}{2}t
+\end{gather*}
+$$
+
+![[Pasted image 20260613183904.png]]
+
+From the graph we can find the moment the velocity is magnitude is $2$, this occurs when $x=-2$:
+$$
+\begin{gather*}
+-5\sin \frac{25}{2}t = -2  \\ \\
+t = 0.0335
+\end{gather*}
+$$
