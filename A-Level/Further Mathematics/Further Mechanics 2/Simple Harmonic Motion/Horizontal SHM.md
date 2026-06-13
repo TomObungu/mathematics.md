@@ -160,4 +160,24 @@ $$
 # Strings
 With a spring, the particle perform complete oscillation as the spring can compress as well as extend. With a string, it only moves with SHM whilst the string is taut. Once the string foes slack, it moves at constant velocity, assuming a smooth surface. 
 
-P(0.6) rests on a smooth horionztal surface. It is attached to an elastic string of nautral length $0.8m$ and modulus $16N$, the other end of which attached to a fixed point $A$. The string extended to 
+
+## Example 1
+P(0.6) rests on a smooth horionztal surface. It is attached to an elastic string of nautral length $0.8m$ and modulus $16N$, the other end of which attached to a fixed point $A$. The string extended to A. The string is extended to $1.2m$, the released. 
+
+Show that $P$ moves with SHm while the string is taut. 
+![[Pasted image 20260613100408.png]]
+
+$$
+\begin{gather*}
+0.6\ddot{x} = -\frac{16}{0.8}x \\ \\
+\ddot{x} = -\frac{100}{3}x
+\end{gather*}
+$$
+
+### Example 1 continued
+Find the speed of $P$ when the string returns to its natural length. 
+
+Recall that the the maximum velocity occurs when it returns to equilibrium position and that the maximum velocity is given by $v_{max} = a\omega$.
+
+
+
