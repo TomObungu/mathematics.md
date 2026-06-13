@@ -219,4 +219,7 @@ For the particle for to be taut again, it will require two rounds of the natural
 $$
 t = \frac{3.2}{\sqrt{ \frac{125}{8} }} = 0.8095
 $$
-Thus the total time taken for the particle to return to its stationary point. 
+Thus the total time taken for the particle to return to its stationary point is a complete period of oscillation plus two times the total time taken:
+$$
+T = 2\pi
+$$
