@@ -104,4 +104,14 @@ $$
 $$
 To find the the time during which P is 0.3 from O, we must find the times at which the graph of $x=0.4\cos 4t$, intersects with the line equation $y = 0.3$:
 ![[Pasted image 20260613092155.png]]
+$$
+\begin{gather*}
+0.4\cos 4t  = 0.3 \\ \\
+\cos 4t = \frac{3}{4} \implies t = 0.1807 
+\end{gather*}
+$$
+Thus by symmetry, $T = 4 \times 0.1807 = 0.723$.
+
+# Example 2
+A light elastic spring of natural length $2$ and modulus $15N$, lies on a smooth horizontal surface. One end is attached to a particle $P$ of mass $0.3kg$ and the other to a fixed point $A$. The spring is extended to $2.5$m then released. 
 
