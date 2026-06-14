@@ -75,4 +75,4 @@ F = ma \\ \\
 mv \frac{dv}{dx} = -\frac{mgR^{2}}{x^{2} } 
 \end{gather*}
 $$
-The limits for displacement will be from $R$ to $\frac{4}{3}R$. As well as that the limits for speed will be $from$
+For this question we are performing indefinite integration as we are not given the original lift off speed. 
