@@ -64,3 +64,7 @@ Thus U can be rearranged to be found:
 $$
 U = \sqrt{ \frac{19gR}{12} }
 $$
+A particle $P$, mass $m$, is fired vertically upwards from the surface of the Earth. When $P$ is at a height of $\frac{R}{3}$ above the surface of the Earth, it moving from the Earth with speed $\sqrt{ \frac{2gR}{3} }$. 
+
+Find, in terms of $R$ the greatest height revealed by $P$ above the Earth's surface. 
+
