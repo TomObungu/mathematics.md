@@ -64,7 +64,9 @@ Thus U can be rearranged to be found:
 $$
 U = \sqrt{ \frac{19gR}{12} }
 $$
-A particle $P$, mass $m$, is fired vertically upwards from the surface of the Earth. When $P$ is at a height of $\frac{R}{3}$ above the surface of the Earth, it moving from the Earth with speed $\sqrt{ \frac{2gR}{3} }$. 
+## Example 3
+
+A particle $P$, mass $m$, is fired vertically upwards from the surface of the Earth. When $P$ is at a height of $\frac{R}{3}$ above the surface of the Earth, it moving from the Earth with speed $\sqrt{ \frac{2gR}{5} }$. 
 
 Find, in terms of $R$ the greatest height revealed by $P$ above the Earth's surface. 
 
@@ -75,4 +77,37 @@ F = ma \\ \\
 mv \frac{dv}{dx} = -\frac{mgR^{2}}{x^{2} } 
 \end{gather*}
 $$
-For this question we are performing indefinite integration as we are not given the original lift off speed. 
+For this question we are performing indefinite integration as we are not given the original lift off speed i.e we are only given $3$ limits. 
+
+$$
+\begin{gather*}
+\int vdv = -gR^{2}\int \frac{1}{x^{2}}dx \\ \\
+\frac{1}{2}v^{2} = \frac{gR^{2}}{x }+c \\ \\
+\end{gather*}
+$$
+Instead we must use the constraints given in the question as boundary conditions to find $c$:
+$$
+\begin{gather*}
+v\left( \frac{4}{3}R \right) = \sqrt{ \frac{2gR}{5} } \\ \\
+\frac{1}{2}\left( \sqrt{ \frac{2gR}{5} } \right)^{2} = \frac{gR^{2}}{\frac{4}{3}R} + c  \\ \\
+c = -\frac{11}{20}gR \\ \\ 
+\end{gather*}
+$$
+Therefore:
+$$
+\begin{gather*}
+\frac{1}{2}v^{2} = \frac{gR^{2}}{x} -\frac{11}{20}gR
+\end{gather*}
+$$
+Since $v=0$, when $x$ is at a maximum:
+$$
+\begin{gather*}
+0 = \frac{gR^{2}}{x} - \frac{11}{20}gR \\ \\
+\frac{gR^{2}}{x} = \frac{11}{20}gR \\ \\
+x = \frac{20R}{11}
+\end{gather*}
+$$
+Thus the total height above the surface of the earth is $x-R$:
+$$
+\text{Height above the surface} = \frac{20R}{11} -1 = \frac{9}{11}R
+$$
