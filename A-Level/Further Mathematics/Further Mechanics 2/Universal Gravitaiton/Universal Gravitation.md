@@ -68,3 +68,11 @@ A particle $P$, mass $m$, is fired vertically upwards from the surface of the Ea
 
 Find, in terms of $R$ the greatest height revealed by $P$ above the Earth's surface. 
 
+For this problem we must find $v(x)$ and now that $v(x) = 0$, when $x$ is at a maximum. $v(x)$ can be found using further Dynamics again with $a$ as $\frac{vdv}{dx}$:
+$$
+\begin{gather*}
+F = ma \\ \\
+mv \frac{dv}{dx} = -\frac{mgR^{2}}{x^{2} } 
+\end{gather*}
+$$
+The limits for displacement will be from $R$ to $\frac{4}{3}R$. As well as that the limits for speed will be $from$
