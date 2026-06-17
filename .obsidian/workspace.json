@@ -180,47 +180,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "895f8728fb77de23",
-    "type": "floating",
-    "children": [
-      {
-        "id": "67d002d7ddca5977",
-        "type": "window",
-        "children": [
-          {
-            "id": "58cd89cea7e6aab4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f3036d38dd4b0de",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2025-10-24 15.14.08.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 194,
-        "y": 145,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9266ad77065ef601",
+  "active": "9d159ef3e979b994",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
     "Excalidraw/Drawing 2025-10-24 15.14.08.excalidraw.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Vertical Circular Motion.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Objects Not Constrained In Circular Paths.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Uniform Circular Motion Formulae.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/Horizontal Circular Motion.md",
