@@ -103,7 +103,7 @@ Determine whether the particle P performs a full circular revolution around the 
 
 For this problem you need to consider the forcing acting on the particle when it is as the top most vertical region of the circle. 
 
-For questions like this the particle will continue its circular path if, the tension, velocity is greater than $0$ at the top. This is the case when a the particle is attached to a light and rigid rod. More cases will be handled in [[Objects Not Constrained In Circular Paths]]
+For questions like this the particle will continue its circular path if, velocity is greater than $0$ at the top. This is the case when a the particle is attached to a light and rigid rod. More cases will be handled in [[Objects Not Constrained In Circular Paths]]
 ![[Pasted image 20260227162927.png]]
 You can again use conservation of energy to calculate the velocity at the top by considering the energy at the bottom of the circle and at the top:
 $$
