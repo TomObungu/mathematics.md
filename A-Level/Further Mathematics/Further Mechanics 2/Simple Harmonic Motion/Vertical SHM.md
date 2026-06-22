@@ -36,11 +36,11 @@ $$
 This is in the form $\ddot{x} = -\omega^{2}x$, thus the particle is in SHM.
 
 # Example 1
-A light elastic string has natural length $l$ and modulus 3mg. A particle $P$ of mass m is attched to one of the spring. The other is attached to a fixed point $A$. Point B is vertically below with $AB = \frac{5}{3}l$. P is released from rest at $B$. 
+A light elastic string has natural length $l$ and modulus 3mg. A particle $P$ of mass m is attached to one end of the spring. The other is attached to a fixed point $A$. Point B is vertically below with $AB = \frac{5}{3}l$. P is released from rest at $B$. 
 
 a) Show that P moves with SHM with period $2\pi \sqrt{ \frac{l}{3g} }$
 b) Find the maximum kinetic energy of $P$
-c) Find the time during one full osicalltion for which the speed of $P$ is more than half its maximum.
+c) Find the time during one full oscillation for which the speed of $P$ is more than half its maximum.
 
 For spring/string style SHM questions that ask about showing that the particle moves in SHM, the questions always start with finding the equilibrium position particle then considering the $F=ma$ equation with  additional extension moved by the particle as a variable of extension $x_{0}$:
 
