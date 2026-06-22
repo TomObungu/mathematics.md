@@ -78,7 +78,7 @@ T = \frac{2\pi}{\omega} = \frac{2\pi}{\sqrt{ \frac{3g}{l} }} \\ \\
 $$
 b) For the second part of this question, recall that $v_{max}=a\omega$. As the value of $x_{0}$ from the question was given as an additional extension of $\frac{l}{3}$, in this question we take $a$ to be $\frac{l}{3}$ 
 $$
-v_{max} = a\omega = \frac{l}{3}\sqrt{ \frac{3g}{l} } \sqrt{ \frac{gl}{3} }
+v_{max} = a\omega = \frac{l}{3}\sqrt{ \frac{3g}{l} } = \sqrt{ \frac{gl}{3} }
 $$
 The maximum kinetic energy occurs when the velocity is at at $v_{max}$, thus we can substitute $v_{max}$ into an the equation for kinetic energy:
 $$
