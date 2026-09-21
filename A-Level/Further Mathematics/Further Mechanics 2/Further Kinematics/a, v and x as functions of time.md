@@ -41,4 +41,3 @@ $$
 $$
 Through all of this, we formed a differential equation where the two variables were the desired variable and the limits i.e 'find the distance, $x$, between the limits, $t$ led us to use $\frac{dx}{dt}$ in our DE.'
 
- 
