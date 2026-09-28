@@ -1,4 +1,4 @@
-Consider $z\in \mathbb{C},|z|=r,arg(z)=0$.  
+aConsider $z\in \mathbb{C},|z|=r,arg(z)=0$.  
 ![[Pasted image 20251118095401.png]]
 We know that the coordinate $z$ can composed from the horizontal and vertical components $r\cos\theta$ and $ri\sin\theta$. Therefore:
 modulus argument form is written as:
