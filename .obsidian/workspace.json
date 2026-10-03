@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8e4f5d98f035e4d3",
+        "id": "9cb28db3146f42cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9d159ef3e979b994",
+            "id": "7b43ccf55102c679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. The lamina is freely suspended form A and hangs in equilibrium with AB at angle an theta to the downward vertical. Find the value of theta..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Q. The lamina is freely suspended form A and hangs in equilibrium with AB at angle an theta to the downward vertical. Find the value of theta."
-            }
-          },
-          {
-            "id": "964cad6f4c14ce50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Complex Numbers/Finding remaining complex roots using roots of unity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finding remaining complex roots using roots of unity"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,8 +178,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "964cad6f4c14ce50",
+  "active": "7b43ccf55102c679",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Finding remaining complex roots using roots of unity.md",
+    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. The lamina is freely suspended form A and hangs in equilibrium with AB at angle an theta to the downward vertical. Find the value of theta..md",
+    "Untitled.md",
+    "Personal",
+    "Archive",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Roots not centred on the origin.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Raising Roots to the n-th power.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Finding remaining vertices.md",
@@ -211,10 +197,10 @@
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Differentiating inverse trigonometric functions.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/The mean value of a function.md",
     "A-Level/Mathematics/Binomial Expansion.md",
-    "Mathematical Problem Solving/Senior Mathematical Chellenge/Preparation.md",
-    "Mathematical Problem Solving/Senior Mathematical Chellenge/2020 Upsolve Stream.md",
-    "Mathematical Problem Solving/Senior Mathematical Chellenge/2015 Upsolve Stream.md",
-    "Mathematical Problem Solving/Senior Mathematical Chellenge/2021 Upsolve Stream.md",
+    "Archive/Mathematical Problem Solving/Senior Mathematical Chellenge/Preparation.md",
+    "Archive/Mathematical Problem Solving/Senior Mathematical Chellenge/2020 Upsolve Stream.md",
+    "Archive/Mathematical Problem Solving/Senior Mathematical Chellenge/2015 Upsolve Stream.md",
+    "Archive/Mathematical Problem Solving/Senior Mathematical Chellenge/2021 Upsolve Stream.md",
     "A-Level/Further Mathematics/Core Pure/Vectors/Distances between Planes.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/Q. Given that the particle does not slide across the surface of the disc, find the maximum possible value of omega.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/Q. Show that BR = 3 by 4 l. Find in terms of m and g, the tension in the string..md",
@@ -222,9 +208,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/Q. Find in terms of a and g, the greatest possible value of.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/Horizontal SHM.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 2.md",
-    "A-Level/Further Mathematics/Core Pure/Series/Method Of Differences with Telescoping Series.md",
-    "A-Level/Further Mathematics/Core Pure/Series/Rewriting the same Sum as a sum with a different limit plus the value of f(r).md",
-    "A-Level/Further Mathematics/Core Pure/Series/Squaring the sum of r  is equal to the sum of r cubed.md",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/corrected questions",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/attachments/Pasted image 20260621081534.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/attachments/Pasted image 20260621080947.png",
@@ -243,8 +226,6 @@
     "A-Level/Further Mathematics/Further Mechanics 2/Untitled",
     "A-Level/Resources/Edexcel AS and A level Further Mathematics Core Pure -- Various Authors -- A level Maths and Further Maths 2017, 2017 -- Pearson Education Limited.pdf",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Untitled",
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions/attachments",
-    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions",
     "A-Level/Further Mathematics/Core Pure/Series/Untitled.canvas",
     "Untitled.canvas"
   ]
