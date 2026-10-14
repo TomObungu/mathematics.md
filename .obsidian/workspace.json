@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
+                "file": "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tangents to polar curves"
+              "title": "2-D Elastic Collisions 3"
+            }
+          },
+          {
+            "id": "683c705c794d72b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-D Elastic Collisions 1"
+            }
+          },
+          {
+            "id": "bbb320a2b8800d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-Level/Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Elastic Strings and Springs"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,36 +211,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b43ccf55102c679",
+  "active": "bbb320a2b8800d79",
   "lastOpenFiles": [
-    "A-Level/Further Mathematics/Core Pure/Matrices/Proof of Inverse Matrix Identities.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Exponential (Polar) Form.md",
-    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Sketching Curves.md",
-    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Series Proof By Induction.md",
-    "A-Level/Further Mathematics/Core Pure/Hyperbolic Functions/Inverse Hyperbolic Functions.md",
-    "A-Level/Further Mathematics/Core Pure/Proof By Induction/Matrix Proof by Induction.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Matrix Multiplication.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Inverting a 3 x 3 matrix.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/Inverting a 2 x 2 matrix.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Modulus And Argument.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Roots Of Unity.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Roots not centred on the origin.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Raising Roots to the n-th power.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Finding remaining vertices.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Particle P reached maximum speed at point B. The resistance to the motion P is again a constant force of 1 by 4 mg. Find distance OB.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Show that mu >= 1 by 3 tan theta.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Find distance of the particle below the cieling when it is in equilibrium..md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 2.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Oblique Collisions with Spheres 1.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/Tips to approach a question.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. The angle between motion P and wall is 1 by 2 alpha. Find the value of alpha.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that magnitude is mu sec alpha. Find in m, u and e only, the KE lost by P in impact.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the full range of possible values of e.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan(1 by 2 alpha) = 1 by 3.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the size of the angle through which the direction of motion of A is turned as a result of the collision.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the exact value of cos theta.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. By considering angle APQ + angle AQp, show that it would be possible for the ball to return to A if e2>e1.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan beta = ((m+M)tan alpha) by (m - eM).md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 3.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 2.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/De Moivre's Theorem.md",
     "A-Level/Further Mathematics/Core Pure/Complex Numbers/Complex Geometric Series.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Finding remaining complex roots using roots of unity.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/Q. The lamina is freely suspended form A and hangs in equilibrium with AB at angle an theta to the downward vertical. Find the value of theta..md",
-    "Untitled.md",
-    "Personal",
-    "Archive",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Loci.md",
-    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Invariant points and Invariant lines.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. A colony of small mammals is being studied.md",
-    "A-Level/Further Mathematics/Core Pure/Matrices/corrected questions/Q. Given a matrix square, find a and b.md",
-    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating partial fractions.md",
+    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating completing the square using inverse trigonometry.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating inverse trigonometric functions.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Differentiating inverse trigonometric functions.md",
     "A-Level/Further Mathematics/Core Pure/Methods In Calculus/The mean value of a function.md",
+    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Improper Integrals.md",
+    "Personal",
+    "Archive",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/corrected questions",
     "A-Level/Further Mathematics/Further Mechanics 2/Circular Motion/corrected questions/attachments/Pasted image 20260621081534.png",
     "A-Level/Further Mathematics/Further Mechanics 2/Centres Of Mass/corrected questions/attachments/Pasted image 20260621080947.png",
