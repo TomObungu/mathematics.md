@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-Level/Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
+                "file": "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q. Stone with speed sqrt(2gh) moving under gravity, Find W"
+              "title": "Roots of a quadratic equation"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QED",
+                "query": "pairs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,6 +213,14 @@
   },
   "active": "bbb320a2b8800d79",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Expressions relating to the roots of a polynomial.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Linear transformations of roots.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quadratic equation.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions/Q. The cubic equation ax cubed + bx squared - 19x - b = 0.md",
+    "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a cubic equation.md",
+    "A-Level/Further Mathematics/Core Pure/Matrices/Determining if a linear system is Consistent Or Inconsistent.md",
+    "A-Level/Further Mathematics/Further Mechanics 1/Work Energy Power/corrected questions/Q. Stone with speed sqrt(2gh) moving under gravity, Find W.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Elastic Potential Energy.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/Dynamic Elastic Strings and Springs.md",
     "A-Level/Further Mathematics/Further Mechanics 1/Elastics Springs and Strings/corrected questions/Q. Particle P reached maximum speed at point B. The resistance to the motion P is again a constant force of 1 by 4 mg. Find distance OB.md",
@@ -231,14 +239,6 @@
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Find the values of e when vectors are used.md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/Q. Show that tan beta = ((m+M)tan alpha) by (m - eM).md",
     "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/corrected questions/attachments/Q. Show that the direction of motion of A turns through an angle equal to arctan(((1+e)tan alpha) by (2tan alpha sqaured + 1 - e)).md",
-    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 3.md",
-    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 1.md",
-    "A-Level/Further Mathematics/Further Mechanics 1/2D Elastic Collisions/2-D Elastic Collisions 2.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/De Moivre's Theorem.md",
-    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Complex Geometric Series.md",
-    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating completing the square using inverse trigonometry.md",
-    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Integrating inverse trigonometric functions.md",
-    "A-Level/Further Mathematics/Core Pure/Methods In Calculus/Differentiating inverse trigonometric functions.md",
     "Personal",
     "Archive",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/corrected questions",
