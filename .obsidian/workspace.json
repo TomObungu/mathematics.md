@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 200
   },
   "right": {
     "id": "145ffa3efdec3ed8",
@@ -211,7 +211,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7504e1836e7feb25",
+  "active": "bbb320a2b8800d79",
   "lastOpenFiles": [
     "Personal 1",
     "A-Level/Further Mathematics/Core Pure/Proof By Induction/Matrix Proof by Induction.md",
