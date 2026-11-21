@@ -11,14 +11,12 @@
             "id": "bbb320a2b8800d79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "A-Level/Further Mathematics/Core Pure/Linear Transformations/Invariant points and Invariant lines.md",
-                "mode": "source",
-                "source": false
+                "file": "A-Level/Further Mathematics/Core Pure/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Invariant points and Invariant lines"
+              "icon": "lucide-file-text",
+              "title": "Customised Problem Sheet - Linear Transformations"
             }
           }
         ]
@@ -184,14 +182,19 @@
   },
   "active": "bbb320a2b8800d79",
   "lastOpenFiles": [
+    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Roots Of Unity.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Nth roots Of Complex Numbers.md",
+    "A-Level/Further Mathematics/Core Pure/Complex Numbers/Roots of polynomials.md",
+    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Polar Coordinates and equations.md",
+    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.pdf",
+    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Linear Transformations in Two Dimensions.md",
     "A-Level/Further Mathematics/Core Pure/Linear Transformations/Linear Transformations in Three Dimensions.md",
     "A-Level/Further Mathematics/Core Pure/Linear Transformations/Invariant points and Invariant lines.md",
     "A-Level/Further Mathematics/Core Pure/Linear Transformations/corrected questions/Q. That one Question 8 from the fm test.md",
     "A-Level/Further Mathematics/Core Pure/Linear Transformations/corrected questions/Q. That one Question 7 from the first ever FM test.md",
     "A-Level/Further Mathematics/Core Pure/Linear Transformations/corrected questions/Q. Determine Equations of Invariant lines of M.md",
     "A-Level/Further Mathematics/Core Pure/Linear Transformations/corrected questions/Q. Given distance A'B' is sqrt(58), determine values of a.md",
-    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.md",
-    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Worksheets/Customised Problem Sheet - Linear Transformations.pdf",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/corrected questions/Q. The cubic equation ax cubed + bx squared - 19x - b = 0.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Expressions relating to the roots of a polynomial.md",
     "A-Level/Further Mathematics/Core Pure/Roots Of Polynomials/Roots of a quartic equation.md",
@@ -205,13 +208,8 @@
     "Personal 1",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Area enclosed by a polar curves.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Tangents to polar curves.md",
-    "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Polar Coordinates and equations.md",
     "A-Level/Further Mathematics/Core Pure/Polar Coordinates/Sketching Curves.md",
     "A-Level/Further Mathematics/Core Pure/Differential Equations/Second Order Non-Homogeneous differential equations.md",
-    "A-Level/Further Mathematics/Core Pure/Differential Equations/Driven Oscillations.md",
-    "A-Level/Further Mathematics/Core Pure/Linear Transformations/Linear Transformations in Two Dimensions.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Universal Gravitaiton/Universal Gravitation.md",
-    "A-Level/Further Mathematics/Further Mechanics 2/Further Kinematics/corrected questions/Q. Show that t = V by 2g ln( (V+v) by (V-v)) where V squared = mg by k.md",
     "Personal",
     "Archive",
     "A-Level/Further Mathematics/Further Mechanics 2/Simple Harmonic Motion/corrected questions",
